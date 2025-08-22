@@ -1,0 +1,666 @@
+275 80 735 cave_air
+fill 275 80 736 275 80 738 rail[shape=north_south,waterlogged=false]
+275 80 739 cave_air
+275 80 740 rail[shape=north_south,waterlogged=false]
+275 80 741 cave_air
+275 80 742 cave_air
+fill 275 80 759 275 80 767 stone
+fill 276 80 640 276 80 643 stone
+276 80 644 dirt
+fill 276 80 645 276 80 652 stone
+fill 276 80 653 276 80 681 water[level=0]
+fill 276 80 682 276 80 684 stone
+fill 276 80 685 276 80 687 diorite
+276 80 688 copper_ore
+fill 276 80 689 276 80 694 stone
+276 80 695 diorite
+276 80 696 diorite
+fill 276 80 697 276 80 699 gravel
+276 80 700 diorite
+276 80 701 stone
+fill 276 80 702 276 80 704 cave_air
+fill 276 80 705 276 80 712 stone
+276 80 713 cobweb
+276 80 714 cobweb
+276 80 715 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+276 80 716 cobweb
+276 80 717 cobweb
+276 80 718 cave_air
+276 80 719 cobweb
+276 80 720 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+276 80 721 cobweb
+276 80 722 cobweb
+276 80 723 cave_air
+276 80 724 oak_planks
+276 80 725 cave_air
+276 80 726 oak_planks
+fill 276 80 727 276 80 729 cave_air
+276 80 730 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+fill 276 80 731 276 80 742 cave_air
+fill 276 80 757 276 80 767 stone
+fill 277 80 640 277 80 642 stone
+277 80 643 dirt
+277 80 644 dirt
+fill 277 80 645 277 80 654 stone
+fill 277 80 655 277 80 681 water[level=0]
+277 80 682 diorite
+277 80 683 stone
+fill 277 80 686 277 80 688 diorite
+fill 277 80 689 277 80 694 stone
+fill 277 80 695 277 80 697 diorite
+277 80 698 gravel
+277 80 699 gravel
+277 80 700 diorite
+277 80 701 diorite
+277 80 702 cave_air
+fill 277 80 703 277 80 717 stone
+fill 277 80 718 277 80 722 andesite
+277 80 723 stone
+fill 277 80 724 277 80 726 cave_air
+fill 277 80 731 277 80 733 cave_air
+fill 277 80 739 277 80 741 cave_air
+fill 277 80 756 277 80 767 stone
+278 80 640 stone
+278 80 641 stone
+fill 278 80 642 278 80 644 dirt
+fill 278 80 645 278 80 657 stone
+fill 278 80 658 278 80 681 water[level=0]
+278 80 682 diorite
+278 80 683 diorite
+fill 278 80 689 278 80 694 stone
+fill 278 80 695 278 80 701 diorite
+fill 278 80 702 278 80 704 cave_air
+fill 278 80 705 278 80 717 stone
+fill 278 80 718 278 80 721 andesite
+278 80 724 cave_air
+278 80 725 rail[shape=east_west,waterlogged=false]
+278 80 726 cave_air
+fill 278 80 731 278 80 733 cave_air
+fill 278 80 739 278 80 741 cave_air
+fill 278 80 753 278 80 767 stone
+fill 279 80 640 279 80 642 stone
+279 80 643 dirt
+279 80 644 dirt
+fill 279 80 645 279 80 649 stone
+279 80 650 iron_ore
+279 80 651 iron_ore
+fill 279 80 652 279 80 659 stone
+fill 279 80 660 279 80 679 water[level=0]
+279 80 680 bubble_column[drag=true]
+279 80 681 water[level=0]
+279 80 682 diorite
+279 80 693 stone
+279 80 694 stone
+fill 279 80 695 279 80 701 diorite
+279 80 702 cave_air
+279 80 703 cave_air
+fill 279 80 704 279 80 717 stone
+279 80 718 andesite
+279 80 724 cave_air
+279 80 725 rail[shape=east_west,waterlogged=false]
+279 80 726 cave_air
+fill 279 80 731 279 80 733 cave_air
+fill 279 80 739 279 80 741 cave_air
+fill 279 80 752 279 80 767 stone
+fill 280 80 640 280 80 642 stone
+280 80 643 dirt
+fill 280 80 644 280 80 649 stone
+280 80 650 iron_ore
+280 80 651 iron_ore
+fill 280 80 652 280 80 661 stone
+fill 280 80 662 280 80 680 water[level=0]
+280 80 681 diorite
+280 80 682 diorite
+fill 280 80 696 280 80 701 diorite
+fill 280 80 702 280 80 704 cave_air
+fill 280 80 705 280 80 716 stone
+280 80 724 cave_air
+280 80 725 rail[shape=east_west,waterlogged=false]
+280 80 726 cave_air
+fill 280 80 731 280 80 733 cave_air
+fill 280 80 739 280 80 751 cave_air
+fill 280 80 752 280 80 767 stone
+fill 281 80 640 281 80 642 stone
+281 80 643 dirt
+fill 281 80 644 281 80 650 stone
+281 80 651 iron_ore
+fill 281 80 652 281 80 663 stone
+fill 281 80 664 281 80 675 water[level=0]
+fill 281 80 676 281 80 679 dirt
+fill 281 80 680 281 80 682 diorite
+281 80 700 diorite
+281 80 701 diorite
+281 80 702 cobweb
+281 80 703 cave_air
+281 80 704 cave_air
+fill 281 80 705 281 80 711 stone
+281 80 724 cave_air
+281 80 725 rail[shape=east_west,waterlogged=false]
+281 80 726 cave_air
+fill 281 80 731 281 80 733 cave_air
+fill 281 80 739 281 80 741 cave_air
+fill 281 80 742 281 80 745 rail[shape=north_south,waterlogged=false]
+281 80 746 cave_air
+281 80 747 cave_air
+281 80 748 rail[shape=north_south,waterlogged=false]
+281 80 749 cave_air
+281 80 750 cave_air
+281 80 751 rail[shape=north_south,waterlogged=false]
+fill 281 80 752 281 80 767 stone
+fill 282 80 640 282 80 664 stone
+fill 282 80 665 282 80 671 water[level=0]
+fill 282 80 672 282 80 678 dirt
+282 80 679 diorite
+282 80 682 diorite
+282 80 703 cave_air
+282 80 704 cave_air
+fill 282 80 724 282 80 726 cave_air
+fill 282 80 739 282 80 751 cave_air
+fill 282 80 752 282 80 766 stone
+282 80 767 copper_ore
+fill 283 80 640 283 80 665 stone
+fill 283 80 666 283 80 671 water[level=0]
+283 80 672 dirt
+283 80 703 cave_air
+283 80 724 cave_air
+283 80 725 rail[shape=east_west,waterlogged=false]
+283 80 726 cave_air
+fill 283 80 739 283 80 741 cave_air
+fill 283 80 742 283 80 758 stone
+283 80 759 water[level=2]
+283 80 760 water[level=1]
+283 80 761 water[level=8]
+fill 283 80 762 283 80 767 stone
+284 80 640 stone
+284 80 641 stone
+fill 284 80 642 284 80 644 stone
+284 80 645 iron_ore
+fill 284 80 646 284 80 665 stone
+284 80 666 diorite
+284 80 667 diorite
+fill 284 80 668 284 80 670 water[level=0]
+284 80 671 stone
+284 80 672 stone
+fill 284 80 702 284 80 704 cave_air
+284 80 724 cave_air
+284 80 725 rail[shape=east_west,waterlogged=false]
+284 80 726 cave_air
+284 80 737 stone
+284 80 738 stone
+fill 284 80 739 284 80 741 cave_air
+fill 284 80 742 284 80 757 stone
+284 80 758 water[level=6]
+284 80 759 oak_planks
+284 80 760 water[level=2]
+284 80 761 oak_planks
+284 80 762 water[level=6]
+fill 284 80 763 284 80 767 stone
+fill 285 80 640 285 80 644 stone
+285 80 645 iron_ore
+fill 285 80 646 285 80 669 stone
+285 80 670 water[level=0]
+285 80 671 stone
+285 80 672 stone
+fill 285 80 702 285 80 704 cave_air
+fill 285 80 724 285 80 726 cave_air
+fill 285 80 733 285 80 738 stone
+fill 285 80 739 285 80 741 cave_air
+fill 285 80 742 285 80 757 stone
+285 80 758 water[level=5]
+285 80 759 water[level=4]
+285 80 760 water[level=3]
+285 80 761 water[level=4]
+285 80 762 water[level=5]
+285 80 763 copper_ore
+fill 285 80 764 285 80 767 stone
+fill 286 80 640 286 80 652 stone
+fill 286 80 653 286 80 661 granite
+fill 286 80 662 286 80 671 stone
+286 80 702 cave_air
+286 80 703 cave_air
+fill 286 80 724 286 80 726 cave_air
+286 80 727 andesite
+fill 286 80 728 286 80 738 stone
+fill 286 80 739 286 80 741 cave_air
+fill 286 80 742 286 80 757 stone
+286 80 758 water[level=6]
+286 80 759 oak_planks
+286 80 760 water[level=4]
+286 80 761 oak_planks
+286 80 762 water[level=6]
+286 80 763 copper_ore
+fill 286 80 764 286 80 767 stone
+fill 287 80 640 287 80 650 stone
+fill 287 80 651 287 80 664 granite
+fill 287 80 665 287 80 671 stone
+287 80 702 cave_air
+287 80 703 cave_air
+287 80 724 cave_air
+287 80 725 rail[shape=east_west,waterlogged=false]
+287 80 726 cave_air
+fill 287 80 728 287 80 738 stone
+fill 287 80 739 287 80 741 cave_air
+fill 287 80 742 287 80 758 stone
+287 80 759 water[level=6]
+287 80 760 water[level=5]
+287 80 761 water[level=6]
+287 80 762 copper_ore
+287 80 763 copper_ore
+fill 287 80 764 287 80 767 stone
+fill 288 80 640 288 80 650 stone
+fill 288 80 651 288 80 667 granite
+fill 288 80 668 288 80 672 stone
+fill 288 80 702 288 80 728 cave_air
+fill 288 80 729 288 80 738 stone
+fill 288 80 739 288 80 741 cave_air
+fill 288 80 742 288 80 750 stone
+fill 288 80 751 288 80 753 cave_air
+fill 288 80 754 288 80 761 stone
+288 80 762 copper_ore
+fill 288 80 763 288 80 767 stone
+fill 289 80 640 289 80 650 stone
+fill 289 80 651 289 80 668 granite
+fill 289 80 669 289 80 674 stone
+fill 289 80 702 289 80 729 cave_air
+fill 289 80 730 289 80 738 stone
+fill 289 80 739 289 80 741 cave_air
+289 80 742 copper_ore
+fill 289 80 743 289 80 750 stone
+289 80 751 cave_air
+289 80 752 rail[shape=east_west,waterlogged=false]
+289 80 753 cave_air
+fill 289 80 754 289 80 767 stone
+fill 290 80 640 290 80 650 stone
+fill 290 80 651 290 80 668 granite
+fill 290 80 669 290 80 677 stone
+290 80 692 glow_lichen[down=false,east=true,north=false,south=false,up=false,waterlogged=false,west=false]
+290 80 693 glow_lichen[down=false,east=true,north=false,south=false,up=false,waterlogged=false,west=false]
+fill 290 80 702 290 80 730 cave_air
+fill 290 80 731 290 80 738 stone
+290 80 739 glow_lichen[down=false,east=false,north=true,south=false,up=false,waterlogged=false,west=false]
+290 80 740 cave_air
+290 80 741 cave_air
+290 80 742 dirt
+290 80 743 dirt
+fill 290 80 744 290 80 750 stone
+fill 290 80 751 290 80 753 cave_air
+fill 290 80 754 290 80 767 stone
+fill 291 80 640 291 80 645 stone
+291 80 646 dirt
+fill 291 80 647 291 80 650 stone
+fill 291 80 651 291 80 663 granite
+291 80 664 iron_ore
+291 80 665 iron_ore
+fill 291 80 666 291 80 668 granite
+fill 291 80 669 291 80 675 stone
+291 80 676 copper_ore
+291 80 677 copper_ore
+291 80 678 stone
+291 80 679 stone
+fill 291 80 692 291 80 702 stone
+fill 291 80 710 291 80 712 cave_air
+fill 291 80 715 291 80 717 cave_air
+fill 291 80 723 291 80 731 cave_air
+fill 291 80 732 291 80 738 stone
+fill 291 80 739 291 80 741 cave_air
+fill 291 80 742 291 80 746 dirt
+fill 291 80 747 291 80 750 stone
+291 80 751 cave_air
+291 80 752 rail[shape=east_west,waterlogged=false]
+291 80 753 cave_air
+fill 291 80 754 291 80 767 stone
+fill 292 80 640 292 80 644 stone
+fill 292 80 645 292 80 647 dirt
+fill 292 80 648 292 80 652 stone
+fill 292 80 653 292 80 663 granite
+292 80 664 iron_ore
+292 80 665 iron_ore
+292 80 666 granite
+292 80 667 granite
+fill 292 80 668 292 80 674 stone
+fill 292 80 675 292 80 677 copper_ore
+fill 292 80 678 292 80 709 stone
+fill 292 80 710 292 80 712 cave_air
+fill 292 80 715 292 80 717 cave_air
+fill 292 80 719 292 80 721 cave_air
+fill 292 80 723 292 80 731 cave_air
+fill 292 80 732 292 80 740 stone
+fill 292 80 741 292 80 747 dirt
+fill 292 80 748 292 80 750 stone
+292 80 751 cave_air
+292 80 752 rail[shape=east_west,waterlogged=false]
+292 80 753 cave_air
+fill 292 80 754 292 80 767 stone
+fill 293 80 640 293 80 644 stone
+fill 293 80 645 293 80 648 dirt
+fill 293 80 649 293 80 657 stone
+fill 293 80 658 293 80 664 granite
+fill 293 80 665 293 80 708 stone
+293 80 709 dirt
+fill 293 80 710 293 80 712 cave_air
+293 80 713 dirt
+293 80 714 dirt
+fill 293 80 715 293 80 717 cave_air
+fill 293 80 719 293 80 731 cave_air
+fill 293 80 732 293 80 741 stone
+fill 293 80 742 293 80 747 dirt
+293 80 748 cave_air
+293 80 749 rail[shape=east_west,waterlogged=false]
+293 80 750 cave_air
+293 80 751 cave_air
+293 80 752 rail[shape=east_west,waterlogged=false]
+293 80 753 cave_air
+fill 293 80 754 293 80 767 stone
+fill 294 80 640 294 80 644 stone
+fill 294 80 645 294 80 648 dirt
+fill 294 80 649 294 80 657 stone
+294 80 658 gold_ore
+294 80 659 gold_ore
+fill 294 80 660 294 80 664 water[level=0]
+fill 294 80 665 294 80 708 stone
+294 80 709 dirt
+fill 294 80 710 294 80 712 cave_air
+294 80 713 dirt
+294 80 714 stone
+fill 294 80 715 294 80 717 cave_air
+fill 294 80 719 294 80 731 cave_air
+fill 294 80 732 294 80 747 stone
+294 80 748 cave_air
+294 80 749 rail[shape=east_west,waterlogged=false]
+294 80 750 cave_air
+294 80 751 cave_air
+294 80 752 rail[shape=east_west,waterlogged=false]
+294 80 753 cave_air
+fill 294 80 754 294 80 767 stone
+fill 295 80 640 295 80 644 stone
+fill 295 80 645 295 80 648 dirt
+fill 295 80 649 295 80 659 stone
+fill 295 80 660 295 80 665 stone
+fill 295 80 666 295 80 668 andesite
+fill 295 80 669 295 80 707 stone
+295 80 708 dirt
+295 80 709 dirt
+fill 295 80 710 295 80 712 cave_air
+295 80 713 dirt
+295 80 714 andesite
+fill 295 80 715 295 80 717 cave_air
+fill 295 80 719 295 80 731 cave_air
+fill 295 80 732 295 80 747 stone
+295 80 748 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+295 80 749 rail[shape=east_west,waterlogged=false]
+295 80 750 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+fill 295 80 751 295 80 753 cave_air
+fill 295 80 754 295 80 767 stone
+fill 296 80 640 296 80 644 stone
+fill 296 80 645 296 80 648 dirt
+fill 296 80 649 296 80 665 stone
+296 80 666 gold_ore
+296 80 667 gold_ore
+fill 296 80 668 296 80 670 andesite
+fill 296 80 671 296 80 707 stone
+296 80 708 dirt
+296 80 709 dirt
+fill 296 80 710 296 80 712 cave_air
+296 80 713 andesite
+296 80 714 andesite
+fill 296 80 715 296 80 717 cave_air
+fill 296 80 719 296 80 721 cave_air
+fill 296 80 723 296 80 731 cave_air
+fill 296 80 732 296 80 747 stone
+fill 296 80 748 296 80 751 cave_air
+296 80 752 rail[shape=east_west,waterlogged=false]
+296 80 753 cave_air
+fill 296 80 754 296 80 767 stone
+fill 297 80 640 297 80 644 stone
+fill 297 80 645 297 80 648 dirt
+fill 297 80 649 297 80 665 stone
+297 80 666 gold_ore
+297 80 667 gold_ore
+fill 297 80 668 297 80 672 andesite
+fill 297 80 673 297 80 698 stone
+297 80 699 andesite
+297 80 700 andesite
+fill 297 80 701 297 80 707 stone
+297 80 708 dirt
+297 80 709 dirt
+fill 297 80 710 297 80 712 cave_air
+297 80 713 andesite
+297 80 714 andesite
+fill 297 80 715 297 80 717 cave_air
+297 80 718 andesite
+fill 297 80 719 297 80 721 cave_air
+fill 297 80 723 297 80 731 cave_air
+fill 297 80 732 297 80 747 stone
+297 80 748 cave_air
+297 80 749 rail[shape=east_west,waterlogged=false]
+297 80 750 cave_air
+297 80 751 cave_air
+297 80 752 rail[shape=east_west,waterlogged=false]
+297 80 753 cave_air
+fill 297 80 754 297 80 767 stone
+fill 298 80 640 298 80 645 stone
+298 80 646 dirt
+298 80 647 dirt
+fill 298 80 648 298 80 665 stone
+298 80 666 lapis_ore
+fill 298 80 667 298 80 673 andesite
+fill 298 80 674 298 80 682 stone
+298 80 683 iron_ore
+fill 298 80 684 298 80 698 stone
+fill 298 80 699 298 80 701 andesite
+fill 298 80 702 298 80 708 stone
+298 80 709 andesite
+fill 298 80 710 298 80 712 cave_air
+298 80 713 andesite
+298 80 714 andesite
+fill 298 80 715 298 80 717 cave_air
+298 80 718 andesite
+fill 298 80 719 298 80 721 cave_air
+298 80 722 stone
+298 80 723 stone
+fill 298 80 724 298 80 730 cave_air
+fill 298 80 731 298 80 739 stone
+298 80 740 iron_ore
+298 80 741 iron_ore
+fill 298 80 742 298 80 750 stone
+298 80 751 cave_air
+298 80 752 rail[shape=east_west,waterlogged=false]
+298 80 753 cave_air
+fill 298 80 754 298 80 767 stone
+fill 299 80 640 299 80 645 stone
+fill 299 80 646 299 80 648 dirt
+fill 299 80 649 299 80 666 stone
+fill 299 80 667 299 80 673 andesite
+fill 299 80 674 299 80 698 stone
+299 80 699 andesite
+fill 299 80 700 299 80 712 cave_air
+299 80 713 andesite
+299 80 714 andesite
+fill 299 80 715 299 80 717 cave_air
+299 80 718 andesite
+fill 299 80 719 299 80 721 cave_air
+fill 299 80 722 299 80 724 stone
+fill 299 80 725 299 80 729 cave_air
+299 80 730 dirt
+fill 299 80 731 299 80 739 stone
+299 80 740 iron_ore
+299 80 741 iron_ore
+fill 299 80 742 299 80 746 stone
+299 80 747 dirt
+fill 299 80 748 299 80 750 stone
+299 80 751 cave_air
+299 80 752 rail[shape=east_west,waterlogged=false]
+299 80 753 cave_air
+fill 299 80 754 299 80 764 stone
+fill 299 80 765 299 80 767 granite
+fill 300 80 640 300 80 644 stone
+300 80 645 iron_ore
+300 80 646 iron_ore
+fill 300 80 647 300 80 663 stone
+fill 300 80 664 300 80 674 andesite
+fill 300 80 675 300 80 698 stone
+300 80 699 andesite
+fill 300 80 700 300 80 712 cave_air
+300 80 713 andesite
+300 80 714 andesite
+fill 300 80 715 300 80 717 cave_air
+300 80 718 andesite
+fill 300 80 719 300 80 721 cave_air
+fill 300 80 722 300 80 738 stone
+300 80 739 diorite
+300 80 740 diorite
+fill 300 80 741 300 80 743 stone
+fill 300 80 744 300 80 747 dirt
+300 80 748 stone
+300 80 749 stone
+300 80 750 iron_ore
+300 80 751 cave_air
+300 80 752 rail[shape=east_west,waterlogged=false]
+300 80 753 cave_air
+fill 300 80 754 300 80 764 stone
+fill 300 80 765 300 80 767 granite
+fill 301 80 640 301 80 644 stone
+301 80 645 iron_ore
+301 80 646 iron_ore
+fill 301 80 647 301 80 661 stone
+fill 301 80 662 301 80 674 andesite
+fill 301 80 675 301 80 698 stone
+301 80 699 andesite
+fill 301 80 700 301 80 712 cave_air
+301 80 713 andesite
+301 80 714 andesite
+fill 301 80 715 301 80 717 cave_air
+301 80 718 andesite
+fill 301 80 719 301 80 721 cave_air
+301 80 722 stone
+301 80 723 stone
+301 80 724 dirt
+fill 301 80 725 301 80 731 stone
+301 80 732 gravel
+301 80 733 gravel
+301 80 734 stone
+301 80 735 stone
+fill 301 80 736 301 80 743 diorite
+fill 301 80 744 301 80 750 stone
+301 80 751 cave_air
+301 80 752 rail[shape=east_west,waterlogged=false]
+301 80 753 cave_air
+301 80 754 stone
+301 80 755 iron_ore
+fill 301 80 756 301 80 764 stone
+fill 301 80 765 301 80 767 granite
+fill 302 80 640 302 80 661 stone
+fill 302 80 662 302 80 675 andesite
+fill 302 80 676 302 80 680 stone
+302 80 681 copper_ore
+302 80 682 copper_ore
+fill 302 80 683 302 80 698 stone
+302 80 699 andesite
+fill 302 80 700 302 80 702 cave_air
+fill 302 80 703 302 80 709 andesite
+fill 302 80 710 302 80 712 cave_air
+302 80 713 andesite
+302 80 714 andesite
+fill 302 80 715 302 80 717 cave_air
+302 80 718 stone
+fill 302 80 719 302 80 721 cave_air
+302 80 722 dirt
+302 80 723 dirt
+fill 302 80 724 302 80 726 cave_air
+fill 302 80 727 302 80 730 stone
+fill 302 80 731 302 80 734 gravel
+fill 302 80 735 302 80 746 diorite
+fill 302 80 747 302 80 750 stone
+302 80 751 cave_air
+302 80 752 rail[shape=east_west,waterlogged=false]
+302 80 753 cave_air
+302 80 754 stone
+302 80 755 stone
+302 80 756 iron_ore
+fill 302 80 757 302 80 764 stone
+fill 302 80 765 302 80 767 granite
+fill 303 80 640 303 80 656 stone
+303 80 657 granite
+303 80 658 granite
+fill 303 80 659 303 80 661 stone
+fill 303 80 662 303 80 676 andesite
+fill 303 80 677 303 80 679 stone
+fill 303 80 680 303 80 682 copper_ore
+fill 303 80 683 303 80 698 stone
+303 80 699 iron_ore
+fill 303 80 700 303 80 702 cave_air
+fill 303 80 703 303 80 708 andesite
+303 80 709 stone
+fill 303 80 710 303 80 712 cave_air
+303 80 713 andesite
+303 80 714 stone
+fill 303 80 715 303 80 723 cave_air
+303 80 724 oak_planks
+303 80 725 cave_air
+303 80 726 oak_planks
+fill 303 80 727 303 80 729 cave_air
+303 80 730 oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+fill 303 80 731 303 80 734 cave_air
+303 80 735 oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+fill 303 80 736 303 80 739 cave_air
+303 80 740 oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+fill 303 80 741 303 80 744 cave_air
+303 80 745 oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+fill 303 80 746 303 80 749 cave_air
+303 80 750 oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+fill 303 80 751 303 80 754 cave_air
+303 80 755 oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+fill 303 80 756 303 80 759 cave_air
+303 80 760 oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+303 80 761 cave_air
+303 80 762 cave_air
+fill 303 80 763 303 80 767 stone
+fill 304 80 640 304 80 655 stone
+fill 304 80 656 304 80 658 granite
+fill 304 80 659 304 80 661 stone
+fill 304 80 662 304 80 677 andesite
+fill 304 80 678 304 80 698 stone
+304 80 699 andesite
+fill 304 80 700 304 80 702 cave_air
+fill 304 80 703 304 80 706 andesite
+fill 304 80 707 304 80 709 stone
+fill 304 80 710 304 80 712 cave_air
+304 80 713 stone
+304 80 714 stone
+fill 304 80 715 304 80 762 cave_air
+fill 304 80 763 304 80 767 stone
+fill 305 80 640 305 80 655 stone
+fill 305 80 656 305 80 658 granite
+fill 305 80 659 305 80 662 stone
+fill 305 80 663 305 80 678 andesite
+305 80 679 stone
+fill 305 80 680 305 80 686 cave_air
+305 80 687 oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+fill 305 80 688 305 80 691 cave_air
+305 80 692 oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+fill 305 80 693 305 80 696 cave_air
+305 80 697 oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+fill 305 80 698 305 80 702 cave_air
+fill 305 80 703 305 80 706 andesite
+fill 305 80 707 305 80 709 stone
+fill 305 80 710 305 80 712 cave_air
+305 80 713 stone
+305 80 714 stone
+fill 305 80 715 305 80 718 cave_air
+305 80 719 oak_planks
+305 80 720 cave_air
+305 80 721 oak_planks
+305 80 722 cave_air
+305 80 723 cave_air
+305 80 724 oak_planks
+305 80 725 cave_air
+305 80 726 oak_planks
+fill 305 80 727 305 80 729 cave_air
+305 80 730 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+fill 305 80 731 305 80 734 cave_air
+305 80 735 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+fill 305 80 736 305 80 739 cave_air
+305 80 740 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+fill 305 80 741 305 80 744 cave_air
+305 80 745 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+fill 305 80 746 305 80 749 cave_air

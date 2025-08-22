@@ -1,0 +1,570 @@
+79 64 802 glow_lichen[down=false,east=true,north=false,south=false,up=false,waterlogged=false,west=false]
+fill 79 64 803 79 64 810 cave_air
+79 64 811 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+79 64 812 cave_air
+79 64 813 cave_air
+79 64 816 pointed_dripstone[thickness=base,vertical_direction=down,waterlogged=false]
+79 64 819 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+fill 79 64 820 79 64 822 granite
+fill 79 64 823 79 64 825 andesite
+fill 79 64 826 79 64 828 dripstone_block
+fill 79 64 829 79 64 833 andesite
+fill 79 64 834 79 64 846 deepslate[axis=y]
+79 64 847 deepslate_redstone_ore[lit=false]
+fill 79 64 848 79 64 853 deepslate[axis=y]
+79 64 854 granite
+79 64 855 granite
+fill 79 64 856 79 64 895 deepslate[axis=y]
+fill 80 64 768 80 64 774 deepslate[axis=y]
+80 64 775 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+80 64 776 cave_air
+80 64 777 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+fill 80 64 778 80 64 782 deepslate[axis=y]
+fill 80 64 783 80 64 788 cave_air
+fill 80 64 789 80 64 795 deepslate[axis=y]
+fill 80 64 796 80 64 798 cave_air
+fill 80 64 799 80 64 802 deepslate[axis=y]
+80 64 804 dripstone_block
+fill 80 64 820 80 64 823 granite
+fill 80 64 824 80 64 827 andesite
+80 64 828 dripstone_block
+fill 80 64 829 80 64 833 andesite
+fill 80 64 834 80 64 851 deepslate[axis=y]
+fill 80 64 852 80 64 855 granite
+fill 80 64 856 80 64 895 deepslate[axis=y]
+81 64 768 deepslate_iron_ore
+fill 81 64 769 81 64 774 deepslate[axis=y]
+fill 81 64 775 81 64 777 cave_air
+fill 81 64 778 81 64 782 deepslate[axis=y]
+fill 81 64 783 81 64 788 cave_air
+fill 81 64 789 81 64 794 deepslate[axis=y]
+81 64 795 deepslate_iron_ore
+81 64 796 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+81 64 797 cave_air
+81 64 798 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+fill 81 64 799 81 64 802 deepslate[axis=y]
+fill 81 64 821 81 64 824 granite
+fill 81 64 825 81 64 827 andesite
+fill 81 64 828 81 64 830 dripstone_block
+81 64 831 andesite
+81 64 832 dripstone_block
+81 64 833 andesite
+81 64 834 andesite
+fill 81 64 835 81 64 851 deepslate[axis=y]
+81 64 855 granite
+81 64 856 granite
+fill 81 64 857 81 64 895 deepslate[axis=y]
+82 64 768 deepslate_iron_ore
+fill 82 64 769 82 64 774 deepslate[axis=y]
+fill 82 64 775 82 64 777 cave_air
+fill 82 64 778 82 64 782 deepslate[axis=y]
+fill 82 64 783 82 64 788 cave_air
+fill 82 64 789 82 64 795 deepslate[axis=y]
+fill 82 64 796 82 64 798 cave_air
+fill 82 64 799 82 64 803 deepslate[axis=y]
+fill 82 64 822 82 64 824 granite
+82 64 825 deepslate[axis=y]
+82 64 826 deepslate[axis=y]
+82 64 827 andesite
+82 64 828 andesite
+fill 82 64 829 82 64 831 dripstone_block
+82 64 832 andesite
+82 64 833 dripstone_block
+82 64 834 andesite
+fill 82 64 835 82 64 850 deepslate[axis=y]
+82 64 856 granite
+82 64 857 granite
+fill 82 64 858 82 64 895 deepslate[axis=y]
+fill 83 64 768 83 64 782 deepslate[axis=y]
+fill 83 64 783 83 64 788 cave_air
+fill 83 64 789 83 64 795 deepslate[axis=y]
+fill 83 64 796 83 64 798 cave_air
+fill 83 64 799 83 64 804 deepslate[axis=y]
+83 64 820 pointed_dripstone[thickness=frustum,vertical_direction=down,waterlogged=false]
+83 64 822 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+83 64 825 dripstone_block
+83 64 826 granite
+83 64 827 deepslate[axis=y]
+83 64 828 deepslate[axis=y]
+fill 83 64 829 83 64 834 dripstone_block
+fill 83 64 835 83 64 850 deepslate[axis=y]
+83 64 856 granite
+83 64 857 granite
+fill 83 64 858 83 64 895 deepslate[axis=y]
+fill 84 64 768 84 64 782 deepslate[axis=y]
+fill 84 64 783 84 64 785 cave_air
+84 64 786 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+84 64 787 cave_air
+84 64 788 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+fill 84 64 789 84 64 795 deepslate[axis=y]
+fill 84 64 796 84 64 798 cave_air
+fill 84 64 799 84 64 804 deepslate[axis=y]
+84 64 826 dripstone_block
+84 64 827 deepslate[axis=y]
+fill 84 64 828 84 64 834 dripstone_block
+fill 84 64 835 84 64 837 tuff
+fill 84 64 838 84 64 850 deepslate[axis=y]
+84 64 851 granite
+84 64 857 dripstone_block
+fill 84 64 858 84 64 869 deepslate[axis=y]
+fill 84 64 872 84 64 894 deepslate[axis=y]
+84 64 895 granite
+fill 85 64 768 85 64 782 deepslate[axis=y]
+fill 85 64 783 85 64 788 cave_air
+fill 85 64 789 85 64 795 deepslate[axis=y]
+fill 85 64 796 85 64 798 cave_air
+fill 85 64 799 85 64 805 deepslate[axis=y]
+fill 85 64 825 85 64 837 dripstone_block
+85 64 838 tuff
+fill 85 64 839 85 64 850 deepslate[axis=y]
+85 64 851 granite
+85 64 858 dripstone_block
+fill 85 64 859 85 64 869 deepslate[axis=y]
+fill 85 64 873 85 64 892 deepslate[axis=y]
+85 64 893 andesite
+85 64 894 granite
+85 64 895 granite
+fill 86 64 768 86 64 775 deepslate[axis=y]
+86 64 776 dripstone_block
+86 64 777 dripstone_block
+fill 86 64 778 86 64 782 deepslate[axis=y]
+fill 86 64 783 86 64 788 cave_air
+fill 86 64 789 86 64 795 deepslate[axis=y]
+86 64 796 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+86 64 797 cave_air
+86 64 798 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+fill 86 64 799 86 64 806 deepslate[axis=y]
+86 64 825 dripstone_block
+86 64 826 granite
+fill 86 64 827 86 64 836 dripstone_block
+86 64 837 tuff
+fill 86 64 838 86 64 850 deepslate[axis=y]
+86 64 851 dripstone_block
+86 64 859 granite
+fill 86 64 860 86 64 869 deepslate[axis=y]
+fill 86 64 870 86 64 872 dripstone_block
+fill 86 64 873 86 64 891 deepslate[axis=y]
+86 64 892 andesite
+86 64 893 andesite
+86 64 894 granite
+86 64 895 granite
+87 64 768 cave_air
+87 64 769 cave_air
+87 64 770 oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+fill 87 64 771 87 64 774 cave_air
+fill 87 64 777 87 64 792 cave_air
+87 64 793 oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+fill 87 64 794 87 64 798 cave_air
+fill 87 64 799 87 64 807 deepslate[axis=y]
+87 64 827 gravel
+fill 87 64 828 87 64 836 dripstone_block
+87 64 837 tuff
+fill 87 64 838 87 64 850 deepslate[axis=y]
+87 64 851 granite
+87 64 852 granite
+fill 87 64 860 87 64 870 deepslate[axis=y]
+87 64 871 dripstone_block
+87 64 872 dripstone_block
+87 64 873 deepslate[axis=y]
+fill 87 64 874 87 64 877 andesite
+fill 87 64 878 87 64 891 deepslate[axis=y]
+87 64 892 andesite
+fill 87 64 893 87 64 895 granite
+fill 88 64 768 88 64 774 cave_air
+fill 88 64 776 88 64 798 cave_air
+fill 88 64 799 88 64 807 deepslate[axis=y]
+88 64 828 gravel
+88 64 829 gravel
+fill 88 64 830 88 64 835 dripstone_block
+88 64 836 deepslate[axis=y]
+88 64 837 deepslate[axis=y]
+88 64 838 dripstone_block
+88 64 839 deepslate[axis=y]
+88 64 840 dripstone_block
+fill 88 64 841 88 64 851 deepslate[axis=y]
+fill 88 64 852 88 64 854 granite
+fill 88 64 860 88 64 869 deepslate[axis=y]
+fill 88 64 870 88 64 872 dripstone_block
+fill 88 64 873 88 64 877 andesite
+fill 88 64 878 88 64 890 deepslate[axis=y]
+88 64 891 andesite
+88 64 892 andesite
+fill 88 64 893 88 64 895 granite
+89 64 768 cave_air
+89 64 769 cave_air
+89 64 772 cave_air
+89 64 773 cave_air
+89 64 776 lava[level=8]
+fill 89 64 777 89 64 792 cave_air
+89 64 793 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+fill 89 64 794 89 64 798 cave_air
+fill 89 64 799 89 64 808 deepslate[axis=y]
+89 64 825 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+89 64 828 gravel
+89 64 829 gravel
+fill 89 64 830 89 64 834 dripstone_block
+fill 89 64 835 89 64 838 deepslate[axis=y]
+89 64 839 dripstone_block
+89 64 840 dripstone_block
+89 64 841 deepslate_lapis_ore
+89 64 842 deepslate_lapis_ore
+fill 89 64 843 89 64 851 deepslate[axis=y]
+fill 89 64 852 89 64 856 granite
+89 64 857 dripstone_block
+89 64 858 dripstone_block
+fill 89 64 860 89 64 869 deepslate[axis=y]
+89 64 872 andesite
+89 64 873 andesite
+89 64 874 redstone_ore[lit=false]
+fill 89 64 875 89 64 877 andesite
+fill 89 64 878 89 64 890 deepslate[axis=y]
+89 64 891 andesite
+89 64 892 andesite
+fill 89 64 893 89 64 895 granite
+90 64 768 cave_air
+90 64 769 cave_air
+90 64 770 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+fill 90 64 771 90 64 774 cave_air
+90 64 775 lava[level=8]
+fill 90 64 776 90 64 779 cave_air
+90 64 780 chain[axis=y,waterlogged=false]
+fill 90 64 781 90 64 785 cave_air
+90 64 786 dripstone_block
+fill 90 64 787 90 64 795 deepslate[axis=y]
+fill 90 64 796 90 64 798 cave_air
+fill 90 64 799 90 64 809 deepslate[axis=y]
+90 64 817 dripstone_block
+90 64 829 gravel
+90 64 830 gravel
+fill 90 64 831 90 64 843 dripstone_block
+fill 90 64 844 90 64 851 deepslate[axis=y]
+fill 90 64 852 90 64 857 granite
+90 64 858 dripstone_block
+fill 90 64 860 90 64 868 deepslate[axis=y]
+fill 90 64 872 90 64 877 andesite
+fill 90 64 878 90 64 890 deepslate[axis=y]
+90 64 891 andesite
+fill 90 64 892 90 64 895 granite
+fill 91 64 768 91 64 781 cave_air
+91 64 782 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+fill 91 64 783 91 64 785 cave_air
+fill 91 64 788 91 64 795 deepslate[axis=y]
+91 64 796 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+91 64 797 cave_air
+91 64 798 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+fill 91 64 799 91 64 810 deepslate[axis=y]
+fill 91 64 816 91 64 818 dripstone_block
+91 64 823 pointed_dripstone[thickness=frustum,vertical_direction=down,waterlogged=false]
+91 64 830 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+91 64 831 dripstone_block
+91 64 832 deepslate[axis=y]
+91 64 833 deepslate[axis=y]
+91 64 834 dripstone_block
+91 64 835 dripstone_block
+91 64 836 deepslate[axis=y]
+91 64 837 deepslate[axis=y]
+fill 91 64 838 91 64 840 dripstone_block
+fill 91 64 841 91 64 852 deepslate[axis=y]
+fill 91 64 853 91 64 859 granite
+fill 91 64 860 91 64 869 deepslate[axis=y]
+fill 91 64 870 91 64 877 andesite
+fill 91 64 878 91 64 889 deepslate[axis=y]
+91 64 890 andesite
+91 64 891 andesite
+fill 91 64 892 91 64 895 granite
+92 64 768 cave_air
+92 64 769 cave_air
+92 64 770 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+fill 92 64 771 92 64 785 cave_air
+fill 92 64 790 92 64 795 deepslate[axis=y]
+fill 92 64 796 92 64 798 cave_air
+fill 92 64 799 92 64 811 deepslate[axis=y]
+92 64 817 dripstone_block
+fill 92 64 832 92 64 837 deepslate[axis=y]
+fill 92 64 838 92 64 841 dripstone_block
+fill 92 64 842 92 64 852 deepslate[axis=y]
+fill 92 64 853 92 64 855 granite
+92 64 856 water[level=0]
+92 64 857 water[level=0]
+92 64 858 granite
+92 64 859 granite
+fill 92 64 860 92 64 869 deepslate[axis=y]
+fill 92 64 870 92 64 876 andesite
+fill 92 64 877 92 64 889 deepslate[axis=y]
+fill 92 64 890 92 64 892 andesite
+fill 92 64 893 92 64 895 granite
+93 64 768 cave_air
+93 64 769 deepslate[axis=y]
+93 64 770 deepslate[axis=y]
+fill 93 64 771 93 64 773 cave_air
+93 64 774 andesite
+93 64 775 dripstone_block
+93 64 776 dripstone_block
+93 64 777 andesite
+93 64 778 iron_ore
+93 64 779 iron_ore
+93 64 780 pointed_dripstone[thickness=base,vertical_direction=up,waterlogged=false]
+fill 93 64 783 93 64 785 cave_air
+fill 93 64 793 93 64 795 deepslate[axis=y]
+fill 93 64 796 93 64 798 cave_air
+fill 93 64 799 93 64 813 deepslate[axis=y]
+93 64 830 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+93 64 832 dripstone_block
+93 64 833 deepslate[axis=y]
+93 64 834 dripstone_block
+fill 93 64 835 93 64 837 deepslate[axis=y]
+fill 93 64 838 93 64 842 dripstone_block
+fill 93 64 843 93 64 853 deepslate[axis=y]
+93 64 854 granite
+93 64 855 granite
+fill 93 64 856 93 64 858 water[level=0]
+93 64 859 granite
+fill 93 64 860 93 64 866 deepslate[axis=y]
+93 64 867 deepslate_iron_ore
+93 64 868 deepslate[axis=y]
+fill 93 64 869 93 64 876 andesite
+fill 93 64 877 93 64 889 deepslate[axis=y]
+fill 93 64 890 93 64 892 andesite
+fill 93 64 893 93 64 895 granite
+94 64 768 cave_air
+94 64 769 deepslate[axis=y]
+94 64 770 deepslate[axis=y]
+fill 94 64 771 94 64 773 cave_air
+94 64 774 andesite
+94 64 775 dripstone_block
+94 64 776 water[level=0]
+fill 94 64 777 94 64 779 andesite
+94 64 780 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+94 64 794 deepslate[axis=y]
+94 64 795 deepslate[axis=y]
+fill 94 64 796 94 64 798 cave_air
+fill 94 64 799 94 64 814 deepslate[axis=y]
+94 64 833 deepslate[axis=y]
+94 64 834 dripstone_block
+94 64 835 deepslate[axis=y]
+fill 94 64 836 94 64 841 dripstone_block
+94 64 842 deepslate[axis=y]
+94 64 843 dripstone_block
+fill 94 64 844 94 64 846 deepslate[axis=y]
+94 64 847 dripstone_block
+fill 94 64 848 94 64 854 deepslate[axis=y]
+94 64 855 water[level=0]
+94 64 856 water[level=0]
+fill 94 64 857 94 64 859 granite
+fill 94 64 860 94 64 868 deepslate[axis=y]
+fill 94 64 869 94 64 875 andesite
+94 64 876 diorite
+fill 94 64 877 94 64 889 deepslate[axis=y]
+fill 94 64 890 94 64 892 andesite
+fill 94 64 893 94 64 895 granite
+95 64 768 cave_air
+95 64 769 deepslate[axis=y]
+95 64 770 deepslate[axis=y]
+95 64 771 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+95 64 772 cave_air
+95 64 773 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+95 64 774 deepslate[axis=y]
+95 64 775 dripstone_block
+fill 95 64 776 95 64 778 andesite
+fill 95 64 796 95 64 798 cave_air
+fill 95 64 799 95 64 816 deepslate[axis=y]
+95 64 824 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+95 64 828 pointed_dripstone[thickness=frustum,vertical_direction=down,waterlogged=false]
+95 64 829 pointed_dripstone[thickness=base,vertical_direction=down,waterlogged=false]
+95 64 830 pointed_dripstone[thickness=frustum,vertical_direction=down,waterlogged=false]
+fill 95 64 835 95 64 839 dripstone_block
+95 64 840 deepslate[axis=y]
+95 64 841 dripstone_block
+fill 95 64 842 95 64 846 deepslate[axis=y]
+95 64 847 dripstone_block
+95 64 848 dripstone_block
+fill 95 64 849 95 64 853 deepslate[axis=y]
+95 64 854 water[level=0]
+95 64 855 dripstone_block
+95 64 856 water[level=0]
+95 64 857 dripstone_block
+95 64 858 granite
+95 64 859 granite
+fill 95 64 860 95 64 867 deepslate[axis=y]
+95 64 868 dirt
+fill 95 64 869 95 64 875 andesite
+95 64 876 diorite
+95 64 877 diorite
+fill 95 64 878 95 64 889 deepslate[axis=y]
+fill 95 64 890 95 64 892 andesite
+fill 95 64 893 95 64 895 granite
+96 64 768 glow_lichen[down=false,east=false,north=false,south=false,up=true,waterlogged=false,west=false]
+96 64 769 deepslate[axis=y]
+96 64 770 deepslate[axis=y]
+fill 96 64 771 96 64 773 cave_air
+fill 96 64 774 96 64 778 dripstone_block
+fill 96 64 796 96 64 798 cave_air
+fill 96 64 799 96 64 817 deepslate[axis=y]
+96 64 830 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+96 64 836 dripstone_block
+96 64 837 deepslate[axis=y]
+fill 96 64 838 96 64 841 dripstone_block
+fill 96 64 842 96 64 845 deepslate[axis=y]
+96 64 846 dripstone_block
+96 64 847 dripstone_block
+fill 96 64 848 96 64 853 deepslate[axis=y]
+96 64 854 water[level=0]
+96 64 855 water[level=0]
+96 64 856 water[level=0]
+96 64 857 dripstone_block
+96 64 858 dripstone_block
+fill 96 64 859 96 64 867 deepslate[axis=y]
+fill 96 64 868 96 64 870 dirt
+fill 96 64 871 96 64 874 andesite
+96 64 875 diorite
+96 64 876 diorite
+fill 96 64 877 96 64 889 deepslate[axis=y]
+fill 96 64 890 96 64 892 andesite
+fill 96 64 893 96 64 895 granite
+97 64 768 cave_air
+97 64 769 deepslate[axis=y]
+97 64 770 deepslate[axis=y]
+fill 97 64 771 97 64 773 cave_air
+fill 97 64 774 97 64 778 dripstone_block
+fill 97 64 796 97 64 798 cave_air
+fill 97 64 799 97 64 819 deepslate[axis=y]
+97 64 830 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+97 64 832 pointed_dripstone[thickness=base,vertical_direction=down,waterlogged=false]
+fill 97 64 836 97 64 841 dripstone_block
+fill 97 64 842 97 64 846 deepslate[axis=y]
+97 64 847 dripstone_block
+fill 97 64 848 97 64 851 deepslate[axis=y]
+97 64 852 dripstone_block
+fill 97 64 853 97 64 856 water[level=0]
+97 64 857 dripstone_block
+fill 97 64 858 97 64 866 deepslate[axis=y]
+fill 97 64 867 97 64 870 dirt
+fill 97 64 871 97 64 873 andesite
+97 64 874 deepslate[axis=y]
+97 64 875 diorite
+97 64 876 diorite
+fill 97 64 877 97 64 889 deepslate[axis=y]
+fill 97 64 890 97 64 892 andesite
+fill 97 64 893 97 64 895 granite
+98 64 768 cave_air
+98 64 769 deepslate[axis=y]
+98 64 770 deepslate[axis=y]
+98 64 771 cave_air
+98 64 772 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+98 64 773 pointed_dripstone[thickness=middle,vertical_direction=up,waterlogged=false]
+fill 98 64 774 98 64 777 dripstone_block
+98 64 784 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+fill 98 64 796 98 64 798 cave_air
+fill 98 64 799 98 64 821 deepslate[axis=y]
+98 64 823 pointed_dripstone[thickness=frustum,vertical_direction=down,waterlogged=false]
+98 64 828 pointed_dripstone[thickness=frustum,vertical_direction=down,waterlogged=false]
+98 64 836 dripstone_block
+98 64 837 dripstone_block
+98 64 838 deepslate[axis=y]
+fill 98 64 839 98 64 841 dripstone_block
+fill 98 64 842 98 64 845 deepslate[axis=y]
+98 64 846 dripstone_block
+98 64 847 deepslate[axis=y]
+98 64 848 dripstone_block
+98 64 849 deepslate[axis=y]
+98 64 850 deepslate[axis=y]
+98 64 851 dripstone_block
+98 64 852 deepslate[axis=y]
+fill 98 64 853 98 64 856 water[level=0]
+fill 98 64 857 98 64 866 deepslate[axis=y]
+fill 98 64 867 98 64 871 dirt
+98 64 872 andesite
+fill 98 64 873 98 64 889 deepslate[axis=y]
+fill 98 64 890 98 64 892 andesite
+fill 98 64 893 98 64 895 granite
+99 64 768 cave_air
+99 64 769 deepslate[axis=y]
+99 64 770 deepslate[axis=y]
+99 64 771 cave_air
+99 64 772 cave_air
+99 64 773 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+fill 99 64 774 99 64 777 dripstone_block
+99 64 778 andesite
+fill 99 64 799 99 64 823 deepslate[axis=y]
+99 64 831 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+99 64 834 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+99 64 837 dripstone_block
+99 64 838 dripstone_block
+fill 99 64 839 99 64 845 deepslate[axis=y]
+fill 99 64 846 99 64 848 dripstone_block
+99 64 849 deepslate[axis=y]
+99 64 850 dripstone_block
+99 64 851 dripstone_block
+99 64 852 deepslate[axis=y]
+fill 99 64 853 99 64 857 water[level=0]
+fill 99 64 858 99 64 866 deepslate[axis=y]
+fill 99 64 867 99 64 871 dirt
+fill 99 64 872 99 64 890 deepslate[axis=y]
+99 64 891 andesite
+99 64 892 andesite
+fill 99 64 893 99 64 895 granite
+100 64 768 cave_air
+100 64 769 deepslate[axis=y]
+100 64 770 deepslate[axis=y]
+fill 100 64 771 100 64 773 cave_air
+fill 100 64 774 100 64 778 dripstone_block
+100 64 779 andesite
+fill 100 64 799 100 64 825 deepslate[axis=y]
+fill 100 64 838 100 64 846 deepslate[axis=y]
+fill 100 64 847 100 64 849 dripstone_block
+100 64 850 deepslate[axis=y]
+100 64 851 dripstone_block
+100 64 852 deepslate[axis=y]
+fill 100 64 853 100 64 857 water[level=0]
+fill 100 64 858 100 64 866 deepslate[axis=y]
+100 64 867 andesite
+fill 100 64 868 100 64 871 dirt
+fill 100 64 872 100 64 890 deepslate[axis=y]
+100 64 891 andesite
+100 64 892 andesite
+fill 100 64 893 100 64 895 granite
+101 64 768 cave_air
+101 64 769 deepslate[axis=y]
+101 64 770 deepslate[axis=y]
+fill 101 64 771 101 64 773 cave_air
+fill 101 64 774 101 64 778 dripstone_block
+101 64 779 deepslate[axis=y]
+101 64 780 dripstone_block
+101 64 782 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+fill 101 64 799 101 64 828 deepslate[axis=y]
+fill 101 64 838 101 64 846 deepslate[axis=y]
+101 64 847 dripstone_block
+fill 101 64 848 101 64 850 deepslate[axis=y]
+101 64 851 dripstone_block
+101 64 852 dripstone_block
+fill 101 64 853 101 64 857 water[level=0]
+fill 101 64 858 101 64 865 deepslate[axis=y]
+101 64 866 andesite
+101 64 867 andesite
+fill 101 64 868 101 64 872 dirt
+fill 101 64 873 101 64 881 deepslate[axis=y]
+101 64 882 water[level=0]
+fill 101 64 883 101 64 890 deepslate[axis=y]
+fill 101 64 891 101 64 893 andesite
+101 64 894 granite
+101 64 895 granite
+102 64 768 cave_air
+102 64 769 deepslate[axis=y]
+102 64 770 deepslate[axis=y]
+fill 102 64 771 102 64 773 cave_air
+fill 102 64 774 102 64 776 dripstone_block
+102 64 777 deepslate[axis=y]
+fill 102 64 778 102 64 781 dripstone_block
+102 64 782 andesite
+fill 102 64 799 102 64 831 deepslate[axis=y]
+fill 102 64 839 102 64 846 deepslate[axis=y]
+102 64 847 dripstone_block
+fill 102 64 848 102 64 851 deepslate[axis=y]
+fill 102 64 852 102 64 857 water[level=0]
+fill 102 64 858 102 64 866 deepslate[axis=y]
+102 64 867 andesite
+102 64 868 andesite
+fill 102 64 869 102 64 872 dirt
+fill 102 64 873 102 64 881 deepslate[axis=y]
+102 64 882 water[level=0]
+102 64 883 water[level=0]

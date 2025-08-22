@@ -1,0 +1,705 @@
+889 144 45 grass_block[snowy=false]
+889 144 47 short_grass
+fill 890 144 0 890 144 10 stone
+fill 890 144 11 890 144 15 dirt
+890 144 16 grass_block[snowy=false]
+890 144 17 grass_block[snowy=false]
+fill 890 144 18 890 144 43 dirt
+890 144 44 grass_block[snowy=false]
+890 144 46 short_grass
+fill 891 144 0 891 144 10 stone
+891 144 11 dirt
+fill 891 144 12 891 144 20 grass_block[snowy=false]
+fill 891 144 21 891 144 42 dirt
+891 144 43 grass_block[snowy=false]
+fill 892 144 0 892 144 9 stone
+892 144 10 dirt
+892 144 11 dirt
+fill 892 144 19 892 144 22 grass_block[snowy=false]
+fill 892 144 23 892 144 27 dirt
+892 144 28 grass_block[snowy=false]
+fill 892 144 29 892 144 41 dirt
+892 144 42 grass_block[snowy=false]
+892 144 43 short_grass
+fill 893 144 0 893 144 6 stone
+893 144 7 gravel
+893 144 8 gravel
+893 144 9 coal_ore
+893 144 10 dirt
+893 144 11 grass_block[snowy=false]
+893 144 12 short_grass
+893 144 14 tall_grass[half=lower]
+893 144 18 dandelion
+fill 893 144 20 893 144 30 grass_block[snowy=false]
+fill 893 144 31 893 144 40 dirt
+893 144 41 grass_block[snowy=false]
+fill 894 144 0 894 144 5 stone
+fill 894 144 6 894 144 8 gravel
+894 144 9 dirt
+894 144 10 dirt
+fill 894 144 17 894 144 20 short_grass
+894 144 22 short_grass
+fill 894 144 23 894 144 35 grass_block[snowy=false]
+894 144 36 dirt
+fill 894 144 37 894 144 40 grass_block[snowy=false]
+fill 895 144 0 895 144 5 stone
+fill 895 144 6 895 144 8 gravel
+895 144 9 dirt
+895 144 10 dirt
+895 144 18 short_grass
+895 144 21 short_grass
+895 144 25 dandelion
+895 144 29 short_grass
+895 144 33 short_grass
+895 144 35 short_grass
+895 144 36 short_grass
+895 144 41 short_grass
+895 144 42 short_grass
+783 145 24 tall_grass[half=upper]
+783 145 33 tall_grass[half=upper]
+785 145 26 tall_grass[half=upper]
+786 145 26 tall_grass[half=upper]
+786 145 28 tall_grass[half=upper]
+787 145 22 tall_grass[half=upper]
+787 145 29 tall_grass[half=upper]
+788 145 20 tall_grass[half=upper]
+788 145 27 tall_grass[half=upper]
+788 145 29 tall_grass[half=upper]
+789 145 12 short_grass
+789 145 16 short_grass
+789 145 23 tall_grass[half=upper]
+789 145 24 tall_grass[half=upper]
+789 145 28 tall_grass[half=upper]
+789 145 29 tall_grass[half=upper]
+790 145 18 short_grass
+790 145 27 tall_grass[half=upper]
+791 145 12 short_grass
+791 145 18 short_grass
+791 145 25 tall_grass[half=upper]
+792 145 18 short_grass
+792 145 19 short_grass
+793 145 58 sunflower[half=upper]
+793 145 60 sunflower[half=upper]
+794 145 12 short_grass
+fill 794 145 16 794 145 19 short_grass
+794 145 58 sunflower[half=upper]
+795 145 12 short_grass
+795 145 13 short_grass
+795 145 17 short_grass
+795 145 23 tall_grass[half=upper]
+795 145 57 sunflower[half=upper]
+796 145 15 grass_block[snowy=false]
+796 145 16 grass_block[snowy=false]
+fill 797 145 12 797 145 16 grass_block[snowy=false]
+797 145 17 short_grass
+fill 798 145 12 798 145 16 grass_block[snowy=false]
+798 145 17 short_grass
+798 145 53 sunflower[half=upper]
+799 145 11 grass_block[snowy=false]
+fill 799 145 12 799 145 14 dirt
+fill 799 145 15 799 145 17 grass_block[snowy=false]
+799 145 18 short_grass
+799 145 60 sunflower[half=upper]
+800 145 10 grass_block[snowy=false]
+fill 800 145 11 800 145 16 dirt
+800 145 17 grass_block[snowy=false]
+800 145 18 oak_leaves[distance=4,persistent=false,waterlogged=false]
+800 145 19 oak_leaves[distance=3,persistent=false,waterlogged=false]
+800 145 20 oak_leaves[distance=2,persistent=false,waterlogged=false]
+800 145 21 oak_leaves[distance=3,persistent=false,waterlogged=false]
+800 145 52 sunflower[half=upper]
+801 145 10 grass_block[snowy=false]
+fill 801 145 11 801 145 16 dirt
+801 145 17 grass_block[snowy=false]
+801 145 18 oak_leaves[distance=3,persistent=false,waterlogged=false]
+801 145 19 oak_leaves[distance=2,persistent=false,waterlogged=false]
+801 145 20 oak_leaves[distance=1,persistent=false,waterlogged=false]
+801 145 21 oak_leaves[distance=2,persistent=false,waterlogged=false]
+801 145 22 oak_leaves[distance=3,persistent=false,waterlogged=false]
+802 145 9 short_grass
+fill 802 145 10 802 145 16 dirt
+802 145 17 grass_block[snowy=false]
+802 145 18 oak_leaves[distance=2,persistent=false,waterlogged=false]
+802 145 19 oak_leaves[distance=1,persistent=false,waterlogged=false]
+802 145 20 oak_log[axis=y]
+802 145 21 oak_leaves[distance=1,persistent=false,waterlogged=false]
+802 145 22 oak_leaves[distance=2,persistent=false,waterlogged=false]
+802 145 53 sunflower[half=upper]
+803 145 10 grass_block[snowy=false]
+fill 803 145 11 803 145 17 dirt
+803 145 18 grass_block[snowy=false]
+803 145 19 oak_leaves[distance=2,persistent=false,waterlogged=false]
+803 145 20 oak_leaves[distance=1,persistent=false,waterlogged=false]
+803 145 21 oak_leaves[distance=2,persistent=false,waterlogged=false]
+803 145 22 oak_leaves[distance=3,persistent=false,waterlogged=false]
+803 145 51 sunflower[half=upper]
+804 145 10 grass_block[snowy=false]
+fill 804 145 11 804 145 18 dirt
+804 145 19 grass_block[snowy=false]
+804 145 20 oak_leaves[distance=2,persistent=false,waterlogged=false]
+804 145 21 oak_leaves[distance=3,persistent=false,waterlogged=false]
+805 145 11 grass_block[snowy=false]
+fill 805 145 12 805 145 14 dirt
+805 145 15 stone
+805 145 16 stone
+fill 805 145 17 805 145 19 dirt
+805 145 20 grass_block[snowy=false]
+805 145 43 sunflower[half=upper]
+805 145 54 sunflower[half=upper]
+805 145 55 sunflower[half=upper]
+fill 806 145 12 806 145 14 dirt
+fill 806 145 15 806 145 18 stone
+806 145 19 dirt
+806 145 20 dirt
+806 145 21 grass_block[snowy=false]
+fill 806 145 45 806 145 47 sunflower[half=upper]
+806 145 64 sunflower[half=upper]
+807 145 11 grass_block[snowy=false]
+fill 807 145 12 807 145 14 dirt
+fill 807 145 15 807 145 19 stone
+807 145 20 dirt
+807 145 21 dirt
+807 145 22 grass_block[snowy=false]
+807 145 44 sunflower[half=upper]
+807 145 45 sunflower[half=upper]
+808 145 10 grass_block[snowy=false]
+808 145 11 grass_block[snowy=false]
+808 145 12 dirt
+808 145 13 dirt
+fill 808 145 14 808 145 20 stone
+808 145 21 dirt
+808 145 22 grass_block[snowy=false]
+809 145 10 grass_block[snowy=false]
+fill 809 145 11 809 145 13 dirt
+fill 809 145 14 809 145 20 stone
+809 145 21 dirt
+809 145 22 dirt
+809 145 23 grass_block[snowy=false]
+809 145 24 short_grass
+fill 809 145 44 809 145 48 grass_block[snowy=false]
+809 145 50 sunflower[half=upper]
+809 145 75 tall_grass[half=upper]
+809 145 78 tall_grass[half=upper]
+810 145 10 grass_block[snowy=false]
+810 145 11 dirt
+810 145 12 dirt
+fill 810 145 13 810 145 20 stone
+810 145 21 coal_ore
+810 145 22 dirt
+810 145 23 dirt
+810 145 24 short_grass
+810 145 27 short_grass
+810 145 29 short_grass
+810 145 39 short_grass
+fill 810 145 41 810 145 43 grass_block[snowy=false]
+fill 810 145 44 810 145 48 dirt
+810 145 49 grass_block[snowy=false]
+810 145 50 sunflower[half=lower]
+810 145 77 tall_grass[half=upper]
+810 145 79 sunflower[half=upper]
+811 145 9 grass_block[snowy=false]
+811 145 10 dirt
+811 145 11 dirt
+fill 811 145 12 811 145 21 stone
+811 145 22 coal_ore
+fill 811 145 23 811 145 25 dirt
+fill 811 145 26 811 145 32 grass_block[snowy=false]
+fill 811 145 33 811 145 35 dirt
+811 145 36 stone
+811 145 37 stone
+811 145 38 dirt
+811 145 39 stone
+811 145 40 dirt
+811 145 41 dirt
+fill 811 145 42 811 145 45 stone
+fill 811 145 46 811 145 49 dirt
+811 145 50 grass_block[snowy=false]
+811 145 59 short_grass
+811 145 60 short_grass
+811 145 62 short_grass
+811 145 63 short_grass
+811 145 76 tall_grass[half=upper]
+812 145 9 dirt
+812 145 10 dirt
+fill 812 145 11 812 145 23 stone
+fill 812 145 24 812 145 33 dirt
+fill 812 145 34 812 145 48 stone
+812 145 49 dirt
+812 145 50 dirt
+812 145 51 grass_block[snowy=false]
+fill 812 145 55 812 145 63 grass_block[snowy=false]
+812 145 64 dirt
+fill 812 145 65 812 145 67 grass_block[snowy=false]
+812 145 69 short_grass
+812 145 70 short_grass
+812 145 74 tall_grass[half=upper]
+812 145 77 tall_grass[half=upper]
+812 145 79 sunflower[half=upper]
+813 145 8 grass_block[snowy=false]
+813 145 9 dirt
+fill 813 145 10 813 145 12 stone
+fill 813 145 13 813 145 25 stone
+fill 813 145 26 813 145 32 dirt
+fill 813 145 33 813 145 47 stone
+fill 813 145 48 813 145 50 dirt
+fill 813 145 51 813 145 54 grass_block[snowy=false]
+fill 813 145 55 813 145 67 dirt
+813 145 68 grass_block[snowy=false]
+813 145 69 grass_block[snowy=false]
+813 145 70 short_grass
+813 145 71 short_grass
+813 145 76 tall_grass[half=upper]
+813 145 78 tall_grass[half=upper]
+814 145 8 dirt
+814 145 9 dirt
+fill 814 145 10 814 145 26 stone
+fill 814 145 27 814 145 30 dirt
+fill 814 145 31 814 145 47 stone
+fill 814 145 48 814 145 51 dirt
+814 145 52 grass_block[snowy=false]
+fill 814 145 53 814 145 68 dirt
+814 145 69 grass_block[snowy=false]
+814 145 70 grass_block[snowy=false]
+814 145 72 tall_grass[half=upper]
+814 145 73 tall_grass[half=upper]
+815 145 8 grass_block[snowy=false]
+815 145 9 dirt
+fill 815 145 10 815 145 50 stone
+fill 815 145 51 815 145 56 dirt
+fill 815 145 57 815 145 62 stone
+fill 815 145 63 815 145 67 dirt
+815 145 68 grass_block[snowy=false]
+815 145 71 tall_grass[half=upper]
+815 145 74 tall_grass[half=upper]
+815 145 76 tall_grass[half=upper]
+816 145 8 grass_block[snowy=false]
+816 145 9 dirt
+fill 816 145 10 816 145 51 stone
+fill 816 145 52 816 145 54 gravel
+fill 816 145 55 816 145 63 stone
+fill 816 145 64 816 145 66 dirt
+816 145 67 grass_block[snowy=false]
+817 145 9 dirt
+fill 817 145 10 817 145 51 stone
+fill 817 145 52 817 145 54 gravel
+fill 817 145 55 817 145 63 stone
+817 145 64 dirt
+817 145 65 dirt
+817 145 66 grass_block[snowy=false]
+818 145 9 dirt
+fill 818 145 10 818 145 51 stone
+fill 818 145 52 818 145 54 gravel
+fill 818 145 55 818 145 63 stone
+818 145 64 dirt
+818 145 65 dirt
+818 145 66 grass_block[snowy=false]
+818 145 70 tall_grass[half=upper]
+819 145 9 dirt
+fill 819 145 10 819 145 49 stone
+819 145 50 dirt
+819 145 51 dirt
+fill 819 145 52 819 145 63 stone
+819 145 64 dirt
+819 145 65 dirt
+819 145 66 grass_block[snowy=false]
+820 145 9 dirt
+fill 820 145 10 820 145 49 stone
+fill 820 145 50 820 145 52 dirt
+fill 820 145 53 820 145 63 stone
+820 145 64 dirt
+820 145 65 dirt
+820 145 66 grass_block[snowy=false]
+821 145 9 dirt
+fill 821 145 10 821 145 50 stone
+821 145 51 dirt
+821 145 52 dirt
+fill 821 145 53 821 145 64 stone
+821 145 65 dirt
+821 145 66 grass_block[snowy=false]
+822 145 9 dirt
+fill 822 145 10 822 145 43 stone
+822 145 44 dirt
+822 145 45 dirt
+fill 822 145 46 822 145 52 stone
+822 145 53 dirt
+fill 822 145 54 822 145 64 stone
+822 145 65 dirt
+822 145 66 grass_block[snowy=false]
+823 145 9 grass_block[snowy=false]
+823 145 10 dirt
+fill 823 145 11 823 145 42 stone
+fill 823 145 43 823 145 46 dirt
+fill 823 145 47 823 145 53 stone
+823 145 54 dirt
+fill 823 145 55 823 145 63 stone
+823 145 64 dirt
+823 145 65 dirt
+824 145 10 dirt
+fill 824 145 11 824 145 42 stone
+fill 824 145 43 824 145 46 dirt
+fill 824 145 47 824 145 63 stone
+824 145 64 dirt
+824 145 65 grass_block[snowy=false]
+825 145 10 grass_block[snowy=false]
+825 145 11 dirt
+fill 825 145 12 825 145 35 stone
+825 145 36 coal_ore
+fill 825 145 37 825 145 42 stone
+fill 825 145 43 825 145 46 dirt
+fill 825 145 47 825 145 62 stone
+825 145 63 dirt
+825 145 64 grass_block[snowy=false]
+826 145 10 grass_block[snowy=false]
+826 145 11 dirt
+fill 826 145 12 826 145 34 stone
+826 145 35 coal_ore
+826 145 36 coal_ore
+fill 826 145 37 826 145 43 stone
+826 145 44 dirt
+826 145 45 dirt
+fill 826 145 46 826 145 62 stone
+826 145 63 dirt
+827 145 11 grass_block[snowy=false]
+827 145 12 dirt
+fill 827 145 13 827 145 34 stone
+827 145 35 coal_ore
+827 145 36 coal_ore
+fill 827 145 37 827 145 43 stone
+827 145 44 dirt
+827 145 45 dirt
+fill 827 145 46 827 145 62 stone
+827 145 63 dirt
+828 145 11 grass_block[snowy=false]
+828 145 12 dirt
+fill 828 145 13 828 145 34 stone
+828 145 35 coal_ore
+828 145 36 coal_ore
+fill 828 145 37 828 145 45 stone
+828 145 46 coal_ore
+828 145 47 coal_ore
+fill 828 145 48 828 145 62 stone
+828 145 63 dirt
+829 145 11 short_grass
+829 145 12 grass_block[snowy=false]
+fill 829 145 13 829 145 34 stone
+829 145 35 coal_ore
+829 145 36 coal_ore
+fill 829 145 37 829 145 44 stone
+fill 829 145 45 829 145 47 coal_ore
+fill 829 145 48 829 145 62 stone
+829 145 63 dirt
+830 145 12 short_grass
+830 145 13 dirt
+fill 830 145 14 830 145 34 stone
+830 145 35 coal_ore
+fill 830 145 36 830 145 43 stone
+fill 830 145 44 830 145 46 coal_ore
+fill 830 145 47 830 145 62 stone
+830 145 63 dirt
+831 145 11 short_grass
+831 145 12 grass_block[snowy=false]
+831 145 13 dirt
+fill 831 145 14 831 145 43 stone
+fill 831 145 44 831 145 46 coal_ore
+fill 831 145 47 831 145 49 stone
+831 145 50 granite
+831 145 51 granite
+fill 831 145 52 831 145 62 stone
+831 145 63 dirt
+831 145 64 dirt
+831 145 65 grass_block[snowy=false]
+832 145 11 grass_block[snowy=false]
+832 145 12 dirt
+832 145 13 dirt
+fill 832 145 14 832 145 49 stone
+fill 832 145 50 832 145 53 granite
+fill 832 145 54 832 145 63 stone
+832 145 64 dirt
+832 145 65 dirt
+832 145 66 grass_block[snowy=false]
+833 145 10 grass_block[snowy=false]
+833 145 11 dirt
+833 145 12 dirt
+fill 833 145 13 833 145 28 stone
+fill 833 145 29 833 145 48 stone
+fill 833 145 49 833 145 53 granite
+fill 833 145 54 833 145 64 stone
+833 145 65 dirt
+833 145 66 dirt
+834 145 10 dirt
+834 145 11 dirt
+fill 834 145 12 834 145 48 stone
+fill 834 145 49 834 145 54 granite
+fill 834 145 55 834 145 63 stone
+fill 834 145 64 834 145 66 dirt
+834 145 67 grass_block[snowy=false]
+835 145 7 grass_block[snowy=false]
+fill 835 145 8 835 145 10 dirt
+fill 835 145 11 835 145 48 stone
+835 145 49 diorite
+fill 835 145 50 835 145 55 granite
+fill 835 145 56 835 145 61 stone
+fill 835 145 62 835 145 67 dirt
+836 145 5 grass_block[snowy=false]
+fill 836 145 6 836 145 9 dirt
+fill 836 145 10 836 145 46 stone
+fill 836 145 47 836 145 52 diorite
+fill 836 145 53 836 145 55 granite
+fill 836 145 56 836 145 60 stone
+fill 836 145 61 836 145 67 dirt
+837 145 3 grass_block[snowy=false]
+fill 837 145 4 837 145 7 dirt
+fill 837 145 8 837 145 46 stone
+fill 837 145 47 837 145 54 diorite
+837 145 55 granite
+837 145 56 granite
+fill 837 145 57 837 145 60 stone
+fill 837 145 61 837 145 67 dirt
+838 145 1 grass_block[snowy=false]
+fill 838 145 2 838 145 4 dirt
+fill 838 145 5 838 145 46 stone
+fill 838 145 47 838 145 55 diorite
+838 145 56 granite
+fill 838 145 57 838 145 59 stone
+fill 838 145 60 838 145 64 dirt
+838 145 65 stone
+838 145 66 stone
+838 145 67 dirt
+839 145 1 dirt
+839 145 2 dirt
+fill 839 145 3 839 145 46 stone
+fill 839 145 47 839 145 56 diorite
+fill 839 145 57 839 145 59 stone
+fill 839 145 60 839 145 64 dirt
+839 145 65 stone
+839 145 66 stone
+839 145 67 dirt
+840 145 0 grass_block[snowy=false]
+fill 840 145 1 840 145 3 dirt
+fill 840 145 4 840 145 6 stone
+fill 840 145 7 840 145 12 coal_ore
+fill 840 145 13 840 145 47 stone
+fill 840 145 48 840 145 57 diorite
+840 145 58 stone
+840 145 59 stone
+fill 840 145 60 840 145 62 dirt
+fill 840 145 63 840 145 66 stone
+840 145 67 dirt
+840 145 68 dirt
+840 145 69 short_grass
+841 145 0 dirt
+841 145 1 stone
+841 145 2 dirt
+841 145 3 dirt
+fill 841 145 4 841 145 6 stone
+fill 841 145 7 841 145 12 coal_ore
+fill 841 145 13 841 145 47 stone
+fill 841 145 48 841 145 58 diorite
+fill 841 145 59 841 145 67 stone
+841 145 68 dirt
+841 145 69 grass_block[snowy=false]
+842 145 0 dirt
+fill 842 145 1 842 145 28 stone
+842 145 29 coal_ore
+842 145 30 coal_ore
+fill 842 145 31 842 145 48 stone
+fill 842 145 49 842 145 59 diorite
+fill 842 145 60 842 145 67 stone
+842 145 68 dirt
+842 145 69 dirt
+843 145 0 dirt
+843 145 1 dirt
+fill 843 145 2 843 145 28 stone
+843 145 29 coal_ore
+843 145 30 coal_ore
+fill 843 145 31 843 145 49 stone
+fill 843 145 50 843 145 60 diorite
+fill 843 145 61 843 145 66 stone
+fill 843 145 67 843 145 69 dirt
+844 145 0 dirt
+fill 844 145 1 844 145 3 coal_ore
+844 145 4 dirt
+844 145 5 dirt
+fill 844 145 6 844 145 10 stone
+844 145 11 coal_ore
+fill 844 145 12 844 145 28 stone
+844 145 29 coal_ore
+844 145 30 coal_ore
+fill 844 145 31 844 145 43 stone
+844 145 44 coal_ore
+fill 844 145 45 844 145 50 stone
+fill 844 145 51 844 145 60 diorite
+fill 844 145 61 844 145 66 stone
+fill 844 145 67 844 145 69 dirt
+845 145 0 dirt
+845 145 1 dirt
+fill 845 145 2 845 145 4 coal_ore
+fill 845 145 5 845 145 7 dirt
+845 145 8 stone
+845 145 9 stone
+845 145 10 coal_ore
+845 145 11 coal_ore
+fill 845 145 12 845 145 24 stone
+fill 845 145 25 845 145 27 coal_ore
+845 145 28 stone
+845 145 29 coal_ore
+845 145 30 coal_ore
+fill 845 145 31 845 145 43 stone
+845 145 44 coal_ore
+845 145 45 coal_ore
+fill 845 145 46 845 145 51 stone
+fill 845 145 52 845 145 61 diorite
+fill 845 145 62 845 145 66 stone
+fill 845 145 67 845 145 69 dirt
+846 145 0 grass_block[snowy=false]
+846 145 1 dirt
+846 145 2 stone
+846 145 3 stone
+fill 846 145 4 846 145 8 dirt
+846 145 9 stone
+846 145 10 coal_ore
+846 145 11 coal_ore
+fill 846 145 12 846 145 25 stone
+fill 846 145 26 846 145 28 coal_ore
+846 145 29 stone
+fill 846 145 30 846 145 32 copper_ore
+fill 846 145 33 846 145 43 stone
+846 145 44 coal_ore
+fill 846 145 45 846 145 52 stone
+fill 846 145 53 846 145 61 diorite
+fill 846 145 62 846 145 66 stone
+fill 846 145 67 846 145 69 dirt
+847 145 0 grass_block[snowy=false]
+847 145 1 dirt
+fill 847 145 2 847 145 4 stone
+fill 847 145 5 847 145 9 dirt
+847 145 10 coal_ore
+847 145 11 coal_ore
+fill 847 145 12 847 145 26 stone
+847 145 27 coal_ore
+847 145 28 coal_ore
+847 145 29 stone
+fill 847 145 30 847 145 32 copper_ore
+fill 847 145 33 847 145 54 stone
+fill 847 145 55 847 145 61 diorite
+fill 847 145 62 847 145 65 stone
+fill 847 145 66 847 145 68 dirt
+847 145 69 grass_block[snowy=false]
+847 145 70 short_grass
+848 145 0 grass_block[snowy=false]
+848 145 1 dirt
+fill 848 145 2 848 145 5 stone
+fill 848 145 6 848 145 9 dirt
+fill 848 145 10 848 145 16 stone
+fill 848 145 17 848 145 19 gravel
+fill 848 145 20 848 145 48 stone
+848 145 49 coal_ore
+fill 848 145 50 848 145 55 stone
+fill 848 145 56 848 145 60 diorite
+fill 848 145 61 848 145 65 stone
+fill 848 145 66 848 145 68 dirt
+848 145 69 grass_block[snowy=false]
+849 145 0 grass_block[snowy=false]
+849 145 1 dirt
+fill 849 145 2 849 145 6 stone
+fill 849 145 7 849 145 9 dirt
+fill 849 145 10 849 145 16 stone
+fill 849 145 17 849 145 19 gravel
+fill 849 145 20 849 145 47 stone
+849 145 48 coal_ore
+849 145 49 coal_ore
+fill 849 145 50 849 145 65 stone
+fill 849 145 66 849 145 68 dirt
+849 145 69 grass_block[snowy=false]
+850 145 0 grass_block[snowy=false]
+850 145 1 dirt
+fill 850 145 2 850 145 8 stone
+850 145 9 coal_ore
+fill 850 145 10 850 145 15 stone
+fill 850 145 16 850 145 19 gravel
+fill 850 145 20 850 145 47 stone
+850 145 48 coal_ore
+850 145 49 coal_ore
+fill 850 145 50 850 145 53 stone
+fill 850 145 54 850 145 65 stone
+fill 850 145 66 850 145 68 dirt
+850 145 69 grass_block[snowy=false]
+851 145 0 dirt
+851 145 1 dirt
+fill 851 145 2 851 145 7 stone
+fill 851 145 8 851 145 10 coal_ore
+fill 851 145 11 851 145 15 stone
+fill 851 145 16 851 145 19 gravel
+fill 851 145 20 851 145 47 stone
+851 145 48 coal_ore
+851 145 49 coal_ore
+fill 851 145 50 851 145 65 stone
+851 145 66 dirt
+851 145 67 dirt
+851 145 68 grass_block[snowy=false]
+852 145 0 dirt
+fill 852 145 1 852 145 7 stone
+fill 852 145 8 852 145 10 coal_ore
+fill 852 145 11 852 145 15 stone
+fill 852 145 16 852 145 19 gravel
+fill 852 145 20 852 145 48 stone
+852 145 49 coal_ore
+fill 852 145 50 852 145 64 stone
+fill 852 145 65 852 145 67 dirt
+853 145 0 dirt
+fill 853 145 1 853 145 6 stone
+fill 853 145 7 853 145 9 coal_ore
+fill 853 145 10 853 145 15 stone
+fill 853 145 16 853 145 19 gravel
+fill 853 145 20 853 145 64 stone
+853 145 65 dirt
+853 145 66 dirt
+853 145 67 grass_block[snowy=false]
+854 145 0 dirt
+fill 854 145 1 854 145 6 stone
+fill 854 145 7 854 145 9 coal_ore
+fill 854 145 10 854 145 15 stone
+fill 854 145 16 854 145 18 gravel
+fill 854 145 19 854 145 63 stone
+fill 854 145 64 854 145 66 dirt
+fill 855 145 0 855 145 15 stone
+855 145 16 gravel
+855 145 17 gravel
+fill 855 145 18 855 145 63 stone
+855 145 64 dirt
+855 145 65 dirt
+855 145 66 grass_block[snowy=false]
+fill 856 145 0 856 145 49 stone
+fill 856 145 50 856 145 53 granite
+fill 856 145 54 856 145 63 stone
+856 145 64 dirt
+856 145 65 dirt
+fill 857 145 0 857 145 46 stone
+fill 857 145 47 857 145 54 granite
+fill 857 145 55 857 145 62 stone
+857 145 63 dirt
+857 145 64 dirt
+857 145 65 grass_block[snowy=false]
+fill 858 145 0 858 145 45 stone
+fill 858 145 46 858 145 54 granite
+fill 858 145 55 858 145 62 stone
+858 145 63 dirt
+858 145 64 dirt
+fill 859 145 0 859 145 44 stone
+fill 859 145 45 859 145 47 granite
+fill 859 145 52 859 145 54 granite
+fill 859 145 55 859 145 61 stone
+859 145 62 dirt
+859 145 63 dirt
+859 145 65 sunflower[half=upper]
+fill 860 145 0 860 145 43 stone
+fill 860 145 44 860 145 46 granite
+860 145 52 coal_ore
+860 145 53 coal_ore
+fill 860 145 54 860 145 61 stone
+860 145 62 dirt
+860 145 63 dirt
+fill 861 145 0 861 145 42 stone
+fill 861 145 43 861 145 45 granite
+861 145 52 granite
+861 145 53 granite

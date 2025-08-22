@@ -1,0 +1,637 @@
+105 124 522 leaf_litter[facing=south,segment_amount=2]
+105 124 523 leaf_litter[facing=north,segment_amount=3]
+105 124 525 leaf_litter[facing=east,segment_amount=2]
+105 124 526 leaf_litter[facing=north,segment_amount=4]
+105 124 527 leaf_litter[facing=south,segment_amount=4]
+105 124 528 leaf_litter[facing=east,segment_amount=3]
+fill 105 124 529 105 124 533 grass_block[snowy=false]
+fill 105 124 534 105 124 555 dirt
+105 124 556 stone
+105 124 557 stone
+fill 105 124 558 105 124 564 granite
+fill 105 124 565 105 124 568 stone
+105 124 569 gravel
+fill 105 124 570 105 124 575 stone
+fill 105 124 576 105 124 579 gravel
+fill 105 124 580 105 124 591 stone
+105 124 592 copper_ore
+105 124 593 coal_ore
+105 124 594 coal_ore
+fill 105 124 595 105 124 597 stone
+105 124 598 grass_block[snowy=false]
+105 124 600 oak_leaves[distance=2,persistent=false,waterlogged=false]
+105 124 601 oak_leaves[distance=1,persistent=false,waterlogged=false]
+105 124 602 oak_log[axis=y]
+105 124 603 oak_leaves[distance=1,persistent=false,waterlogged=false]
+105 124 604 oak_leaves[distance=2,persistent=false,waterlogged=false]
+105 124 605 water[level=8]
+105 124 606 grass_block[snowy=false]
+fill 105 124 607 105 124 619 stone
+105 124 620 iron_ore
+fill 105 124 621 105 124 630 stone
+fill 105 124 631 105 124 633 dirt
+105 124 634 water[level=0]
+105 124 635 dirt
+105 124 636 dirt
+105 124 637 sand
+105 124 638 sand
+105 124 639 water[level=0]
+106 124 516 leaf_litter[facing=north,segment_amount=3]
+106 124 517 leaf_litter[facing=west,segment_amount=2]
+106 124 518 leaf_litter[facing=north,segment_amount=3]
+106 124 521 leaf_litter[facing=north,segment_amount=3]
+106 124 522 leaf_litter[facing=south,segment_amount=3]
+106 124 523 oak_log[axis=y]
+106 124 524 leaf_litter[facing=west,segment_amount=2]
+fill 106 124 525 106 124 531 grass_block[snowy=false]
+fill 106 124 532 106 124 555 dirt
+106 124 556 andesite
+106 124 557 stone
+fill 106 124 558 106 124 564 granite
+fill 106 124 565 106 124 567 stone
+fill 106 124 568 106 124 570 gravel
+fill 106 124 571 106 124 573 stone
+106 124 574 copper_ore
+106 124 575 stone
+106 124 576 gravel
+fill 106 124 577 106 124 585 dirt
+fill 106 124 586 106 124 592 stone
+106 124 593 coal_ore
+106 124 594 stone
+106 124 600 oak_leaves[distance=3,persistent=false,waterlogged=false]
+106 124 601 oak_leaves[distance=2,persistent=false,waterlogged=false]
+106 124 602 oak_leaves[distance=1,persistent=false,waterlogged=false]
+106 124 603 oak_leaves[distance=2,persistent=false,waterlogged=false]
+106 124 604 oak_leaves[distance=3,persistent=false,waterlogged=false]
+106 124 605 water[level=1]
+106 124 606 leaf_litter[facing=south,segment_amount=2]
+106 124 608 grass_block[snowy=false]
+fill 106 124 609 106 124 620 stone
+106 124 621 iron_ore
+fill 106 124 622 106 124 629 stone
+106 124 630 copper_ore
+fill 106 124 631 106 124 634 dirt
+106 124 635 water[level=0]
+106 124 636 water[level=0]
+106 124 637 sand
+106 124 638 sand
+106 124 639 water[level=0]
+107 124 513 leaf_litter[facing=north,segment_amount=1]
+107 124 514 leaf_litter[facing=south,segment_amount=1]
+107 124 516 leaf_litter[facing=north,segment_amount=2]
+fill 107 124 517 107 124 519 grass_block[snowy=false]
+107 124 520 dirt
+fill 107 124 521 107 124 525 grass_block[snowy=false]
+107 124 526 dirt
+fill 107 124 527 107 124 529 grass_block[snowy=false]
+fill 107 124 530 107 124 555 dirt
+107 124 556 andesite
+107 124 557 andesite
+fill 107 124 558 107 124 564 granite
+fill 107 124 565 107 124 567 stone
+fill 107 124 568 107 124 571 gravel
+107 124 572 stone
+107 124 573 stone
+fill 107 124 574 107 124 576 copper_ore
+fill 107 124 577 107 124 586 dirt
+fill 107 124 587 107 124 592 stone
+107 124 593 coal_ore
+107 124 594 stone
+107 124 595 stone
+107 124 596 leaf_litter[facing=south,segment_amount=2]
+107 124 601 oak_leaves[distance=3,persistent=false,waterlogged=false]
+107 124 602 oak_leaves[distance=2,persistent=false,waterlogged=false]
+107 124 603 oak_leaves[distance=3,persistent=false,waterlogged=false]
+107 124 604 oak_leaves[distance=4,persistent=false,waterlogged=false]
+107 124 607 grass_block[snowy=false]
+107 124 608 dirt
+fill 107 124 609 107 124 629 stone
+107 124 630 copper_ore
+fill 107 124 631 107 124 634 dirt
+fill 107 124 635 107 124 639 water[level=0]
+108 124 512 leaf_litter[facing=west,segment_amount=3]
+108 124 513 leaf_litter[facing=east,segment_amount=1]
+108 124 514 leaf_litter[facing=west,segment_amount=2]
+108 124 515 dirt
+108 124 516 grass_block[snowy=false]
+108 124 517 grass_block[snowy=false]
+fill 108 124 518 108 124 522 dirt
+fill 108 124 523 108 124 528 grass_block[snowy=false]
+fill 108 124 529 108 124 555 dirt
+fill 108 124 556 108 124 558 andesite
+fill 108 124 559 108 124 564 granite
+fill 108 124 565 108 124 567 stone
+fill 108 124 568 108 124 572 gravel
+fill 108 124 573 108 124 575 stone
+108 124 576 gravel
+fill 108 124 577 108 124 586 dirt
+fill 108 124 587 108 124 596 stone
+108 124 597 grass_block[snowy=false]
+108 124 598 leaf_litter[facing=east,segment_amount=1]
+108 124 599 leaf_litter[facing=north,segment_amount=3]
+108 124 605 leaf_litter[facing=west,segment_amount=2]
+108 124 606 grass_block[snowy=false]
+108 124 607 dirt
+fill 108 124 608 108 124 612 stone
+108 124 613 dirt
+fill 108 124 614 108 124 629 stone
+108 124 630 copper_ore
+fill 108 124 631 108 124 634 dirt
+fill 108 124 635 108 124 639 water[level=0]
+fill 109 124 512 109 124 516 grass_block[snowy=false]
+109 124 517 dirt
+109 124 518 dirt
+fill 109 124 519 109 124 521 stone
+109 124 522 dirt
+109 124 523 dirt
+fill 109 124 524 109 124 526 grass_block[snowy=false]
+fill 109 124 527 109 124 555 dirt
+fill 109 124 556 109 124 559 andesite
+fill 109 124 560 109 124 564 granite
+fill 109 124 565 109 124 567 stone
+fill 109 124 568 109 124 572 gravel
+fill 109 124 573 109 124 575 stone
+109 124 576 gravel
+109 124 577 gravel
+fill 109 124 578 109 124 585 dirt
+fill 109 124 586 109 124 594 stone
+109 124 595 copper_ore
+109 124 596 copper_ore
+109 124 597 dirt
+109 124 598 grass_block[snowy=false]
+109 124 599 leaf_litter[facing=south,segment_amount=1]
+109 124 600 leaf_litter[facing=east,segment_amount=1]
+109 124 601 leaf_litter[facing=north,segment_amount=1]
+109 124 602 leaf_litter[facing=north,segment_amount=3]
+109 124 603 leaf_litter[facing=west,segment_amount=3]
+109 124 604 leaf_litter[facing=north,segment_amount=2]
+109 124 606 dirt
+fill 109 124 607 109 124 610 stone
+fill 109 124 611 109 124 613 dirt
+fill 109 124 614 109 124 629 stone
+fill 109 124 630 109 124 634 dirt
+fill 109 124 635 109 124 639 water[level=0]
+fill 110 124 512 110 124 515 grass_block[snowy=false]
+fill 110 124 516 110 124 518 dirt
+fill 110 124 519 110 124 521 stone
+110 124 522 dirt
+110 124 523 dirt
+110 124 524 grass_block[snowy=false]
+fill 110 124 525 110 124 555 dirt
+fill 110 124 556 110 124 559 andesite
+fill 110 124 560 110 124 564 granite
+fill 110 124 565 110 124 568 stone
+fill 110 124 569 110 124 573 gravel
+fill 110 124 574 110 124 576 stone
+110 124 577 gravel
+110 124 578 gravel
+fill 110 124 579 110 124 594 stone
+110 124 595 copper_ore
+110 124 596 copper_ore
+110 124 597 stone
+110 124 598 grass_block[snowy=false]
+110 124 599 grass_block[snowy=false]
+110 124 600 oak_log[axis=y]
+110 124 602 leaf_litter[facing=north,segment_amount=2]
+110 124 605 grass_block[snowy=false]
+fill 110 124 606 110 124 609 stone
+fill 110 124 610 110 124 613 dirt
+fill 110 124 614 110 124 629 stone
+fill 110 124 630 110 124 634 dirt
+110 124 635 sand
+110 124 636 sand
+fill 110 124 637 110 124 639 water[level=0]
+111 124 512 grass_block[snowy=false]
+111 124 513 grass_block[snowy=false]
+fill 111 124 514 111 124 517 dirt
+fill 111 124 518 111 124 522 stone
+fill 111 124 523 111 124 555 dirt
+fill 111 124 556 111 124 560 andesite
+fill 111 124 561 111 124 563 granite
+111 124 564 andesite
+fill 111 124 565 111 124 568 stone
+fill 111 124 569 111 124 573 gravel
+fill 111 124 574 111 124 597 stone
+111 124 598 dirt
+fill 111 124 599 111 124 601 grass_block[snowy=false]
+fill 111 124 602 111 124 604 dirt
+fill 111 124 605 111 124 608 stone
+111 124 609 dirt
+111 124 610 water[level=0]
+111 124 611 water[level=0]
+fill 111 124 612 111 124 629 stone
+fill 111 124 630 111 124 635 dirt
+111 124 636 sand
+111 124 637 sand
+111 124 638 water[level=0]
+111 124 639 water[level=0]
+fill 112 124 512 112 124 516 dirt
+fill 112 124 517 112 124 523 stone
+fill 112 124 524 112 124 555 dirt
+fill 112 124 556 112 124 564 andesite
+fill 112 124 565 112 124 569 stone
+fill 112 124 570 112 124 573 gravel
+fill 112 124 574 112 124 598 stone
+112 124 599 dirt
+112 124 600 grass_block[snowy=false]
+112 124 601 dirt
+fill 112 124 602 112 124 608 stone
+fill 112 124 609 112 124 611 water[level=0]
+fill 112 124 612 112 124 628 stone
+fill 112 124 629 112 124 635 dirt
+112 124 636 sand
+112 124 637 sand
+112 124 638 water[level=0]
+112 124 639 water[level=0]
+fill 113 124 512 113 124 516 dirt
+fill 113 124 517 113 124 526 stone
+113 124 527 dirt
+113 124 528 dirt
+113 124 529 stone
+113 124 530 dirt
+113 124 531 stone
+113 124 532 dirt
+113 124 533 dirt
+fill 113 124 534 113 124 541 stone
+113 124 542 dirt
+113 124 543 dirt
+113 124 544 stone
+113 124 545 stone
+fill 113 124 546 113 124 555 dirt
+fill 113 124 556 113 124 563 andesite
+fill 113 124 564 113 124 570 stone
+fill 113 124 571 113 124 573 gravel
+fill 113 124 574 113 124 587 stone
+fill 113 124 588 113 124 590 andesite
+fill 113 124 591 113 124 598 stone
+113 124 599 dirt
+113 124 600 grass_block[snowy=false]
+fill 113 124 601 113 124 607 stone
+fill 113 124 608 113 124 611 water[level=0]
+fill 113 124 612 113 124 628 stone
+fill 113 124 629 113 124 636 dirt
+113 124 637 sand
+113 124 638 water[level=0]
+113 124 639 water[level=0]
+fill 114 124 512 114 124 542 stone
+114 124 543 dirt
+114 124 544 stone
+fill 114 124 545 114 124 555 dirt
+114 124 556 stone
+fill 114 124 557 114 124 563 andesite
+fill 114 124 564 114 124 567 stone
+fill 114 124 569 114 124 571 stone
+114 124 572 gravel
+114 124 573 gravel
+fill 114 124 574 114 124 587 stone
+fill 114 124 588 114 124 591 andesite
+fill 114 124 592 114 124 598 stone
+114 124 599 dirt
+114 124 600 dirt
+fill 114 124 601 114 124 606 stone
+fill 114 124 607 114 124 610 water[level=0]
+fill 114 124 611 114 124 620 stone
+114 124 621 dirt
+114 124 622 dirt
+fill 114 124 623 114 124 628 stone
+fill 114 124 629 114 124 634 dirt
+114 124 635 sand
+114 124 636 dirt
+114 124 637 dirt
+114 124 638 water[level=0]
+114 124 639 water[level=0]
+fill 115 124 512 115 124 547 stone
+fill 115 124 548 115 124 550 dirt
+115 124 551 stone
+115 124 552 dirt
+fill 115 124 553 115 124 568 stone
+115 124 569 copper_ore
+fill 115 124 570 115 124 577 stone
+fill 115 124 578 115 124 581 dirt
+fill 115 124 582 115 124 587 stone
+fill 115 124 588 115 124 597 andesite
+115 124 598 stone
+115 124 599 stone
+115 124 600 dirt
+fill 115 124 601 115 124 606 stone
+fill 115 124 607 115 124 609 water[level=0]
+fill 115 124 610 115 124 618 stone
+115 124 619 dirt
+115 124 620 stone
+115 124 621 dirt
+fill 115 124 622 115 124 624 stone
+115 124 625 dirt
+115 124 626 stone
+fill 115 124 627 115 124 632 dirt
+fill 115 124 633 115 124 637 sand
+115 124 638 water[level=0]
+115 124 639 water[level=0]
+fill 116 124 512 116 124 542 stone
+fill 116 124 543 116 124 546 copper_ore
+fill 116 124 547 116 124 550 stone
+116 124 551 dirt
+fill 116 124 552 116 124 577 stone
+fill 116 124 578 116 124 582 dirt
+fill 116 124 583 116 124 586 stone
+fill 116 124 587 116 124 599 andesite
+fill 116 124 600 116 124 605 stone
+fill 116 124 606 116 124 608 water[level=0]
+fill 116 124 609 116 124 618 stone
+fill 116 124 619 116 124 632 dirt
+fill 116 124 633 116 124 637 sand
+116 124 638 water[level=0]
+116 124 639 water[level=0]
+fill 117 124 512 117 124 521 stone
+fill 117 124 522 117 124 542 stone
+fill 117 124 543 117 124 546 copper_ore
+fill 117 124 547 117 124 551 stone
+117 124 552 gravel
+fill 117 124 553 117 124 578 stone
+fill 117 124 579 117 124 583 dirt
+117 124 584 stone
+fill 117 124 585 117 124 602 andesite
+fill 117 124 603 117 124 605 stone
+117 124 606 water[level=0]
+117 124 607 water[level=0]
+fill 117 124 608 117 124 616 stone
+fill 117 124 617 117 124 631 dirt
+fill 117 124 632 117 124 637 sand
+117 124 638 water[level=0]
+117 124 639 water[level=0]
+fill 118 124 512 118 124 578 stone
+fill 118 124 579 118 124 583 dirt
+fill 118 124 584 118 124 602 andesite
+fill 118 124 603 118 124 605 stone
+118 124 606 water[level=0]
+fill 118 124 607 118 124 616 stone
+fill 118 124 617 118 124 632 dirt
+fill 118 124 633 118 124 637 sand
+118 124 638 water[level=0]
+118 124 639 water[level=0]
+fill 119 124 512 119 124 550 stone
+119 124 551 gravel
+119 124 552 gravel
+fill 119 124 553 119 124 579 stone
+fill 119 124 580 119 124 584 dirt
+fill 119 124 585 119 124 588 andesite
+119 124 589 coal_ore
+fill 119 124 590 119 124 602 andesite
+fill 119 124 603 119 124 605 stone
+119 124 606 water[level=0]
+fill 119 124 607 119 124 614 stone
+fill 119 124 615 119 124 632 dirt
+fill 119 124 633 119 124 637 sand
+119 124 638 water[level=0]
+119 124 639 water[level=0]
+fill 120 124 512 120 124 550 stone
+120 124 551 gravel
+120 124 552 gravel
+fill 120 124 553 120 124 555 stone
+120 124 556 diorite
+fill 120 124 557 120 124 579 stone
+fill 120 124 580 120 124 585 dirt
+120 124 586 andesite
+fill 120 124 587 120 124 589 coal_ore
+fill 120 124 590 120 124 601 andesite
+fill 120 124 602 120 124 612 stone
+fill 120 124 613 120 124 634 dirt
+120 124 635 sand
+120 124 636 dirt
+fill 120 124 637 120 124 639 water[level=0]
+fill 121 124 512 121 124 550 stone
+121 124 551 gravel
+121 124 552 gravel
+fill 121 124 553 121 124 557 diorite
+fill 121 124 558 121 124 580 stone
+fill 121 124 581 121 124 585 dirt
+fill 121 124 586 121 124 588 coal_ore
+fill 121 124 589 121 124 599 andesite
+fill 121 124 600 121 124 604 stone
+121 124 605 water[level=0]
+fill 121 124 606 121 124 611 stone
+fill 121 124 612 121 124 636 dirt
+fill 121 124 637 121 124 639 water[level=0]
+fill 122 124 512 122 124 550 stone
+122 124 551 gravel
+122 124 552 gravel
+fill 122 124 553 122 124 557 diorite
+fill 122 124 558 122 124 578 stone
+fill 122 124 579 122 124 581 granite
+fill 122 124 582 122 124 584 dirt
+122 124 585 granite
+122 124 586 coal_ore
+122 124 587 coal_ore
+122 124 588 granite
+fill 122 124 589 122 124 597 andesite
+fill 122 124 598 122 124 610 stone
+122 124 611 dirt
+122 124 612 stone
+fill 122 124 613 122 124 636 dirt
+fill 122 124 637 122 124 639 water[level=0]
+fill 123 124 512 123 124 549 stone
+fill 123 124 550 123 124 557 diorite
+123 124 558 stone
+123 124 559 stone
+fill 123 124 565 123 124 576 stone
+fill 123 124 577 123 124 589 granite
+fill 123 124 590 123 124 595 andesite
+fill 123 124 596 123 124 603 stone
+fill 123 124 605 123 124 610 stone
+fill 123 124 611 123 124 636 dirt
+fill 123 124 637 123 124 639 water[level=0]
+fill 124 124 512 124 124 548 stone
+fill 124 124 549 124 124 557 diorite
+124 124 558 stone
+fill 124 124 566 124 124 574 stone
+fill 124 124 575 124 124 588 granite
+124 124 589 stone
+fill 124 124 590 124 124 594 andesite
+fill 124 124 595 124 124 597 stone
+124 124 598 dirt
+124 124 599 grass_block[snowy=false]
+fill 124 124 605 124 124 611 stone
+fill 124 124 612 124 124 635 dirt
+fill 124 124 636 124 124 639 water[level=0]
+fill 125 124 512 125 124 547 stone
+fill 125 124 548 125 124 556 diorite
+125 124 557 stone
+fill 125 124 566 125 124 572 stone
+fill 125 124 573 125 124 588 granite
+125 124 589 stone
+125 124 590 stone
+fill 125 124 591 125 124 594 andesite
+fill 125 124 595 125 124 597 stone
+125 124 598 dirt
+125 124 599 grass_block[snowy=false]
+fill 125 124 605 125 124 610 stone
+125 124 611 coal_ore
+fill 125 124 612 125 124 633 dirt
+125 124 634 dirt
+125 124 635 dirt
+fill 125 124 636 125 124 639 water[level=0]
+fill 126 124 512 126 124 547 stone
+fill 126 124 548 126 124 556 diorite
+fill 126 124 566 126 124 571 stone
+fill 126 124 577 126 124 586 granite
+fill 126 124 587 126 124 591 stone
+fill 126 124 592 126 124 594 andesite
+fill 126 124 595 126 124 597 stone
+126 124 598 dirt
+fill 126 124 605 126 124 611 stone
+fill 126 124 612 126 124 635 dirt
+fill 126 124 636 126 124 639 water[level=0]
+fill 127 124 512 127 124 547 stone
+fill 127 124 548 127 124 555 diorite
+fill 127 124 567 127 124 571 stone
+fill 127 124 577 127 124 585 granite
+fill 127 124 586 127 124 597 stone
+127 124 598 dirt
+fill 127 124 605 127 124 612 stone
+fill 127 124 613 127 124 633 dirt
+fill 127 124 634 127 124 639 water[level=0]
+fill 0 125 512 0 125 537 water[level=0]
+fill 0 125 538 0 125 547 dirt
+fill 0 125 548 0 125 639 water[level=0]
+fill 1 125 512 1 125 520 water[level=0]
+1 125 521 tall_seagrass[half=upper]
+fill 1 125 522 1 125 536 water[level=0]
+fill 1 125 537 1 125 548 dirt
+1 125 549 seagrass
+fill 1 125 550 1 125 633 water[level=0]
+1 125 634 tall_seagrass[half=upper]
+fill 1 125 635 1 125 639 water[level=0]
+fill 2 125 512 2 125 515 water[level=0]
+2 125 516 dirt
+fill 2 125 517 2 125 519 sand
+fill 2 125 520 2 125 534 water[level=0]
+fill 2 125 535 2 125 550 dirt
+fill 2 125 551 2 125 557 water[level=0]
+2 125 558 tall_seagrass[half=lower]
+fill 2 125 559 2 125 562 water[level=0]
+2 125 563 tall_seagrass[half=upper]
+fill 2 125 564 2 125 639 water[level=0]
+fill 3 125 512 3 125 514 water[level=0]
+3 125 515 dirt
+fill 3 125 516 3 125 521 sand
+3 125 522 water[level=0]
+3 125 523 water[level=0]
+3 125 524 tall_seagrass[half=upper]
+3 125 525 tall_seagrass[half=upper]
+3 125 526 water[level=0]
+3 125 527 tall_seagrass[half=upper]
+3 125 528 water[level=0]
+3 125 529 tall_seagrass[half=upper]
+fill 3 125 530 3 125 533 water[level=0]
+fill 3 125 534 3 125 549 dirt
+3 125 550 gravel
+3 125 551 water[level=0]
+3 125 552 water[level=0]
+fill 3 125 553 3 125 559 sand
+3 125 560 dirt
+3 125 561 seagrass
+3 125 562 seagrass
+fill 3 125 563 3 125 639 water[level=0]
+4 125 512 water[level=0]
+4 125 513 water[level=0]
+fill 4 125 514 4 125 516 dirt
+fill 4 125 517 4 125 523 sand
+fill 4 125 524 4 125 530 water[level=0]
+fill 4 125 531 4 125 548 dirt
+fill 4 125 549 4 125 552 water[level=0]
+fill 4 125 553 4 125 559 sand
+fill 4 125 560 4 125 563 dirt
+4 125 564 water[level=0]
+4 125 565 water[level=0]
+4 125 566 seagrass
+fill 4 125 567 4 125 620 water[level=0]
+4 125 621 tall_seagrass[half=upper]
+fill 4 125 622 4 125 637 water[level=0]
+4 125 638 tall_seagrass[half=upper]
+4 125 639 water[level=0]
+5 125 512 water[level=0]
+5 125 513 water[level=0]
+5 125 514 sand
+5 125 515 sand
+5 125 516 dirt
+fill 5 125 517 5 125 530 sand
+fill 5 125 531 5 125 548 dirt
+fill 5 125 549 5 125 553 water[level=0]
+fill 5 125 554 5 125 558 sand
+fill 5 125 559 5 125 564 dirt
+5 125 565 sand
+fill 5 125 566 5 125 585 water[level=0]
+fill 5 125 586 5 125 639 water[level=0]
+6 125 512 water[level=0]
+fill 6 125 513 6 125 525 sand
+6 125 526 dirt
+6 125 527 dirt
+6 125 528 sand
+fill 6 125 529 6 125 548 dirt
+fill 6 125 549 6 125 553 water[level=0]
+6 125 554 dirt
+6 125 555 dirt
+6 125 556 sand
+fill 6 125 557 6 125 565 dirt
+6 125 566 tall_seagrass[half=lower]
+fill 6 125 567 6 125 585 water[level=0]
+6 125 586 tall_seagrass[half=upper]
+fill 6 125 587 6 125 636 water[level=0]
+6 125 637 tall_seagrass[half=upper]
+6 125 638 water[level=0]
+6 125 639 water[level=0]
+7 125 512 water[level=0]
+fill 7 125 513 7 125 524 sand
+fill 7 125 525 7 125 538 dirt
+7 125 539 water[level=0]
+7 125 540 stone
+7 125 541 water[level=0]
+fill 7 125 542 7 125 547 dirt
+fill 7 125 548 7 125 553 water[level=0]
+fill 7 125 554 7 125 565 dirt
+7 125 566 sand
+7 125 567 sand
+fill 7 125 568 7 125 579 water[level=0]
+7 125 580 tall_seagrass[half=upper]
+fill 7 125 581 7 125 632 water[level=0]
+7 125 633 tall_seagrass[half=upper]
+fill 7 125 634 7 125 637 water[level=0]
+7 125 638 tall_seagrass[half=upper]
+7 125 639 seagrass
+8 125 512 water[level=0]
+fill 8 125 513 8 125 517 sand
+fill 8 125 518 8 125 520 dirt
+8 125 521 sand
+fill 8 125 522 8 125 535 dirt
+fill 8 125 536 8 125 539 water[level=0]
+fill 8 125 540 8 125 544 stone
+fill 8 125 545 8 125 547 dirt
+fill 8 125 548 8 125 553 water[level=0]
+fill 8 125 554 8 125 567 dirt
+8 125 568 sand
+fill 8 125 569 8 125 581 water[level=0]
+8 125 582 seagrass
+8 125 583 tall_seagrass[half=lower]
+8 125 584 seagrass
+8 125 585 water[level=0]
+8 125 586 water[level=0]
+8 125 587 seagrass
+8 125 588 tall_seagrass[half=upper]
+fill 8 125 589 8 125 630 water[level=0]
+8 125 631 tall_seagrass[half=upper]
+8 125 632 water[level=0]
+8 125 633 water[level=0]
+8 125 634 tall_seagrass[half=upper]
+fill 8 125 635 8 125 637 water[level=0]
+8 125 638 tall_seagrass[half=upper]
+8 125 639 water[level=0]
+fill 9 125 512 9 125 517 sand
+fill 9 125 518 9 125 533 dirt
+fill 9 125 534 9 125 538 water[level=0]
+fill 9 125 539 9 125 547 stone
+fill 9 125 548 9 125 553 water[level=0]
+fill 9 125 554 9 125 562 stone
+fill 9 125 563 9 125 569 dirt
+9 125 570 sand
+fill 9 125 571 9 125 581 water[level=0]
+9 125 582 seagrass
+9 125 583 seagrass

@@ -1,0 +1,578 @@
+fill 525 127 74 525 127 80 cobblestone
+526 127 0 short_grass
+fill 526 127 3 526 127 5 grass_block[snowy=false]
+526 127 6 tall_grass[half=lower]
+526 127 72 oak_door[facing=south,half=lower,hinge=left,open=false,powered=false]
+526 127 74 cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+fill 526 127 75 526 127 80 cobblestone
+527 127 4 grass_block[snowy=false]
+fill 527 127 5 527 127 7 short_grass
+527 127 10 short_grass
+fill 527 127 72 527 127 80 cobblestone
+528 127 4 grass_block[snowy=false]
+528 127 5 short_grass
+528 127 8 short_grass
+528 127 71 cobblestone
+528 127 72 cobblestone
+528 127 73 mossy_cobblestone
+fill 528 127 74 528 127 79 cobblestone
+fill 529 127 0 529 127 2 short_grass
+529 127 4 short_grass
+529 127 6 short_grass
+fill 529 127 73 529 127 75 cobblestone
+531 127 6 short_grass
+532 127 4 short_grass
+533 127 2 short_grass
+533 127 4 short_grass
+534 127 2 short_grass
+534 127 32 short_grass
+534 127 33 short_grass
+534 127 42 sand
+534 127 43 grass_block[snowy=false]
+534 127 44 grass_block[snowy=false]
+535 127 0 short_grass
+535 127 34 short_grass
+536 127 35 short_grass
+536 127 39 short_grass
+536 127 40 short_grass
+537 127 40 short_grass
+538 127 39 short_grass
+538 127 41 short_grass
+538 127 42 short_grass
+539 127 42 short_grass
+540 127 41 short_grass
+540 127 43 short_grass
+553 127 104 oak_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+553 127 110 short_grass
+554 127 102 oak_log[axis=y]
+fill 554 127 103 554 127 105 cobblestone
+554 127 106 oak_log[axis=y]
+555 127 102 cobblestone
+fill 555 127 103 555 127 105 oak_planks
+555 127 106 cobblestone
+556 127 102 mossy_cobblestone
+fill 556 127 103 556 127 105 oak_planks
+556 127 106 cobblestone
+557 127 102 cobblestone
+fill 557 127 103 557 127 105 oak_planks
+557 127 106 cobblestone
+557 127 119 short_grass
+558 127 100 short_grass
+558 127 102 oak_log[axis=y]
+fill 558 127 103 558 127 105 cobblestone
+558 127 106 oak_log[axis=y]
+562 127 1 short_grass
+564 127 1 short_grass
+564 127 2 short_grass
+564 127 11 grass_block[snowy=false]
+fill 564 127 12 564 127 16 sand
+565 127 10 grass_block[snowy=false]
+565 127 11 grass_block[snowy=false]
+fill 565 127 12 565 127 17 sand
+fill 566 127 0 566 127 2 grass_block[snowy=false]
+fill 566 127 9 566 127 11 grass_block[snowy=false]
+fill 566 127 12 566 127 18 sand
+fill 567 127 0 567 127 6 sand
+567 127 10 grass_block[snowy=false]
+fill 567 127 11 567 127 19 sand
+fill 568 127 0 568 127 6 sand
+fill 568 127 11 568 127 19 sand
+fill 569 127 0 569 127 7 sand
+fill 569 127 10 569 127 12 sand
+569 127 13 sandstone
+569 127 14 sand
+569 127 15 sandstone
+569 127 16 sandstone
+fill 569 127 17 569 127 19 sand
+fill 570 127 0 570 127 11 sand
+570 127 12 sandstone
+570 127 13 stone
+570 127 14 stone
+570 127 15 sandstone
+570 127 16 stone
+fill 570 127 17 570 127 19 sand
+fill 571 127 0 571 127 10 sand
+571 127 11 sandstone
+fill 571 127 12 571 127 16 stone
+fill 571 127 17 571 127 20 sand
+fill 572 127 0 572 127 9 sand
+572 127 10 sandstone
+572 127 11 sandstone
+572 127 12 coal_ore
+fill 572 127 13 572 127 17 stone
+fill 572 127 18 572 127 20 sand
+573 127 0 sandstone
+fill 573 127 1 573 127 6 sand
+fill 573 127 7 573 127 10 sandstone
+573 127 11 coal_ore
+573 127 12 coal_ore
+fill 573 127 13 573 127 16 stone
+573 127 17 copper_ore
+fill 573 127 18 573 127 21 sand
+fill 574 127 0 574 127 11 sandstone
+fill 574 127 12 574 127 16 stone
+574 127 17 copper_ore
+574 127 18 copper_ore
+fill 574 127 19 574 127 21 sand
+fill 574 127 22 574 127 24 stone
+fill 575 127 0 575 127 4 sand
+fill 575 127 5 575 127 13 sandstone
+575 127 14 copper_ore
+575 127 15 copper_ore
+575 127 16 stone
+575 127 17 copper_ore
+575 127 18 stone
+575 127 19 stone
+575 127 20 sand
+fill 575 127 21 575 127 25 stone
+fill 575 127 26 575 127 28 sand
+fill 576 127 0 576 127 5 sand
+fill 576 127 6 576 127 12 sandstone
+576 127 13 copper_ore
+fill 576 127 14 576 127 25 stone
+fill 576 127 26 576 127 30 sand
+fill 577 127 0 577 127 5 sand
+fill 577 127 6 577 127 11 sandstone
+fill 577 127 12 577 127 19 stone
+fill 577 127 20 577 127 22 dirt
+fill 577 127 23 577 127 27 stone
+fill 577 127 28 577 127 31 sand
+fill 578 127 0 578 127 4 sand
+fill 578 127 5 578 127 8 stone
+578 127 9 sandstone
+578 127 10 sandstone
+fill 578 127 11 578 127 19 stone
+fill 578 127 20 578 127 23 dirt
+fill 578 127 24 578 127 28 stone
+fill 578 127 29 578 127 35 sand
+578 127 36 stone
+579 127 0 stone
+fill 579 127 1 579 127 4 sand
+fill 579 127 5 579 127 19 stone
+fill 579 127 20 579 127 24 dirt
+fill 579 127 25 579 127 29 stone
+fill 579 127 30 579 127 33 sand
+579 127 34 stone
+579 127 35 stone
+580 127 0 stone
+fill 580 127 1 580 127 4 sand
+fill 580 127 5 580 127 20 stone
+fill 580 127 21 580 127 25 dirt
+fill 580 127 26 580 127 34 stone
+581 127 0 stone
+fill 581 127 1 581 127 4 sand
+fill 581 127 5 581 127 21 stone
+fill 581 127 22 581 127 24 dirt
+fill 581 127 25 581 127 34 stone
+fill 582 127 0 582 127 22 stone
+582 127 23 dirt
+582 127 24 stone
+582 127 25 dirt
+fill 582 127 26 582 127 34 stone
+fill 583 127 0 583 127 33 stone
+fill 584 127 0 584 127 33 stone
+fill 585 127 0 585 127 33 stone
+fill 586 127 0 586 127 33 stone
+fill 587 127 0 587 127 32 stone
+fill 588 127 0 588 127 31 stone
+fill 589 127 0 589 127 30 stone
+fill 590 127 0 590 127 10 stone
+590 127 17 stone
+590 127 18 stone
+fill 590 127 19 590 127 29 stone
+fill 591 127 0 591 127 9 stone
+fill 591 127 19 591 127 28 stone
+fill 592 127 0 592 127 2 stone
+fill 592 127 20 592 127 24 stone
+593 127 0 stone
+594 127 0 stone
+fill 512 128 1 512 128 3 short_grass
+512 128 5 short_grass
+512 128 104 oak_log[axis=y]
+512 128 105 oak_log[axis=z]
+512 128 106 glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+512 128 107 oak_log[axis=z]
+512 128 108 oak_log[axis=z]
+512 128 109 oak_door[facing=west,half=upper,hinge=left,open=false,powered=false]
+512 128 110 oak_log[axis=z]
+512 128 111 oak_log[axis=z]
+512 128 112 glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+512 128 113 oak_log[axis=z]
+512 128 114 oak_log[axis=y]
+513 128 0 tall_grass[half=lower]
+513 128 3 short_grass
+513 128 4 short_grass
+513 128 8 short_grass
+513 128 31 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+513 128 32 torch
+513 128 33 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+513 128 42 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+513 128 43 torch
+513 128 44 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+514 128 1 short_grass
+514 128 4 short_grass
+514 128 5 short_grass
+514 128 7 short_grass
+514 128 32 tall_grass[half=upper]
+515 128 1 short_grass
+515 128 3 short_grass
+515 128 6 short_grass
+515 128 7 tall_grass[half=lower]
+515 128 36 bell[attachment=floor,facing=east,powered=false]
+515 128 39 oak_log[axis=y]
+515 128 43 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+515 128 104 oak_log[axis=y]
+516 128 0 short_grass
+516 128 2 tall_grass[half=lower]
+516 128 3 short_grass
+516 128 30 tall_grass[half=upper]
+517 128 1 short_grass
+517 128 2 tall_grass[half=lower]
+fill 517 128 3 517 128 5 short_grass
+517 128 7 short_grass
+517 128 9 short_grass
+517 128 35 tall_grass[half=upper]
+518 128 1 tall_grass[half=lower]
+518 128 4 tall_grass[half=lower]
+518 128 5 short_grass
+518 128 6 tall_grass[half=lower]
+519 128 2 tall_grass[half=lower]
+519 128 7 short_grass
+520 128 2 tall_grass[half=lower]
+520 128 3 short_grass
+520 128 9 tall_grass[half=lower]
+521 128 1 tall_grass[half=lower]
+521 128 6 tall_grass[half=lower]
+523 128 2 tall_grass[half=upper]
+523 128 4 short_grass
+523 128 5 tall_grass[half=lower]
+fill 523 128 73 523 128 75 cobblestone
+524 128 4 short_grass
+524 128 71 cobblestone_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=none]
+524 128 72 cobblestone
+524 128 73 cobblestone
+524 128 74 cobblestone_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+fill 524 128 75 524 128 79 cobblestone
+525 128 2 tall_grass[half=upper]
+525 128 72 cobblestone
+525 128 75 ladder[facing=east,waterlogged=false]
+525 128 77 cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+525 128 78 cobblestone
+525 128 79 mossy_cobblestone
+525 128 80 cobblestone
+526 128 6 tall_grass[half=upper]
+526 128 72 oak_door[facing=south,half=upper,hinge=left,open=false,powered=false]
+526 128 78 cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+526 128 79 cobblestone
+526 128 80 cobblestone
+527 128 72 cobblestone
+527 128 75 brewing_stand[has_bottle_0=false,has_bottle_1=false,has_bottle_2=false]
+527 128 77 cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+527 128 78 mossy_cobblestone
+527 128 79 cobblestone
+527 128 80 cobblestone
+528 128 71 cobblestone_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=none]
+528 128 72 cobblestone
+528 128 73 mossy_cobblestone
+528 128 74 cobblestone_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+fill 528 128 75 528 128 78 cobblestone
+528 128 79 mossy_cobblestone
+fill 529 128 73 529 128 75 cobblestone
+554 128 102 oak_log[axis=y]
+554 128 103 mossy_cobblestone
+554 128 104 oak_door[facing=east,half=lower,hinge=right,open=false,powered=false]
+554 128 105 cobblestone
+554 128 106 oak_log[axis=y]
+555 128 102 cobblestone
+555 128 105 cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+555 128 106 cobblestone
+556 128 102 cobblestone
+556 128 103 white_bed[facing=east,occupied=false,part=foot]
+556 128 105 cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+556 128 106 cobblestone
+557 128 102 cobblestone
+557 128 103 white_bed[facing=east,occupied=false,part=head]
+557 128 105 cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+557 128 106 cobblestone
+558 128 102 oak_log[axis=y]
+fill 558 128 103 558 128 105 cobblestone
+558 128 106 oak_log[axis=y]
+566 128 15 sand
+566 128 16 sand
+567 128 11 grass_block[snowy=false]
+567 128 12 grass_block[snowy=false]
+fill 567 128 13 567 128 17 sand
+568 128 0 sand
+568 128 1 sand
+fill 568 128 11 568 128 17 sand
+fill 569 128 0 569 128 2 sand
+fill 569 128 11 569 128 18 sand
+fill 570 128 0 570 128 3 sand
+fill 570 128 5 570 128 11 sand
+fill 570 128 12 570 128 14 gravel
+570 128 15 stone
+fill 570 128 16 570 128 18 sand
+fill 571 128 0 571 128 11 sand
+571 128 12 gravel
+571 128 13 gravel
+fill 571 128 14 571 128 16 stone
+fill 571 128 17 571 128 19 sand
+fill 572 128 0 572 128 11 sand
+572 128 12 gravel
+fill 572 128 13 572 128 17 stone
+572 128 18 sand
+572 128 19 sand
+573 128 0 sandstone
+fill 573 128 1 573 128 11 sand
+573 128 12 coal_ore
+fill 573 128 13 573 128 18 stone
+573 128 19 sand
+573 128 20 sand
+fill 574 128 0 574 128 10 sand
+574 128 11 sandstone
+fill 574 128 12 574 128 19 stone
+574 128 20 sand
+574 128 21 sand
+fill 575 128 0 575 128 11 sand
+575 128 12 sandstone
+fill 575 128 13 575 128 15 copper_ore
+575 128 16 stone
+575 128 17 copper_ore
+fill 575 128 18 575 128 22 stone
+fill 576 128 0 576 128 12 sand
+576 128 13 copper_ore
+fill 576 128 14 576 128 18 stone
+fill 576 128 19 576 128 21 dirt
+fill 576 128 22 576 128 26 stone
+576 128 27 sand
+576 128 28 sand
+fill 577 128 0 577 128 11 sand
+fill 577 128 12 577 128 18 stone
+fill 577 128 19 577 128 23 dirt
+fill 577 128 24 577 128 27 stone
+fill 577 128 28 577 128 30 sand
+fill 578 128 0 578 128 4 sand
+578 128 5 stone
+fill 578 128 6 578 128 10 sand
+fill 578 128 11 578 128 18 stone
+fill 578 128 19 578 128 24 dirt
+fill 578 128 25 578 128 28 stone
+fill 578 128 29 578 128 33 sand
+fill 579 128 0 579 128 4 sand
+fill 579 128 5 579 128 8 stone
+579 128 9 sand
+579 128 10 sand
+fill 579 128 11 579 128 19 stone
+fill 579 128 20 579 128 25 dirt
+fill 579 128 26 579 128 31 stone
+579 128 32 sand
+579 128 33 stone
+fill 580 128 0 580 128 4 sand
+fill 580 128 5 580 128 19 stone
+fill 580 128 20 580 128 25 dirt
+fill 580 128 26 580 128 33 stone
+581 128 0 stone
+581 128 1 stone
+581 128 2 sand
+581 128 3 sand
+fill 581 128 4 581 128 20 stone
+fill 581 128 21 581 128 26 dirt
+fill 581 128 27 581 128 33 stone
+fill 582 128 0 582 128 21 stone
+fill 582 128 22 582 128 26 dirt
+fill 582 128 27 582 128 33 stone
+fill 583 128 0 583 128 24 stone
+583 128 25 dirt
+583 128 26 dirt
+fill 583 128 27 583 128 33 stone
+fill 584 128 0 584 128 33 stone
+fill 585 128 0 585 128 32 stone
+fill 586 128 0 586 128 32 stone
+fill 587 128 0 587 128 31 stone
+fill 588 128 0 588 128 30 stone
+fill 589 128 0 589 128 11 stone
+fill 589 128 17 589 128 29 stone
+fill 590 128 0 590 128 10 stone
+fill 590 128 18 590 128 28 stone
+fill 591 128 0 591 128 8 stone
+fill 591 128 19 591 128 26 stone
+592 128 0 stone
+592 128 1 stone
+fill 592 128 20 592 128 24 stone
+512 129 103 oak_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+512 129 104 oak_log[axis=y]
+fill 512 129 105 512 129 113 oak_planks
+512 129 114 oak_log[axis=y]
+512 129 115 oak_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+513 129 0 tall_grass[half=upper]
+513 129 31 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+513 129 33 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+513 129 38 oak_leaves[distance=3,persistent=false,waterlogged=false]
+513 129 39 oak_leaves[distance=2,persistent=false,waterlogged=false]
+513 129 40 oak_leaves[distance=3,persistent=false,waterlogged=false]
+513 129 42 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+513 129 44 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+513 129 102 oak_leaves[distance=4,persistent=false,waterlogged=false]
+fill 513 129 103 513 129 106 oak_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+513 129 107 oak_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+513 129 109 wall_torch[facing=east]
+513 129 111 oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+fill 513 129 112 513 129 115 oak_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+514 129 37 oak_leaves[distance=3,persistent=false,waterlogged=false]
+514 129 38 oak_leaves[distance=2,persistent=false,waterlogged=false]
+514 129 39 oak_leaves[distance=1,persistent=false,waterlogged=false]
+514 129 40 oak_leaves[distance=2,persistent=false,waterlogged=false]
+514 129 41 oak_leaves[distance=3,persistent=false,waterlogged=false]
+514 129 102 oak_leaves[distance=3,persistent=false,waterlogged=false]
+514 129 103 oak_leaves[distance=2,persistent=false,waterlogged=false]
+514 129 104 oak_leaves[distance=1,persistent=false,waterlogged=false]
+514 129 105 oak_leaves[distance=2,persistent=false,waterlogged=false]
+514 129 106 oak_leaves[distance=3,persistent=false,waterlogged=false]
+515 129 7 tall_grass[half=upper]
+515 129 37 oak_leaves[distance=2,persistent=false,waterlogged=false]
+515 129 38 oak_leaves[distance=1,persistent=false,waterlogged=false]
+515 129 39 oak_log[axis=y]
+515 129 40 oak_leaves[distance=1,persistent=false,waterlogged=false]
+515 129 41 oak_leaves[distance=2,persistent=false,waterlogged=false]
+515 129 43 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+515 129 102 oak_leaves[distance=2,persistent=false,waterlogged=false]
+515 129 103 oak_leaves[distance=1,persistent=false,waterlogged=false]
+515 129 104 oak_log[axis=y]
+515 129 105 oak_leaves[distance=1,persistent=false,waterlogged=false]
+515 129 106 oak_leaves[distance=2,persistent=false,waterlogged=false]
+516 129 2 tall_grass[half=upper]
+516 129 37 oak_leaves[distance=3,persistent=false,waterlogged=false]
+516 129 38 oak_leaves[distance=2,persistent=false,waterlogged=false]
+516 129 39 oak_leaves[distance=1,persistent=false,waterlogged=false]
+516 129 40 oak_leaves[distance=2,persistent=false,waterlogged=false]
+516 129 41 oak_leaves[distance=3,persistent=false,waterlogged=false]
+516 129 102 oak_leaves[distance=3,persistent=false,waterlogged=false]
+516 129 103 oak_leaves[distance=2,persistent=false,waterlogged=false]
+516 129 104 oak_leaves[distance=1,persistent=false,waterlogged=false]
+516 129 105 oak_leaves[distance=2,persistent=false,waterlogged=false]
+516 129 106 oak_leaves[distance=3,persistent=false,waterlogged=false]
+517 129 2 tall_grass[half=upper]
+517 129 38 oak_leaves[distance=3,persistent=false,waterlogged=false]
+517 129 39 oak_leaves[distance=2,persistent=false,waterlogged=false]
+517 129 40 oak_leaves[distance=3,persistent=false,waterlogged=false]
+517 129 103 oak_leaves[distance=3,persistent=false,waterlogged=false]
+517 129 104 oak_leaves[distance=2,persistent=false,waterlogged=false]
+517 129 105 oak_leaves[distance=3,persistent=false,waterlogged=false]
+518 129 1 tall_grass[half=upper]
+518 129 4 tall_grass[half=upper]
+518 129 6 tall_grass[half=upper]
+519 129 2 tall_grass[half=upper]
+520 129 2 tall_grass[half=upper]
+520 129 9 tall_grass[half=upper]
+521 129 1 tall_grass[half=upper]
+521 129 6 tall_grass[half=upper]
+523 129 5 tall_grass[half=upper]
+523 129 73 cobblestone
+523 129 74 yellow_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+523 129 75 cobblestone
+524 129 71 torch
+524 129 72 cobblestone
+524 129 73 mossy_cobblestone
+fill 524 129 75 524 129 77 cobblestone
+524 129 78 yellow_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+524 129 79 cobblestone
+525 129 72 cobblestone
+525 129 75 ladder[facing=east,waterlogged=false]
+525 129 79 cobblestone_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+525 129 80 cobblestone
+526 129 72 cobblestone
+526 129 73 wall_torch[facing=south]
+526 129 80 yellow_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+527 129 72 cobblestone
+527 129 79 cobblestone_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+527 129 80 cobblestone
+528 129 71 torch
+528 129 72 cobblestone
+528 129 73 cobblestone
+fill 528 129 75 528 129 77 cobblestone
+528 129 78 yellow_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+528 129 79 cobblestone
+529 129 73 cobblestone
+529 129 74 yellow_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+529 129 75 cobblestone
+554 129 102 oak_log[axis=y]
+554 129 103 cobblestone
+554 129 104 oak_door[facing=east,half=upper,hinge=right,open=false,powered=false]
+554 129 105 cobblestone
+554 129 106 oak_log[axis=y]
+555 129 102 oak_log[axis=x]
+555 129 106 oak_log[axis=x]
+556 129 102 glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+556 129 106 glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+557 129 102 oak_log[axis=x]
+557 129 106 oak_log[axis=x]
+558 129 102 oak_log[axis=y]
+558 129 103 cobblestone
+558 129 104 glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+558 129 105 cobblestone
+558 129 106 oak_log[axis=y]
+fill 567 129 13 567 129 16 sand
+fill 568 129 11 568 129 17 sand
+569 129 0 sand
+569 129 1 sand
+fill 569 129 12 569 129 17 sand
+fill 570 129 0 570 129 2 sand
+570 129 9 sand
+fill 570 129 12 570 129 14 gravel
+fill 570 129 15 570 129 17 stone
+570 129 18 sand
+fill 571 129 0 571 129 3 sand
+fill 571 129 5 571 129 10 sand
+fill 571 129 11 571 129 13 gravel
+fill 571 129 14 571 129 18 stone
+fill 572 129 0 572 129 10 sand
+572 129 11 gravel
+572 129 12 gravel
+fill 572 129 13 572 129 18 stone
+fill 573 129 0 573 129 10 sand
+573 129 11 gravel
+fill 573 129 12 573 129 19 stone
+fill 574 129 0 574 129 10 sand
+fill 574 129 11 574 129 19 stone
+fill 575 129 0 575 129 11 sand
+fill 575 129 12 575 129 20 stone
+fill 576 129 0 576 129 13 sand
+fill 576 129 14 576 129 18 stone
+fill 576 129 19 576 129 21 dirt
+fill 577 129 0 577 129 4 sand
+577 129 5 stone
+fill 577 129 6 577 129 13 sand
+fill 577 129 14 577 129 18 stone
+fill 577 129 19 577 129 23 dirt
+fill 577 129 25 577 129 29 sand
+fill 578 129 0 578 129 3 sand
+fill 578 129 4 578 129 8 stone
+fill 578 129 9 578 129 11 sand
+fill 578 129 12 578 129 18 stone
+fill 578 129 19 578 129 24 dirt
+fill 578 129 25 578 129 29 stone
+578 129 30 sand
+578 129 31 sand
+fill 579 129 0 579 129 3 sand
+fill 579 129 4 579 129 9 stone
+579 129 10 sand
+fill 579 129 11 579 129 19 stone
+fill 579 129 20 579 129 25 dirt
+fill 579 129 26 579 129 32 stone
+fill 580 129 0 580 129 3 sand
+fill 580 129 4 580 129 19 stone
+fill 580 129 20 580 129 25 dirt
+fill 580 129 26 580 129 32 stone
+581 129 0 stone
+fill 581 129 1 581 129 3 sand
+fill 581 129 4 581 129 20 stone
+fill 581 129 21 581 129 26 dirt
+fill 581 129 27 581 129 31 stone
+582 129 0 stone
+582 129 1 stone
+582 129 2 sand
+582 129 3 sand
+fill 582 129 4 582 129 21 stone
+fill 582 129 22 582 129 26 dirt
+fill 582 129 27 582 129 31 stone
+fill 583 129 0 583 129 24 stone

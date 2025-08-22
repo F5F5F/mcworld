@@ -1,0 +1,608 @@
+854 152 356 copper_ore
+854 152 357 stone
+854 152 358 stone
+fill 854 152 359 854 152 365 dirt
+fill 854 152 366 854 152 383 stone
+855 152 337 short_grass
+855 152 338 grass_block[snowy=false]
+fill 855 152 339 855 152 344 dirt
+855 152 345 stone
+855 152 346 stone
+855 152 347 dirt
+855 152 348 dirt
+855 152 349 stone
+fill 855 152 350 855 152 353 dirt
+fill 855 152 354 855 152 357 stone
+fill 855 152 358 855 152 369 dirt
+fill 855 152 370 855 152 383 stone
+856 152 337 short_grass
+856 152 338 short_grass
+fill 856 152 339 856 152 346 dirt
+fill 856 152 347 856 152 349 stone
+fill 856 152 350 856 152 354 dirt
+856 152 355 stone
+856 152 356 stone
+fill 856 152 357 856 152 375 dirt
+fill 856 152 376 856 152 378 stone
+856 152 379 dirt
+856 152 380 dirt
+fill 856 152 381 856 152 383 stone
+857 152 332 cherry_log[axis=y]
+857 152 333 cherry_log[axis=z]
+857 152 334 cherry_log[axis=z]
+857 152 337 pink_petals[facing=east,flower_amount=3]
+857 152 339 grass_block[snowy=false]
+fill 857 152 340 857 152 361 dirt
+fill 857 152 362 857 152 366 grass_block[snowy=false]
+fill 857 152 367 857 152 378 dirt
+857 152 379 stone
+857 152 380 stone
+fill 857 152 381 857 152 383 dirt
+858 152 338 pink_petals[facing=north,flower_amount=3]
+858 152 339 grass_block[snowy=false]
+fill 858 152 340 858 152 342 dirt
+858 152 343 grass_block[snowy=false]
+858 152 344 grass_block[snowy=false]
+858 152 345 grass_block[snowy=false]
+fill 858 152 346 858 152 359 dirt
+858 152 360 snow_block
+fill 858 152 361 858 152 364 snow[layers=1]
+858 152 369 grass_block[snowy=false]
+858 152 370 dirt
+858 152 371 dirt
+fill 858 152 372 858 152 374 snow_block
+858 152 375 dirt
+858 152 376 dirt
+858 152 377 snow_block
+fill 858 152 378 858 152 383 dirt
+859 152 340 pink_petals[facing=north,flower_amount=3]
+859 152 341 pink_petals[facing=east,flower_amount=1]
+859 152 342 short_grass
+859 152 345 pink_petals[facing=south,flower_amount=4]
+859 152 347 grass_block[snowy=false]
+859 152 348 grass_block[snowy=false]
+fill 859 152 349 859 152 358 dirt
+859 152 359 grass_block[snowy=false]
+859 152 361 snow[layers=1]
+859 152 362 snow[layers=1]
+fill 859 152 367 859 152 370 snow[layers=1]
+859 152 371 grass_block[snowy=false]
+fill 859 152 372 859 152 379 snow_block
+859 152 380 powder_snow
+fill 859 152 381 859 152 383 dirt
+860 152 350 grass_block[snowy=false]
+fill 860 152 351 860 152 357 dirt
+860 152 358 grass_block[snowy=false]
+fill 860 152 370 860 152 372 snow[layers=1]
+fill 860 152 373 860 152 379 snow_block
+860 152 380 powder_snow
+860 152 381 powder_snow
+860 152 382 dirt
+860 152 383 dirt
+861 152 351 grass_block[snowy=false]
+fill 861 152 352 861 152 355 snow_block
+861 152 356 dirt
+861 152 357 grass_block[snowy=false]
+861 152 359 short_grass
+861 152 372 snow[layers=1]
+861 152 373 snow[layers=1]
+fill 861 152 374 861 152 380 snow_block
+861 152 381 powder_snow
+861 152 382 grass_block[snowy=false]
+861 152 383 grass_block[snowy=false]
+fill 862 152 351 862 152 357 snow[layers=1]
+862 152 373 snow[layers=1]
+862 152 374 snow[layers=1]
+fill 862 152 375 862 152 378 snow_block
+fill 862 152 379 862 152 381 powder_snow
+fill 863 152 352 863 152 356 snow[layers=1]
+863 152 374 snow[layers=1]
+fill 863 152 375 863 152 379 snow_block
+863 152 380 powder_snow
+863 152 381 powder_snow
+864 152 374 snow[layers=1]
+fill 864 152 375 864 152 380 snow_block
+864 152 381 powder_snow
+864 152 382 powder_snow
+865 152 374 snow[layers=1]
+fill 865 152 375 865 152 380 snow_block
+865 152 381 powder_snow
+865 152 382 powder_snow
+866 152 374 snow[layers=1]
+866 152 375 snow[layers=1]
+fill 866 152 376 866 152 381 snow_block
+866 152 382 powder_snow
+867 152 375 snow[layers=1]
+867 152 376 snow[layers=1]
+fill 867 152 377 867 152 381 snow_block
+fill 868 152 376 868 152 382 snow[layers=1]
+869 152 380 snow[layers=1]
+768 153 317 grass_block[snowy=false]
+768 153 318 grass_block[snowy=false]
+fill 768 153 319 768 153 323 dirt
+768 153 324 stone
+768 153 325 stone
+fill 768 153 326 768 153 329 dirt
+fill 768 153 330 768 153 370 stone
+fill 768 153 371 768 153 374 dirt
+fill 768 153 375 768 153 381 stone
+768 153 382 dirt
+768 153 383 dirt
+769 153 274 cherry_leaves[distance=4,persistent=false,waterlogged=false]
+769 153 316 pink_petals[facing=north,flower_amount=2]
+769 153 317 grass_block[snowy=false]
+fill 769 153 318 769 153 321 dirt
+769 153 322 stone
+769 153 323 copper_ore
+769 153 324 copper_ore
+fill 769 153 325 769 153 327 stone
+769 153 328 dirt
+fill 769 153 329 769 153 371 stone
+769 153 372 dirt
+fill 769 153 373 769 153 383 stone
+770 153 317 grass_block[snowy=false]
+fill 770 153 318 770 153 320 dirt
+770 153 321 stone
+770 153 322 stone
+770 153 323 copper_ore
+770 153 324 copper_ore
+fill 770 153 325 770 153 327 stone
+770 153 328 dirt
+fill 770 153 329 770 153 383 stone
+771 153 274 cherry_leaves[distance=3,persistent=false,waterlogged=false]
+771 153 316 pink_petals[facing=north,flower_amount=3]
+771 153 317 grass_block[snowy=false]
+771 153 318 grass_block[snowy=false]
+fill 771 153 319 771 153 321 dirt
+771 153 322 stone
+771 153 323 copper_ore
+fill 771 153 324 771 153 383 stone
+772 153 276 cherry_log[axis=x]
+772 153 318 grass_block[snowy=false]
+fill 772 153 319 772 153 322 dirt
+fill 772 153 323 772 153 383 stone
+773 153 276 cherry_log[axis=y]
+773 153 318 grass_block[snowy=false]
+773 153 319 grass_block[snowy=false]
+fill 773 153 320 773 153 322 dirt
+fill 773 153 323 773 153 383 stone
+774 153 275 cherry_leaves[distance=4,persistent=false,waterlogged=false]
+774 153 319 grass_block[snowy=false]
+fill 774 153 320 774 153 323 dirt
+fill 774 153 324 774 153 383 stone
+775 153 278 cherry_leaves[distance=4,persistent=false,waterlogged=false]
+775 153 279 cherry_leaves[distance=5,persistent=false,waterlogged=false]
+775 153 319 pink_petals[facing=east,flower_amount=1]
+775 153 320 grass_block[snowy=false]
+fill 775 153 321 775 153 323 dirt
+fill 775 153 324 775 153 383 stone
+776 153 273 cherry_leaves[distance=4,persistent=false,waterlogged=false]
+776 153 276 cherry_log[axis=y]
+776 153 319 pink_petals[facing=east,flower_amount=1]
+776 153 320 grass_block[snowy=false]
+776 153 321 grass_block[snowy=false]
+fill 776 153 322 776 153 324 dirt
+fill 776 153 325 776 153 383 stone
+777 153 320 pink_petals[facing=south,flower_amount=1]
+777 153 321 grass_block[snowy=false]
+fill 777 153 322 777 153 324 dirt
+fill 777 153 325 777 153 349 stone
+777 153 350 coal_ore
+777 153 351 coal_ore
+fill 777 153 352 777 153 383 stone
+778 153 275 cherry_leaves[distance=1,persistent=false,waterlogged=false]
+778 153 321 pink_petals[facing=south,flower_amount=2]
+778 153 322 grass_block[snowy=false]
+778 153 323 dirt
+778 153 324 dirt
+fill 778 153 325 778 153 350 stone
+778 153 351 coal_ore
+778 153 352 coal_ore
+fill 778 153 353 778 153 383 stone
+779 153 276 cherry_leaves[distance=2,persistent=false,waterlogged=false]
+779 153 321 short_grass
+779 153 322 grass_block[snowy=false]
+779 153 323 grass_block[snowy=false]
+779 153 324 dirt
+fill 779 153 325 779 153 350 stone
+779 153 351 coal_ore
+779 153 352 coal_ore
+fill 779 153 353 779 153 383 stone
+780 153 275 cherry_log[axis=y]
+780 153 323 grass_block[snowy=false]
+780 153 324 dirt
+780 153 325 dirt
+fill 780 153 326 780 153 336 stone
+780 153 337 emerald_ore
+fill 780 153 338 780 153 341 stone
+780 153 342 coal_ore
+fill 780 153 343 780 153 354 stone
+fill 780 153 355 780 153 383 stone
+781 153 275 cherry_log[axis=x]
+781 153 324 grass_block[snowy=false]
+781 153 325 dirt
+fill 781 153 326 781 153 341 stone
+781 153 342 coal_ore
+781 153 343 coal_ore
+fill 781 153 344 781 153 383 stone
+782 153 275 cherry_log[axis=x]
+782 153 324 short_grass
+782 153 325 grass_block[snowy=false]
+782 153 326 dirt
+fill 782 153 327 782 153 341 stone
+fill 782 153 342 782 153 344 coal_ore
+fill 782 153 345 782 153 383 stone
+783 153 275 cherry_log[axis=x]
+783 153 325 pink_petals[facing=east,flower_amount=2]
+783 153 326 grass_block[snowy=false]
+783 153 327 dirt
+fill 783 153 328 783 153 333 stone
+783 153 334 coal_ore
+783 153 335 coal_ore
+fill 783 153 336 783 153 341 stone
+fill 783 153 342 783 153 344 coal_ore
+fill 783 153 345 783 153 383 stone
+784 153 327 grass_block[snowy=false]
+784 153 328 dirt
+fill 784 153 329 784 153 331 stone
+fill 784 153 332 784 153 336 coal_ore
+fill 784 153 337 784 153 368 stone
+784 153 369 dirt
+fill 784 153 370 784 153 383 stone
+785 153 268 cherry_log[axis=y]
+785 153 279 pink_petals[facing=south,flower_amount=1]
+785 153 280 short_grass
+785 153 281 pink_petals[facing=north,flower_amount=2]
+785 153 327 short_grass
+785 153 328 grass_block[snowy=false]
+785 153 329 dirt
+785 153 330 dirt
+785 153 331 stone
+fill 785 153 332 785 153 335 coal_ore
+fill 785 153 336 785 153 383 stone
+786 153 269 cherry_leaves[distance=3,persistent=false,waterlogged=false]
+786 153 278 pink_petals[facing=east,flower_amount=4]
+fill 786 153 279 786 153 282 grass_block[snowy=false]
+786 153 283 pink_petals[facing=east,flower_amount=2]
+786 153 284 short_grass
+fill 786 153 300 786 153 304 grass_block[snowy=false]
+786 153 331 grass_block[snowy=false]
+786 153 332 dirt
+786 153 333 coal_ore
+fill 786 153 334 786 153 383 stone
+787 153 278 pink_petals[facing=east,flower_amount=3]
+fill 787 153 279 787 153 282 grass_block[snowy=false]
+787 153 283 short_grass
+787 153 284 pink_petals[facing=north,flower_amount=4]
+787 153 286 tall_grass[half=upper]
+787 153 292 pink_petals[facing=south,flower_amount=4]
+fill 787 153 299 787 153 305 grass_block[snowy=false]
+787 153 331 grass_block[snowy=false]
+787 153 332 grass_block[snowy=false]
+787 153 333 dirt
+fill 787 153 334 787 153 383 stone
+788 153 267 cherry_leaves[distance=5,persistent=false,waterlogged=false]
+788 153 278 pink_petals[facing=west,flower_amount=2]
+fill 788 153 279 788 153 282 grass_block[snowy=false]
+788 153 283 short_grass
+788 153 284 pink_petals[facing=east,flower_amount=2]
+788 153 292 grass_block[snowy=false]
+788 153 293 grass_block[snowy=false]
+788 153 294 pink_petals[facing=south,flower_amount=2]
+788 153 298 grass_block[snowy=false]
+788 153 299 grass_block[snowy=false]
+fill 788 153 300 788 153 304 dirt
+788 153 305 grass_block[snowy=false]
+788 153 306 grass_block[snowy=false]
+788 153 332 grass_block[snowy=false]
+788 153 333 grass_block[snowy=false]
+fill 788 153 334 788 153 339 stone
+fill 788 153 341 788 153 383 stone
+789 153 268 cherry_log[axis=y]
+789 153 278 pink_petals[facing=east,flower_amount=3]
+fill 789 153 279 789 153 282 grass_block[snowy=false]
+789 153 283 pink_petals[facing=north,flower_amount=2]
+789 153 284 tall_grass[half=upper]
+789 153 289 pink_petals[facing=north,flower_amount=2]
+789 153 291 grass_block[snowy=false]
+789 153 292 dirt
+789 153 293 dirt
+fill 789 153 294 789 153 297 grass_block[snowy=false]
+fill 789 153 298 789 153 305 dirt
+789 153 306 grass_block[snowy=false]
+789 153 307 grass_block[snowy=false]
+789 153 333 grass_block[snowy=false]
+789 153 334 dirt
+fill 789 153 335 789 153 383 stone
+790 153 278 pink_petals[facing=west,flower_amount=4]
+790 153 279 grass_block[snowy=false]
+790 153 280 dirt
+790 153 281 grass_block[snowy=false]
+790 153 282 grass_block[snowy=false]
+790 153 283 pink_petals[facing=south,flower_amount=1]
+790 153 284 tall_grass[half=upper]
+790 153 290 grass_block[snowy=false]
+fill 790 153 291 790 153 306 dirt
+790 153 307 grass_block[snowy=false]
+790 153 308 grass_block[snowy=false]
+790 153 334 grass_block[snowy=false]
+790 153 335 dirt
+fill 790 153 336 790 153 338 stone
+fill 790 153 340 790 153 383 stone
+791 153 278 pink_petals[facing=north,flower_amount=1]
+791 153 279 grass_block[snowy=false]
+791 153 280 dirt
+fill 791 153 281 791 153 283 grass_block[snowy=false]
+791 153 284 pink_petals[facing=south,flower_amount=1]
+791 153 285 pink_petals[facing=east,flower_amount=3]
+791 153 286 short_grass
+791 153 287 pink_petals[facing=east,flower_amount=3]
+791 153 288 short_grass
+791 153 289 grass_block[snowy=false]
+fill 791 153 290 791 153 307 dirt
+791 153 308 grass_block[snowy=false]
+791 153 309 grass_block[snowy=false]
+791 153 335 grass_block[snowy=false]
+fill 791 153 336 791 153 338 stone
+fill 791 153 340 791 153 383 stone
+792 153 279 grass_block[snowy=false]
+792 153 280 dirt
+fill 792 153 281 792 153 289 grass_block[snowy=false]
+fill 792 153 290 792 153 309 dirt
+792 153 310 grass_block[snowy=false]
+792 153 311 grass_block[snowy=false]
+792 153 336 dirt
+792 153 337 stone
+792 153 338 stone
+fill 792 153 340 792 153 383 stone
+793 153 278 pink_petals[facing=north,flower_amount=1]
+793 153 279 grass_block[snowy=false]
+fill 793 153 280 793 153 282 dirt
+fill 793 153 283 793 153 288 grass_block[snowy=false]
+fill 793 153 289 793 153 311 dirt
+793 153 312 grass_block[snowy=false]
+793 153 313 grass_block[snowy=false]
+793 153 314 stone
+793 153 337 grass_block[snowy=false]
+793 153 338 stone
+fill 793 153 340 793 153 380 stone
+793 153 381 dirt
+793 153 382 dirt
+793 153 383 stone
+794 153 279 grass_block[snowy=false]
+fill 794 153 280 794 153 302 dirt
+794 153 303 stone
+794 153 304 stone
+fill 794 153 305 794 153 312 dirt
+fill 794 153 313 794 153 318 stone
+fill 794 153 340 794 153 359 stone
+fill 794 153 360 794 153 379 stone
+fill 794 153 380 794 153 383 dirt
+795 153 278 pink_petals[facing=west,flower_amount=3]
+795 153 279 grass_block[snowy=false]
+fill 795 153 280 795 153 303 dirt
+fill 795 153 304 795 153 320 stone
+fill 795 153 341 795 153 379 stone
+795 153 380 grass_block[snowy=false]
+795 153 382 dirt
+795 153 383 dirt
+796 153 279 grass_block[snowy=false]
+fill 796 153 280 796 153 300 dirt
+fill 796 153 301 796 153 322 stone
+fill 796 153 343 796 153 371 stone
+796 153 372 coal_ore
+796 153 373 coal_ore
+fill 796 153 374 796 153 378 stone
+796 153 382 grass_block[snowy=false]
+796 153 383 stone
+797 153 279 grass_block[snowy=false]
+fill 797 153 280 797 153 298 dirt
+fill 797 153 299 797 153 323 stone
+fill 797 153 345 797 153 372 stone
+797 153 373 coal_ore
+797 153 374 coal_ore
+fill 797 153 375 797 153 379 stone
+797 153 382 grass_block[snowy=false]
+797 153 383 dirt
+798 153 279 grass_block[snowy=false]
+fill 798 153 280 798 153 297 dirt
+fill 798 153 298 798 153 325 stone
+fill 798 153 347 798 153 372 stone
+fill 798 153 373 798 153 375 coal_ore
+fill 798 153 376 798 153 379 stone
+798 153 382 stone
+798 153 383 stone
+799 153 268 cherry_leaves[distance=5,persistent=false,waterlogged=false]
+799 153 279 grass_block[snowy=false]
+fill 799 153 280 799 153 296 dirt
+fill 799 153 297 799 153 327 stone
+fill 799 153 348 799 153 372 stone
+fill 799 153 373 799 153 375 coal_ore
+fill 799 153 376 799 153 379 stone
+799 153 382 stone
+799 153 383 stone
+800 153 278 grass_block[snowy=false]
+800 153 279 grass_block[snowy=false]
+fill 800 153 280 800 153 296 dirt
+fill 800 153 297 800 153 328 stone
+fill 800 153 351 800 153 373 stone
+800 153 374 coal_ore
+800 153 375 coal_ore
+fill 800 153 376 800 153 379 stone
+801 153 277 short_grass
+801 153 278 grass_block[snowy=false]
+fill 801 153 279 801 153 293 dirt
+fill 801 153 294 801 153 330 stone
+fill 801 153 354 801 153 376 stone
+801 153 377 dirt
+802 153 277 grass_block[snowy=false]
+802 153 278 grass_block[snowy=false]
+fill 802 153 279 802 153 292 dirt
+fill 802 153 293 802 153 328 stone
+802 153 329 coal_ore
+802 153 330 stone
+802 153 331 stone
+fill 802 153 359 802 153 372 stone
+802 153 373 grass_block[snowy=false]
+803 153 268 cherry_log[axis=x]
+803 153 277 short_grass
+803 153 278 grass_block[snowy=false]
+803 153 279 grass_block[snowy=false]
+fill 803 153 280 803 153 293 dirt
+fill 803 153 294 803 153 327 stone
+803 153 328 coal_ore
+803 153 329 coal_ore
+fill 803 153 330 803 153 332 stone
+804 153 268 cherry_log[axis=x]
+804 153 279 grass_block[snowy=false]
+804 153 280 grass_block[snowy=false]
+fill 804 153 281 804 153 294 dirt
+fill 804 153 295 804 153 310 stone
+804 153 311 coal_ore
+fill 804 153 312 804 153 326 stone
+fill 804 153 327 804 153 329 coal_ore
+fill 804 153 330 804 153 333 stone
+805 153 268 cherry_log[axis=x]
+805 153 278 pink_petals[facing=south,flower_amount=4]
+805 153 279 short_grass
+805 153 280 grass_block[snowy=false]
+805 153 281 grass_block[snowy=false]
+fill 805 153 282 805 153 294 dirt
+fill 805 153 295 805 153 309 stone
+fill 805 153 310 805 153 314 coal_ore
+fill 805 153 315 805 153 326 stone
+805 153 327 coal_ore
+805 153 328 coal_ore
+fill 805 153 329 805 153 335 stone
+806 153 268 cherry_log[axis=y]
+806 153 281 grass_block[snowy=false]
+806 153 282 grass_block[snowy=false]
+fill 806 153 283 806 153 295 dirt
+fill 806 153 296 806 153 311 stone
+fill 806 153 312 806 153 315 coal_ore
+fill 806 153 316 806 153 337 stone
+807 153 279 pink_petals[facing=south,flower_amount=3]
+fill 807 153 281 807 153 283 grass_block[snowy=false]
+fill 807 153 284 807 153 295 dirt
+fill 807 153 296 807 153 298 coal_ore
+fill 807 153 299 807 153 312 stone
+807 153 313 coal_ore
+fill 807 153 314 807 153 338 stone
+807 153 339 dirt
+808 153 280 pink_petals[facing=south,flower_amount=1]
+fill 808 153 281 808 153 283 grass_block[snowy=false]
+fill 808 153 284 808 153 296 dirt
+808 153 297 coal_ore
+808 153 298 coal_ore
+fill 808 153 299 808 153 338 stone
+808 153 339 dirt
+808 153 340 grass_block[snowy=false]
+808 153 341 grass_block[snowy=false]
+809 153 280 pink_petals[facing=south,flower_amount=1]
+fill 809 153 281 809 153 284 grass_block[snowy=false]
+fill 809 153 285 809 153 296 dirt
+809 153 297 coal_ore
+fill 809 153 298 809 153 338 stone
+809 153 339 dirt
+809 153 340 dirt
+809 153 341 grass_block[snowy=false]
+fill 809 153 342 809 153 344 stone
+810 153 261 cherry_leaves[distance=5,persistent=false,waterlogged=false]
+810 153 282 grass_block[snowy=false]
+fill 810 153 283 810 153 286 grass_block[snowy=false]
+fill 810 153 287 810 153 296 dirt
+810 153 297 coal_ore
+fill 810 153 298 810 153 339 stone
+810 153 340 dirt
+810 153 341 dirt
+810 153 342 coal_ore
+810 153 343 coal_ore
+fill 810 153 344 810 153 346 stone
+811 153 280 pink_petals[facing=north,flower_amount=4]
+811 153 281 pink_petals[facing=east,flower_amount=1]
+fill 811 153 283 811 153 286 grass_block[snowy=false]
+fill 811 153 287 811 153 296 dirt
+fill 811 153 297 811 153 339 stone
+811 153 340 dirt
+811 153 341 dirt
+fill 811 153 342 811 153 344 coal_ore
+fill 811 153 345 811 153 349 stone
+811 153 383 stone
+812 153 283 short_grass
+812 153 284 short_grass
+812 153 285 grass_block[snowy=false]
+812 153 286 grass_block[snowy=false]
+fill 812 153 287 812 153 296 dirt
+fill 812 153 297 812 153 340 stone
+812 153 341 dirt
+812 153 342 stone
+812 153 343 coal_ore
+fill 812 153 344 812 153 352 stone
+812 153 382 stone
+812 153 383 stone
+813 153 256 cherry_leaves[distance=4,persistent=false,waterlogged=false]
+813 153 259 cherry_log[axis=x]
+813 153 285 grass_block[snowy=false]
+813 153 286 grass_block[snowy=false]
+fill 813 153 287 813 153 296 dirt
+fill 813 153 297 813 153 355 stone
+813 153 373 stone
+fill 813 153 374 813 153 376 gravel
+fill 813 153 377 813 153 383 stone
+814 153 257 cherry_leaves[distance=4,persistent=false,waterlogged=false]
+814 153 259 cherry_log[axis=y]
+814 153 284 short_grass
+814 153 285 grass_block[snowy=false]
+814 153 286 grass_block[snowy=false]
+fill 814 153 287 814 153 296 dirt
+814 153 297 stone
+814 153 298 dirt
+fill 814 153 299 814 153 358 stone
+814 153 369 grass_block[snowy=false]
+814 153 370 stone
+814 153 371 coal_ore
+fill 814 153 372 814 153 383 stone
+815 153 282 short_grass
+815 153 285 grass_block[snowy=false]
+815 153 286 grass_block[snowy=false]
+fill 815 153 287 815 153 296 dirt
+fill 815 153 297 815 153 369 stone
+fill 815 153 370 815 153 372 coal_ore
+fill 815 153 373 815 153 383 stone
+816 153 281 pink_petals[facing=north,flower_amount=3]
+816 153 282 short_grass
+816 153 283 pink_petals[facing=north,flower_amount=4]
+816 153 285 grass_block[snowy=false]
+816 153 286 grass_block[snowy=false]
+fill 816 153 287 816 153 300 dirt
+fill 816 153 301 816 153 370 stone
+816 153 371 coal_ore
+816 153 372 coal_ore
+fill 816 153 373 816 153 383 stone
+817 153 259 cherry_log[axis=y]
+817 153 282 pink_petals[facing=north,flower_amount=2]
+817 153 283 short_grass
+817 153 284 pink_petals[facing=west,flower_amount=1]
+817 153 285 grass_block[snowy=false]
+817 153 286 grass_block[snowy=false]
+fill 817 153 287 817 153 301 dirt
+fill 817 153 302 817 153 319 stone
+817 153 320 dirt
+fill 817 153 321 817 153 340 stone
+817 153 341 coal_ore
+fill 817 153 342 817 153 383 stone
+818 153 280 pink_petals[facing=south,flower_amount=1]
+818 153 281 short_grass
+fill 818 153 283 818 153 286 grass_block[snowy=false]
+fill 818 153 287 818 153 301 dirt
+fill 818 153 302 818 153 319 stone
+818 153 320 dirt
+fill 818 153 321 818 153 341 stone
+818 153 342 coal_ore
+fill 818 153 343 818 153 383 stone
+819 153 279 pink_petals[facing=west,flower_amount=3]
+819 153 281 pink_petals[facing=west,flower_amount=2]
+fill 819 153 283 819 153 286 grass_block[snowy=false]
+fill 819 153 287 819 153 300 dirt
+fill 819 153 301 819 153 342 stone
+819 153 343 coal_ore

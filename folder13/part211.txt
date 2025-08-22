@@ -1,0 +1,505 @@
+427 131 812 oak_leaves[distance=3,persistent=false,waterlogged=false]
+fill 427 131 818 427 131 826 grass_block[snowy=false]
+428 131 808 oak_leaves[distance=4,persistent=false,waterlogged=false]
+428 131 809 oak_leaves[distance=3,persistent=false,waterlogged=false]
+428 131 810 oak_leaves[distance=2,persistent=false,waterlogged=false]
+428 131 811 oak_leaves[distance=3,persistent=false,waterlogged=false]
+428 131 818 grass_block[snowy=false]
+428 131 819 grass_block[snowy=false]
+428 131 820 dirt
+fill 428 131 821 428 131 826 grass_block[snowy=false]
+429 131 818 grass_block[snowy=false]
+fill 429 131 819 429 131 821 dirt_path
+429 131 822 grass_block[snowy=false]
+429 131 823 dirt_path
+429 131 824 grass_block[snowy=false]
+429 131 825 dirt_path
+429 131 826 dirt_path
+430 131 818 grass_block[snowy=false]
+fill 430 131 819 430 131 826 dirt_path
+fill 431 131 818 431 131 826 dirt_path
+fill 432 131 819 432 131 825 grass_block[snowy=false]
+fill 433 131 819 433 131 825 grass_block[snowy=false]
+fill 434 131 819 434 131 824 grass_block[snowy=false]
+434 131 825 short_grass
+435 131 818 tall_grass[half=upper]
+435 131 819 short_grass
+435 131 821 grass_block[snowy=false]
+435 131 822 grass_block[snowy=false]
+435 131 823 tall_grass[half=lower]
+435 131 824 tall_grass[half=lower]
+436 131 822 tall_grass[half=lower]
+436 131 824 tall_grass[half=lower]
+437 131 823 tall_grass[half=upper]
+437 131 825 tall_grass[half=upper]
+442 131 807 short_grass
+442 131 815 short_grass
+443 131 807 short_grass
+443 131 810 short_grass
+444 131 806 short_grass
+444 131 809 short_grass
+444 131 811 short_grass
+445 131 796 short_grass
+445 131 803 short_grass
+445 131 804 short_grass
+446 131 796 short_grass
+446 131 801 short_grass
+447 131 799 short_grass
+447 131 803 short_grass
+448 131 798 short_grass
+448 131 800 short_grass
+449 131 797 short_grass
+449 131 800 short_grass
+449 131 801 sunflower[half=lower]
+449 131 805 sunflower[half=upper]
+450 131 800 short_grass
+451 131 800 short_grass
+451 131 801 sunflower[half=upper]
+452 131 800 sunflower[half=upper]
+453 131 799 sunflower[half=upper]
+454 131 797 sunflower[half=upper]
+454 131 798 sunflower[half=upper]
+454 131 801 sunflower[half=upper]
+455 131 797 sunflower[half=upper]
+455 131 802 sunflower[half=upper]
+456 131 799 sunflower[half=upper]
+459 131 800 sunflower[half=upper]
+460 131 816 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+460 131 817 oak_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+460 131 821 oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+460 131 822 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+461 131 816 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+fill 461 131 817 461 131 821 cobblestone
+461 131 822 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+462 131 816 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+462 131 817 cobblestone
+462 131 819 wall_torch[facing=east]
+462 131 821 cobblestone
+462 131 822 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+463 131 816 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+463 131 817 cobblestone
+463 131 821 cobblestone
+463 131 822 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+464 131 816 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+464 131 817 cobblestone
+464 131 821 cobblestone
+464 131 822 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+465 131 816 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+465 131 817 cobblestone
+465 131 818 wall_torch[facing=south]
+465 131 820 wall_torch[facing=north]
+465 131 821 cobblestone
+465 131 822 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+466 131 816 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+466 131 817 mossy_cobblestone
+466 131 821 cobblestone
+466 131 822 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+467 131 816 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+467 131 817 cobblestone
+467 131 821 cobblestone
+467 131 822 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+468 131 816 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+468 131 817 cobblestone
+468 131 821 mossy_cobblestone
+468 131 822 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+469 131 816 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+469 131 817 cobblestone
+469 131 819 wall_torch[facing=west]
+469 131 821 cobblestone
+469 131 822 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+470 131 816 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+fill 470 131 817 470 131 819 cobblestone
+470 131 820 mossy_cobblestone
+470 131 821 cobblestone
+470 131 822 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+471 131 816 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+471 131 817 oak_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+471 131 819 wall_torch[facing=east]
+471 131 821 oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+471 131 822 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+fill 475 131 867 475 131 873 oak_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+476 131 867 oak_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+476 131 868 oak_log[axis=x]
+476 131 872 oak_log[axis=x]
+476 131 873 oak_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+477 131 817 oak_log[axis=y]
+477 131 818 oak_planks
+477 131 819 oak_planks
+477 131 820 oak_log[axis=y]
+477 131 868 oak_log[axis=x]
+477 131 872 oak_log[axis=x]
+478 131 817 oak_planks
+478 131 820 oak_planks
+478 131 868 oak_log[axis=x]
+478 131 869 wall_torch[facing=south]
+478 131 871 wall_torch[facing=north]
+478 131 872 oak_log[axis=x]
+479 131 816 wall_torch[facing=north]
+479 131 817 oak_planks
+479 131 820 oak_planks
+479 131 868 oak_log[axis=x]
+479 131 872 oak_log[axis=x]
+480 131 817 oak_planks
+480 131 820 oak_planks
+480 131 867 oak_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+480 131 868 oak_log[axis=x]
+480 131 872 oak_log[axis=x]
+480 131 873 oak_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+481 131 817 oak_log[axis=y]
+481 131 818 oak_planks
+481 131 819 oak_planks
+481 131 820 oak_log[axis=y]
+fill 481 131 844 481 131 850 oak_planks
+fill 481 131 867 481 131 873 oak_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+482 131 795 oak_log[axis=y]
+fill 482 131 796 482 131 798 oak_planks
+482 131 799 oak_log[axis=y]
+fill 482 131 844 482 131 850 oak_planks
+483 131 795 oak_planks
+483 131 796 white_bed[facing=north,occupied=true,part=head]
+483 131 797 white_bed[facing=north,occupied=true,part=foot]
+483 131 798 oak_planks
+483 131 799 oak_planks
+483 131 844 oak_planks
+483 131 845 oak_planks
+483 131 849 oak_planks
+483 131 850 oak_planks
+484 131 795 oak_planks
+484 131 799 oak_planks
+484 131 844 oak_planks
+484 131 845 oak_planks
+484 131 849 oak_planks
+484 131 850 oak_planks
+484 131 857 oak_leaves[distance=2,persistent=false,waterlogged=false]
+485 131 795 oak_log[axis=y]
+485 131 796 oak_planks
+485 131 797 oak_door[facing=west,half=lower,hinge=left,open=false,powered=false]
+485 131 798 oak_planks
+485 131 799 oak_log[axis=y]
+485 131 844 oak_planks
+485 131 845 oak_planks
+485 131 849 oak_planks
+485 131 850 oak_planks
+485 131 856 oak_leaves[distance=2,persistent=false,waterlogged=false]
+485 131 857 oak_leaves[distance=1,persistent=false,waterlogged=false]
+485 131 858 oak_leaves[distance=2,persistent=false,waterlogged=false]
+486 131 796 poppy
+486 131 798 poppy
+fill 486 131 844 486 131 850 oak_planks
+486 131 857 oak_leaves[distance=2,persistent=false,waterlogged=false]
+487 131 768 short_grass
+fill 487 131 844 487 131 850 oak_planks
+488 131 768 short_grass
+488 131 773 short_grass
+488 131 808 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+488 131 811 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+489 131 770 short_grass
+489 131 771 short_grass
+489 131 773 short_grass
+490 131 773 short_grass
+490 131 808 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+490 131 811 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+491 131 768 grass_block[snowy=false]
+491 131 770 short_grass
+491 131 774 short_grass
+491 131 777 short_grass
+491 131 802 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+491 131 804 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+491 131 814 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+491 131 816 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+491 131 822 oak_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]
+fill 491 131 823 491 131 827 oak_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+491 131 828 oak_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]
+491 131 845 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+491 131 846 oak_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+491 131 849 oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+491 131 850 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+492 131 768 grass_block[snowy=false]
+492 131 769 grass_block[snowy=false]
+492 131 770 short_grass
+492 131 773 short_grass
+492 131 774 short_grass
+492 131 822 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+fill 492 131 823 492 131 827 oak_planks
+492 131 828 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+492 131 845 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+fill 492 131 846 492 131 849 cobblestone
+492 131 850 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+fill 493 131 768 493 131 770 grass_block[snowy=false]
+493 131 772 short_grass
+493 131 787 poppy
+493 131 788 oxeye_daisy
+493 131 789 dandelion
+493 131 822 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+493 131 823 oak_planks
+493 131 827 oak_planks
+493 131 828 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+493 131 845 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+493 131 849 wall_torch[facing=north]
+493 131 850 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+493 131 856 cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+493 131 857 mossy_cobblestone
+493 131 858 white_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+493 131 859 cobblestone
+493 131 860 cobblestone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+fill 494 131 768 494 131 771 grass_block[snowy=false]
+494 131 775 short_grass
+494 131 802 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+494 131 804 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+494 131 814 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+494 131 816 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+494 131 822 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+494 131 823 oak_planks
+494 131 827 oak_planks
+494 131 828 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+494 131 845 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+494 131 850 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+494 131 855 cobblestone_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+494 131 856 cobblestone
+494 131 860 cobblestone
+494 131 861 cobblestone_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+fill 495 131 768 495 131 775 grass_block[snowy=false]
+495 131 822 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+495 131 823 oak_planks
+495 131 827 oak_planks
+495 131 828 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+495 131 845 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+495 131 849 cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+495 131 850 cobblestone
+495 131 855 mossy_cobblestone
+495 131 856 cobblestone
+495 131 860 cobblestone
+495 131 861 cobblestone
+fill 496 131 768 496 131 776 grass_block[snowy=false]
+496 131 777 dirt_path
+496 131 796 short_grass
+496 131 822 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+fill 496 131 823 496 131 827 oak_planks
+496 131 828 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+496 131 845 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+496 131 850 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+496 131 855 cobblestone_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+496 131 856 cobblestone
+496 131 859 ladder[facing=north,waterlogged=false]
+496 131 860 cobblestone
+496 131 861 cobblestone_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+fill 497 131 768 497 131 776 grass_block[snowy=false]
+497 131 777 dirt_path
+497 131 778 dirt_path
+497 131 779 grass_block[snowy=false]
+497 131 782 short_grass
+497 131 822 oak_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]
+fill 497 131 823 497 131 827 oak_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+497 131 828 oak_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]
+497 131 845 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+497 131 849 wall_torch[facing=north]
+497 131 850 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+497 131 856 cobblestone
+497 131 860 cobblestone
+fill 498 131 768 498 131 776 grass_block[snowy=false]
+fill 498 131 777 498 131 779 dirt_path
+498 131 780 grass_block[snowy=false]
+498 131 781 grass_block[snowy=false]
+498 131 783 short_grass
+498 131 792 short_grass
+498 131 793 azure_bluet
+fill 498 131 795 498 131 797 grass_block[snowy=false]
+498 131 845 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+498 131 846 cobblestone
+498 131 847 mossy_cobblestone
+498 131 848 cobblestone
+498 131 849 cobblestone
+498 131 850 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+498 131 856 cobblestone
+498 131 860 mossy_cobblestone
+499 131 768 dirt
+fill 499 131 769 499 131 773 grass_block[snowy=false]
+fill 499 131 774 499 131 779 dirt
+fill 499 131 780 499 131 783 grass_block[snowy=false]
+fill 499 131 793 499 131 799 grass_block[snowy=false]
+499 131 800 short_grass
+499 131 845 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+499 131 846 oak_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+499 131 849 oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+499 131 850 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+499 131 856 cobblestone
+499 131 857 wall_torch[facing=south]
+499 131 859 wall_torch[facing=north]
+499 131 860 cobblestone
+499 131 893 tall_grass[half=upper]
+499 131 894 tall_grass[half=upper]
+fill 500 131 768 500 131 779 dirt
+500 131 780 grass_block[snowy=false]
+500 131 781 grass_block[snowy=false]
+500 131 783 short_grass
+fill 500 131 784 500 131 801 grass_block[snowy=false]
+500 131 804 short_grass
+500 131 807 short_grass
+500 131 856 cobblestone
+500 131 858 wall_torch[facing=west]
+500 131 860 cobblestone
+fill 501 131 768 501 131 780 dirt
+501 131 781 grass_block[snowy=false]
+501 131 784 dirt
+fill 501 131 785 501 131 802 grass_block[snowy=false]
+501 131 804 short_grass
+501 131 805 short_grass
+fill 501 131 857 501 131 859 cobblestone
+501 131 895 tall_grass[half=lower]
+fill 502 131 768 502 131 792 dirt
+fill 502 131 793 502 131 802 grass_block[snowy=false]
+502 131 894 tall_grass[half=upper]
+fill 503 131 768 503 131 793 dirt
+fill 503 131 794 503 131 798 grass_block[snowy=false]
+503 131 799 dirt_path
+fill 503 131 800 503 131 802 grass_block[snowy=false]
+503 131 804 short_grass
+503 131 807 short_grass
+503 131 811 short_grass
+fill 504 131 768 504 131 793 dirt
+fill 504 131 794 504 131 797 grass_block[snowy=false]
+fill 504 131 798 504 131 800 dirt_path
+fill 504 131 801 504 131 803 short_grass
+504 131 807 short_grass
+504 131 813 short_grass
+504 131 892 tall_grass[half=upper]
+504 131 895 grass_block[snowy=false]
+fill 505 131 768 505 131 794 dirt
+505 131 795 dirt_path
+505 131 796 grass_block[snowy=false]
+fill 505 131 797 505 131 800 dirt_path
+505 131 802 short_grass
+505 131 806 dirt_path
+505 131 810 short_grass
+505 131 894 grass_block[snowy=false]
+505 131 895 grass_block[snowy=false]
+fill 506 131 768 506 131 770 stone
+fill 506 131 771 506 131 794 dirt
+fill 506 131 795 506 131 799 dirt_path
+506 131 806 dirt_path
+506 131 807 dirt_path
+506 131 809 oak_log[axis=y]
+506 131 811 bush
+506 131 894 grass_block[snowy=false]
+506 131 895 grass_block[snowy=false]
+507 131 768 stone
+507 131 769 dirt
+fill 507 131 770 507 131 773 stone
+fill 507 131 774 507 131 796 dirt
+fill 507 131 797 507 131 799 dirt_path
+507 131 805 short_grass
+507 131 810 short_grass
+507 131 894 grass_block[snowy=false]
+507 131 895 dirt
+508 131 768 stone
+508 131 769 dirt
+508 131 770 stone
+508 131 771 stone
+508 131 772 dirt
+508 131 773 stone
+508 131 774 stone
+fill 508 131 775 508 131 797 dirt
+508 131 798 grass_block[snowy=false]
+508 131 894 grass_block[snowy=false]
+508 131 895 dirt
+509 131 768 stone
+509 131 769 dirt
+fill 509 131 770 509 131 775 stone
+fill 509 131 776 509 131 797 dirt
+509 131 798 grass_block[snowy=false]
+509 131 894 grass_block[snowy=false]
+509 131 895 dirt
+510 131 768 stone
+510 131 769 dirt
+fill 510 131 770 510 131 777 stone
+fill 510 131 778 510 131 797 dirt
+510 131 798 grass_block[snowy=false]
+510 131 802 wheat[age=1]
+510 131 803 potatoes[age=1]
+510 131 805 wheat[age=2]
+510 131 806 wheat[age=3]
+510 131 893 grass_block[snowy=false]
+510 131 894 dirt
+510 131 895 dirt
+fill 511 131 768 511 131 783 stone
+fill 511 131 784 511 131 797 dirt
+511 131 798 grass_block[snowy=false]
+511 131 802 carrots[age=4]
+511 131 803 wheat[age=1]
+511 131 805 beetroots[age=1]
+511 131 806 potatoes[age=4]
+511 131 811 short_grass
+511 131 893 grass_block[snowy=false]
+511 131 894 dirt
+511 131 895 stone
+384 132 769 grass_block[snowy=false]
+384 132 770 grass_block[snowy=false]
+fill 384 132 771 384 132 800 dirt
+fill 384 132 801 384 132 829 stone
+fill 384 132 830 384 132 832 dirt
+fill 384 132 833 384 132 844 stone
+fill 384 132 845 384 132 849 dirt
+384 132 850 grass_block[snowy=false]
+385 132 769 grass_block[snowy=false]
+385 132 770 grass_block[snowy=false]
+fill 385 132 771 385 132 802 dirt
+fill 385 132 803 385 132 825 stone
+385 132 826 dirt
+fill 385 132 827 385 132 829 stone
+385 132 830 dirt
+fill 385 132 831 385 132 844 stone
+fill 385 132 845 385 132 849 dirt
+385 132 850 grass_block[snowy=false]
+386 132 769 grass_block[snowy=false]
+386 132 770 grass_block[snowy=false]
+fill 386 132 771 386 132 804 dirt
+fill 386 132 805 386 132 823 stone
+fill 386 132 824 386 132 826 dirt
+386 132 827 stone
+386 132 828 stone
+386 132 829 dirt
+fill 386 132 830 386 132 844 stone
+fill 386 132 845 386 132 849 dirt
+386 132 850 grass_block[snowy=false]
+fill 387 132 769 387 132 771 grass_block[snowy=false]
+fill 387 132 772 387 132 807 dirt
+fill 387 132 808 387 132 819 stone
+fill 387 132 820 387 132 824 dirt
+387 132 825 stone
+387 132 826 dirt
+fill 387 132 827 387 132 839 stone
+fill 387 132 840 387 132 849 dirt
+387 132 850 grass_block[snowy=false]
+388 132 768 short_grass
+fill 388 132 769 388 132 771 grass_block[snowy=false]
+fill 388 132 772 388 132 812 dirt
+388 132 813 stone
+388 132 814 dirt
+388 132 815 stone
+388 132 816 stone
+fill 388 132 817 388 132 824 dirt
+fill 388 132 825 388 132 838 stone
+fill 388 132 839 388 132 849 dirt
+388 132 850 grass_block[snowy=false]
+389 132 770 grass_block[snowy=false]
+389 132 771 grass_block[snowy=false]
+fill 389 132 772 389 132 807 dirt
+fill 389 132 808 389 132 810 stone
+389 132 811 dirt
+389 132 812 stone
+389 132 813 dirt
+389 132 814 stone
+389 132 815 dirt
+389 132 816 stone
+389 132 817 dirt
+389 132 818 stone
+fill 389 132 819 389 132 821 dirt
+fill 389 132 822 389 132 837 stone
+fill 389 132 838 389 132 849 dirt
+389 132 850 grass_block[snowy=false]
+390 132 770 grass_block[snowy=false]
+390 132 771 grass_block[snowy=false]
+fill 390 132 772 390 132 803 dirt
+390 132 813 dirt
+390 132 814 stone
+390 132 815 dirt

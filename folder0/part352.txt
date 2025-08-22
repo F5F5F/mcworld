@@ -1,0 +1,766 @@
+fill 126 123 104 126 123 127 dirt
+fill 127 123 0 127 123 7 water[level=0]
+fill 127 123 8 127 123 17 dirt
+fill 127 123 18 127 123 20 sand
+fill 127 123 21 127 123 25 water[level=0]
+fill 127 123 26 127 123 30 sand
+fill 127 123 31 127 123 36 stone
+fill 127 123 37 127 123 47 dirt
+fill 127 123 48 127 123 54 sand
+127 123 55 dirt
+127 123 56 dirt
+fill 127 123 57 127 123 61 gravel
+fill 127 123 62 127 123 68 dirt
+fill 127 123 69 127 123 81 sand
+127 123 82 dirt
+127 123 83 stone
+127 123 84 stone
+127 123 85 dirt
+127 123 86 stone
+127 123 87 dirt
+fill 127 123 88 127 123 96 stone
+127 123 97 dirt
+127 123 98 dirt
+127 123 99 sand
+127 123 100 stone
+fill 127 123 101 127 123 105 sand
+fill 127 123 106 127 123 127 dirt
+fill 0 124 0 0 124 7 stone
+fill 0 124 8 0 124 20 dirt
+fill 0 124 21 0 124 40 stone
+fill 0 124 41 0 124 54 dirt
+0 124 55 grass_block[snowy=false]
+0 124 71 dirt
+fill 0 124 72 0 124 122 stone
+fill 0 124 123 0 124 126 dirt
+0 124 127 stone
+fill 1 124 0 1 124 8 stone
+fill 1 124 9 1 124 20 dirt
+fill 1 124 21 1 124 41 stone
+fill 1 124 42 1 124 55 dirt
+fill 1 124 72 1 124 121 stone
+1 124 122 stone
+fill 1 124 123 1 124 126 dirt
+1 124 127 stone
+fill 2 124 0 2 124 9 stone
+fill 2 124 10 2 124 20 dirt
+fill 2 124 21 2 124 36 stone
+2 124 37 dirt
+fill 2 124 38 2 124 45 stone
+fill 2 124 46 2 124 55 dirt
+fill 2 124 72 2 124 122 stone
+fill 2 124 123 2 124 126 dirt
+2 124 127 stone
+fill 3 124 0 3 124 8 stone
+fill 3 124 9 3 124 19 dirt
+fill 3 124 20 3 124 35 stone
+fill 3 124 36 3 124 39 dirt
+fill 3 124 40 3 124 46 stone
+fill 3 124 47 3 124 54 dirt
+3 124 55 stone
+3 124 56 stone
+fill 3 124 72 3 124 122 stone
+fill 3 124 123 3 124 125 dirt
+3 124 126 stone
+3 124 127 stone
+fill 4 124 0 4 124 7 stone
+fill 4 124 8 4 124 17 dirt
+fill 4 124 18 4 124 35 stone
+fill 4 124 36 4 124 40 dirt
+fill 4 124 41 4 124 47 stone
+fill 4 124 48 4 124 53 dirt
+fill 4 124 54 4 124 56 stone
+4 124 72 dirt
+fill 4 124 73 4 124 123 stone
+4 124 124 dirt
+4 124 125 dirt
+4 124 126 stone
+4 124 127 stone
+fill 5 124 0 5 124 5 stone
+fill 5 124 6 5 124 17 dirt
+fill 5 124 18 5 124 35 stone
+fill 5 124 36 5 124 40 dirt
+fill 5 124 41 5 124 47 stone
+5 124 48 dirt
+5 124 49 dirt
+5 124 50 stone
+5 124 51 stone
+5 124 52 dirt
+5 124 53 stone
+fill 5 124 54 5 124 56 dirt
+5 124 57 stone
+5 124 72 dirt
+fill 5 124 73 5 124 93 stone
+5 124 94 lapis_ore
+fill 5 124 95 5 124 124 stone
+fill 5 124 125 5 124 127 coal_ore
+fill 6 124 0 6 124 5 stone
+fill 6 124 6 6 124 17 dirt
+fill 6 124 18 6 124 36 stone
+fill 6 124 37 6 124 41 dirt
+fill 6 124 42 6 124 49 stone
+fill 6 124 50 6 124 57 dirt
+6 124 58 stone
+6 124 72 dirt
+fill 6 124 73 6 124 93 stone
+6 124 94 lapis_ore
+fill 6 124 95 6 124 124 stone
+fill 6 124 125 6 124 127 coal_ore
+fill 7 124 0 7 124 4 stone
+fill 7 124 5 7 124 16 dirt
+fill 7 124 17 7 124 36 stone
+fill 7 124 37 7 124 41 dirt
+fill 7 124 42 7 124 48 stone
+fill 7 124 49 7 124 58 dirt
+7 124 72 dirt
+fill 7 124 73 7 124 125 stone
+7 124 126 coal_ore
+7 124 127 coal_ore
+fill 8 124 0 8 124 4 stone
+fill 8 124 5 8 124 14 dirt
+fill 8 124 15 8 124 37 stone
+fill 8 124 38 8 124 41 dirt
+fill 8 124 42 8 124 48 stone
+fill 8 124 49 8 124 59 dirt
+8 124 72 grass_block[snowy=false]
+fill 8 124 73 8 124 126 stone
+8 124 127 coal_ore
+fill 9 124 0 9 124 4 stone
+fill 9 124 5 9 124 13 dirt
+fill 9 124 14 9 124 38 stone
+fill 9 124 39 9 124 41 dirt
+fill 9 124 42 9 124 48 stone
+fill 9 124 49 9 124 59 dirt
+fill 9 124 73 9 124 127 stone
+fill 10 124 0 10 124 3 stone
+fill 10 124 4 10 124 13 dirt
+fill 10 124 14 10 124 46 stone
+fill 10 124 47 10 124 59 dirt
+10 124 73 dirt
+fill 10 124 74 10 124 127 stone
+fill 11 124 0 11 124 2 stone
+fill 11 124 3 11 124 13 dirt
+fill 11 124 14 11 124 47 stone
+11 124 48 dirt
+11 124 49 dirt
+11 124 50 stone
+11 124 51 stone
+fill 11 124 52 11 124 60 dirt
+11 124 73 dirt
+fill 11 124 74 11 124 127 stone
+12 124 0 stone
+12 124 1 stone
+fill 12 124 2 12 124 12 dirt
+fill 12 124 13 12 124 24 stone
+fill 12 124 25 12 124 27 gravel
+fill 12 124 28 12 124 51 stone
+fill 12 124 52 12 124 60 dirt
+12 124 61 grass_block[snowy=false]
+12 124 73 dirt
+fill 12 124 74 12 124 127 stone
+13 124 0 stone
+fill 13 124 1 13 124 13 dirt
+fill 13 124 14 13 124 22 stone
+fill 13 124 23 13 124 27 gravel
+fill 13 124 28 13 124 52 stone
+fill 13 124 53 13 124 61 dirt
+13 124 62 grass_block[snowy=false]
+13 124 73 dirt
+fill 13 124 74 13 124 79 stone
+fill 13 124 80 13 124 127 stone
+14 124 0 stone
+fill 14 124 1 14 124 12 dirt
+fill 14 124 13 14 124 21 stone
+fill 14 124 22 14 124 26 gravel
+fill 14 124 27 14 124 54 stone
+fill 14 124 55 14 124 63 dirt
+14 124 64 grass_block[snowy=false]
+14 124 73 dirt
+fill 14 124 74 14 124 127 stone
+fill 15 124 0 15 124 4 stone
+fill 15 124 5 15 124 12 dirt
+fill 15 124 13 15 124 21 stone
+fill 15 124 22 15 124 25 gravel
+fill 15 124 26 15 124 54 stone
+15 124 55 dirt
+15 124 56 stone
+fill 15 124 57 15 124 65 dirt
+15 124 73 dirt
+fill 15 124 74 15 124 78 stone
+fill 15 124 79 15 124 84 coal_ore
+fill 15 124 85 15 124 127 stone
+fill 16 124 0 16 124 6 stone
+fill 16 124 7 16 124 12 dirt
+fill 16 124 13 16 124 21 stone
+fill 16 124 22 16 124 24 gravel
+fill 16 124 25 16 124 56 stone
+16 124 57 dirt
+16 124 58 stone
+fill 16 124 59 16 124 66 dirt
+16 124 67 grass_block[snowy=false]
+16 124 73 dirt
+fill 16 124 74 16 124 78 stone
+fill 16 124 79 16 124 84 coal_ore
+fill 16 124 85 16 124 127 stone
+fill 17 124 0 17 124 9 stone
+fill 17 124 10 17 124 12 dirt
+fill 17 124 13 17 124 58 stone
+fill 17 124 59 17 124 61 dirt
+17 124 62 stone
+17 124 63 dirt
+17 124 64 stone
+17 124 65 dirt
+17 124 66 stone
+17 124 67 dirt
+17 124 68 dirt
+17 124 69 grass_block[snowy=false]
+17 124 73 dirt
+fill 17 124 74 17 124 127 stone
+fill 18 124 0 18 124 11 stone
+18 124 12 dirt
+18 124 13 dirt
+fill 18 124 14 18 124 58 stone
+fill 18 124 59 18 124 61 dirt
+18 124 62 stone
+18 124 63 stone
+18 124 64 dirt
+18 124 65 stone
+18 124 66 stone
+18 124 67 copper_ore
+18 124 68 stone
+18 124 69 stone
+18 124 70 dirt
+18 124 73 grass_block[snowy=false]
+fill 18 124 74 18 124 127 stone
+fill 19 124 0 19 124 11 stone
+19 124 12 dirt
+19 124 13 iron_ore
+fill 19 124 14 19 124 61 stone
+19 124 62 dirt
+fill 19 124 63 19 124 71 stone
+fill 19 124 73 19 124 127 stone
+fill 20 124 0 20 124 127 stone
+fill 21 124 0 21 124 14 stone
+21 124 15 iron_ore
+21 124 16 iron_ore
+21 124 17 stone
+21 124 18 stone
+21 124 19 diorite
+fill 21 124 20 21 124 127 stone
+fill 22 124 0 22 124 16 stone
+fill 22 124 17 22 124 20 diorite
+fill 22 124 21 22 124 46 stone
+fill 22 124 48 22 124 61 stone
+fill 22 124 62 22 124 64 coal_ore
+fill 22 124 65 22 124 108 stone
+22 124 109 copper_ore
+22 124 110 copper_ore
+fill 22 124 111 22 124 127 stone
+fill 23 124 0 23 124 15 stone
+fill 23 124 16 23 124 19 diorite
+fill 23 124 20 23 124 44 stone
+fill 23 124 50 23 124 61 stone
+23 124 62 coal_ore
+23 124 63 coal_ore
+fill 23 124 64 23 124 93 stone
+fill 23 124 94 23 124 108 stone
+23 124 109 copper_ore
+23 124 110 copper_ore
+fill 23 124 111 23 124 127 stone
+fill 24 124 0 24 124 14 stone
+fill 24 124 15 24 124 20 diorite
+fill 24 124 21 24 124 43 stone
+fill 24 124 50 24 124 127 stone
+fill 25 124 0 25 124 14 stone
+fill 25 124 15 25 124 19 diorite
+fill 25 124 20 25 124 43 stone
+fill 25 124 50 25 124 85 stone
+fill 25 124 86 25 124 88 coal_ore
+fill 25 124 89 25 124 127 stone
+fill 26 124 0 26 124 13 stone
+fill 26 124 14 26 124 19 diorite
+fill 26 124 20 26 124 44 stone
+fill 26 124 50 26 124 87 stone
+26 124 88 coal_ore
+fill 26 124 89 26 124 127 stone
+fill 27 124 0 27 124 13 stone
+fill 27 124 14 27 124 17 diorite
+fill 27 124 18 27 124 45 stone
+fill 27 124 49 27 124 127 stone
+fill 28 124 0 28 124 12 stone
+fill 28 124 13 28 124 17 diorite
+fill 28 124 18 28 124 127 stone
+fill 29 124 0 29 124 11 stone
+fill 29 124 12 29 124 16 diorite
+fill 29 124 17 29 124 75 stone
+29 124 76 copper_ore
+29 124 77 copper_ore
+fill 29 124 78 29 124 127 stone
+fill 30 124 0 30 124 11 stone
+fill 30 124 12 30 124 16 diorite
+fill 30 124 17 30 124 75 stone
+30 124 76 copper_ore
+30 124 77 copper_ore
+fill 30 124 78 30 124 127 stone
+fill 31 124 0 31 124 2 diorite
+fill 31 124 3 31 124 9 stone
+31 124 10 copper_ore
+31 124 11 copper_ore
+fill 31 124 12 31 124 16 diorite
+fill 31 124 17 31 124 127 stone
+fill 32 124 0 32 124 2 diorite
+fill 32 124 3 32 124 10 stone
+32 124 11 copper_ore
+fill 32 124 12 32 124 15 diorite
+fill 32 124 16 32 124 127 stone
+fill 33 124 0 33 124 2 diorite
+fill 33 124 3 33 124 91 stone
+fill 33 124 92 33 124 127 stone
+fill 34 124 0 34 124 2 diorite
+fill 34 124 3 34 124 118 stone
+fill 34 124 119 34 124 121 copper_ore
+fill 34 124 122 34 124 127 stone
+fill 35 124 0 35 124 2 diorite
+fill 35 124 3 35 124 17 stone
+35 124 18 copper_ore
+fill 35 124 19 35 124 70 stone
+fill 35 124 71 35 124 76 dirt
+fill 35 124 77 35 124 119 stone
+fill 35 124 120 35 124 122 copper_ore
+fill 35 124 123 35 124 127 stone
+36 124 0 diorite
+36 124 1 diorite
+fill 36 124 2 36 124 69 stone
+fill 36 124 70 36 124 76 dirt
+fill 36 124 77 36 124 127 stone
+37 124 0 diorite
+37 124 1 diorite
+fill 37 124 2 37 124 68 stone
+fill 37 124 69 37 124 75 dirt
+fill 37 124 76 37 124 91 stone
+fill 37 124 92 37 124 94 coal_ore
+fill 37 124 95 37 124 127 stone
+38 124 0 diorite
+fill 38 124 1 38 124 10 stone
+38 124 11 coal_ore
+fill 38 124 12 38 124 70 stone
+fill 38 124 71 38 124 73 dirt
+fill 38 124 74 38 124 90 stone
+fill 38 124 91 38 124 94 coal_ore
+fill 38 124 95 38 124 127 stone
+39 124 0 diorite
+fill 39 124 1 39 124 11 stone
+39 124 12 coal_ore
+39 124 13 stone
+39 124 14 dirt
+fill 39 124 15 39 124 127 stone
+fill 40 124 0 40 124 13 stone
+40 124 14 dirt
+fill 40 124 15 40 124 100 stone
+40 124 101 gravel
+fill 40 124 102 40 124 127 stone
+fill 41 124 0 41 124 20 stone
+fill 41 124 21 41 124 23 andesite
+fill 41 124 24 41 124 106 stone
+41 124 107 andesite
+fill 41 124 108 41 124 127 stone
+fill 42 124 0 42 124 18 stone
+fill 42 124 19 42 124 21 dirt
+fill 42 124 22 42 124 24 andesite
+fill 42 124 25 42 124 28 stone
+fill 42 124 29 42 124 33 granite
+fill 42 124 34 42 124 62 stone
+fill 42 124 63 42 124 65 gravel
+fill 42 124 66 42 124 104 stone
+42 124 105 andesite
+42 124 106 copper_ore
+42 124 107 copper_ore
+fill 42 124 108 42 124 127 stone
+43 124 0 dirt
+fill 43 124 1 43 124 18 stone
+fill 43 124 19 43 124 21 dirt
+fill 43 124 22 43 124 24 andesite
+fill 43 124 25 43 124 28 stone
+fill 43 124 29 43 124 33 granite
+fill 43 124 34 43 124 62 stone
+fill 43 124 63 43 124 66 gravel
+fill 43 124 67 43 124 71 stone
+fill 43 124 72 43 124 98 stone
+43 124 99 gravel
+43 124 100 gravel
+fill 43 124 101 43 124 103 stone
+fill 43 124 104 43 124 108 andesite
+fill 43 124 109 43 124 127 stone
+44 124 0 dirt
+fill 44 124 1 44 124 18 stone
+44 124 19 andesite
+fill 44 124 20 44 124 22 dirt
+44 124 23 andesite
+44 124 24 andesite
+fill 44 124 25 44 124 27 stone
+44 124 28 granite
+44 124 29 granite
+44 124 30 copper_ore
+fill 44 124 31 44 124 34 granite
+fill 44 124 35 44 124 62 stone
+fill 44 124 63 44 124 67 gravel
+fill 44 124 68 44 124 98 stone
+44 124 99 gravel
+44 124 100 gravel
+fill 44 124 101 44 124 103 stone
+fill 44 124 104 44 124 108 andesite
+fill 44 124 109 44 124 127 stone
+45 124 0 dirt
+fill 45 124 1 45 124 17 stone
+45 124 18 andesite
+45 124 19 andesite
+fill 45 124 20 45 124 23 dirt
+45 124 24 andesite
+fill 45 124 25 45 124 27 stone
+fill 45 124 28 45 124 31 granite
+45 124 32 copper_ore
+45 124 33 copper_ore
+45 124 34 granite
+45 124 35 granite
+fill 45 124 36 45 124 63 stone
+fill 45 124 64 45 124 68 gravel
+fill 45 124 69 45 124 98 stone
+45 124 99 gravel
+fill 45 124 100 45 124 103 stone
+fill 45 124 104 45 124 107 andesite
+fill 45 124 108 45 124 127 stone
+fill 46 124 0 46 124 17 stone
+46 124 18 andesite
+46 124 19 andesite
+fill 46 124 20 46 124 24 dirt
+fill 46 124 25 46 124 28 stone
+fill 46 124 29 46 124 31 granite
+46 124 32 copper_ore
+fill 46 124 33 46 124 36 granite
+fill 46 124 37 46 124 64 stone
+fill 46 124 65 46 124 68 gravel
+fill 46 124 69 46 124 71 stone
+46 124 72 coal_ore
+46 124 73 coal_ore
+fill 46 124 74 46 124 101 stone
+fill 46 124 102 46 124 107 andesite
+fill 46 124 108 46 124 120 stone
+46 124 121 gravel
+fill 46 124 122 46 124 127 stone
+47 124 0 stone
+47 124 1 dirt
+fill 47 124 2 47 124 17 stone
+47 124 18 andesite
+47 124 19 andesite
+fill 47 124 20 47 124 24 dirt
+fill 47 124 25 47 124 28 stone
+fill 47 124 29 47 124 36 granite
+fill 47 124 37 47 124 65 stone
+fill 47 124 66 47 124 68 gravel
+fill 47 124 69 47 124 71 stone
+fill 47 124 72 47 124 74 coal_ore
+fill 47 124 75 47 124 101 stone
+fill 47 124 102 47 124 106 andesite
+fill 47 124 107 47 124 118 stone
+fill 47 124 119 47 124 121 gravel
+fill 47 124 122 47 124 127 stone
+48 124 0 dirt
+fill 48 124 1 48 124 16 stone
+fill 48 124 17 48 124 20 andesite
+fill 48 124 21 48 124 24 dirt
+fill 48 124 25 48 124 28 stone
+fill 48 124 29 48 124 36 granite
+48 124 37 stone
+fill 48 124 38 48 124 42 coal_ore
+fill 48 124 43 48 124 73 stone
+48 124 74 coal_ore
+fill 48 124 75 48 124 100 stone
+fill 48 124 101 48 124 106 andesite
+fill 48 124 107 48 124 118 stone
+fill 48 124 119 48 124 121 gravel
+fill 48 124 122 48 124 127 stone
+fill 49 124 0 49 124 16 stone
+fill 49 124 17 49 124 21 andesite
+49 124 22 dirt
+49 124 23 dirt
+49 124 24 andesite
+fill 49 124 25 49 124 28 stone
+fill 49 124 29 49 124 36 granite
+fill 49 124 37 49 124 41 coal_ore
+fill 49 124 42 49 124 100 stone
+fill 49 124 101 49 124 106 andesite
+49 124 107 stone
+49 124 108 stone
+49 124 109 copper_ore
+fill 49 124 110 49 124 117 stone
+fill 49 124 118 49 124 121 gravel
+fill 49 124 122 49 124 127 stone
+50 124 0 dirt
+50 124 1 dirt
+50 124 2 stone
+50 124 3 stone
+fill 50 124 4 50 124 6 granite
+fill 50 124 7 50 124 16 stone
+fill 50 124 17 50 124 24 andesite
+fill 50 124 25 50 124 29 stone
+fill 50 124 30 50 124 37 granite
+50 124 38 stone
+50 124 39 coal_ore
+fill 50 124 40 50 124 48 stone
+fill 50 124 49 50 124 51 copper_ore
+fill 50 124 52 50 124 100 stone
+fill 50 124 101 50 124 105 andesite
+50 124 106 stone
+fill 50 124 107 50 124 109 copper_ore
+fill 50 124 110 50 124 117 stone
+fill 50 124 118 50 124 121 gravel
+fill 50 124 122 50 124 127 stone
+51 124 0 stone
+51 124 1 dirt
+51 124 2 stone
+fill 51 124 3 51 124 7 granite
+fill 51 124 8 51 124 16 stone
+fill 51 124 17 51 124 24 andesite
+fill 51 124 25 51 124 30 stone
+fill 51 124 31 51 124 38 granite
+fill 51 124 39 51 124 49 stone
+fill 51 124 50 51 124 52 copper_ore
+fill 51 124 53 51 124 59 stone
+fill 51 124 60 51 124 62 dirt
+fill 51 124 63 51 124 100 stone
+fill 51 124 101 51 124 104 andesite
+fill 51 124 105 51 124 117 stone
+fill 51 124 118 51 124 121 gravel
+51 124 122 stone
+51 124 123 stone
+51 124 124 gravel
+51 124 125 gravel
+51 124 126 stone
+51 124 127 stone
+52 124 0 dirt
+52 124 1 dirt
+fill 52 124 2 52 124 7 granite
+fill 52 124 8 52 124 16 stone
+fill 52 124 17 52 124 24 andesite
+fill 52 124 25 52 124 31 stone
+fill 52 124 32 52 124 38 granite
+fill 52 124 39 52 124 54 stone
+52 124 55 copper_ore
+fill 52 124 56 52 124 59 stone
+fill 52 124 60 52 124 63 dirt
+fill 52 124 64 52 124 101 stone
+52 124 102 andesite
+52 124 103 dirt
+52 124 104 dirt
+fill 52 124 105 52 124 116 stone
+fill 52 124 117 52 124 120 gravel
+fill 52 124 121 52 124 123 stone
+fill 52 124 124 52 124 126 gravel
+52 124 127 stone
+53 124 0 stone
+53 124 1 stone
+53 124 2 granite
+53 124 3 iron_ore
+fill 53 124 4 53 124 7 granite
+fill 53 124 8 53 124 16 stone
+fill 53 124 17 53 124 22 andesite
+53 124 23 andesite
+fill 53 124 24 53 124 31 stone
+fill 53 124 32 53 124 38 granite
+fill 53 124 39 53 124 64 stone
+53 124 65 dirt
+fill 53 124 66 53 124 101 stone
+fill 53 124 102 53 124 104 dirt
+fill 53 124 105 53 124 116 stone
+fill 53 124 117 53 124 119 gravel
+fill 53 124 120 53 124 122 stone
+fill 53 124 123 53 124 126 gravel
+53 124 127 stone
+54 124 0 stone
+54 124 1 stone
+54 124 2 iron_ore
+fill 54 124 3 54 124 8 granite
+fill 54 124 9 54 124 16 stone
+fill 54 124 17 54 124 23 andesite
+fill 54 124 24 54 124 31 stone
+fill 54 124 32 54 124 38 granite
+fill 54 124 39 54 124 63 stone
+fill 54 124 64 54 124 66 dirt
+fill 54 124 67 54 124 100 stone
+fill 54 124 101 54 124 104 dirt
+fill 54 124 105 54 124 117 stone
+54 124 118 gravel
+fill 54 124 119 54 124 122 stone
+fill 54 124 123 54 124 126 gravel
+54 124 127 stone
+55 124 0 stone
+fill 55 124 1 55 124 8 granite
+fill 55 124 9 55 124 13 stone
+55 124 14 coal_ore
+55 124 15 stone
+55 124 16 stone
+fill 55 124 17 55 124 22 andesite
+fill 55 124 23 55 124 32 stone
+fill 55 124 33 55 124 38 granite
+fill 55 124 39 55 124 62 stone
+fill 55 124 63 55 124 66 dirt
+fill 55 124 67 55 124 99 stone
+fill 55 124 100 55 124 104 dirt
+fill 55 124 105 55 124 122 stone
+fill 55 124 123 55 124 126 gravel
+55 124 127 stone
+56 124 0 stone
+fill 56 124 1 56 124 8 granite
+fill 56 124 9 56 124 13 stone
+56 124 14 coal_ore
+56 124 15 coal_ore
+56 124 16 stone
+fill 56 124 17 56 124 21 andesite
+fill 56 124 22 56 124 33 stone
+fill 56 124 34 56 124 38 granite
+fill 56 124 39 56 124 41 stone
+56 124 42 andesite
+fill 56 124 43 56 124 62 stone
+fill 56 124 63 56 124 66 dirt
+fill 56 124 67 56 124 98 stone
+fill 56 124 99 56 124 103 dirt
+fill 56 124 104 56 124 122 stone
+fill 56 124 123 56 124 126 gravel
+56 124 127 stone
+57 124 0 stone
+fill 57 124 1 57 124 8 granite
+fill 57 124 9 57 124 13 stone
+57 124 14 coal_ore
+57 124 15 stone
+57 124 16 stone
+fill 57 124 17 57 124 21 andesite
+fill 57 124 22 57 124 34 stone
+fill 57 124 35 57 124 38 granite
+57 124 39 stone
+fill 57 124 40 57 124 44 andesite
+fill 57 124 45 57 124 62 stone
+fill 57 124 63 57 124 66 dirt
+fill 57 124 67 57 124 98 stone
+fill 57 124 99 57 124 102 dirt
+fill 57 124 103 57 124 122 stone
+fill 57 124 123 57 124 126 gravel
+57 124 127 stone
+58 124 0 stone
+fill 58 124 1 58 124 8 granite
+fill 58 124 9 58 124 17 stone
+fill 58 124 18 58 124 20 andesite
+fill 58 124 21 58 124 35 stone
+58 124 36 granite
+58 124 37 granite
+58 124 38 stone
+58 124 39 stone
+fill 58 124 40 58 124 45 andesite
+fill 58 124 46 58 124 62 stone
+fill 58 124 63 58 124 66 dirt
+fill 58 124 67 58 124 98 stone
+fill 58 124 99 58 124 102 dirt
+fill 58 124 103 58 124 122 stone
+fill 58 124 123 58 124 126 gravel
+58 124 127 stone
+59 124 0 stone
+fill 59 124 1 59 124 8 granite
+fill 59 124 9 59 124 38 stone
+fill 59 124 39 59 124 45 andesite
+fill 59 124 46 59 124 62 stone
+fill 59 124 63 59 124 66 dirt
+fill 59 124 67 59 124 98 stone
+59 124 99 dirt
+59 124 100 dirt
+fill 59 124 101 59 124 122 stone
+fill 59 124 123 59 124 125 gravel
+59 124 126 stone
+59 124 127 stone
+60 124 0 stone
+fill 60 124 1 60 124 8 granite
+fill 60 124 9 60 124 39 stone
+fill 60 124 40 60 124 45 andesite
+fill 60 124 46 60 124 62 stone
+fill 60 124 63 60 124 66 dirt
+fill 60 124 67 60 124 71 stone
+fill 60 124 72 60 124 74 granite
+fill 60 124 75 60 124 112 stone
+fill 60 124 113 60 124 115 dirt
+fill 60 124 116 60 124 123 stone
+60 124 124 gravel
+60 124 125 gravel
+60 124 126 stone
+60 124 127 stone
+61 124 0 stone
+fill 61 124 1 61 124 8 granite
+fill 61 124 9 61 124 39 stone
+fill 61 124 40 61 124 45 andesite
+fill 61 124 46 61 124 63 stone
+61 124 64 dirt
+61 124 65 dirt
+fill 61 124 66 61 124 70 stone
+fill 61 124 71 61 124 75 granite
+fill 61 124 76 61 124 96 stone
+fill 61 124 97 61 124 101 granite
+fill 61 124 102 61 124 112 stone
+fill 61 124 113 61 124 115 dirt
+fill 61 124 116 61 124 127 stone
+62 124 0 stone
+fill 62 124 1 62 124 8 granite
+fill 62 124 9 62 124 39 stone
+fill 62 124 40 62 124 45 andesite
+fill 62 124 46 62 124 71 stone
+fill 62 124 72 62 124 75 granite
+fill 62 124 76 62 124 87 stone
+62 124 88 gravel
+fill 62 124 89 62 124 96 stone
+fill 62 124 97 62 124 102 granite
+fill 62 124 103 62 124 112 stone
+fill 62 124 113 62 124 116 dirt
+fill 62 124 117 62 124 127 stone
+63 124 0 stone
+fill 63 124 1 63 124 7 granite
+fill 63 124 8 63 124 16 stone
+63 124 17 iron_ore
+fill 63 124 18 63 124 40 stone
+fill 63 124 41 63 124 45 andesite
+fill 63 124 46 63 124 72 stone
+63 124 73 granite
+63 124 74 granite
+63 124 75 stone
+63 124 76 stone
+fill 63 124 77 63 124 80 andesite
+fill 63 124 81 63 124 86 stone
+fill 63 124 87 63 124 90 gravel
+fill 63 124 91 63 124 96 stone
+fill 63 124 97 63 124 103 granite
+fill 63 124 104 63 124 112 stone
+fill 63 124 113 63 124 116 dirt
+fill 63 124 117 63 124 127 stone
+64 124 0 stone
+fill 64 124 1 64 124 7 granite
+fill 64 124 8 64 124 40 stone
+fill 64 124 41 64 124 45 andesite
+fill 64 124 46 64 124 64 stone
+64 124 65 copper_ore
+64 124 66 copper_ore
+fill 64 124 67 64 124 76 stone
+fill 64 124 77 64 124 82 andesite
+fill 64 124 83 64 124 85 stone
+64 124 86 dirt
+fill 64 124 87 64 124 92 gravel
+fill 64 124 93 64 124 97 stone
+fill 64 124 98 64 124 105 granite
+fill 64 124 106 64 124 112 stone
+fill 64 124 113 64 124 117 dirt
+fill 64 124 118 64 124 127 stone
+65 124 0 stone
+65 124 1 stone
+fill 65 124 2 65 124 7 granite
+fill 65 124 8 65 124 25 stone
+65 124 26 gravel
+65 124 27 gravel
+fill 65 124 28 65 124 40 stone
+fill 65 124 41 65 124 45 andesite
+fill 65 124 46 65 124 76 stone
+fill 65 124 77 65 124 83 andesite
+65 124 84 stone

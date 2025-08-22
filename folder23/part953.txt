@@ -1,0 +1,648 @@
+fill 895 126 955 895 126 969 water[level=0]
+895 126 970 dirt
+fill 895 126 971 895 126 976 stone
+fill 895 126 977 895 126 979 coal_ore
+fill 895 126 980 895 126 1010 stone
+fill 895 126 1011 895 126 1013 gravel
+fill 895 126 1014 895 126 1023 stone
+fill 768 127 896 768 127 929 stone
+fill 768 127 930 768 127 934 dirt
+768 127 935 stone
+768 127 936 stone
+768 127 953 water[level=8]
+fill 768 127 983 768 127 991 stone
+768 127 1005 water[level=1]
+768 127 1006 water[level=8]
+fill 768 127 1007 768 127 1015 stone
+fill 769 127 896 769 127 928 stone
+fill 769 127 929 769 127 933 dirt
+fill 769 127 934 769 127 937 gravel
+fill 769 127 984 769 127 992 stone
+769 127 1006 water[level=1]
+769 127 1007 water[level=8]
+fill 769 127 1008 769 127 1013 stone
+fill 770 127 896 770 127 928 stone
+fill 770 127 929 770 127 932 dirt
+fill 770 127 933 770 127 938 gravel
+770 127 939 stone
+fill 770 127 984 770 127 993 stone
+770 127 1007 water[level=8]
+fill 770 127 1008 770 127 1012 stone
+fill 771 127 896 771 127 932 stone
+fill 771 127 933 771 127 939 gravel
+771 127 940 stone
+fill 771 127 984 771 127 993 stone
+fill 771 127 1008 771 127 1011 water[level=8]
+fill 772 127 896 772 127 934 stone
+fill 772 127 935 772 127 939 gravel
+772 127 940 stone
+772 127 941 stone
+fill 772 127 985 772 127 994 stone
+772 127 1010 water[level=1]
+772 127 1011 water[level=1]
+772 127 1012 water[level=8]
+fill 773 127 896 773 127 935 stone
+fill 773 127 936 773 127 940 gravel
+773 127 941 stone
+773 127 942 stone
+fill 773 127 985 773 127 995 stone
+773 127 997 dripstone_block
+773 127 998 dripstone_block
+fill 773 127 999 773 127 1001 stone
+fill 774 127 896 774 127 943 stone
+fill 774 127 985 774 127 1001 stone
+774 127 1006 stone
+774 127 1007 stone
+774 127 1008 dripstone_block
+fill 775 127 896 775 127 944 stone
+fill 775 127 982 775 127 1001 stone
+775 127 1007 stone
+775 127 1008 dripstone_block
+775 127 1009 dripstone_block
+775 127 1020 stone
+fill 776 127 896 776 127 948 stone
+fill 776 127 982 776 127 1000 stone
+776 127 1004 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+776 127 1009 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+776 127 1012 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+776 127 1019 stone
+776 127 1020 stone
+fill 777 127 896 777 127 945 stone
+fill 777 127 946 777 127 949 stone
+fill 777 127 981 777 127 997 stone
+777 127 1000 dripstone_block
+777 127 1012 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+777 127 1013 pointed_dripstone[thickness=base,vertical_direction=up,waterlogged=false]
+777 127 1016 dripstone_block
+777 127 1020 dripstone_block
+fill 778 127 896 778 127 949 stone
+778 127 950 dirt
+778 127 951 grass_block[snowy=false]
+fill 778 127 981 778 127 997 stone
+778 127 999 dripstone_block
+778 127 1000 stone
+778 127 1015 pointed_dripstone[thickness=base,vertical_direction=up,waterlogged=false]
+778 127 1016 dripstone_block
+778 127 1017 stone
+778 127 1018 stone
+778 127 1019 dripstone_block
+fill 779 127 896 779 127 912 stone
+779 127 913 coal_ore
+fill 779 127 914 779 127 949 stone
+fill 779 127 950 779 127 952 dirt
+fill 779 127 981 779 127 997 stone
+779 127 999 dripstone_block
+779 127 1000 stone
+779 127 1018 stone
+fill 780 127 896 780 127 911 stone
+780 127 912 coal_ore
+780 127 913 coal_ore
+fill 780 127 914 780 127 922 stone
+780 127 923 coal_ore
+fill 780 127 924 780 127 949 stone
+780 127 950 dirt
+780 127 951 stone
+780 127 952 stone
+fill 780 127 981 780 127 997 stone
+780 127 999 dripstone_block
+780 127 1000 stone
+fill 781 127 896 781 127 911 stone
+781 127 912 coal_ore
+781 127 913 coal_ore
+fill 781 127 914 781 127 922 stone
+781 127 923 coal_ore
+781 127 924 coal_ore
+fill 781 127 925 781 127 952 stone
+781 127 980 glow_lichen[down=false,east=false,north=false,south=true,up=false,waterlogged=false,west=false]
+fill 781 127 981 781 127 999 stone
+781 127 1016 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+781 127 1019 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+fill 782 127 896 782 127 910 stone
+fill 782 127 911 782 127 913 coal_ore
+fill 782 127 914 782 127 922 stone
+782 127 923 coal_ore
+782 127 924 coal_ore
+fill 782 127 925 782 127 952 stone
+fill 782 127 981 782 127 998 stone
+782 127 1015 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+782 127 1017 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+fill 783 127 896 783 127 911 stone
+783 127 912 coal_ore
+783 127 913 coal_ore
+fill 783 127 914 783 127 922 stone
+783 127 923 coal_ore
+783 127 924 coal_ore
+fill 783 127 925 783 127 952 stone
+fill 783 127 981 783 127 998 stone
+783 127 1013 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+783 127 1019 pointed_dripstone[thickness=base,vertical_direction=up,waterlogged=false]
+fill 784 127 896 784 127 911 stone
+784 127 912 coal_ore
+fill 784 127 913 784 127 922 stone
+784 127 923 coal_ore
+784 127 924 coal_ore
+fill 784 127 925 784 127 952 stone
+fill 784 127 981 784 127 998 stone
+784 127 1017 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+784 127 1020 pointed_dripstone[thickness=base,vertical_direction=up,waterlogged=false]
+fill 785 127 896 785 127 912 stone
+785 127 913 emerald_ore
+fill 785 127 914 785 127 923 stone
+785 127 924 coal_ore
+fill 785 127 925 785 127 952 stone
+fill 785 127 981 785 127 999 stone
+fill 785 127 1018 785 127 1023 stone
+fill 786 127 896 786 127 952 stone
+fill 786 127 981 786 127 999 stone
+786 127 1014 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+786 127 1015 pointed_dripstone[thickness=base,vertical_direction=up,waterlogged=false]
+fill 786 127 1016 786 127 1023 stone
+fill 787 127 896 787 127 929 stone
+787 127 930 copper_ore
+787 127 931 copper_ore
+fill 787 127 932 787 127 944 stone
+787 127 945 dirt
+787 127 946 dirt
+fill 787 127 947 787 127 952 stone
+fill 787 127 980 787 127 999 stone
+787 127 1014 pointed_dripstone[thickness=middle,vertical_direction=up,waterlogged=false]
+fill 787 127 1016 787 127 1023 stone
+fill 788 127 896 788 127 929 stone
+788 127 930 copper_ore
+788 127 931 copper_ore
+fill 788 127 932 788 127 934 stone
+fill 788 127 935 788 127 938 andesite
+fill 788 127 939 788 127 941 stone
+fill 788 127 942 788 127 947 dirt
+fill 788 127 948 788 127 952 stone
+788 127 979 grass_block[snowy=false]
+fill 788 127 980 788 127 999 stone
+fill 788 127 1015 788 127 1023 stone
+fill 789 127 896 789 127 919 stone
+fill 789 127 920 789 127 922 coal_ore
+789 127 923 stone
+789 127 924 stone
+789 127 925 copper_ore
+789 127 926 copper_ore
+fill 789 127 927 789 127 934 stone
+fill 789 127 935 789 127 939 andesite
+789 127 940 stone
+fill 789 127 941 789 127 947 dirt
+789 127 948 coal_ore
+fill 789 127 949 789 127 952 stone
+fill 789 127 983 789 127 999 stone
+789 127 1003 stone
+789 127 1013 pointed_dripstone[thickness=tip_merge,vertical_direction=up,waterlogged=false]
+fill 789 127 1014 789 127 1023 stone
+fill 790 127 896 790 127 919 stone
+fill 790 127 920 790 127 922 coal_ore
+790 127 923 stone
+790 127 924 stone
+790 127 925 copper_ore
+790 127 926 copper_ore
+fill 790 127 927 790 127 935 stone
+fill 790 127 936 790 127 938 andesite
+790 127 939 stone
+fill 790 127 940 790 127 947 dirt
+790 127 948 coal_ore
+fill 790 127 949 790 127 952 stone
+790 127 980 gold_block
+790 127 984 stone
+790 127 985 stone
+fill 790 127 986 790 127 1001 stone
+fill 790 127 1013 790 127 1023 stone
+fill 791 127 896 791 127 920 stone
+fill 791 127 921 791 127 923 coal_ore
+fill 791 127 924 791 127 938 stone
+fill 791 127 939 791 127 945 dirt
+fill 791 127 946 791 127 952 stone
+791 127 953 dirt
+791 127 979 obsidian
+fill 791 127 985 791 127 1006 stone
+791 127 1007 dripstone_block
+791 127 1008 stone
+791 127 1009 dripstone_block
+fill 791 127 1010 791 127 1023 stone
+fill 792 127 896 792 127 920 stone
+fill 792 127 921 792 127 923 coal_ore
+fill 792 127 924 792 127 939 stone
+792 127 940 dirt
+792 127 941 dirt
+fill 792 127 942 792 127 951 stone
+792 127 952 dirt
+792 127 953 dirt
+fill 792 127 985 792 127 999 stone
+792 127 1000 coal_ore
+fill 792 127 1001 792 127 1023 stone
+fill 793 127 896 793 127 951 stone
+fill 793 127 952 793 127 954 dirt
+793 127 978 stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+793 127 979 stone_brick_slab[type=bottom,waterlogged=false]
+793 127 980 stone_slab[type=bottom,waterlogged=false]
+793 127 981 stone_brick_slab[type=bottom,waterlogged=false]
+793 127 983 stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+fill 793 127 985 793 127 997 stone
+793 127 998 coal_ore
+793 127 999 coal_ore
+fill 793 127 1000 793 127 1023 stone
+fill 794 127 896 794 127 950 stone
+fill 794 127 951 794 127 954 dirt
+794 127 976 chest[facing=east,type=single,waterlogged=false]
+794 127 978 netherrack
+fill 794 127 979 794 127 982 obsidian
+794 127 983 stone_brick_slab[type=bottom,waterlogged=false]
+fill 794 127 985 794 127 988 stone
+794 127 989 iron_ore
+fill 794 127 990 794 127 997 stone
+794 127 998 coal_ore
+794 127 999 coal_ore
+fill 794 127 1000 794 127 1023 stone
+fill 795 127 896 795 127 951 stone
+795 127 952 dirt
+795 127 953 stone
+795 127 954 dirt
+795 127 978 netherrack
+795 127 979 netherrack
+795 127 980 mossy_stone_brick_slab[type=bottom,waterlogged=false]
+fill 795 127 981 795 127 983 stone_brick_slab[type=bottom,waterlogged=false]
+fill 795 127 985 795 127 1023 stone
+fill 796 127 896 796 127 906 stone
+796 127 907 gravel
+fill 796 127 908 796 127 922 stone
+796 127 923 copper_ore
+fill 796 127 924 796 127 953 stone
+fill 796 127 985 796 127 1023 stone
+fill 797 127 896 797 127 906 stone
+797 127 907 gravel
+fill 797 127 908 797 127 952 stone
+797 127 953 dirt
+fill 797 127 985 797 127 1023 stone
+fill 798 127 896 798 127 905 stone
+798 127 906 gravel
+fill 798 127 907 798 127 915 stone
+798 127 916 lapis_ore
+798 127 917 lapis_ore
+fill 798 127 918 798 127 952 stone
+798 127 953 grass_block[snowy=false]
+fill 798 127 984 798 127 1023 stone
+fill 799 127 896 799 127 916 stone
+799 127 917 lapis_ore
+fill 799 127 918 799 127 949 stone
+799 127 950 dirt
+799 127 951 grass_block[snowy=false]
+fill 799 127 978 799 127 990 stone
+799 127 991 coal_ore
+799 127 992 coal_ore
+fill 799 127 993 799 127 1023 stone
+fill 800 127 896 800 127 948 stone
+800 127 949 dirt
+fill 800 127 977 800 127 981 stone
+800 127 982 copper_ore
+fill 800 127 983 800 127 988 stone
+fill 800 127 989 800 127 993 coal_ore
+fill 800 127 994 800 127 1023 stone
+fill 801 127 896 801 127 911 stone
+fill 801 127 912 801 127 914 coal_ore
+fill 801 127 915 801 127 948 stone
+801 127 949 grass_block[snowy=false]
+801 127 974 dirt
+801 127 975 stone
+fill 801 127 976 801 127 986 stone
+801 127 987 gravel
+fill 801 127 988 801 127 992 coal_ore
+fill 801 127 993 801 127 1023 stone
+fill 802 127 896 802 127 911 stone
+fill 802 127 912 802 127 914 coal_ore
+fill 802 127 915 802 127 948 stone
+fill 802 127 973 802 127 986 stone
+802 127 987 gravel
+802 127 988 stone
+802 127 989 stone
+802 127 990 coal_ore
+fill 802 127 991 802 127 1023 stone
+fill 803 127 896 803 127 910 stone
+fill 803 127 911 803 127 913 coal_ore
+fill 803 127 914 803 127 948 stone
+fill 803 127 973 803 127 979 stone
+803 127 980 coal_ore
+803 127 981 coal_ore
+fill 803 127 982 803 127 1023 stone
+fill 804 127 896 804 127 910 stone
+fill 804 127 911 804 127 913 coal_ore
+fill 804 127 914 804 127 930 stone
+804 127 931 copper_ore
+fill 804 127 932 804 127 947 stone
+804 127 948 dirt
+fill 804 127 973 804 127 979 stone
+804 127 980 coal_ore
+804 127 981 coal_ore
+fill 804 127 982 804 127 987 stone
+804 127 988 gravel
+804 127 989 gravel
+fill 804 127 990 804 127 1023 stone
+fill 805 127 896 805 127 946 stone
+805 127 947 dirt
+805 127 948 grass_block[snowy=false]
+805 127 964 stone
+805 127 965 stone
+805 127 966 dirt
+805 127 970 grass_block[snowy=false]
+805 127 971 grass_block[snowy=false]
+fill 805 127 973 805 127 979 stone
+805 127 980 coal_ore
+805 127 981 coal_ore
+fill 805 127 982 805 127 988 stone
+805 127 989 gravel
+fill 805 127 990 805 127 1023 stone
+fill 806 127 896 806 127 946 stone
+806 127 947 grass_block[snowy=false]
+806 127 962 dirt
+fill 806 127 963 806 127 965 stone
+806 127 970 dirt
+806 127 971 dirt
+806 127 972 grass_block[snowy=false]
+fill 806 127 973 806 127 979 stone
+806 127 980 coal_ore
+806 127 981 coal_ore
+fill 806 127 982 806 127 1023 stone
+fill 807 127 896 807 127 948 stone
+fill 807 127 962 807 127 965 stone
+807 127 970 dirt
+807 127 971 dirt
+fill 807 127 972 807 127 979 stone
+807 127 980 coal_ore
+fill 807 127 981 807 127 1023 stone
+fill 808 127 896 808 127 948 stone
+fill 808 127 961 808 127 964 stone
+808 127 969 grass_block[snowy=false]
+fill 808 127 970 808 127 1023 stone
+fill 809 127 896 809 127 949 stone
+fill 809 127 960 809 127 963 stone
+809 127 968 grass_block[snowy=false]
+fill 809 127 969 809 127 1023 stone
+fill 810 127 896 810 127 912 stone
+810 127 913 dirt
+810 127 914 dirt
+fill 810 127 915 810 127 949 stone
+fill 810 127 959 810 127 963 stone
+810 127 967 grass_block[snowy=false]
+fill 810 127 968 810 127 1023 stone
+fill 811 127 896 811 127 910 stone
+fill 811 127 911 811 127 915 dirt
+811 127 916 stone
+811 127 917 dirt
+fill 811 127 918 811 127 949 stone
+fill 811 127 959 811 127 962 stone
+811 127 967 stone
+811 127 968 stone
+811 127 969 copper_ore
+811 127 970 copper_ore
+fill 811 127 971 811 127 987 stone
+fill 811 127 988 811 127 1023 stone
+fill 812 127 896 812 127 909 stone
+fill 812 127 910 812 127 915 dirt
+fill 812 127 916 812 127 948 stone
+812 127 949 iron_ore
+fill 812 127 959 812 127 962 stone
+fill 812 127 966 812 127 968 stone
+812 127 969 copper_ore
+812 127 970 copper_ore
+fill 812 127 971 812 127 1023 stone
+fill 813 127 896 813 127 911 stone
+fill 813 127 912 813 127 914 dirt
+fill 813 127 915 813 127 948 stone
+813 127 949 iron_ore
+fill 813 127 959 813 127 961 stone
+fill 813 127 966 813 127 969 stone
+813 127 970 copper_ore
+fill 813 127 971 813 127 1023 stone
+fill 814 127 896 814 127 948 stone
+fill 814 127 959 814 127 961 stone
+fill 814 127 965 814 127 1023 stone
+fill 815 127 896 815 127 949 stone
+815 127 959 stone
+815 127 960 stone
+fill 815 127 964 815 127 1023 stone
+fill 816 127 896 816 127 949 stone
+816 127 959 stone
+816 127 960 stone
+816 127 964 dirt
+fill 816 127 965 816 127 1022 stone
+816 127 1023 coal_ore
+fill 817 127 896 817 127 949 stone
+817 127 959 dirt
+817 127 960 stone
+817 127 964 dirt
+fill 817 127 965 817 127 1009 stone
+817 127 1010 iron_ore
+fill 817 127 1011 817 127 1022 stone
+817 127 1023 coal_ore
+fill 818 127 896 818 127 949 stone
+818 127 959 dirt
+818 127 963 dirt
+fill 818 127 964 818 127 976 stone
+818 127 977 copper_ore
+818 127 978 copper_ore
+fill 818 127 979 818 127 1021 stone
+818 127 1022 gravel
+818 127 1023 gravel
+fill 819 127 896 819 127 950 stone
+fill 819 127 963 819 127 975 stone
+fill 819 127 976 819 127 980 copper_ore
+fill 819 127 981 819 127 1021 stone
+819 127 1022 gravel
+819 127 1023 gravel
+fill 820 127 896 820 127 945 stone
+820 127 946 copper_ore
+820 127 947 copper_ore
+fill 820 127 948 820 127 950 stone
+820 127 961 grass_block[snowy=false]
+820 127 962 dirt
+fill 820 127 963 820 127 976 stone
+fill 820 127 977 820 127 981 copper_ore
+fill 820 127 982 820 127 1020 stone
+fill 820 127 1021 820 127 1023 gravel
+fill 821 127 896 821 127 933 stone
+fill 821 127 934 821 127 944 stone
+fill 821 127 945 821 127 947 copper_ore
+fill 821 127 948 821 127 950 stone
+821 127 966 dirt
+fill 821 127 967 821 127 978 stone
+821 127 979 copper_ore
+821 127 980 copper_ore
+fill 821 127 981 821 127 1019 stone
+821 127 1020 coal_ore
+821 127 1021 coal_ore
+821 127 1022 gravel
+821 127 1023 gravel
+fill 822 127 896 822 127 899 stone
+822 127 900 copper_ore
+822 127 901 copper_ore
+fill 822 127 902 822 127 950 stone
+822 127 951 dirt
+822 127 967 grass_block[snowy=false]
+fill 822 127 968 822 127 1019 stone
+822 127 1020 coal_ore
+822 127 1021 coal_ore
+822 127 1022 gravel
+822 127 1023 gravel
+fill 823 127 896 823 127 899 stone
+fill 823 127 900 823 127 902 copper_ore
+fill 823 127 903 823 127 950 stone
+823 127 951 dirt
+fill 823 127 967 823 127 1017 stone
+823 127 1018 dripstone_block
+fill 823 127 1019 823 127 1021 stone
+823 127 1022 gravel
+823 127 1023 gravel
+fill 824 127 896 824 127 903 stone
+824 127 904 coal_ore
+fill 824 127 905 824 127 950 stone
+824 127 951 dirt
+fill 824 127 967 824 127 993 stone
+fill 824 127 994 824 127 996 copper_ore
+fill 824 127 997 824 127 1021 stone
+824 127 1022 gravel
+824 127 1023 gravel
+fill 825 127 896 825 127 902 stone
+fill 825 127 903 825 127 905 coal_ore
+fill 825 127 906 825 127 950 stone
+825 127 951 dirt
+825 127 952 water[level=8]
+fill 825 127 967 825 127 994 stone
+fill 825 127 995 825 127 997 copper_ore
+fill 825 127 998 825 127 1021 stone
+825 127 1022 gravel
+825 127 1023 gravel
+fill 826 127 896 826 127 901 stone
+fill 826 127 902 826 127 904 coal_ore
+fill 826 127 905 826 127 950 stone
+826 127 951 dirt
+826 127 952 water[level=8]
+fill 826 127 967 826 127 1022 stone
+826 127 1023 gravel
+fill 827 127 896 827 127 901 stone
+827 127 902 coal_ore
+827 127 903 coal_ore
+fill 827 127 904 827 127 951 stone
+827 127 952 dirt
+fill 827 127 967 827 127 980 stone
+827 127 981 coal_ore
+827 127 982 coal_ore
+fill 827 127 983 827 127 1023 stone
+fill 828 127 896 828 127 952 stone
+828 127 953 dirt
+fill 828 127 967 828 127 979 stone
+fill 828 127 980 828 127 982 coal_ore
+fill 828 127 983 828 127 1023 stone
+fill 829 127 896 829 127 952 stone
+829 127 953 dirt
+fill 829 127 967 829 127 979 stone
+829 127 980 coal_ore
+829 127 981 coal_ore
+fill 829 127 982 829 127 995 stone
+829 127 996 coal_ore
+829 127 997 coal_ore
+fill 829 127 998 829 127 1009 stone
+829 127 1010 emerald_ore
+829 127 1011 diorite
+829 127 1012 diorite
+fill 829 127 1013 829 127 1023 stone
+fill 830 127 896 830 127 935 stone
+830 127 936 gravel
+fill 830 127 937 830 127 953 stone
+830 127 954 dirt
+830 127 967 dirt
+fill 830 127 968 830 127 979 stone
+830 127 980 coal_ore
+fill 830 127 981 830 127 995 stone
+fill 830 127 996 830 127 998 coal_ore
+fill 830 127 999 830 127 1009 stone
+fill 830 127 1010 830 127 1013 diorite
+fill 830 127 1014 830 127 1023 stone
+fill 831 127 896 831 127 904 stone
+fill 831 127 905 831 127 918 stone
+fill 831 127 919 831 127 921 copper_ore
+fill 831 127 922 831 127 935 stone
+fill 831 127 936 831 127 938 gravel
+fill 831 127 939 831 127 953 stone
+831 127 954 dirt
+fill 831 127 967 831 127 983 stone
+fill 831 127 984 831 127 986 gravel
+fill 831 127 987 831 127 996 stone
+fill 831 127 997 831 127 999 coal_ore
+fill 831 127 1000 831 127 1009 stone
+fill 831 127 1010 831 127 1014 diorite
+fill 831 127 1015 831 127 1023 stone
+fill 832 127 896 832 127 919 stone
+832 127 920 copper_ore
+832 127 921 copper_ore
+fill 832 127 922 832 127 935 stone
+fill 832 127 936 832 127 938 gravel
+fill 832 127 939 832 127 954 stone
+832 127 967 grass_block[snowy=false]
+fill 832 127 968 832 127 983 stone
+fill 832 127 984 832 127 986 gravel
+fill 832 127 987 832 127 997 stone
+832 127 998 coal_ore
+832 127 999 coal_ore
+fill 832 127 1000 832 127 1010 stone
+fill 832 127 1011 832 127 1014 diorite
+fill 832 127 1015 832 127 1023 stone
+fill 833 127 896 833 127 936 stone
+833 127 937 gravel
+833 127 938 stone
+833 127 939 gravel
+fill 833 127 940 833 127 954 stone
+833 127 955 dirt
+fill 833 127 968 833 127 972 stone
+833 127 973 coal_ore
+833 127 974 coal_ore
+fill 833 127 975 833 127 981 stone
+833 127 982 coal_ore
+833 127 983 coal_ore
+fill 833 127 984 833 127 986 gravel
+fill 833 127 987 833 127 1011 stone
+fill 833 127 1012 833 127 1014 diorite
+fill 833 127 1015 833 127 1023 stone
+fill 834 127 896 834 127 937 stone
+834 127 938 gravel
+834 127 939 gravel
+fill 834 127 940 834 127 954 stone
+834 127 955 dirt
+834 127 968 gravel
+834 127 969 gravel
+fill 834 127 970 834 127 972 stone
+fill 834 127 973 834 127 975 coal_ore
+fill 834 127 976 834 127 981 stone
+fill 834 127 982 834 127 985 gravel
+fill 834 127 986 834 127 994 stone
+834 127 995 coal_ore
+fill 834 127 996 834 127 1012 stone
+834 127 1013 diorite
+fill 834 127 1014 834 127 1023 stone
+fill 835 127 896 835 127 938 stone
+835 127 939 gravel
+fill 835 127 940 835 127 954 stone
+835 127 955 dirt
+835 127 967 gravel
+835 127 968 gravel
+fill 835 127 969 835 127 974 stone
+835 127 975 coal_ore
+fill 835 127 976 835 127 981 stone
+fill 835 127 982 835 127 984 gravel
+fill 835 127 985 835 127 994 stone
+835 127 995 coal_ore
+fill 835 127 996 835 127 1023 stone
+fill 836 127 896 836 127 934 stone
+836 127 935 copper_ore
+836 127 936 copper_ore
+fill 836 127 937 836 127 954 stone
+836 127 955 dirt
+fill 836 127 967 836 127 980 stone
+fill 836 127 981 836 127 984 gravel
+fill 836 127 985 836 127 994 stone
+836 127 995 coal_ore
+fill 836 127 996 836 127 1011 stone
+836 127 1012 copper_ore
+836 127 1013 copper_ore

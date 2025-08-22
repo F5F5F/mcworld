@@ -1,0 +1,458 @@
+583 129 25 dirt
+583 129 26 dirt
+fill 583 129 27 583 129 30 stone
+fill 584 129 0 584 129 30 stone
+fill 585 129 0 585 129 29 stone
+fill 586 129 0 586 129 29 stone
+fill 587 129 0 587 129 29 stone
+fill 588 129 0 588 129 3 stone
+fill 588 129 4 588 129 6 dirt
+fill 588 129 7 588 129 29 stone
+fill 589 129 0 589 129 2 stone
+fill 589 129 3 589 129 6 dirt
+fill 589 129 7 589 129 10 stone
+fill 589 129 18 589 129 25 stone
+fill 589 129 26 589 129 28 dirt
+590 129 0 stone
+590 129 1 dirt
+590 129 2 stone
+fill 590 129 3 590 129 5 dirt
+fill 590 129 6 590 129 9 stone
+fill 590 129 18 590 129 25 stone
+590 129 26 dirt
+590 129 27 dirt
+591 129 0 stone
+591 129 1 dirt
+591 129 2 dirt
+fill 591 129 19 591 129 25 stone
+592 129 0 stone
+512 130 31 yellow_wool
+512 130 32 white_wool
+512 130 33 yellow_wool
+512 130 42 white_wool
+512 130 43 yellow_wool
+512 130 44 white_wool
+fill 512 130 103 512 130 106 oak_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+512 130 107 oak_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]
+fill 512 130 108 512 130 110 oak_planks
+512 130 111 oak_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]
+fill 512 130 112 512 130 115 oak_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+fill 513 130 31 513 130 33 oak_slab[type=bottom,waterlogged=false]
+513 130 37 oak_leaves[distance=4,persistent=false,waterlogged=false]
+513 130 38 oak_leaves[distance=3,persistent=false,waterlogged=false]
+513 130 39 oak_leaves[distance=2,persistent=false,waterlogged=false]
+513 130 40 oak_leaves[distance=3,persistent=false,waterlogged=false]
+513 130 41 oak_leaves[distance=4,persistent=false,waterlogged=false]
+fill 513 130 42 513 130 44 oak_slab[type=bottom,waterlogged=false]
+513 130 103 oak_leaves[distance=3,persistent=false,waterlogged=false]
+513 130 104 oak_leaves[distance=2,persistent=false,waterlogged=false]
+513 130 105 oak_leaves[distance=3,persistent=false,waterlogged=false]
+513 130 107 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+513 130 108 oak_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+513 130 110 oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+513 130 111 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+514 130 37 oak_leaves[distance=3,persistent=false,waterlogged=false]
+514 130 38 oak_leaves[distance=2,persistent=false,waterlogged=false]
+514 130 39 oak_leaves[distance=1,persistent=false,waterlogged=false]
+514 130 40 oak_leaves[distance=2,persistent=false,waterlogged=false]
+514 130 41 oak_leaves[distance=3,persistent=false,waterlogged=false]
+514 130 43 wall_torch[facing=west]
+514 130 102 oak_leaves[distance=3,persistent=false,waterlogged=false]
+514 130 103 oak_leaves[distance=2,persistent=false,waterlogged=false]
+514 130 104 oak_leaves[distance=1,persistent=false,waterlogged=false]
+514 130 105 oak_leaves[distance=2,persistent=false,waterlogged=false]
+514 130 106 oak_leaves[distance=3,persistent=false,waterlogged=false]
+515 130 37 oak_leaves[distance=2,persistent=false,waterlogged=false]
+515 130 38 oak_leaves[distance=1,persistent=false,waterlogged=false]
+515 130 39 oak_log[axis=y]
+515 130 40 oak_leaves[distance=1,persistent=false,waterlogged=false]
+515 130 41 oak_leaves[distance=2,persistent=false,waterlogged=false]
+515 130 42 wall_torch[facing=north]
+515 130 43 stripped_oak_wood[axis=y]
+515 130 44 wall_torch[facing=south]
+515 130 102 oak_leaves[distance=2,persistent=false,waterlogged=false]
+515 130 103 oak_leaves[distance=1,persistent=false,waterlogged=false]
+515 130 104 oak_log[axis=y]
+515 130 105 oak_leaves[distance=1,persistent=false,waterlogged=false]
+515 130 106 oak_leaves[distance=2,persistent=false,waterlogged=false]
+516 130 37 oak_leaves[distance=3,persistent=false,waterlogged=false]
+516 130 38 oak_leaves[distance=2,persistent=false,waterlogged=false]
+516 130 39 oak_leaves[distance=1,persistent=false,waterlogged=false]
+516 130 40 oak_leaves[distance=2,persistent=false,waterlogged=false]
+516 130 41 oak_leaves[distance=3,persistent=false,waterlogged=false]
+516 130 43 wall_torch[facing=east]
+516 130 102 oak_leaves[distance=3,persistent=false,waterlogged=false]
+516 130 103 oak_leaves[distance=2,persistent=false,waterlogged=false]
+516 130 104 oak_leaves[distance=1,persistent=false,waterlogged=false]
+516 130 105 oak_leaves[distance=2,persistent=false,waterlogged=false]
+516 130 106 oak_leaves[distance=3,persistent=false,waterlogged=false]
+517 130 37 oak_leaves[distance=4,persistent=false,waterlogged=false]
+517 130 38 oak_leaves[distance=3,persistent=false,waterlogged=false]
+517 130 39 oak_leaves[distance=2,persistent=false,waterlogged=false]
+517 130 40 oak_leaves[distance=3,persistent=false,waterlogged=false]
+517 130 41 oak_leaves[distance=4,persistent=false,waterlogged=false]
+517 130 103 oak_leaves[distance=3,persistent=false,waterlogged=false]
+517 130 104 oak_leaves[distance=2,persistent=false,waterlogged=false]
+517 130 105 oak_leaves[distance=3,persistent=false,waterlogged=false]
+517 130 106 oak_leaves[distance=4,persistent=false,waterlogged=false]
+523 130 73 cobblestone
+523 130 74 white_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+523 130 75 cobblestone
+524 130 72 cobblestone
+524 130 73 cobblestone
+fill 524 130 75 524 130 77 cobblestone
+524 130 78 white_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+524 130 79 cobblestone
+525 130 72 cobblestone
+525 130 75 ladder[facing=east,waterlogged=false]
+525 130 80 cobblestone
+526 130 72 yellow_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+526 130 80 white_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+527 130 72 cobblestone
+527 130 80 cobblestone
+528 130 72 mossy_cobblestone
+528 130 73 cobblestone
+fill 528 130 75 528 130 77 cobblestone
+528 130 78 white_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+528 130 79 cobblestone
+529 130 73 cobblestone
+529 130 74 white_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+529 130 75 cobblestone
+553 130 104 wall_torch[facing=west]
+554 130 102 oak_log[axis=y]
+554 130 103 cobblestone
+554 130 104 mossy_cobblestone
+554 130 105 cobblestone
+554 130 106 oak_log[axis=y]
+555 130 102 cobblestone
+555 130 106 cobblestone
+556 130 102 cobblestone
+556 130 106 cobblestone
+557 130 102 cobblestone
+557 130 104 wall_torch[facing=west]
+557 130 106 cobblestone
+558 130 102 oak_log[axis=y]
+558 130 103 cobblestone
+558 130 104 mossy_cobblestone
+558 130 105 mossy_cobblestone
+558 130 106 oak_log[axis=y]
+fill 568 130 13 568 130 16 sand
+fill 569 130 12 569 130 16 sand
+570 130 0 sand
+570 130 1 sand
+570 130 13 gravel
+570 130 14 gravel
+fill 570 130 15 570 130 17 stone
+571 130 0 sand
+571 130 1 sand
+571 130 9 sand
+571 130 10 sand
+571 130 12 gravel
+571 130 13 gravel
+fill 571 130 14 571 130 17 stone
+fill 572 130 0 572 130 3 sand
+fill 572 130 5 572 130 10 sand
+572 130 11 gravel
+572 130 12 gravel
+fill 572 130 13 572 130 17 stone
+fill 573 130 0 573 130 10 sand
+573 130 11 gravel
+fill 573 130 12 573 130 18 stone
+fill 574 130 0 574 130 9 sand
+574 130 10 gravel
+fill 574 130 11 574 130 18 stone
+fill 575 130 0 575 130 10 sand
+575 130 11 copper_ore
+fill 575 130 12 575 130 18 stone
+fill 576 130 0 576 130 12 sand
+fill 576 130 13 576 130 18 stone
+fill 577 130 0 577 130 3 sand
+577 130 4 gravel
+fill 577 130 5 577 130 7 stone
+fill 577 130 8 577 130 10 sand
+fill 577 130 11 577 130 13 sand
+fill 577 130 14 577 130 19 stone
+fill 578 130 3 578 130 8 stone
+fill 578 130 9 578 130 11 sand
+fill 578 130 12 578 130 19 stone
+578 130 20 dirt
+fill 578 130 26 578 130 29 stone
+fill 579 130 1 579 130 3 sand
+fill 579 130 4 579 130 9 stone
+579 130 10 sand
+fill 579 130 11 579 130 19 stone
+fill 579 130 20 579 130 23 dirt
+fill 579 130 25 579 130 30 stone
+fill 580 130 0 580 130 3 sand
+fill 580 130 4 580 130 20 stone
+fill 580 130 21 580 130 25 dirt
+fill 580 130 26 580 130 31 stone
+fill 581 130 0 581 130 3 sand
+fill 581 130 4 581 130 21 stone
+fill 581 130 22 581 130 24 dirt
+fill 581 130 25 581 130 31 stone
+582 130 0 stone
+fill 582 130 1 582 130 3 sand
+fill 582 130 4 582 130 22 stone
+582 130 23 dirt
+582 130 24 stone
+582 130 25 dirt
+fill 582 130 26 582 130 30 stone
+fill 583 130 0 583 130 30 stone
+fill 584 130 0 584 130 30 stone
+fill 585 130 0 585 130 30 stone
+fill 586 130 0 586 130 29 stone
+fill 587 130 0 587 130 3 stone
+fill 587 130 4 587 130 7 dirt
+fill 587 130 8 587 130 29 stone
+fill 588 130 0 588 130 2 stone
+fill 588 130 3 588 130 7 dirt
+fill 588 130 8 588 130 10 stone
+fill 588 130 17 588 130 24 stone
+fill 588 130 25 588 130 28 dirt
+589 130 0 stone
+589 130 1 stone
+fill 589 130 2 589 130 6 dirt
+589 130 7 stone
+589 130 8 stone
+fill 589 130 18 589 130 25 stone
+589 130 26 dirt
+589 130 27 dirt
+fill 590 130 0 590 130 6 dirt
+590 130 7 stone
+590 130 8 stone
+fill 590 130 19 590 130 25 stone
+590 130 26 dirt
+591 130 0 dirt
+fill 591 130 20 591 130 24 stone
+512 131 108 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+512 131 109 oak_planks
+512 131 110 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+513 131 108 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+513 131 109 oak_planks
+513 131 110 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+514 131 38 oak_leaves[distance=2,persistent=false,waterlogged=false]
+514 131 39 oak_leaves[distance=1,persistent=false,waterlogged=false]
+514 131 40 oak_leaves[distance=2,persistent=false,waterlogged=false]
+514 131 103 oak_leaves[distance=2,persistent=false,waterlogged=false]
+514 131 104 oak_leaves[distance=1,persistent=false,waterlogged=false]
+514 131 105 oak_leaves[distance=2,persistent=false,waterlogged=false]
+515 131 38 oak_leaves[distance=1,persistent=false,waterlogged=false]
+515 131 39 oak_log[axis=y]
+515 131 40 oak_leaves[distance=1,persistent=false,waterlogged=false]
+515 131 103 oak_leaves[distance=1,persistent=false,waterlogged=false]
+515 131 104 oak_log[axis=y]
+515 131 105 oak_leaves[distance=1,persistent=false,waterlogged=false]
+516 131 38 oak_leaves[distance=2,persistent=false,waterlogged=false]
+516 131 39 oak_leaves[distance=1,persistent=false,waterlogged=false]
+516 131 40 oak_leaves[distance=2,persistent=false,waterlogged=false]
+516 131 103 oak_leaves[distance=2,persistent=false,waterlogged=false]
+516 131 104 oak_leaves[distance=1,persistent=false,waterlogged=false]
+523 131 73 cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+523 131 74 cobblestone
+523 131 75 cobblestone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+524 131 72 cobblestone_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+fill 524 131 73 524 131 79 cobblestone
+525 131 72 cobblestone
+525 131 75 ladder[facing=east,waterlogged=false]
+525 131 78 wall_torch[facing=east]
+525 131 80 cobblestone
+526 131 72 white_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+526 131 79 wall_torch[facing=north]
+526 131 80 cobblestone
+527 131 72 cobblestone
+527 131 78 wall_torch[facing=west]
+527 131 80 cobblestone
+528 131 72 cobblestone_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+fill 528 131 73 528 131 79 cobblestone
+529 131 73 cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+529 131 74 cobblestone
+529 131 75 cobblestone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+553 131 101 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+553 131 102 oak_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+553 131 106 oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+553 131 107 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+554 131 101 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+554 131 102 oak_log[axis=y]
+fill 554 131 103 554 131 105 oak_log[axis=z]
+554 131 106 oak_log[axis=y]
+554 131 107 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+555 131 101 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+555 131 102 oak_planks
+555 131 106 oak_planks
+555 131 107 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+556 131 101 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+556 131 102 oak_planks
+556 131 106 oak_planks
+556 131 107 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+557 131 101 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+557 131 102 oak_planks
+557 131 106 oak_planks
+557 131 107 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+558 131 101 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+558 131 102 oak_log[axis=y]
+fill 558 131 103 558 131 105 oak_log[axis=z]
+558 131 106 oak_log[axis=y]
+558 131 107 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+559 131 101 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+559 131 102 oak_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+559 131 106 oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+559 131 107 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+569 131 15 sand
+569 131 16 sand
+fill 570 131 13 570 131 15 sand
+570 131 16 stone
+571 131 13 gravel
+fill 571 131 14 571 131 16 stone
+572 131 10 sand
+572 131 11 gravel
+572 131 12 gravel
+fill 572 131 13 572 131 16 stone
+573 131 0 sand
+fill 573 131 7 573 131 9 sand
+573 131 10 gravel
+573 131 11 gravel
+fill 573 131 12 573 131 17 stone
+fill 574 131 0 574 131 9 sand
+574 131 10 gravel
+fill 574 131 11 574 131 17 stone
+fill 575 131 5 575 131 9 sand
+fill 575 131 10 575 131 17 stone
+fill 576 131 6 576 131 11 sand
+fill 576 131 12 576 131 17 stone
+fill 577 131 6 577 131 8 stone
+fill 577 131 9 577 131 13 sand
+fill 577 131 14 577 131 16 stone
+578 131 7 stone
+578 131 8 stone
+fill 578 131 9 578 131 11 sand
+fill 578 131 12 578 131 16 stone
+fill 579 131 7 579 131 17 stone
+fill 580 131 8 580 131 19 stone
+580 131 23 short_grass
+fill 581 131 9 581 131 21 stone
+581 131 28 stone
+fill 582 131 10 582 131 22 stone
+582 131 25 short_grass
+fill 582 131 27 582 131 30 stone
+fill 583 131 10 583 131 22 stone
+fill 583 131 26 583 131 29 stone
+fill 584 131 10 584 131 23 stone
+584 131 25 stone
+584 131 26 coal_ore
+fill 584 131 27 584 131 29 stone
+fill 585 131 9 585 131 24 stone
+585 131 25 coal_ore
+585 131 26 stone
+585 131 27 coal_ore
+585 131 28 stone
+fill 586 131 9 586 131 28 stone
+fill 587 131 17 587 131 26 stone
+fill 588 131 19 588 131 25 stone
+fill 589 131 19 589 131 25 stone
+fill 590 131 20 590 131 24 stone
+514 132 39 oak_leaves[distance=2,persistent=false,waterlogged=false]
+514 132 104 oak_leaves[distance=2,persistent=false,waterlogged=false]
+515 132 38 oak_leaves[distance=2,persistent=false,waterlogged=false]
+515 132 39 oak_leaves[distance=1,persistent=false,waterlogged=false]
+515 132 40 oak_leaves[distance=2,persistent=false,waterlogged=false]
+515 132 103 oak_leaves[distance=2,persistent=false,waterlogged=false]
+515 132 104 oak_leaves[distance=1,persistent=false,waterlogged=false]
+515 132 105 oak_leaves[distance=2,persistent=false,waterlogged=false]
+516 132 39 oak_leaves[distance=2,persistent=false,waterlogged=false]
+516 132 104 oak_leaves[distance=2,persistent=false,waterlogged=false]
+523 132 74 cobblestone_slab[type=bottom,waterlogged=false]
+524 132 73 mossy_cobblestone
+524 132 74 cobblestone
+524 132 75 cobblestone
+fill 525 132 72 525 132 74 cobblestone
+525 132 75 ladder[facing=east,waterlogged=false]
+fill 525 132 76 525 132 79 cobblestone
+fill 526 132 72 526 132 79 cobblestone
+fill 527 132 72 527 132 79 cobblestone
+fill 528 132 73 528 132 75 cobblestone
+529 132 74 cobblestone_slab[type=bottom,waterlogged=false]
+553 132 102 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+553 132 103 oak_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+553 132 105 oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+553 132 106 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+554 132 102 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+fill 554 132 103 554 132 105 cobblestone
+554 132 106 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+555 132 102 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+fill 555 132 103 555 132 105 oak_planks
+555 132 106 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+556 132 102 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+556 132 103 oak_planks
+556 132 105 oak_planks
+556 132 106 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+557 132 102 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+fill 557 132 103 557 132 105 oak_planks
+557 132 106 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+558 132 102 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+fill 558 132 103 558 132 105 cobblestone
+558 132 106 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+559 132 102 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+559 132 103 oak_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+559 132 105 oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+559 132 106 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+fill 574 132 11 574 132 14 stone
+575 132 12 stone
+fill 524 133 73 524 133 75 cobblestone
+525 133 72 cobblestone
+525 133 75 ladder[facing=east,waterlogged=false]
+525 133 76 cobblestone
+526 133 72 cobblestone
+526 133 76 cobblestone
+526 133 78 torch
+527 133 72 cobblestone
+527 133 76 cobblestone
+fill 528 133 73 528 133 75 cobblestone
+553 133 103 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+553 133 104 oak_planks
+553 133 105 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+554 133 103 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+554 133 104 oak_planks
+554 133 105 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+555 133 103 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+555 133 104 oak_planks
+555 133 105 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+556 133 103 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+556 133 104 oak_planks
+556 133 105 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+557 133 103 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+557 133 104 oak_planks
+557 133 105 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+558 133 103 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+558 133 104 oak_planks
+558 133 105 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+559 133 103 oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+559 133 104 oak_planks
+559 133 105 oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+524 134 73 cobblestone
+524 134 74 yellow_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+524 134 75 cobblestone
+525 134 72 cobblestone
+525 134 73 wall_torch[facing=east]
+525 134 75 ladder[facing=east,waterlogged=false]
+525 134 76 cobblestone
+526 134 72 yellow_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+526 134 76 yellow_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+527 134 72 cobblestone
+527 134 73 wall_torch[facing=west]
+527 134 76 cobblestone
+528 134 73 cobblestone
+528 134 74 yellow_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+528 134 75 cobblestone
+524 135 72 cobblestone_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+524 135 73 cobblestone
+524 135 74 white_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+524 135 75 mossy_cobblestone
+524 135 76 cobblestone_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+525 135 72 cobblestone
+525 135 75 ladder[facing=east,waterlogged=false]
+525 135 76 mossy_cobblestone
+526 135 72 white_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+526 135 76 white_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+527 135 72 cobblestone
+527 135 76 cobblestone

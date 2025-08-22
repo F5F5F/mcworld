@@ -1,0 +1,728 @@
+528 135 72 cobblestone_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+528 135 73 cobblestone
+528 135 74 white_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+528 135 75 cobblestone
+528 135 76 cobblestone_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+fill 524 136 72 524 136 76 cobblestone
+fill 525 136 72 525 136 74 cobblestone
+525 136 75 ladder[facing=east,waterlogged=false]
+525 136 76 cobblestone
+fill 526 136 72 526 136 76 cobblestone
+fill 527 136 72 527 136 76 cobblestone
+fill 528 136 72 528 136 76 cobblestone
+524 137 73 mossy_cobblestone
+524 137 74 cobblestone
+524 137 75 cobblestone
+525 137 72 cobblestone
+525 137 75 ladder[facing=east,waterlogged=false]
+525 137 76 cobblestone
+526 137 72 cobblestone
+526 137 74 torch
+526 137 76 cobblestone
+527 137 72 cobblestone
+527 137 76 cobblestone
+fill 528 137 73 528 137 75 cobblestone
+524 138 74 cobblestone
+526 138 72 cobblestone
+526 138 76 mossy_cobblestone
+528 138 74 cobblestone
+fill 512 0 128 512 0 255 bedrock
+fill 513 0 128 513 0 255 bedrock
+fill 514 0 128 514 0 255 bedrock
+fill 515 0 128 515 0 255 bedrock
+fill 516 0 128 516 0 255 bedrock
+fill 517 0 128 517 0 255 bedrock
+fill 518 0 128 518 0 255 bedrock
+fill 519 0 128 519 0 255 bedrock
+fill 520 0 128 520 0 240 bedrock
+fill 520 0 241 520 0 255 bedrock
+fill 521 0 128 521 0 255 bedrock
+fill 522 0 128 522 0 255 bedrock
+fill 523 0 128 523 0 255 bedrock
+fill 524 0 128 524 0 255 bedrock
+fill 525 0 128 525 0 255 bedrock
+fill 526 0 128 526 0 255 bedrock
+fill 527 0 128 527 0 255 bedrock
+fill 528 0 128 528 0 255 bedrock
+fill 529 0 128 529 0 225 bedrock
+fill 529 0 226 529 0 255 bedrock
+fill 530 0 128 530 0 255 bedrock
+fill 531 0 128 531 0 255 bedrock
+fill 532 0 128 532 0 255 bedrock
+fill 533 0 128 533 0 255 bedrock
+fill 534 0 128 534 0 255 bedrock
+fill 535 0 128 535 0 255 bedrock
+fill 536 0 128 536 0 255 bedrock
+fill 537 0 128 537 0 255 bedrock
+fill 538 0 128 538 0 210 bedrock
+fill 538 0 211 538 0 255 bedrock
+fill 539 0 128 539 0 255 bedrock
+fill 540 0 128 540 0 255 bedrock
+fill 541 0 128 541 0 255 bedrock
+fill 542 0 128 542 0 255 bedrock
+fill 543 0 128 543 0 255 bedrock
+fill 544 0 128 544 0 255 bedrock
+fill 545 0 128 545 0 255 bedrock
+fill 546 0 128 546 0 255 bedrock
+fill 547 0 128 547 0 195 bedrock
+fill 547 0 196 547 0 255 bedrock
+fill 548 0 128 548 0 255 bedrock
+fill 549 0 128 549 0 255 bedrock
+fill 550 0 128 550 0 255 bedrock
+fill 551 0 128 551 0 255 bedrock
+fill 552 0 128 552 0 255 bedrock
+fill 553 0 128 553 0 255 bedrock
+fill 554 0 128 554 0 255 bedrock
+fill 555 0 128 555 0 255 bedrock
+fill 556 0 128 556 0 180 bedrock
+fill 556 0 181 556 0 255 bedrock
+fill 557 0 128 557 0 255 bedrock
+fill 558 0 128 558 0 255 bedrock
+fill 559 0 128 559 0 255 bedrock
+fill 560 0 128 560 0 255 bedrock
+fill 561 0 128 561 0 255 bedrock
+fill 562 0 128 562 0 255 bedrock
+fill 563 0 128 563 0 255 bedrock
+fill 564 0 128 564 0 255 bedrock
+fill 565 0 128 565 0 165 bedrock
+fill 565 0 166 565 0 255 bedrock
+fill 566 0 128 566 0 255 bedrock
+fill 567 0 128 567 0 255 bedrock
+fill 568 0 128 568 0 255 bedrock
+fill 569 0 128 569 0 255 bedrock
+fill 570 0 128 570 0 255 bedrock
+fill 571 0 128 571 0 255 bedrock
+fill 572 0 128 572 0 255 bedrock
+fill 573 0 128 573 0 255 bedrock
+fill 574 0 128 574 0 150 bedrock
+fill 574 0 151 574 0 255 bedrock
+fill 575 0 128 575 0 255 bedrock
+fill 576 0 128 576 0 255 bedrock
+fill 577 0 128 577 0 255 bedrock
+fill 578 0 128 578 0 255 bedrock
+fill 579 0 128 579 0 255 bedrock
+fill 580 0 128 580 0 255 bedrock
+fill 581 0 128 581 0 255 bedrock
+fill 582 0 128 582 0 255 bedrock
+fill 583 0 128 583 0 135 bedrock
+fill 583 0 136 583 0 255 bedrock
+fill 584 0 128 584 0 255 bedrock
+fill 585 0 128 585 0 255 bedrock
+fill 586 0 128 586 0 255 bedrock
+fill 587 0 128 587 0 255 bedrock
+fill 588 0 128 588 0 255 bedrock
+fill 589 0 128 589 0 255 bedrock
+fill 590 0 128 590 0 255 bedrock
+fill 591 0 128 591 0 248 bedrock
+fill 591 0 249 591 0 255 bedrock
+fill 592 0 128 592 0 255 bedrock
+fill 593 0 128 593 0 255 bedrock
+fill 594 0 128 594 0 255 bedrock
+fill 595 0 128 595 0 255 bedrock
+fill 596 0 128 596 0 255 bedrock
+fill 597 0 128 597 0 255 bedrock
+fill 598 0 128 598 0 255 bedrock
+fill 599 0 128 599 0 255 bedrock
+fill 600 0 128 600 0 233 bedrock
+fill 600 0 234 600 0 255 bedrock
+fill 601 0 128 601 0 255 bedrock
+fill 602 0 128 602 0 255 bedrock
+fill 603 0 128 603 0 255 bedrock
+fill 604 0 128 604 0 255 bedrock
+fill 605 0 128 605 0 255 bedrock
+fill 606 0 128 606 0 255 bedrock
+fill 607 0 128 607 0 255 bedrock
+fill 608 0 128 608 0 255 bedrock
+fill 609 0 128 609 0 218 bedrock
+fill 609 0 219 609 0 255 bedrock
+fill 610 0 128 610 0 255 bedrock
+fill 611 0 128 611 0 255 bedrock
+fill 612 0 128 612 0 255 bedrock
+fill 613 0 128 613 0 255 bedrock
+fill 614 0 128 614 0 255 bedrock
+fill 615 0 128 615 0 255 bedrock
+fill 616 0 128 616 0 255 bedrock
+fill 617 0 128 617 0 255 bedrock
+fill 618 0 128 618 0 203 bedrock
+fill 618 0 204 618 0 255 bedrock
+fill 619 0 128 619 0 255 bedrock
+fill 620 0 128 620 0 255 bedrock
+fill 621 0 128 621 0 255 bedrock
+fill 622 0 128 622 0 255 bedrock
+fill 623 0 128 623 0 255 bedrock
+fill 624 0 128 624 0 255 bedrock
+fill 625 0 128 625 0 255 bedrock
+fill 626 0 128 626 0 255 bedrock
+fill 627 0 128 627 0 188 bedrock
+fill 627 0 189 627 0 255 bedrock
+fill 628 0 128 628 0 255 bedrock
+fill 629 0 128 629 0 255 bedrock
+fill 630 0 128 630 0 255 bedrock
+fill 631 0 128 631 0 255 bedrock
+fill 632 0 128 632 0 255 bedrock
+fill 633 0 128 633 0 255 bedrock
+fill 634 0 128 634 0 255 bedrock
+fill 635 0 128 635 0 255 bedrock
+fill 636 0 128 636 0 173 bedrock
+fill 636 0 174 636 0 255 bedrock
+fill 637 0 128 637 0 255 bedrock
+fill 638 0 128 638 0 255 bedrock
+fill 639 0 128 639 0 255 bedrock
+fill 512 1 128 512 1 142 bedrock
+512 1 143 deepslate[axis=y]
+512 1 144 bedrock
+512 1 145 bedrock
+512 1 146 deepslate[axis=y]
+512 1 147 bedrock
+512 1 148 bedrock
+512 1 149 deepslate[axis=y]
+fill 512 1 150 512 1 152 bedrock
+512 1 153 deepslate[axis=y]
+fill 512 1 154 512 1 159 bedrock
+512 1 160 deepslate[axis=y]
+512 1 161 bedrock
+512 1 162 deepslate[axis=y]
+512 1 163 bedrock
+512 1 164 bedrock
+512 1 165 deepslate[axis=y]
+fill 512 1 166 512 1 172 bedrock
+512 1 173 deepslate[axis=y]
+512 1 174 bedrock
+512 1 175 bedrock
+512 1 176 deepslate[axis=y]
+fill 512 1 177 512 1 181 bedrock
+512 1 182 deepslate[axis=y]
+fill 512 1 183 512 1 192 bedrock
+512 1 193 deepslate[axis=y]
+512 1 194 deepslate[axis=y]
+fill 512 1 195 512 1 199 bedrock
+512 1 200 deepslate[axis=y]
+512 1 201 bedrock
+512 1 202 deepslate[axis=y]
+512 1 203 bedrock
+fill 512 1 204 512 1 207 deepslate[axis=y]
+fill 512 1 208 512 1 214 bedrock
+512 1 215 tuff
+512 1 216 tuff
+512 1 217 bedrock
+512 1 218 bedrock
+512 1 219 gravel
+fill 512 1 220 512 1 240 bedrock
+512 1 241 deepslate[axis=y]
+512 1 242 deepslate[axis=y]
+fill 512 1 243 512 1 248 bedrock
+512 1 249 deepslate[axis=y]
+fill 512 1 250 512 1 255 bedrock
+fill 513 1 128 513 1 138 bedrock
+513 1 139 deepslate[axis=y]
+513 1 140 deepslate[axis=y]
+fill 513 1 141 513 1 148 bedrock
+513 1 149 deepslate[axis=y]
+fill 513 1 150 513 1 152 bedrock
+513 1 153 deepslate[axis=y]
+513 1 154 deepslate[axis=y]
+fill 513 1 155 513 1 162 bedrock
+513 1 163 deepslate[axis=y]
+fill 513 1 164 513 1 166 bedrock
+513 1 167 deepslate[axis=y]
+fill 513 1 168 513 1 170 bedrock
+513 1 171 deepslate[axis=y]
+513 1 172 deepslate[axis=y]
+fill 513 1 173 513 1 176 bedrock
+513 1 177 deepslate[axis=y]
+513 1 178 bedrock
+513 1 179 deepslate[axis=y]
+513 1 180 bedrock
+513 1 181 bedrock
+513 1 182 deepslate[axis=y]
+513 1 183 bedrock
+513 1 184 bedrock
+513 1 185 deepslate[axis=y]
+fill 513 1 186 513 1 202 bedrock
+513 1 203 deepslate[axis=y]
+fill 513 1 204 513 1 217 bedrock
+513 1 218 gravel
+513 1 219 bedrock
+513 1 220 tuff
+513 1 221 bedrock
+513 1 222 bedrock
+513 1 223 tuff
+513 1 224 tuff
+fill 513 1 225 513 1 227 bedrock
+513 1 228 tuff
+513 1 229 bedrock
+513 1 230 bedrock
+513 1 231 tuff
+fill 513 1 232 513 1 234 bedrock
+513 1 235 deepslate[axis=y]
+fill 513 1 236 513 1 245 bedrock
+513 1 246 gravel
+513 1 247 bedrock
+513 1 248 deepslate[axis=y]
+513 1 249 bedrock
+513 1 250 bedrock
+513 1 251 deepslate[axis=y]
+513 1 252 bedrock
+513 1 253 deepslate[axis=y]
+513 1 254 bedrock
+513 1 255 deepslate[axis=y]
+514 1 128 bedrock
+514 1 129 deepslate[axis=y]
+fill 514 1 130 514 1 141 bedrock
+514 1 142 deepslate[axis=y]
+fill 514 1 143 514 1 146 bedrock
+514 1 147 deepslate[axis=y]
+514 1 148 deepslate[axis=y]
+fill 514 1 149 514 1 151 bedrock
+514 1 152 deepslate[axis=y]
+514 1 153 bedrock
+514 1 154 deepslate[axis=y]
+fill 514 1 155 514 1 161 bedrock
+514 1 162 deepslate[axis=y]
+fill 514 1 163 514 1 170 bedrock
+514 1 171 deepslate[axis=y]
+fill 514 1 172 514 1 174 bedrock
+514 1 175 deepslate[axis=y]
+514 1 176 bedrock
+514 1 177 bedrock
+514 1 178 deepslate[axis=y]
+514 1 179 bedrock
+514 1 180 bedrock
+514 1 181 deepslate[axis=y]
+514 1 182 deepslate[axis=y]
+514 1 183 bedrock
+514 1 184 deepslate[axis=y]
+514 1 185 deepslate[axis=y]
+514 1 186 bedrock
+514 1 187 bedrock
+514 1 188 deepslate[axis=y]
+fill 514 1 189 514 1 193 bedrock
+514 1 194 deepslate[axis=y]
+514 1 195 deepslate[axis=y]
+514 1 196 bedrock
+514 1 197 deepslate[axis=y]
+514 1 198 deepslate[axis=y]
+fill 514 1 199 514 1 202 bedrock
+514 1 203 deepslate[axis=y]
+fill 514 1 204 514 1 212 bedrock
+514 1 213 deepslate[axis=y]
+514 1 214 tuff
+514 1 215 bedrock
+514 1 216 tuff
+fill 514 1 217 514 1 219 bedrock
+514 1 220 tuff
+fill 514 1 221 514 1 223 bedrock
+514 1 224 tuff
+514 1 225 bedrock
+514 1 226 deepslate[axis=y]
+fill 514 1 227 514 1 230 bedrock
+514 1 231 tuff
+fill 514 1 232 514 1 234 bedrock
+514 1 235 deepslate[axis=y]
+514 1 236 bedrock
+fill 514 1 237 514 1 239 deepslate[axis=y]
+fill 514 1 240 514 1 242 bedrock
+514 1 243 gravel
+fill 514 1 244 514 1 254 bedrock
+514 1 255 deepslate[axis=y]
+fill 515 1 128 515 1 130 bedrock
+515 1 131 deepslate[axis=y]
+fill 515 1 132 515 1 140 bedrock
+515 1 141 deepslate[axis=y]
+515 1 142 bedrock
+515 1 143 bedrock
+515 1 144 deepslate[axis=y]
+515 1 145 bedrock
+515 1 146 bedrock
+515 1 147 deepslate[axis=y]
+fill 515 1 148 515 1 166 bedrock
+515 1 167 deepslate[axis=y]
+fill 515 1 168 515 1 174 bedrock
+515 1 175 deepslate[axis=y]
+fill 515 1 176 515 1 181 bedrock
+515 1 182 deepslate[axis=y]
+fill 515 1 183 515 1 186 bedrock
+515 1 187 deepslate[axis=y]
+515 1 188 bedrock
+515 1 189 deepslate[axis=y]
+515 1 190 deepslate[axis=y]
+fill 515 1 191 515 1 196 bedrock
+515 1 197 deepslate[axis=y]
+fill 515 1 198 515 1 201 bedrock
+515 1 202 deepslate[axis=y]
+515 1 203 bedrock
+515 1 204 bedrock
+515 1 205 deepslate[axis=y]
+fill 515 1 206 515 1 209 bedrock
+515 1 210 deepslate[axis=y]
+fill 515 1 211 515 1 225 bedrock
+515 1 226 deepslate[axis=y]
+515 1 227 tuff
+515 1 228 bedrock
+515 1 229 bedrock
+515 1 230 tuff
+515 1 231 bedrock
+515 1 232 tuff
+515 1 233 bedrock
+515 1 234 bedrock
+515 1 235 deepslate[axis=y]
+fill 515 1 236 515 1 247 bedrock
+515 1 248 deepslate[axis=y]
+515 1 249 bedrock
+515 1 250 bedrock
+515 1 251 deepslate[axis=y]
+fill 515 1 252 515 1 255 bedrock
+fill 516 1 128 516 1 131 bedrock
+fill 516 1 132 516 1 134 deepslate[axis=y]
+fill 516 1 135 516 1 151 bedrock
+516 1 152 deepslate[axis=y]
+fill 516 1 153 516 1 165 bedrock
+516 1 166 deepslate[axis=y]
+516 1 167 bedrock
+516 1 168 deepslate[axis=y]
+fill 516 1 169 516 1 171 bedrock
+516 1 172 deepslate[axis=y]
+fill 516 1 173 516 1 185 bedrock
+516 1 186 deepslate[axis=y]
+fill 516 1 187 516 1 199 bedrock
+516 1 200 deepslate[axis=y]
+516 1 201 bedrock
+516 1 202 bedrock
+516 1 203 deepslate[axis=y]
+516 1 204 deepslate[axis=y]
+516 1 205 bedrock
+516 1 206 bedrock
+516 1 207 deepslate[axis=y]
+516 1 208 bedrock
+516 1 209 deepslate[axis=y]
+fill 516 1 210 516 1 219 bedrock
+516 1 220 deepslate[axis=y]
+516 1 221 bedrock
+516 1 222 bedrock
+516 1 223 deepslate[axis=y]
+fill 516 1 224 516 1 230 bedrock
+516 1 231 tuff
+516 1 232 tuff
+516 1 233 bedrock
+516 1 234 tuff
+fill 516 1 235 516 1 241 bedrock
+516 1 242 deepslate[axis=y]
+fill 516 1 243 516 1 255 bedrock
+517 1 128 bedrock
+517 1 129 deepslate[axis=y]
+517 1 130 deepslate[axis=y]
+fill 517 1 131 517 1 136 bedrock
+517 1 137 deepslate[axis=y]
+fill 517 1 138 517 1 146 bedrock
+517 1 147 deepslate[axis=y]
+517 1 148 bedrock
+517 1 149 bedrock
+517 1 150 deepslate[axis=y]
+fill 517 1 151 517 1 163 bedrock
+517 1 164 deepslate[axis=y]
+fill 517 1 165 517 1 172 bedrock
+517 1 173 deepslate[axis=y]
+517 1 174 bedrock
+517 1 175 bedrock
+517 1 176 deepslate[axis=y]
+517 1 177 bedrock
+517 1 178 bedrock
+517 1 179 deepslate[axis=y]
+517 1 180 deepslate[axis=y]
+fill 517 1 181 517 1 193 bedrock
+517 1 194 deepslate_diamond_ore
+fill 517 1 195 517 1 197 bedrock
+517 1 198 deepslate[axis=y]
+fill 517 1 199 517 1 201 bedrock
+517 1 202 deepslate[axis=y]
+517 1 203 deepslate_redstone_ore[lit=false]
+517 1 204 deepslate[axis=y]
+fill 517 1 205 517 1 207 bedrock
+517 1 208 deepslate[axis=y]
+fill 517 1 209 517 1 215 bedrock
+517 1 216 deepslate[axis=y]
+fill 517 1 217 517 1 232 bedrock
+517 1 233 tuff
+517 1 234 tuff
+fill 517 1 235 517 1 240 bedrock
+517 1 241 deepslate[axis=y]
+517 1 242 bedrock
+517 1 243 bedrock
+517 1 244 gravel
+fill 517 1 245 517 1 247 bedrock
+517 1 248 deepslate[axis=y]
+517 1 249 bedrock
+517 1 250 deepslate[axis=y]
+fill 517 1 251 517 1 254 bedrock
+517 1 255 deepslate[axis=y]
+fill 518 1 128 518 1 131 bedrock
+518 1 132 deepslate[axis=y]
+fill 518 1 133 518 1 138 bedrock
+518 1 139 deepslate[axis=y]
+518 1 140 deepslate_diamond_ore
+518 1 141 bedrock
+518 1 142 deepslate[axis=y]
+fill 518 1 143 518 1 149 bedrock
+fill 518 1 150 518 1 154 deepslate[axis=y]
+fill 518 1 155 518 1 167 bedrock
+518 1 168 deepslate[axis=y]
+518 1 169 bedrock
+518 1 170 bedrock
+518 1 171 deepslate[axis=y]
+fill 518 1 172 518 1 179 bedrock
+518 1 180 deepslate[axis=y]
+fill 518 1 181 518 1 184 bedrock
+518 1 185 deepslate[axis=y]
+fill 518 1 186 518 1 193 bedrock
+518 1 194 deepslate[axis=y]
+fill 518 1 195 518 1 203 bedrock
+518 1 204 deepslate[axis=y]
+518 1 205 deepslate[axis=y]
+fill 518 1 206 518 1 209 bedrock
+518 1 210 deepslate[axis=y]
+fill 518 1 211 518 1 214 bedrock
+518 1 215 deepslate[axis=y]
+fill 518 1 216 518 1 220 bedrock
+518 1 221 deepslate[axis=y]
+fill 518 1 222 518 1 224 bedrock
+518 1 225 deepslate[axis=y]
+518 1 226 bedrock
+518 1 227 deepslate[axis=y]
+fill 518 1 228 518 1 231 bedrock
+518 1 232 tuff
+518 1 233 bedrock
+518 1 234 tuff
+518 1 235 bedrock
+518 1 236 deepslate[axis=y]
+fill 518 1 237 518 1 240 bedrock
+518 1 241 deepslate[axis=y]
+518 1 242 bedrock
+518 1 243 deepslate[axis=y]
+518 1 244 gravel
+518 1 245 gravel
+fill 518 1 246 518 1 252 bedrock
+518 1 253 deepslate[axis=y]
+518 1 254 bedrock
+518 1 255 bedrock
+fill 519 1 128 519 1 133 bedrock
+519 1 134 deepslate[axis=y]
+fill 519 1 135 519 1 144 bedrock
+519 1 145 deepslate[axis=y]
+519 1 146 deepslate[axis=y]
+519 1 147 bedrock
+519 1 148 deepslate[axis=y]
+fill 519 1 149 519 1 158 bedrock
+519 1 159 deepslate[axis=y]
+519 1 160 bedrock
+519 1 161 bedrock
+519 1 162 deepslate[axis=y]
+519 1 163 deepslate[axis=y]
+fill 519 1 164 519 1 166 bedrock
+519 1 167 deepslate[axis=y]
+fill 519 1 168 519 1 177 bedrock
+519 1 178 deepslate[axis=y]
+fill 519 1 179 519 1 182 bedrock
+519 1 183 deepslate[axis=y]
+fill 519 1 184 519 1 189 bedrock
+519 1 190 deepslate[axis=y]
+519 1 191 bedrock
+519 1 192 deepslate[axis=y]
+519 1 193 bedrock
+519 1 194 deepslate[axis=y]
+519 1 195 deepslate[axis=y]
+fill 519 1 196 519 1 200 bedrock
+519 1 201 deepslate[axis=y]
+fill 519 1 202 519 1 206 bedrock
+fill 519 1 207 519 1 209 deepslate[axis=y]
+fill 519 1 210 519 1 216 bedrock
+519 1 217 deepslate[axis=y]
+fill 519 1 218 519 1 226 bedrock
+519 1 227 deepslate[axis=y]
+519 1 228 bedrock
+519 1 229 deepslate[axis=y]
+fill 519 1 230 519 1 237 bedrock
+519 1 238 deepslate[axis=y]
+fill 519 1 239 519 1 255 bedrock
+520 1 128 deepslate[axis=y]
+fill 520 1 129 520 1 132 bedrock
+520 1 133 deepslate[axis=y]
+fill 520 1 134 520 1 136 bedrock
+520 1 137 deepslate[axis=y]
+520 1 138 deepslate[axis=y]
+520 1 139 bedrock
+520 1 140 deepslate[axis=y]
+fill 520 1 141 520 1 144 bedrock
+520 1 145 deepslate[axis=y]
+520 1 146 bedrock
+fill 520 1 147 520 1 149 deepslate[axis=y]
+520 1 150 bedrock
+520 1 151 bedrock
+520 1 152 deepslate[axis=y]
+520 1 153 deepslate[axis=y]
+520 1 154 bedrock
+520 1 155 deepslate[axis=y]
+fill 520 1 156 520 1 159 bedrock
+520 1 160 deepslate[axis=y]
+fill 520 1 161 520 1 167 bedrock
+520 1 168 deepslate[axis=y]
+520 1 169 deepslate[axis=y]
+fill 520 1 170 520 1 179 bedrock
+520 1 180 deepslate[axis=y]
+fill 520 1 181 520 1 199 bedrock
+520 1 200 deepslate[axis=y]
+fill 520 1 201 520 1 207 bedrock
+520 1 208 deepslate[axis=y]
+fill 520 1 209 520 1 213 bedrock
+520 1 214 deepslate[axis=y]
+fill 520 1 215 520 1 217 bedrock
+520 1 218 deepslate[axis=y]
+520 1 219 deepslate[axis=y]
+fill 520 1 220 520 1 222 bedrock
+520 1 223 deepslate[axis=y]
+520 1 224 bedrock
+520 1 225 deepslate[axis=y]
+fill 520 1 226 520 1 231 bedrock
+520 1 232 deepslate[axis=y]
+fill 520 1 233 520 1 235 bedrock
+520 1 236 deepslate[axis=y]
+520 1 237 bedrock
+520 1 238 deepslate[axis=y]
+520 1 239 bedrock
+520 1 240 deepslate[axis=y]
+fill 520 1 241 520 1 244 bedrock
+520 1 245 deepslate[axis=y]
+fill 520 1 246 520 1 255 bedrock
+521 1 128 bedrock
+521 1 129 deepslate[axis=y]
+521 1 130 deepslate[axis=y]
+fill 521 1 131 521 1 134 bedrock
+521 1 135 deepslate[axis=y]
+521 1 136 deepslate[axis=y]
+fill 521 1 137 521 1 139 bedrock
+521 1 140 deepslate[axis=y]
+521 1 141 bedrock
+521 1 142 bedrock
+521 1 143 deepslate[axis=y]
+521 1 144 bedrock
+521 1 145 deepslate[axis=y]
+fill 521 1 146 521 1 148 bedrock
+521 1 149 deepslate[axis=y]
+521 1 150 bedrock
+521 1 151 bedrock
+521 1 152 deepslate[axis=y]
+521 1 153 bedrock
+521 1 154 deepslate[axis=y]
+fill 521 1 155 521 1 160 bedrock
+521 1 161 deepslate[axis=y]
+fill 521 1 162 521 1 165 bedrock
+521 1 166 deepslate[axis=y]
+fill 521 1 167 521 1 170 bedrock
+521 1 171 deepslate[axis=y]
+fill 521 1 172 521 1 178 bedrock
+521 1 179 deepslate[axis=y]
+521 1 180 bedrock
+521 1 181 deepslate[axis=y]
+fill 521 1 182 521 1 189 bedrock
+521 1 190 deepslate[axis=y]
+521 1 191 bedrock
+521 1 192 deepslate[axis=y]
+fill 521 1 193 521 1 200 bedrock
+521 1 201 deepslate[axis=y]
+fill 521 1 202 521 1 211 bedrock
+521 1 212 deepslate[axis=y]
+fill 521 1 213 521 1 217 bedrock
+521 1 218 deepslate[axis=y]
+521 1 219 deepslate[axis=y]
+521 1 220 bedrock
+521 1 221 bedrock
+521 1 222 deepslate[axis=y]
+521 1 223 deepslate[axis=y]
+fill 521 1 224 521 1 226 bedrock
+521 1 227 deepslate[axis=y]
+521 1 228 bedrock
+521 1 229 deepslate[axis=y]
+fill 521 1 230 521 1 232 bedrock
+521 1 233 deepslate[axis=y]
+fill 521 1 234 521 1 237 bedrock
+521 1 238 deepslate[axis=y]
+fill 521 1 239 521 1 247 bedrock
+521 1 248 gravel
+521 1 249 bedrock
+521 1 250 deepslate[axis=y]
+fill 521 1 251 521 1 255 bedrock
+522 1 128 bedrock
+522 1 129 deepslate[axis=y]
+fill 522 1 130 522 1 140 bedrock
+522 1 141 deepslate[axis=y]
+522 1 142 deepslate[axis=y]
+522 1 143 bedrock
+522 1 144 bedrock
+522 1 145 deepslate[axis=y]
+522 1 146 bedrock
+522 1 147 deepslate[axis=y]
+522 1 148 bedrock
+522 1 149 deepslate[axis=y]
+522 1 150 bedrock
+522 1 151 deepslate[axis=y]
+522 1 152 bedrock
+522 1 153 bedrock
+522 1 154 deepslate[axis=y]
+522 1 155 deepslate[axis=y]
+fill 522 1 156 522 1 159 bedrock
+522 1 160 deepslate[axis=y]
+522 1 161 bedrock
+522 1 162 bedrock
+522 1 163 deepslate[axis=y]
+fill 522 1 164 522 1 175 bedrock
+522 1 176 deepslate[axis=y]
+fill 522 1 177 522 1 182 bedrock
+522 1 183 deepslate[axis=y]
+522 1 184 bedrock
+522 1 185 bedrock
+522 1 186 deepslate[axis=y]
+fill 522 1 187 522 1 192 bedrock
+522 1 193 deepslate[axis=y]
+fill 522 1 194 522 1 206 bedrock
+522 1 207 deepslate[axis=y]
+fill 522 1 208 522 1 212 bedrock
+522 1 213 deepslate[axis=y]
+522 1 214 bedrock
+522 1 215 deepslate[axis=y]
+fill 522 1 216 522 1 230 bedrock
+522 1 231 deepslate[axis=y]
+522 1 232 bedrock
+522 1 233 bedrock
+522 1 234 deepslate[axis=y]
+522 1 235 bedrock
+522 1 236 deepslate_redstone_ore[lit=false]
+fill 522 1 237 522 1 241 bedrock
+522 1 242 deepslate[axis=y]
+522 1 243 bedrock
+522 1 244 bedrock
+522 1 245 gravel
+522 1 246 gravel
+fill 522 1 247 522 1 250 bedrock
+522 1 251 deepslate[axis=y]
+522 1 252 deepslate[axis=y]
+fill 522 1 253 522 1 255 bedrock
+fill 523 1 128 523 1 130 bedrock
+523 1 131 deepslate[axis=y]
+fill 523 1 132 523 1 136 bedrock
+523 1 137 deepslate[axis=y]
+523 1 138 bedrock
+523 1 139 bedrock
+523 1 140 deepslate[axis=y]
+fill 523 1 141 523 1 143 bedrock
+523 1 144 deepslate[axis=y]
+fill 523 1 145 523 1 148 bedrock
+523 1 149 deepslate[axis=y]
+fill 523 1 150 523 1 152 bedrock
+523 1 153 deepslate[axis=y]
+523 1 154 bedrock
+523 1 155 bedrock
+523 1 156 deepslate[axis=y]
+523 1 157 deepslate[axis=y]
+523 1 158 bedrock
+523 1 159 deepslate[axis=y]
+fill 523 1 160 523 1 163 bedrock
+523 1 164 deepslate[axis=y]

@@ -1,0 +1,603 @@
+fill 189 128 336 189 128 341 sand
+fill 189 128 342 189 128 344 dirt
+189 128 348 grass_block[snowy=false]
+fill 189 128 349 189 128 365 dirt
+fill 189 128 366 189 128 383 dirt
+fill 190 128 337 190 128 341 sand
+190 128 342 dirt
+190 128 343 dirt
+190 128 348 grass_block[snowy=false]
+fill 190 128 349 190 128 383 dirt
+fill 191 128 337 191 128 340 sand
+fill 191 128 341 191 128 344 dirt
+191 128 345 grass_block[snowy=false]
+fill 191 128 348 191 128 383 dirt
+fill 192 128 337 192 128 340 sand
+fill 192 128 341 192 128 346 dirt
+192 128 347 grass_block[snowy=false]
+fill 192 128 348 192 128 383 dirt
+fill 193 128 337 193 128 340 sand
+fill 193 128 341 193 128 383 dirt
+fill 194 128 337 194 128 340 sand
+fill 194 128 341 194 128 383 dirt
+195 128 337 sand
+195 128 338 grass_block[snowy=false]
+195 128 339 sand
+fill 195 128 340 195 128 383 dirt
+fill 196 128 337 196 128 340 grass_block[snowy=false]
+fill 196 128 341 196 128 351 dirt
+196 128 352 grass_block[snowy=false]
+fill 196 128 353 196 128 383 dirt
+197 128 336 wildflowers[facing=east,flower_amount=3]
+fill 197 128 338 197 128 343 grass_block[snowy=false]
+fill 197 128 344 197 128 348 dirt
+fill 197 128 349 197 128 354 grass_block[snowy=false]
+fill 197 128 355 197 128 383 dirt
+198 128 335 birch_log[axis=y]
+198 128 337 wildflowers[facing=west,flower_amount=4]
+fill 198 128 338 198 128 355 grass_block[snowy=false]
+fill 198 128 356 198 128 383 dirt
+fill 199 128 339 199 128 354 grass_block[snowy=false]
+fill 199 128 355 199 128 383 dirt
+200 128 336 wildflowers[facing=north,flower_amount=4]
+200 128 338 wildflowers[facing=west,flower_amount=2]
+fill 200 128 340 200 128 348 grass_block[snowy=false]
+200 128 349 dirt
+fill 200 128 350 200 128 353 grass_block[snowy=false]
+fill 200 128 354 200 128 383 dirt
+201 128 336 birch_log[axis=y]
+201 128 341 short_grass
+fill 201 128 342 201 128 350 grass_block[snowy=false]
+201 128 351 dirt
+201 128 352 grass_block[snowy=false]
+fill 201 128 353 201 128 383 dirt
+202 128 331 birch_log[axis=y]
+fill 202 128 344 202 128 352 grass_block[snowy=false]
+fill 202 128 353 202 128 383 dirt
+fill 203 128 345 203 128 352 grass_block[snowy=false]
+fill 203 128 353 203 128 383 dirt
+204 128 329 short_grass
+fill 204 128 346 204 128 352 grass_block[snowy=false]
+fill 204 128 353 204 128 383 dirt
+205 128 326 wildflowers[facing=south,flower_amount=4]
+205 128 332 wildflowers[facing=east,flower_amount=3]
+205 128 341 short_grass
+205 128 345 birch_log[axis=y]
+fill 205 128 347 205 128 351 grass_block[snowy=false]
+fill 205 128 352 205 128 383 dirt
+206 128 334 birch_log[axis=y]
+fill 206 128 348 206 128 352 grass_block[snowy=false]
+fill 206 128 353 206 128 383 dirt
+207 128 322 birch_log[axis=y]
+fill 207 128 349 207 128 353 grass_block[snowy=false]
+fill 207 128 354 207 128 383 dirt
+208 128 341 short_grass
+208 128 348 wildflowers[facing=east,flower_amount=1]
+208 128 350 grass_block[snowy=false]
+208 128 351 dirt
+fill 208 128 352 208 128 354 grass_block[snowy=false]
+fill 208 128 355 208 128 383 dirt
+209 128 340 short_grass
+209 128 346 short_grass
+fill 209 128 350 209 128 354 grass_block[snowy=false]
+fill 209 128 355 209 128 365 dirt
+fill 209 128 370 209 128 383 dirt
+210 128 342 short_grass
+210 128 343 birch_log[axis=y]
+210 128 344 short_grass
+210 128 349 short_grass
+fill 210 128 351 210 128 355 grass_block[snowy=false]
+fill 210 128 356 210 128 364 dirt
+210 128 370 dirt
+fill 210 128 372 210 128 383 dirt
+211 128 324 birch_log[axis=y]
+211 128 333 birch_log[axis=y]
+211 128 340 birch_log[axis=y]
+211 128 348 wildflowers[facing=west,flower_amount=4]
+211 128 349 wildflowers[facing=south,flower_amount=3]
+211 128 350 birch_log[axis=y]
+fill 211 128 352 211 128 356 grass_block[snowy=false]
+fill 211 128 357 211 128 369 dirt
+fill 211 128 372 211 128 383 dirt
+212 128 346 wildflowers[facing=east,flower_amount=2]
+212 128 349 wildflowers[facing=west,flower_amount=2]
+212 128 350 wildflowers[facing=east,flower_amount=4]
+212 128 352 wildflowers[facing=south,flower_amount=2]
+fill 212 128 353 212 128 356 grass_block[snowy=false]
+fill 212 128 357 212 128 383 dirt
+213 128 346 birch_log[axis=y]
+213 128 352 short_grass
+fill 213 128 354 213 128 357 grass_block[snowy=false]
+fill 213 128 358 213 128 371 dirt
+fill 213 128 372 213 128 383 dirt
+214 128 345 wildflowers[facing=south,flower_amount=4]
+214 128 347 wildflowers[facing=east,flower_amount=3]
+214 128 349 short_grass
+214 128 350 wildflowers[facing=east,flower_amount=2]
+214 128 351 short_grass
+214 128 352 wildflowers[facing=south,flower_amount=1]
+214 128 353 wildflowers[facing=east,flower_amount=4]
+fill 214 128 354 214 128 357 grass_block[snowy=false]
+fill 214 128 358 214 128 383 dirt
+215 128 353 short_grass
+215 128 354 wildflowers[facing=west,flower_amount=4]
+fill 215 128 355 215 128 357 grass_block[snowy=false]
+fill 215 128 358 215 128 367 dirt
+215 128 368 grass_block[snowy=false]
+fill 215 128 369 215 128 383 dirt
+216 128 337 birch_log[axis=y]
+216 128 341 short_grass
+216 128 342 birch_log[axis=y]
+216 128 346 short_grass
+216 128 351 wildflowers[facing=south,flower_amount=1]
+fill 216 128 355 216 128 358 grass_block[snowy=false]
+fill 216 128 359 216 128 366 dirt
+fill 216 128 368 216 128 383 dirt
+217 128 347 wildflowers[facing=west,flower_amount=4]
+217 128 348 short_grass
+217 128 352 wildflowers[facing=west,flower_amount=3]
+217 128 353 wildflowers[facing=north,flower_amount=1]
+217 128 354 short_grass
+fill 217 128 356 217 128 358 grass_block[snowy=false]
+fill 217 128 359 217 128 365 dirt
+fill 217 128 368 217 128 383 dirt
+218 128 345 wildflowers[facing=south,flower_amount=1]
+218 128 349 wildflowers[facing=north,flower_amount=2]
+218 128 352 wildflowers[facing=west,flower_amount=3]
+fill 218 128 357 218 128 359 grass_block[snowy=false]
+fill 218 128 360 218 128 364 dirt
+fill 218 128 368 218 128 383 dirt
+219 128 345 wildflowers[facing=south,flower_amount=4]
+219 128 348 wildflowers[facing=south,flower_amount=2]
+fill 219 128 359 219 128 363 grass_block[snowy=false]
+fill 219 128 366 219 128 383 dirt
+220 128 349 wildflowers[facing=north,flower_amount=1]
+220 128 351 wildflowers[facing=north,flower_amount=1]
+220 128 361 short_grass
+220 128 365 grass_block[snowy=false]
+220 128 366 grass_block[snowy=false]
+fill 220 128 367 220 128 383 dirt
+221 128 348 wildflowers[facing=south,flower_amount=4]
+221 128 353 wildflowers[facing=west,flower_amount=1]
+221 128 366 grass_block[snowy=false]
+221 128 367 grass_block[snowy=false]
+fill 221 128 368 221 128 383 dirt
+222 128 345 birch_log[axis=y]
+222 128 351 short_grass
+222 128 363 birch_log[axis=y]
+222 128 367 grass_block[snowy=false]
+222 128 368 grass_block[snowy=false]
+fill 222 128 369 222 128 383 dirt
+223 128 352 wildflowers[facing=west,flower_amount=3]
+fill 223 128 368 223 128 371 grass_block[snowy=false]
+fill 223 128 372 223 128 383 dirt
+fill 224 128 369 224 128 373 grass_block[snowy=false]
+fill 224 128 374 224 128 383 dirt
+225 128 348 birch_log[axis=y]
+225 128 357 birch_log[axis=y]
+225 128 371 dirt
+fill 225 128 372 225 128 374 grass_block[snowy=false]
+fill 225 128 375 225 128 383 dirt
+226 128 351 wildflowers[facing=north,flower_amount=2]
+fill 226 128 372 226 128 376 grass_block[snowy=false]
+fill 226 128 377 226 128 383 dirt
+227 128 348 short_grass
+227 128 352 wildflowers[facing=south,flower_amount=2]
+227 128 353 wildflowers[facing=west,flower_amount=4]
+227 128 355 wildflowers[facing=south,flower_amount=1]
+227 128 366 short_grass
+227 128 371 short_grass
+fill 227 128 372 227 128 376 grass_block[snowy=false]
+fill 227 128 377 227 128 383 dirt
+228 128 348 short_grass
+228 128 351 birch_log[axis=y]
+228 128 364 birch_log[axis=y]
+228 128 367 wildflowers[facing=south,flower_amount=1]
+228 128 368 wildflowers[facing=west,flower_amount=4]
+fill 228 128 373 228 128 377 grass_block[snowy=false]
+fill 228 128 378 228 128 383 dirt
+229 128 344 birch_log[axis=y]
+229 128 350 short_grass
+229 128 351 short_grass
+fill 229 128 374 229 128 378 grass_block[snowy=false]
+fill 229 128 379 229 128 383 dirt
+230 128 284 birch_log[axis=y]
+230 128 355 birch_log[axis=y]
+230 128 358 birch_log[axis=y]
+230 128 370 wildflowers[facing=north,flower_amount=2]
+fill 230 128 375 230 128 378 grass_block[snowy=false]
+fill 230 128 379 230 128 383 dirt
+231 128 351 short_grass
+231 128 370 short_grass
+231 128 372 short_grass
+231 128 373 wildflowers[facing=south,flower_amount=2]
+fill 231 128 376 231 128 380 grass_block[snowy=false]
+fill 231 128 381 231 128 383 dirt
+232 128 352 birch_log[axis=y]
+232 128 355 short_grass
+232 128 372 wildflowers[facing=north,flower_amount=3]
+232 128 375 wildflowers[facing=west,flower_amount=1]
+fill 232 128 378 232 128 383 grass_block[snowy=false]
+233 128 273 birch_log[axis=y]
+233 128 371 short_grass
+233 128 376 short_grass
+fill 233 128 379 233 128 383 grass_block[snowy=false]
+234 128 356 birch_log[axis=y]
+234 128 372 wildflowers[facing=east,flower_amount=1]
+234 128 373 wildflowers[facing=south,flower_amount=3]
+234 128 377 short_grass
+234 128 379 wildflowers[facing=east,flower_amount=3]
+234 128 381 grass_block[snowy=false]
+234 128 382 grass_block[snowy=false]
+234 128 383 dirt
+235 128 374 wildflowers[facing=south,flower_amount=3]
+236 128 281 short_grass
+236 128 345 birch_log[axis=y]
+236 128 348 birch_log[axis=y]
+236 128 378 wildflowers[facing=south,flower_amount=4]
+236 128 381 wildflowers[facing=east,flower_amount=3]
+237 128 277 short_grass
+237 128 280 birch_log[axis=y]
+237 128 374 wildflowers[facing=west,flower_amount=4]
+237 128 379 wildflowers[facing=west,flower_amount=3]
+237 128 380 short_grass
+238 128 274 short_grass
+238 128 276 short_grass
+238 128 277 short_grass
+238 128 368 birch_log[axis=y]
+238 128 376 birch_log[axis=y]
+238 128 379 short_grass
+238 128 381 wildflowers[facing=west,flower_amount=1]
+239 128 274 birch_log[axis=y]
+239 128 345 birch_log[axis=y]
+239 128 361 birch_log[axis=y]
+239 128 372 peony[half=upper]
+240 128 268 short_grass
+240 128 269 short_grass
+240 128 276 short_grass
+240 128 279 short_grass
+240 128 286 birch_log[axis=y]
+240 128 348 birch_log[axis=y]
+240 128 371 birch_log[axis=y]
+240 128 378 peony[half=upper]
+240 128 379 wildflowers[facing=east,flower_amount=4]
+240 128 380 wildflowers[facing=south,flower_amount=3]
+241 128 259 birch_log[axis=y]
+241 128 271 wildflowers[facing=east,flower_amount=1]
+241 128 272 wildflowers[facing=north,flower_amount=4]
+241 128 276 short_grass
+241 128 278 short_grass
+241 128 279 short_grass
+241 128 351 birch_log[axis=y]
+241 128 354 birch_log[axis=y]
+241 128 369 peony[half=upper]
+241 128 380 wildflowers[facing=west,flower_amount=1]
+241 128 381 wildflowers[facing=east,flower_amount=1]
+242 128 268 wildflowers[facing=west,flower_amount=2]
+242 128 366 birch_log[axis=y]
+242 128 380 wildflowers[facing=east,flower_amount=3]
+242 128 382 wildflowers[facing=north,flower_amount=3]
+242 128 383 wildflowers[facing=west,flower_amount=2]
+243 128 270 short_grass
+243 128 273 wildflowers[facing=east,flower_amount=1]
+243 128 365 peony[half=upper]
+243 128 367 peony[half=upper]
+243 128 368 peony[half=upper]
+243 128 369 birch_log[axis=y]
+243 128 370 peony[half=upper]
+243 128 373 peony[half=upper]
+243 128 382 wildflowers[facing=north,flower_amount=2]
+243 128 383 short_grass
+244 128 258 birch_log[axis=y]
+244 128 270 wildflowers[facing=east,flower_amount=2]
+244 128 273 birch_log[axis=y]
+244 128 281 birch_log[axis=y]
+244 128 369 peony[half=upper]
+244 128 370 peony[half=upper]
+244 128 372 peony[half=upper]
+244 128 373 birch_log[axis=y]
+244 128 374 peony[half=upper]
+244 128 382 wildflowers[facing=west,flower_amount=2]
+245 128 269 wildflowers[facing=west,flower_amount=3]
+245 128 271 wildflowers[facing=south,flower_amount=4]
+245 128 272 wildflowers[facing=west,flower_amount=1]
+245 128 368 peony[half=upper]
+245 128 370 peony[half=upper]
+245 128 371 peony[half=upper]
+245 128 380 wildflowers[facing=south,flower_amount=4]
+245 128 382 short_grass
+245 128 383 wildflowers[facing=west,flower_amount=3]
+246 128 269 wildflowers[facing=north,flower_amount=1]
+246 128 273 wildflowers[facing=north,flower_amount=2]
+246 128 378 short_grass
+246 128 379 birch_log[axis=y]
+246 128 381 wildflowers[facing=east,flower_amount=1]
+246 128 382 wildflowers[facing=south,flower_amount=4]
+246 128 383 short_grass
+247 128 269 short_grass
+247 128 271 wildflowers[facing=east,flower_amount=1]
+247 128 378 wildflowers[facing=west,flower_amount=1]
+248 128 269 birch_log[axis=y]
+248 128 285 sugar_cane[age=0]
+248 128 379 wildflowers[facing=north,flower_amount=1]
+248 128 381 wildflowers[facing=north,flower_amount=1]
+249 128 282 birch_log[axis=y]
+249 128 372 peony[half=upper]
+250 128 258 birch_log[axis=y]
+250 128 266 birch_log[axis=y]
+250 128 275 birch_log[axis=y]
+250 128 377 birch_log[axis=y]
+251 128 262 birch_log[axis=y]
+252 128 270 birch_log[axis=y]
+fill 128 129 327 128 129 329 sand
+fill 128 129 330 128 129 339 dirt
+fill 128 129 340 128 129 353 stone
+128 129 354 iron_ore
+128 129 355 stone
+128 129 356 stone
+128 129 357 dirt
+128 129 358 stone
+128 129 359 stone
+fill 128 129 360 128 129 370 dirt
+128 129 371 grass_block[snowy=false]
+128 129 381 birch_log[axis=y]
+fill 129 129 327 129 129 329 sand
+fill 129 129 330 129 129 339 dirt
+fill 129 129 340 129 129 356 stone
+129 129 357 dirt
+129 129 358 stone
+129 129 359 stone
+fill 129 129 360 129 129 370 dirt
+129 129 371 grass_block[snowy=false]
+fill 130 129 326 130 129 329 sand
+fill 130 129 330 130 129 338 dirt
+fill 130 129 339 130 129 356 stone
+fill 130 129 357 130 129 371 dirt
+130 129 372 short_grass
+130 129 375 wildflowers[facing=south,flower_amount=1]
+fill 131 129 326 131 129 328 sand
+fill 131 129 329 131 129 338 dirt
+fill 131 129 339 131 129 357 stone
+131 129 358 dirt
+131 129 359 stone
+131 129 360 dirt
+131 129 361 stone
+fill 131 129 362 131 129 372 dirt
+131 129 373 grass_block[snowy=false]
+131 129 374 grass_block[snowy=false]
+fill 132 129 326 132 129 328 sand
+fill 132 129 329 132 129 338 dirt
+fill 132 129 339 132 129 362 stone
+fill 132 129 363 132 129 374 dirt
+132 129 375 grass_block[snowy=false]
+132 129 376 wildflowers[facing=south,flower_amount=4]
+132 129 381 wildflowers[facing=west,flower_amount=3]
+133 129 326 sand
+133 129 327 sand
+fill 133 129 328 133 129 337 dirt
+fill 133 129 338 133 129 358 stone
+133 129 359 dirt
+133 129 360 dirt
+133 129 361 stone
+fill 133 129 362 133 129 375 dirt
+133 129 376 grass_block[snowy=false]
+133 129 377 grass_block[snowy=false]
+133 129 380 wildflowers[facing=east,flower_amount=2]
+134 129 326 sand
+134 129 327 grass_block[snowy=false]
+fill 134 129 328 134 129 337 dirt
+fill 134 129 338 134 129 343 stone
+134 129 344 copper_ore
+fill 134 129 345 134 129 355 stone
+134 129 356 dirt
+134 129 357 stone
+134 129 358 stone
+fill 134 129 359 134 129 375 dirt
+134 129 376 grass_block[snowy=false]
+134 129 377 grass_block[snowy=false]
+134 129 379 wildflowers[facing=east,flower_amount=1]
+135 129 327 sand
+fill 135 129 328 135 129 333 dirt
+fill 135 129 334 135 129 337 dirt
+fill 135 129 338 135 129 343 stone
+135 129 344 copper_ore
+135 129 345 copper_ore
+fill 135 129 346 135 129 350 stone
+135 129 351 dirt
+135 129 352 stone
+135 129 353 dirt
+fill 135 129 354 135 129 359 stone
+135 129 360 dirt
+135 129 361 dirt
+135 129 362 stone
+135 129 363 stone
+fill 135 129 364 135 129 375 dirt
+fill 135 129 376 135 129 378 grass_block[snowy=false]
+135 129 379 wildflowers[facing=south,flower_amount=1]
+135 129 380 wildflowers[facing=north,flower_amount=3]
+135 129 381 wildflowers[facing=north,flower_amount=1]
+136 129 327 sand
+fill 136 129 328 136 129 337 dirt
+fill 136 129 338 136 129 351 stone
+136 129 352 dirt
+136 129 353 stone
+136 129 354 stone
+136 129 355 dirt
+136 129 356 stone
+136 129 357 dirt
+136 129 358 stone
+fill 136 129 359 136 129 363 dirt
+136 129 364 stone
+fill 136 129 365 136 129 375 dirt
+fill 136 129 376 136 129 378 grass_block[snowy=false]
+137 129 327 sand
+137 129 328 sand
+fill 137 129 329 137 129 337 dirt
+fill 137 129 338 137 129 351 stone
+137 129 352 dirt
+137 129 353 dirt
+137 129 354 stone
+137 129 355 dirt
+137 129 356 stone
+fill 137 129 357 137 129 359 dirt
+137 129 360 stone
+137 129 361 stone
+fill 137 129 362 137 129 375 dirt
+fill 137 129 376 137 129 379 grass_block[snowy=false]
+137 129 381 wildflowers[facing=north,flower_amount=1]
+138 129 327 sand
+fill 138 129 328 138 129 336 dirt
+fill 138 129 337 138 129 345 stone
+138 129 346 coal_ore
+fill 138 129 347 138 129 353 stone
+fill 138 129 354 138 129 356 dirt
+138 129 357 stone
+fill 138 129 358 138 129 375 dirt
+138 129 376 grass_block[snowy=false]
+138 129 377 grass_block[snowy=false]
+138 129 378 dirt
+138 129 379 grass_block[snowy=false]
+138 129 380 grass_block[snowy=false]
+139 129 328 grass_block[snowy=false]
+fill 139 129 329 139 129 337 dirt
+fill 139 129 338 139 129 345 stone
+139 129 346 coal_ore
+139 129 347 coal_ore
+fill 139 129 348 139 129 352 stone
+fill 139 129 353 139 129 356 dirt
+139 129 357 stone
+139 129 358 stone
+fill 139 129 359 139 129 361 dirt
+139 129 362 stone
+fill 139 129 363 139 129 375 dirt
+fill 139 129 376 139 129 380 grass_block[snowy=false]
+140 129 328 grass_block[snowy=false]
+140 129 329 grass_block[snowy=false]
+fill 140 129 330 140 129 337 dirt
+fill 140 129 338 140 129 344 stone
+fill 140 129 345 140 129 347 coal_ore
+fill 140 129 348 140 129 353 stone
+140 129 354 dirt
+140 129 355 stone
+140 129 356 dirt
+140 129 357 stone
+140 129 358 dirt
+140 129 359 dirt
+140 129 360 stone
+fill 140 129 361 140 129 375 dirt
+fill 140 129 376 140 129 380 grass_block[snowy=false]
+141 129 329 grass_block[snowy=false]
+fill 141 129 330 141 129 333 dirt
+141 129 334 stone
+141 129 335 stone
+141 129 336 dirt
+141 129 337 dirt
+fill 141 129 338 141 129 345 stone
+141 129 346 coal_ore
+141 129 347 gravel
+141 129 348 gravel
+fill 141 129 349 141 129 356 stone
+141 129 357 dirt
+141 129 358 stone
+141 129 359 stone
+141 129 360 dirt
+141 129 361 stone
+141 129 362 dirt
+141 129 363 stone
+fill 141 129 364 141 129 375 dirt
+fill 141 129 376 141 129 379 grass_block[snowy=false]
+141 129 380 dirt
+142 129 329 grass_block[snowy=false]
+fill 142 129 330 142 129 333 dirt
+142 129 334 stone
+fill 142 129 335 142 129 337 dirt
+fill 142 129 338 142 129 345 stone
+fill 142 129 346 142 129 349 gravel
+142 129 350 dirt
+142 129 351 dirt
+fill 142 129 352 142 129 356 stone
+142 129 357 dirt
+fill 142 129 358 142 129 360 stone
+142 129 361 dirt
+142 129 362 stone
+fill 142 129 363 142 129 375 dirt
+fill 142 129 376 142 129 380 grass_block[snowy=false]
+143 129 329 sand
+143 129 330 sand
+fill 143 129 331 143 129 333 dirt
+fill 143 129 334 143 129 336 stone
+143 129 337 dirt
+fill 143 129 338 143 129 346 stone
+143 129 347 gravel
+143 129 348 gravel
+fill 143 129 349 143 129 351 dirt
+fill 143 129 352 143 129 358 stone
+143 129 359 dirt
+fill 143 129 360 143 129 362 stone
+fill 143 129 363 143 129 374 dirt
+fill 143 129 375 143 129 380 grass_block[snowy=false]
+fill 144 129 329 144 129 331 sand
+144 129 332 dirt
+144 129 333 dirt
+144 129 334 stone
+144 129 335 stone
+144 129 336 dirt
+fill 144 129 337 144 129 343 stone
+144 129 344 dirt
+144 129 345 stone
+144 129 346 stone
+144 129 347 gravel
+144 129 348 gravel
+fill 144 129 349 144 129 351 dirt
+fill 144 129 352 144 129 362 stone
+144 129 363 dirt
+144 129 364 stone
+fill 144 129 365 144 129 374 dirt
+fill 144 129 375 144 129 379 grass_block[snowy=false]
+fill 145 129 329 145 129 331 sand
+145 129 332 dirt
+fill 145 129 333 145 129 341 stone
+fill 145 129 342 145 129 346 dirt
+145 129 347 gravel
+145 129 348 gravel
+fill 145 129 349 145 129 351 dirt
+fill 145 129 352 145 129 363 stone
+fill 145 129 364 145 129 374 dirt
+fill 145 129 375 145 129 379 grass_block[snowy=false]
+145 129 383 short_grass
+fill 146 129 329 146 129 331 sand
+146 129 332 dirt
+fill 146 129 333 146 129 340 stone
+fill 146 129 341 146 129 348 dirt
+fill 146 129 349 146 129 352 gravel
+fill 146 129 353 146 129 363 stone
+fill 146 129 364 146 129 373 dirt
+fill 146 129 374 146 129 379 grass_block[snowy=false]
+fill 147 129 329 147 129 331 sand
+147 129 332 dirt
+147 129 333 dirt
+fill 147 129 334 147 129 340 stone
+fill 147 129 341 147 129 349 dirt
+147 129 350 stone
+147 129 351 gravel
+147 129 352 gravel
+fill 147 129 353 147 129 363 stone
+fill 147 129 364 147 129 373 dirt
+fill 147 129 374 147 129 378 grass_block[snowy=false]
+147 129 379 dirt
+147 129 380 grass_block[snowy=false]
+fill 148 129 328 148 129 331 sand
+148 129 332 dirt
+148 129 333 dirt
+fill 148 129 334 148 129 340 stone
+fill 148 129 341 148 129 350 dirt
+fill 148 129 351 148 129 362 stone
+fill 148 129 363 148 129 374 dirt
+fill 148 129 375 148 129 381 grass_block[snowy=false]
+fill 149 129 328 149 129 332 sand
+149 129 333 dirt
+fill 149 129 334 149 129 340 stone
+fill 149 129 341 149 129 351 dirt
+fill 149 129 352 149 129 362 stone
+fill 149 129 363 149 129 374 dirt
+fill 149 129 375 149 129 381 grass_block[snowy=false]

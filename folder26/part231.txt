@@ -1,0 +1,500 @@
+fill 1015 14 640 1015 14 728 deepslate[axis=y]
+fill 1015 14 729 1015 14 756 deepslate[axis=y]
+1015 14 757 sculk
+fill 1016 14 640 1016 14 754 deepslate[axis=y]
+1016 14 755 sculk
+1016 14 756 sculk
+fill 1017 14 640 1017 14 662 deepslate[axis=y]
+fill 1017 14 663 1017 14 669 gravel
+fill 1017 14 670 1017 14 752 deepslate[axis=y]
+1017 14 753 sculk
+1017 14 754 sculk
+fill 1018 14 640 1018 14 660 deepslate[axis=y]
+1018 14 661 deepslate_redstone_ore[lit=false]
+1018 14 662 deepslate[axis=y]
+fill 1018 14 663 1018 14 671 gravel
+fill 1018 14 672 1018 14 751 deepslate[axis=y]
+1018 14 752 sculk
+fill 1019 14 640 1019 14 663 deepslate[axis=y]
+fill 1019 14 664 1019 14 671 gravel
+fill 1019 14 672 1019 14 750 deepslate[axis=y]
+1019 14 751 sculk
+fill 1020 14 640 1020 14 644 deepslate[axis=y]
+1020 14 645 deepslate_gold_ore
+fill 1020 14 646 1020 14 665 deepslate[axis=y]
+fill 1020 14 666 1020 14 671 gravel
+fill 1020 14 672 1020 14 750 deepslate[axis=y]
+1020 14 751 sculk
+1021 14 640 deepslate[axis=y]
+fill 1021 14 641 1021 14 648 gravel
+fill 1021 14 649 1021 14 703 deepslate[axis=y]
+1021 14 704 deepslate_diamond_ore
+fill 1021 14 705 1021 14 740 deepslate[axis=y]
+fill 1021 14 741 1021 14 750 deepslate[axis=y]
+1021 14 751 sculk
+fill 1022 14 640 1022 14 649 gravel
+fill 1022 14 650 1022 14 731 deepslate[axis=y]
+1022 14 732 deepslate_redstone_ore[lit=false]
+1022 14 733 deepslate_redstone_ore[lit=false]
+fill 1022 14 734 1022 14 750 deepslate[axis=y]
+1022 14 751 sculk
+fill 1023 14 640 1023 14 649 gravel
+fill 1023 14 650 1023 14 731 deepslate[axis=y]
+1023 14 732 deepslate_redstone_ore[lit=false]
+1023 14 733 deepslate_redstone_ore[lit=false]
+fill 1023 14 734 1023 14 750 deepslate[axis=y]
+1023 14 751 sculk
+fill 896 15 640 896 15 649 deepslate[axis=y]
+896 15 650 deepslate_redstone_ore[lit=false]
+896 15 651 deepslate_redstone_ore[lit=false]
+fill 896 15 652 896 15 714 deepslate[axis=y]
+896 15 715 sculk_vein[down=true,east=false,north=true,south=false,up=false,waterlogged=false,west=false]
+fill 896 15 721 896 15 758 deepslate[axis=y]
+fill 896 15 759 896 15 766 tuff
+896 15 767 deepslate[axis=y]
+fill 897 15 640 897 15 649 deepslate[axis=y]
+897 15 650 deepslate_redstone_ore[lit=false]
+897 15 651 deepslate_redstone_ore[lit=false]
+fill 897 15 652 897 15 671 deepslate[axis=y]
+897 15 672 tuff
+fill 897 15 673 897 15 692 deepslate[axis=y]
+897 15 693 sculk
+fill 897 15 694 897 15 712 deepslate[axis=y]
+897 15 713 sculk
+897 15 714 sculk
+897 15 715 sculk_vein[down=false,east=true,north=false,south=false,up=false,waterlogged=false,west=false]
+897 15 716 sculk_vein[down=true,east=true,north=false,south=false,up=false,waterlogged=false,west=false]
+fill 897 15 719 897 15 758 deepslate[axis=y]
+fill 897 15 759 897 15 766 tuff
+897 15 767 deepslate[axis=y]
+fill 898 15 640 898 15 671 deepslate[axis=y]
+898 15 672 tuff
+fill 898 15 673 898 15 691 deepslate[axis=y]
+898 15 692 sculk
+898 15 694 sculk
+fill 898 15 695 898 15 711 deepslate[axis=y]
+898 15 712 sculk
+898 15 713 deepslate[axis=y]
+898 15 714 sculk
+fill 898 15 715 898 15 759 deepslate[axis=y]
+fill 898 15 760 898 15 766 tuff
+898 15 767 deepslate[axis=y]
+fill 899 15 640 899 15 662 deepslate[axis=y]
+fill 899 15 670 899 15 690 deepslate[axis=y]
+899 15 691 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=true]
+899 15 694 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+899 15 695 sculk
+899 15 696 sculk
+fill 899 15 697 899 15 712 deepslate[axis=y]
+899 15 713 sculk
+899 15 714 sculk
+fill 899 15 715 899 15 742 deepslate[axis=y]
+fill 899 15 743 899 15 759 deepslate[axis=y]
+fill 899 15 760 899 15 766 tuff
+899 15 767 deepslate[axis=y]
+fill 900 15 640 900 15 661 deepslate[axis=y]
+900 15 672 sculk_vein[down=false,east=false,north=false,south=false,up=false,waterlogged=false,west=true]
+900 15 673 sculk_vein[down=false,east=false,north=false,south=false,up=false,waterlogged=false,west=true]
+fill 900 15 674 900 15 690 deepslate[axis=y]
+900 15 691 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+900 15 696 sculk
+fill 900 15 697 900 15 759 deepslate[axis=y]
+fill 900 15 760 900 15 766 tuff
+900 15 767 deepslate[axis=y]
+fill 901 15 640 901 15 660 deepslate[axis=y]
+fill 901 15 666 901 15 669 deepslate[axis=y]
+fill 901 15 678 901 15 688 deepslate[axis=y]
+901 15 689 sculk
+901 15 690 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=true]
+901 15 695 sculk_vein[down=true,east=false,north=false,south=true,up=false,waterlogged=false,west=false]
+fill 901 15 696 901 15 760 deepslate[axis=y]
+fill 901 15 761 901 15 766 tuff
+901 15 767 deepslate[axis=y]
+fill 902 15 640 902 15 660 deepslate[axis=y]
+fill 902 15 665 902 15 670 deepslate[axis=y]
+902 15 679 sculk_vein[down=false,east=false,north=false,south=false,up=false,waterlogged=false,west=true]
+902 15 680 sculk
+902 15 681 sculk
+fill 902 15 682 902 15 688 deepslate[axis=y]
+902 15 689 sculk
+902 15 690 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+902 15 693 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+902 15 694 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+902 15 695 sculk
+fill 902 15 696 902 15 746 deepslate[axis=y]
+902 15 747 deepslate_diamond_ore
+902 15 748 deepslate_diamond_ore
+fill 902 15 749 902 15 760 deepslate[axis=y]
+fill 902 15 761 902 15 766 tuff
+902 15 767 deepslate[axis=y]
+fill 903 15 640 903 15 659 deepslate[axis=y]
+fill 903 15 666 903 15 672 deepslate[axis=y]
+903 15 681 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+903 15 682 sculk
+903 15 683 sculk
+fill 903 15 684 903 15 687 deepslate[axis=y]
+903 15 688 sculk
+903 15 694 sculk_vein[down=true,east=false,north=false,south=true,up=false,waterlogged=false,west=false]
+903 15 695 deepslate[axis=y]
+903 15 696 deepslate[axis=y]
+903 15 697 deepslate_diamond_ore
+fill 903 15 698 903 15 715 deepslate[axis=y]
+903 15 716 deepslate_redstone_ore[lit=false]
+fill 903 15 717 903 15 746 deepslate[axis=y]
+903 15 747 deepslate_diamond_ore
+903 15 748 deepslate_diamond_ore
+fill 903 15 749 903 15 761 deepslate[axis=y]
+fill 903 15 762 903 15 766 tuff
+903 15 767 deepslate[axis=y]
+fill 904 15 640 904 15 660 deepslate[axis=y]
+fill 904 15 666 904 15 673 deepslate[axis=y]
+904 15 684 sculk
+904 15 685 sculk
+904 15 686 deepslate[axis=y]
+904 15 687 deepslate[axis=y]
+904 15 688 sculk
+904 15 693 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+fill 904 15 694 904 15 762 deepslate[axis=y]
+fill 904 15 763 904 15 766 tuff
+904 15 767 deepslate[axis=y]
+fill 905 15 640 905 15 660 deepslate[axis=y]
+fill 905 15 667 905 15 675 deepslate[axis=y]
+905 15 676 sculk_vein[down=false,east=false,north=true,south=false,up=true,waterlogged=false,west=false]
+fill 905 15 684 905 15 686 sculk
+905 15 687 deepslate[axis=y]
+905 15 688 sculk
+905 15 691 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+905 15 692 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+fill 905 15 694 905 15 760 deepslate[axis=y]
+905 15 761 deepslate[axis=y]
+905 15 762 deepslate[axis=y]
+fill 905 15 763 905 15 766 tuff
+905 15 767 deepslate[axis=y]
+fill 906 15 640 906 15 660 deepslate[axis=y]
+906 15 661 sculk_vein[down=false,east=true,north=false,south=false,up=false,waterlogged=false,west=false]
+fill 906 15 668 906 15 675 deepslate[axis=y]
+906 15 676 sculk
+906 15 677 sculk_vein[down=false,east=true,north=false,south=false,up=true,waterlogged=false,west=false]
+906 15 678 sculk_vein[down=false,east=true,north=false,south=false,up=false,waterlogged=false,west=false]
+fill 906 15 684 906 15 687 sculk
+906 15 688 deepslate[axis=y]
+906 15 689 sculk_vein[down=false,east=false,north=true,south=false,up=false,waterlogged=false,west=false]
+906 15 692 sculk_vein[down=true,east=true,north=false,south=false,up=false,waterlogged=false,west=false]
+fill 906 15 693 906 15 767 deepslate[axis=y]
+fill 907 15 640 907 15 661 deepslate[axis=y]
+907 15 662 sculk_vein[down=false,east=false,north=true,south=false,up=false,waterlogged=false,west=false]
+fill 907 15 668 907 15 673 deepslate[axis=y]
+907 15 674 deepslate_gold_ore
+fill 907 15 675 907 15 679 deepslate[axis=y]
+907 15 681 sculk_vein[down=true,east=true,north=false,south=false,up=false,waterlogged=false,west=false]
+fill 907 15 683 907 15 687 sculk
+907 15 688 deepslate[axis=y]
+907 15 689 sculk
+907 15 690 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+907 15 691 sculk_vein[down=false,east=false,north=false,south=true,up=false,waterlogged=false,west=false]
+fill 907 15 692 907 15 767 deepslate[axis=y]
+fill 908 15 640 908 15 660 deepslate[axis=y]
+908 15 661 sculk
+908 15 662 sculk_vein[down=true,east=true,north=false,south=false,up=true,waterlogged=false,west=false]
+fill 908 15 668 908 15 681 deepslate[axis=y]
+fill 908 15 682 908 15 687 sculk
+908 15 688 deepslate[axis=y]
+fill 908 15 689 908 15 691 sculk
+908 15 692 deepslate[axis=y]
+908 15 693 deepslate[axis=y]
+908 15 694 sculk
+fill 908 15 695 908 15 767 deepslate[axis=y]
+fill 909 15 640 909 15 662 deepslate[axis=y]
+909 15 663 sculk
+909 15 665 sculk_vein[down=true,east=true,north=false,south=false,up=false,waterlogged=false,west=false]
+909 15 666 sculk_vein[down=true,east=false,north=false,south=true,up=false,waterlogged=false,west=false]
+fill 909 15 667 909 15 682 deepslate[axis=y]
+fill 909 15 683 909 15 686 sculk
+909 15 687 deepslate[axis=y]
+909 15 688 deepslate[axis=y]
+fill 909 15 689 909 15 695 sculk
+fill 909 15 696 909 15 725 deepslate[axis=y]
+909 15 726 gravel
+909 15 727 gravel
+fill 909 15 728 909 15 767 deepslate[axis=y]
+fill 910 15 640 910 15 663 deepslate[axis=y]
+910 15 664 sculk
+910 15 665 deepslate[axis=y]
+910 15 666 sculk
+fill 910 15 667 910 15 681 deepslate[axis=y]
+910 15 682 sculk
+910 15 685 sculk
+910 15 686 sculk
+fill 910 15 687 910 15 689 deepslate[axis=y]
+fill 910 15 690 910 15 695 sculk
+fill 910 15 696 910 15 724 deepslate[axis=y]
+fill 910 15 725 910 15 727 gravel
+fill 910 15 728 910 15 767 deepslate[axis=y]
+fill 911 15 640 911 15 664 deepslate[axis=y]
+fill 911 15 665 911 15 667 sculk
+fill 911 15 668 911 15 680 deepslate[axis=y]
+911 15 681 sculk
+911 15 685 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+911 15 686 sculk
+fill 911 15 687 911 15 690 deepslate[axis=y]
+fill 911 15 691 911 15 693 sculk
+fill 911 15 696 911 15 699 sculk
+fill 911 15 700 911 15 724 deepslate[axis=y]
+911 15 725 gravel
+911 15 726 gravel
+fill 911 15 727 911 15 767 deepslate[axis=y]
+fill 912 15 640 912 15 665 deepslate[axis=y]
+912 15 666 sculk
+fill 912 15 667 912 15 679 deepslate[axis=y]
+912 15 680 sculk
+912 15 687 sculk
+912 15 688 deepslate[axis=y]
+912 15 689 deepslate[axis=y]
+fill 912 15 690 912 15 692 sculk
+912 15 700 sculk
+912 15 701 sculk
+fill 912 15 702 912 15 723 deepslate[axis=y]
+912 15 724 gravel
+fill 912 15 725 912 15 767 deepslate[axis=y]
+fill 913 15 640 913 15 679 deepslate[axis=y]
+913 15 680 sculk
+913 15 687 sculk
+913 15 688 deepslate[axis=y]
+913 15 689 deepslate[axis=y]
+913 15 690 sculk
+913 15 691 sculk
+913 15 702 sculk
+fill 913 15 703 913 15 723 deepslate[axis=y]
+913 15 724 gravel
+fill 913 15 725 913 15 767 deepslate[axis=y]
+fill 914 15 640 914 15 680 deepslate[axis=y]
+914 15 681 sculk_vein[down=false,east=false,north=true,south=false,up=false,waterlogged=false,west=false]
+914 15 688 sculk
+914 15 689 deepslate[axis=y]
+914 15 690 sculk
+914 15 691 sculk
+914 15 703 sculk
+fill 914 15 704 914 15 767 deepslate[axis=y]
+fill 915 15 640 915 15 680 deepslate[axis=y]
+915 15 681 sculk
+915 15 687 sculk_sensor[power=0,sculk_sensor_phase=inactive,waterlogged=false]
+915 15 688 sculk
+915 15 689 deepslate[axis=y]
+915 15 690 sculk
+915 15 703 sculk
+fill 915 15 704 915 15 713 deepslate[axis=y]
+915 15 714 deepslate_redstone_ore[lit=false]
+915 15 715 deepslate_redstone_ore[lit=false]
+fill 915 15 716 915 15 767 deepslate[axis=y]
+fill 916 15 640 916 15 680 deepslate[axis=y]
+916 15 681 sculk
+916 15 688 sculk_sensor[power=0,sculk_sensor_phase=inactive,waterlogged=false]
+916 15 689 sculk
+916 15 690 sculk
+916 15 704 sculk
+fill 916 15 705 916 15 713 deepslate[axis=y]
+916 15 714 deepslate_redstone_ore[lit=false]
+916 15 715 deepslate_redstone_ore[lit=false]
+fill 916 15 716 916 15 740 deepslate[axis=y]
+fill 916 15 741 916 15 743 sculk
+fill 916 15 744 916 15 761 deepslate[axis=y]
+916 15 762 deepslate_diamond_ore
+fill 916 15 763 916 15 767 deepslate[axis=y]
+fill 917 15 640 917 15 662 deepslate[axis=y]
+fill 917 15 663 917 15 666 tuff
+917 15 667 deepslate[axis=y]
+917 15 668 tuff
+917 15 669 tuff
+fill 917 15 670 917 15 681 deepslate[axis=y]
+917 15 682 sculk
+917 15 704 sculk
+fill 917 15 705 917 15 735 deepslate[axis=y]
+917 15 736 sculk
+917 15 737 sculk
+917 15 738 sculk_vein[down=false,east=false,north=false,south=false,up=true,waterlogged=false,west=true]
+917 15 739 sculk_vein[down=false,east=false,north=false,south=false,up=false,waterlogged=false,west=true]
+917 15 740 sculk_vein[down=false,east=false,north=false,south=false,up=true,waterlogged=false,west=true]
+917 15 744 sculk
+917 15 745 sculk
+fill 917 15 746 917 15 760 deepslate[axis=y]
+917 15 761 deepslate_diamond_ore
+fill 917 15 762 917 15 767 deepslate[axis=y]
+918 15 640 deepslate[axis=y]
+918 15 641 deepslate[axis=y]
+fill 918 15 642 918 15 661 deepslate[axis=y]
+fill 918 15 662 918 15 673 tuff
+fill 918 15 674 918 15 681 deepslate[axis=y]
+918 15 682 sculk
+918 15 689 sculk_sensor[power=0,sculk_sensor_phase=inactive,waterlogged=false]
+918 15 704 sculk
+fill 918 15 705 918 15 734 deepslate[axis=y]
+918 15 735 sculk
+918 15 736 sculk_vein[down=false,east=false,north=false,south=false,up=true,waterlogged=false,west=false]
+918 15 746 sculk
+fill 918 15 747 918 15 767 deepslate[axis=y]
+fill 919 15 640 919 15 661 deepslate[axis=y]
+fill 919 15 662 919 15 675 tuff
+fill 919 15 676 919 15 681 deepslate[axis=y]
+919 15 682 sculk
+919 15 695 sculk
+919 15 696 sculk
+919 15 704 sculk
+fill 919 15 705 919 15 734 deepslate[axis=y]
+919 15 735 sculk
+fill 919 15 736 919 15 740 sculk_vein[down=false,east=false,north=false,south=false,up=true,waterlogged=false,west=false]
+919 15 747 sculk
+fill 919 15 748 919 15 767 deepslate[axis=y]
+fill 920 15 640 920 15 646 deepslate[axis=y]
+920 15 647 deepslate_redstone_ore[lit=false]
+fill 920 15 648 920 15 661 deepslate[axis=y]
+fill 920 15 662 920 15 676 tuff
+fill 920 15 677 920 15 681 deepslate[axis=y]
+920 15 682 sculk
+920 15 695 sculk
+920 15 704 sculk
+fill 920 15 705 920 15 735 deepslate[axis=y]
+920 15 736 sculk_vein[down=false,east=false,north=true,south=false,up=true,waterlogged=false,west=false]
+920 15 738 deepslate[axis=y]
+920 15 739 sculk_vein[down=false,east=false,north=true,south=false,up=true,waterlogged=false,west=false]
+920 15 740 sculk_vein[down=false,east=false,north=false,south=false,up=true,waterlogged=false,west=false]
+920 15 747 sculk_vein[down=false,east=false,north=false,south=true,up=false,waterlogged=false,west=false]
+920 15 748 deepslate_diamond_ore
+fill 920 15 749 920 15 767 deepslate[axis=y]
+fill 921 15 640 921 15 645 deepslate[axis=y]
+921 15 646 deepslate_redstone_ore[lit=false]
+921 15 647 deepslate_redstone_ore[lit=false]
+fill 921 15 648 921 15 661 deepslate[axis=y]
+fill 921 15 662 921 15 678 tuff
+fill 921 15 679 921 15 681 deepslate[axis=y]
+921 15 682 sculk
+921 15 686 sculk_vein[down=false,east=true,north=false,south=false,up=false,waterlogged=false,west=false]
+921 15 704 sculk
+fill 921 15 705 921 15 732 deepslate[axis=y]
+921 15 734 glow_lichen[down=false,east=false,north=false,south=false,up=true,waterlogged=false,west=false]
+921 15 735 glow_lichen[down=false,east=false,north=false,south=false,up=true,waterlogged=false,west=false]
+fill 921 15 736 921 15 738 deepslate[axis=y]
+921 15 739 sculk
+921 15 740 sculk
+921 15 748 sculk_vein[down=false,east=false,north=false,south=false,up=false,waterlogged=false,west=true]
+921 15 749 sculk
+fill 921 15 750 921 15 767 deepslate[axis=y]
+fill 922 15 640 922 15 662 deepslate[axis=y]
+fill 922 15 663 922 15 679 tuff
+922 15 680 deepslate[axis=y]
+922 15 681 deepslate[axis=y]
+922 15 682 sculk
+922 15 685 sculk
+922 15 686 deepslate[axis=y]
+922 15 687 sculk
+922 15 703 sculk
+fill 922 15 704 922 15 731 deepslate[axis=y]
+fill 922 15 736 922 15 740 deepslate[axis=y]
+922 15 741 sculk
+922 15 749 sculk
+fill 922 15 750 922 15 767 deepslate[axis=y]
+fill 923 15 640 923 15 664 deepslate[axis=y]
+fill 923 15 665 923 15 680 tuff
+923 15 681 deepslate[axis=y]
+923 15 682 sculk
+923 15 686 sculk
+923 15 687 deepslate[axis=y]
+923 15 688 sculk
+923 15 702 sculk
+fill 923 15 703 923 15 730 deepslate[axis=y]
+fill 923 15 735 923 15 740 deepslate[axis=y]
+923 15 741 tuff
+923 15 742 sculk
+923 15 749 sculk
+fill 923 15 750 923 15 767 deepslate[axis=y]
+fill 924 15 640 924 15 665 deepslate[axis=y]
+fill 924 15 666 924 15 680 tuff
+924 15 681 sculk
+924 15 686 sculk
+924 15 687 deepslate[axis=y]
+924 15 688 sculk
+924 15 701 sculk
+fill 924 15 702 924 15 730 deepslate[axis=y]
+fill 924 15 735 924 15 740 deepslate[axis=y]
+924 15 741 tuff
+924 15 742 tuff
+924 15 743 sculk
+924 15 750 sculk
+fill 924 15 751 924 15 767 deepslate[axis=y]
+fill 925 15 640 925 15 663 deepslate[axis=y]
+fill 925 15 664 925 15 668 deepslate[axis=y]
+fill 925 15 669 925 15 673 tuff
+925 15 674 deepslate_diamond_ore
+fill 925 15 675 925 15 680 tuff
+925 15 681 sculk
+925 15 685 sculk
+fill 925 15 686 925 15 688 deepslate[axis=y]
+925 15 689 sculk
+925 15 700 sculk
+fill 925 15 701 925 15 729 deepslate[axis=y]
+fill 925 15 734 925 15 742 deepslate[axis=y]
+925 15 743 sculk
+925 15 750 sculk
+fill 925 15 751 925 15 767 deepslate[axis=y]
+fill 926 15 640 926 15 670 deepslate[axis=y]
+fill 926 15 671 926 15 674 tuff
+926 15 675 deepslate[axis=y]
+fill 926 15 676 926 15 678 tuff
+926 15 679 deepslate[axis=y]
+926 15 680 deepslate[axis=y]
+926 15 681 sculk
+926 15 685 sculk
+fill 926 15 686 926 15 689 deepslate[axis=y]
+926 15 690 sculk
+926 15 699 sculk
+fill 926 15 700 926 15 729 deepslate[axis=y]
+fill 926 15 733 926 15 743 deepslate[axis=y]
+926 15 744 sculk_vein[down=false,east=false,north=true,south=false,up=false,waterlogged=false,west=false]
+926 15 751 sculk
+fill 926 15 752 926 15 767 deepslate[axis=y]
+fill 927 15 640 927 15 679 deepslate[axis=y]
+927 15 680 sculk
+927 15 685 sculk
+fill 927 15 686 927 15 690 deepslate[axis=y]
+927 15 691 sculk
+927 15 698 sculk_vein[down=true,east=false,north=false,south=true,up=false,waterlogged=false,west=false]
+fill 927 15 699 927 15 728 deepslate[axis=y]
+927 15 732 glow_lichen[down=false,east=false,north=false,south=true,up=false,waterlogged=false,west=false]
+fill 927 15 733 927 15 743 deepslate[axis=y]
+927 15 744 sculk
+927 15 751 sculk
+fill 927 15 752 927 15 767 deepslate[axis=y]
+fill 928 15 640 928 15 657 deepslate[axis=y]
+928 15 658 deepslate_redstone_ore[lit=false]
+fill 928 15 659 928 15 679 deepslate[axis=y]
+928 15 680 sculk
+928 15 684 sculk
+fill 928 15 685 928 15 691 deepslate[axis=y]
+928 15 692 sculk_vein[down=false,east=false,north=true,south=false,up=false,waterlogged=false,west=false]
+fill 928 15 695 928 15 697 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+fill 928 15 700 928 15 728 deepslate[axis=y]
+fill 928 15 732 928 15 743 deepslate[axis=y]
+928 15 744 sculk
+928 15 751 sculk
+fill 928 15 752 928 15 767 deepslate[axis=y]
+fill 929 15 640 929 15 659 deepslate[axis=y]
+fill 929 15 660 929 15 662 tuff
+fill 929 15 663 929 15 680 deepslate[axis=y]
+929 15 681 sculk_vein[down=true,east=false,north=true,south=false,up=false,waterlogged=false,west=false]
+929 15 682 sculk_sensor[power=0,sculk_sensor_phase=inactive,waterlogged=false]
+929 15 683 sculk_sensor[power=0,sculk_sensor_phase=inactive,waterlogged=false]
+929 15 684 sculk
+fill 929 15 685 929 15 691 deepslate[axis=y]
+929 15 692 sculk
+929 15 693 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+929 15 694 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+fill 929 15 700 929 15 728 deepslate[axis=y]
+fill 929 15 732 929 15 742 deepslate[axis=y]
+929 15 743 deepslate_redstone_ore[lit=false]
+929 15 744 sculk
+929 15 751 sculk
+fill 929 15 752 929 15 767 deepslate[axis=y]
+fill 930 15 640 930 15 658 deepslate[axis=y]
+fill 930 15 659 930 15 664 tuff
+fill 930 15 665 930 15 679 deepslate[axis=y]
+930 15 680 sculk
+930 15 683 sculk

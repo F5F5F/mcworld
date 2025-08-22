@@ -1,0 +1,790 @@
+fill 26 82 0 26 82 36 stone
+26 82 37 copper_ore
+fill 26 82 38 26 82 55 granite
+fill 26 82 56 26 82 67 stone
+fill 26 82 68 26 82 71 iron_ore
+fill 26 82 72 26 82 97 stone
+fill 26 82 98 26 82 104 dirt
+fill 26 82 105 26 82 108 stone
+26 82 109 andesite
+fill 26 82 110 26 82 112 cave_air
+fill 26 82 113 26 82 119 andesite
+fill 26 82 120 26 82 127 stone
+fill 27 82 0 27 82 38 stone
+fill 27 82 39 27 82 53 granite
+fill 27 82 54 27 82 69 stone
+27 82 70 iron_ore
+27 82 71 iron_ore
+fill 27 82 72 27 82 98 stone
+fill 27 82 99 27 82 102 dirt
+27 82 103 stone
+27 82 104 stone
+fill 27 82 105 27 82 107 stone
+27 82 108 andesite
+27 82 109 andesite
+27 82 110 cave_air
+27 82 111 rail[shape=east_west,waterlogged=false]
+fill 27 82 112 27 82 114 cave_air
+27 82 115 oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+fill 27 82 116 27 82 119 cave_air
+27 82 120 oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+fill 27 82 121 27 82 124 cave_air
+27 82 125 oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+27 82 126 cave_air
+27 82 127 cave_air
+28 82 0 granite
+28 82 1 granite
+fill 28 82 2 28 82 42 stone
+fill 28 82 43 28 82 48 granite
+28 82 49 stone
+28 82 50 granite
+28 82 51 granite
+fill 28 82 52 28 82 56 stone
+fill 28 82 57 28 82 59 granite
+fill 28 82 60 28 82 107 stone
+28 82 108 andesite
+28 82 109 andesite
+28 82 110 cave_air
+28 82 111 rail[shape=east_west,waterlogged=false]
+28 82 112 cave_air
+28 82 113 rail[shape=north_south,waterlogged=false]
+28 82 114 rail[shape=north_south,waterlogged=false]
+28 82 115 cave_air
+fill 28 82 116 28 82 121 rail[shape=north_south,waterlogged=false]
+28 82 122 cave_air
+28 82 123 cave_air
+fill 28 82 124 28 82 127 rail[shape=north_south,waterlogged=false]
+fill 29 82 0 29 82 2 granite
+fill 29 82 3 29 82 28 stone
+29 82 29 coal_ore
+29 82 30 coal_ore
+fill 29 82 31 29 82 55 stone
+fill 29 82 56 29 82 60 granite
+29 82 61 stone
+29 82 62 coal_ore
+29 82 63 coal_ore
+29 82 64 gravel
+29 82 65 stone
+29 82 66 stone
+29 82 67 gravel
+29 82 68 stone
+29 82 69 gravel
+fill 29 82 70 29 82 106 stone
+fill 29 82 107 29 82 109 andesite
+29 82 110 cave_air
+29 82 111 rail[shape=east_west,waterlogged=false]
+fill 29 82 112 29 82 114 cave_air
+29 82 115 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+fill 29 82 116 29 82 119 cave_air
+29 82 120 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+fill 29 82 121 29 82 124 cave_air
+29 82 125 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+29 82 126 cave_air
+29 82 127 cave_air
+fill 30 82 0 30 82 3 granite
+fill 30 82 4 30 82 27 stone
+fill 30 82 28 30 82 30 coal_ore
+fill 30 82 31 30 82 55 stone
+fill 30 82 56 30 82 59 granite
+fill 30 82 60 30 82 62 coal_ore
+fill 30 82 63 30 82 71 gravel
+fill 30 82 72 30 82 106 stone
+fill 30 82 107 30 82 109 andesite
+fill 30 82 110 30 82 112 cave_air
+fill 30 82 113 30 82 115 andesite
+fill 30 82 116 30 82 125 stone
+30 82 126 granite
+30 82 127 granite
+fill 31 82 0 31 82 3 granite
+fill 31 82 4 31 82 15 stone
+fill 31 82 16 31 82 18 andesite
+fill 31 82 19 31 82 27 stone
+31 82 28 coal_ore
+fill 31 82 29 31 82 55 stone
+fill 31 82 56 31 82 60 granite
+31 82 61 coal_ore
+31 82 62 stone
+fill 31 82 63 31 82 71 gravel
+fill 31 82 72 31 82 106 stone
+fill 31 82 107 31 82 113 andesite
+fill 31 82 114 31 82 119 stone
+fill 31 82 120 31 82 122 gravel
+fill 31 82 123 31 82 125 stone
+31 82 126 granite
+31 82 127 granite
+fill 32 82 0 32 82 3 granite
+fill 32 82 4 32 82 15 stone
+fill 32 82 16 32 82 18 andesite
+fill 32 82 19 32 82 55 stone
+fill 32 82 56 32 82 62 granite
+fill 32 82 63 32 82 65 stone
+fill 32 82 66 32 82 71 gravel
+fill 32 82 72 32 82 106 stone
+fill 32 82 107 32 82 111 andesite
+fill 32 82 112 32 82 119 stone
+fill 32 82 120 32 82 124 gravel
+32 82 125 stone
+32 82 126 granite
+32 82 127 granite
+fill 33 82 0 33 82 4 granite
+fill 33 82 5 33 82 14 stone
+fill 33 82 15 33 82 18 andesite
+fill 33 82 19 33 82 56 stone
+fill 33 82 57 33 82 63 granite
+fill 33 82 64 33 82 119 stone
+fill 33 82 120 33 82 125 gravel
+33 82 126 granite
+33 82 127 granite
+fill 34 82 0 34 82 5 granite
+fill 34 82 6 34 82 13 stone
+fill 34 82 14 34 82 19 andesite
+fill 34 82 20 34 82 55 stone
+fill 34 82 56 34 82 63 granite
+fill 34 82 64 34 82 99 stone
+34 82 100 granite
+34 82 101 granite
+fill 34 82 102 34 82 120 stone
+fill 34 82 121 34 82 125 gravel
+34 82 126 stone
+34 82 127 stone
+fill 35 82 0 35 82 5 granite
+fill 35 82 6 35 82 8 stone
+35 82 9 iron_ore
+fill 35 82 10 35 82 13 stone
+fill 35 82 14 35 82 19 andesite
+fill 35 82 20 35 82 56 stone
+fill 35 82 57 35 82 63 granite
+fill 35 82 64 35 82 98 stone
+fill 35 82 99 35 82 102 granite
+fill 35 82 103 35 82 120 stone
+fill 35 82 121 35 82 126 gravel
+35 82 127 stone
+fill 36 82 0 36 82 5 granite
+fill 36 82 6 36 82 14 stone
+fill 36 82 15 36 82 19 andesite
+fill 36 82 20 36 82 56 stone
+fill 36 82 57 36 82 63 granite
+fill 36 82 64 36 82 76 stone
+36 82 77 gold_ore
+fill 36 82 78 36 82 97 stone
+fill 36 82 98 36 82 103 granite
+fill 36 82 104 36 82 121 stone
+fill 36 82 122 36 82 127 gravel
+fill 37 82 0 37 82 5 granite
+fill 37 82 6 37 82 13 stone
+fill 37 82 14 37 82 18 andesite
+fill 37 82 19 37 82 56 stone
+fill 37 82 57 37 82 64 granite
+fill 37 82 65 37 82 71 stone
+fill 37 82 72 37 82 96 stone
+fill 37 82 97 37 82 103 granite
+fill 37 82 104 37 82 123 stone
+fill 37 82 124 37 82 127 gravel
+fill 38 82 0 38 82 5 granite
+fill 38 82 6 38 82 8 stone
+fill 38 82 9 38 82 13 granite
+fill 38 82 14 38 82 18 andesite
+38 82 19 granite
+38 82 20 copper_ore
+38 82 21 copper_ore
+fill 38 82 22 38 82 57 stone
+fill 38 82 58 38 82 64 granite
+fill 38 82 65 38 82 95 stone
+fill 38 82 96 38 82 102 granite
+fill 38 82 103 38 82 122 stone
+38 82 123 granite
+38 82 124 granite
+38 82 125 gravel
+38 82 126 gravel
+38 82 127 granite
+fill 39 82 0 39 82 6 granite
+39 82 7 stone
+fill 39 82 8 39 82 13 granite
+fill 39 82 14 39 82 17 andesite
+39 82 18 iron_ore
+39 82 19 iron_ore
+39 82 20 copper_ore
+39 82 21 granite
+39 82 22 granite
+fill 39 82 23 39 82 31 stone
+39 82 32 iron_ore
+fill 39 82 33 39 82 54 stone
+fill 39 82 55 39 82 64 andesite
+39 82 65 granite
+fill 39 82 66 39 82 94 stone
+fill 39 82 95 39 82 102 granite
+fill 39 82 103 39 82 123 stone
+fill 39 82 124 39 82 126 granite
+39 82 127 stone
+fill 40 82 0 40 82 5 granite
+40 82 6 stone
+40 82 7 stone
+fill 40 82 8 40 82 13 granite
+fill 40 82 14 40 82 18 andesite
+fill 40 82 19 40 82 23 granite
+fill 40 82 24 40 82 30 stone
+40 82 31 iron_ore
+40 82 32 iron_ore
+fill 40 82 33 40 82 51 stone
+fill 40 82 52 40 82 64 andesite
+40 82 65 granite
+fill 40 82 66 40 82 94 stone
+40 82 95 granite
+40 82 96 dirt
+fill 40 82 97 40 82 102 granite
+fill 40 82 103 40 82 127 stone
+fill 41 82 0 41 82 5 granite
+41 82 6 stone
+41 82 7 stone
+fill 41 82 8 41 82 13 granite
+fill 41 82 14 41 82 17 andesite
+fill 41 82 18 41 82 25 granite
+fill 41 82 26 41 82 30 stone
+41 82 31 iron_ore
+fill 41 82 32 41 82 50 stone
+fill 41 82 51 41 82 64 andesite
+41 82 65 granite
+fill 41 82 66 41 82 74 stone
+fill 41 82 75 41 82 80 gravel
+fill 41 82 81 41 82 93 stone
+41 82 94 granite
+41 82 95 granite
+41 82 96 dirt
+fill 41 82 97 41 82 102 granite
+fill 41 82 103 41 82 127 stone
+fill 42 82 0 42 82 5 granite
+fill 42 82 6 42 82 8 stone
+fill 42 82 9 42 82 14 granite
+fill 42 82 15 42 82 17 andesite
+fill 42 82 18 42 82 26 granite
+fill 42 82 27 42 82 49 stone
+fill 42 82 50 42 82 64 andesite
+42 82 65 granite
+fill 42 82 66 42 82 73 stone
+fill 42 82 74 42 82 82 gravel
+fill 42 82 83 42 82 93 stone
+fill 42 82 94 42 82 99 granite
+42 82 100 coal_ore
+42 82 101 coal_ore
+42 82 102 granite
+fill 42 82 103 42 82 127 stone
+43 82 0 stone
+fill 43 82 1 43 82 5 granite
+fill 43 82 6 43 82 9 stone
+fill 43 82 10 43 82 26 granite
+fill 43 82 27 43 82 47 stone
+fill 43 82 48 43 82 62 andesite
+43 82 63 granite
+43 82 64 granite
+fill 43 82 65 43 82 69 stone
+43 82 70 iron_ore
+43 82 71 iron_ore
+43 82 72 stone
+43 82 73 stone
+fill 43 82 74 43 82 82 gravel
+fill 43 82 83 43 82 93 stone
+fill 43 82 94 43 82 96 granite
+43 82 97 dirt
+43 82 98 granite
+43 82 99 granite
+43 82 100 coal_ore
+43 82 101 coal_ore
+fill 43 82 102 43 82 108 stone
+43 82 109 iron_ore
+43 82 110 iron_ore
+fill 43 82 111 43 82 127 stone
+44 82 0 stone
+44 82 1 stone
+fill 44 82 2 44 82 5 granite
+fill 44 82 6 44 82 12 stone
+fill 44 82 13 44 82 26 granite
+fill 44 82 27 44 82 47 stone
+fill 44 82 48 44 82 57 andesite
+44 82 58 iron_ore
+44 82 59 andesite
+44 82 60 andesite
+44 82 61 stone
+fill 44 82 62 44 82 64 granite
+fill 44 82 65 44 82 69 stone
+fill 44 82 70 44 82 72 iron_ore
+44 82 73 stone
+44 82 74 stone
+fill 44 82 75 44 82 80 gravel
+fill 44 82 81 44 82 93 stone
+fill 44 82 94 44 82 99 granite
+44 82 100 coal_ore
+44 82 101 coal_ore
+fill 44 82 102 44 82 108 stone
+44 82 109 iron_ore
+44 82 110 iron_ore
+fill 44 82 111 44 82 127 stone
+fill 45 82 0 45 82 2 stone
+45 82 3 granite
+45 82 4 granite
+fill 45 82 5 45 82 14 stone
+fill 45 82 15 45 82 25 granite
+fill 45 82 26 45 82 47 stone
+fill 45 82 48 45 82 59 andesite
+fill 45 82 60 45 82 93 stone
+fill 45 82 94 45 82 100 granite
+fill 45 82 101 45 82 127 stone
+fill 46 82 0 46 82 19 stone
+46 82 20 granite
+fill 46 82 21 46 82 31 stone
+46 82 32 andesite
+fill 46 82 33 46 82 48 stone
+fill 46 82 49 46 82 55 andesite
+fill 46 82 56 46 82 93 stone
+fill 46 82 94 46 82 99 granite
+fill 46 82 100 46 82 127 stone
+fill 47 82 0 47 82 30 stone
+fill 47 82 31 47 82 34 andesite
+fill 47 82 35 47 82 47 stone
+fill 47 82 48 47 82 52 andesite
+fill 47 82 53 47 82 76 stone
+47 82 77 granite
+fill 47 82 78 47 82 80 stone
+fill 47 82 81 47 82 93 stone
+fill 47 82 94 47 82 97 granite
+fill 47 82 98 47 82 127 stone
+fill 48 82 0 48 82 29 stone
+fill 48 82 30 48 82 35 andesite
+fill 48 82 36 48 82 47 stone
+fill 48 82 48 48 82 50 andesite
+48 82 51 iron_ore
+48 82 52 iron_ore
+48 82 53 andesite
+fill 48 82 54 48 82 93 stone
+fill 48 82 94 48 82 96 granite
+48 82 97 iron_ore
+fill 48 82 98 48 82 112 stone
+48 82 113 copper_ore
+48 82 114 copper_ore
+fill 48 82 115 48 82 127 stone
+fill 49 82 0 49 82 14 stone
+49 82 15 lapis_ore
+49 82 16 lapis_ore
+fill 49 82 17 49 82 29 stone
+fill 49 82 30 49 82 36 andesite
+fill 49 82 37 49 82 47 stone
+fill 49 82 48 49 82 50 andesite
+49 82 51 iron_ore
+49 82 52 iron_ore
+49 82 53 andesite
+49 82 54 andesite
+fill 49 82 55 49 82 75 stone
+fill 49 82 76 49 82 79 granite
+fill 49 82 80 49 82 94 stone
+49 82 95 granite
+fill 49 82 96 49 82 114 stone
+49 82 115 granite
+49 82 116 copper_ore
+fill 49 82 117 49 82 127 stone
+fill 50 82 0 50 82 14 stone
+50 82 15 lapis_ore
+50 82 16 lapis_ore
+fill 50 82 17 50 82 29 stone
+fill 50 82 30 50 82 37 andesite
+fill 50 82 38 50 82 47 stone
+fill 50 82 48 50 82 55 andesite
+fill 50 82 56 50 82 75 stone
+50 82 76 granite
+50 82 77 copper_ore
+fill 50 82 78 50 82 98 stone
+50 82 99 iron_ore
+50 82 100 iron_ore
+fill 50 82 101 50 82 113 stone
+50 82 114 granite
+50 82 115 stone
+fill 50 82 116 50 82 118 granite
+fill 50 82 119 50 82 126 stone
+50 82 127 andesite
+fill 51 82 0 51 82 30 stone
+fill 51 82 31 51 82 37 andesite
+fill 51 82 38 51 82 47 stone
+fill 51 82 48 51 82 55 andesite
+fill 51 82 56 51 82 72 stone
+51 82 76 granite
+51 82 77 copper_ore
+51 82 78 copper_ore
+51 82 79 granite
+fill 51 82 80 51 82 113 stone
+fill 51 82 114 51 82 116 granite
+51 82 117 copper_ore
+51 82 118 granite
+51 82 119 granite
+fill 51 82 120 51 82 124 stone
+fill 51 82 125 51 82 127 granite
+fill 52 82 0 52 82 30 stone
+fill 52 82 31 52 82 38 andesite
+fill 52 82 39 52 82 47 stone
+fill 52 82 48 52 82 56 andesite
+fill 52 82 57 52 82 71 stone
+fill 52 82 78 52 82 80 granite
+fill 52 82 81 52 82 115 stone
+52 82 116 granite
+52 82 117 granite
+52 82 118 copper_ore
+52 82 119 stone
+fill 52 82 120 52 82 124 diorite
+52 82 125 granite
+52 82 126 gravel
+52 82 127 gravel
+fill 53 82 0 53 82 30 stone
+53 82 31 andesite
+53 82 32 copper_ore
+fill 53 82 33 53 82 39 andesite
+53 82 40 stone
+53 82 41 copper_ore
+fill 53 82 42 53 82 48 stone
+fill 53 82 49 53 82 57 andesite
+fill 53 82 58 53 82 70 stone
+53 82 78 copper_ore
+53 82 79 granite
+fill 53 82 80 53 82 117 stone
+fill 53 82 118 53 82 124 diorite
+fill 53 82 125 53 82 127 gravel
+fill 54 82 1 54 82 31 stone
+54 82 32 copper_ore
+54 82 33 copper_ore
+fill 54 82 34 54 82 39 andesite
+54 82 40 stone
+54 82 41 copper_ore
+54 82 42 copper_ore
+fill 54 82 43 54 82 48 stone
+fill 54 82 49 54 82 57 andesite
+fill 54 82 58 54 82 65 stone
+fill 54 82 66 54 82 68 diorite
+54 82 69 stone
+54 82 70 stone
+fill 54 82 79 54 82 81 granite
+fill 54 82 82 54 82 114 stone
+fill 54 82 115 54 82 124 diorite
+fill 54 82 125 54 82 127 gravel
+fill 55 82 0 55 82 31 stone
+fill 55 82 32 55 82 40 andesite
+55 82 41 copper_ore
+55 82 42 copper_ore
+fill 55 82 43 55 82 49 stone
+fill 55 82 50 55 82 58 andesite
+fill 55 82 59 55 82 64 stone
+fill 55 82 65 55 82 69 diorite
+55 82 80 stone
+55 82 81 copper_ore
+fill 55 82 82 55 82 89 stone
+55 82 90 gravel
+fill 55 82 91 55 82 107 stone
+fill 55 82 108 55 82 113 granite
+fill 55 82 114 55 82 119 diorite
+55 82 120 copper_ore
+fill 55 82 121 55 82 123 diorite
+fill 55 82 124 55 82 127 gravel
+fill 56 82 0 56 82 31 stone
+fill 56 82 32 56 82 40 andesite
+56 82 41 stone
+56 82 42 copper_ore
+fill 56 82 43 56 82 49 stone
+fill 56 82 50 56 82 58 andesite
+fill 56 82 59 56 82 64 stone
+fill 56 82 65 56 82 69 diorite
+56 82 80 granite
+fill 56 82 81 56 82 86 stone
+fill 56 82 87 56 82 90 gravel
+fill 56 82 91 56 82 103 stone
+fill 56 82 104 56 82 112 granite
+fill 56 82 113 56 82 123 diorite
+fill 56 82 124 56 82 126 gravel
+56 82 127 stone
+57 82 0 stone
+57 82 1 stone
+57 82 2 gravel
+57 82 3 gravel
+fill 57 82 4 57 82 32 stone
+fill 57 82 33 57 82 40 andesite
+fill 57 82 41 57 82 50 stone
+fill 57 82 51 57 82 58 andesite
+57 82 59 diorite
+57 82 60 diorite
+fill 57 82 61 57 82 64 stone
+fill 57 82 65 57 82 69 diorite
+57 82 80 copper_ore
+57 82 81 granite
+fill 57 82 82 57 82 86 stone
+fill 57 82 87 57 82 89 gravel
+fill 57 82 90 57 82 92 stone
+57 82 93 iron_ore
+fill 57 82 94 57 82 101 stone
+fill 57 82 102 57 82 111 granite
+fill 57 82 112 57 82 122 diorite
+fill 57 82 123 57 82 127 stone
+fill 58 82 0 58 82 2 stone
+58 82 3 gravel
+fill 58 82 4 58 82 18 stone
+fill 58 82 19 58 82 32 stone
+fill 58 82 33 58 82 40 andesite
+fill 58 82 41 58 82 50 stone
+fill 58 82 51 58 82 59 andesite
+fill 58 82 60 58 82 62 diorite
+fill 58 82 63 58 82 65 stone
+fill 58 82 66 58 82 69 diorite
+fill 58 82 80 58 82 82 granite
+fill 58 82 83 58 82 86 stone
+fill 58 82 87 58 82 89 gravel
+fill 58 82 90 58 82 100 stone
+fill 58 82 101 58 82 111 granite
+fill 58 82 112 58 82 121 diorite
+58 82 122 granite
+fill 58 82 123 58 82 127 stone
+59 82 0 stone
+59 82 1 stone
+fill 59 82 2 59 82 5 gravel
+fill 59 82 6 59 82 33 stone
+fill 59 82 34 59 82 41 andesite
+fill 59 82 42 59 82 51 stone
+fill 59 82 52 59 82 59 andesite
+fill 59 82 60 59 82 63 diorite
+59 82 64 stone
+59 82 65 stone
+fill 59 82 66 59 82 69 diorite
+fill 59 82 80 59 82 100 stone
+fill 59 82 101 59 82 109 granite
+fill 59 82 110 59 82 120 diorite
+59 82 121 stone
+59 82 122 stone
+59 82 123 granite
+fill 59 82 124 59 82 126 stone
+59 82 127 gravel
+60 82 0 stone
+60 82 1 stone
+fill 60 82 2 60 82 5 gravel
+fill 60 82 6 60 82 34 stone
+fill 60 82 35 60 82 41 andesite
+fill 60 82 42 60 82 52 stone
+fill 60 82 53 60 82 59 andesite
+fill 60 82 60 60 82 64 diorite
+60 82 65 stone
+60 82 66 stone
+fill 60 82 67 60 82 70 diorite
+60 82 80 granite
+60 82 81 copper_ore
+60 82 82 copper_ore
+fill 60 82 83 60 82 100 stone
+fill 60 82 101 60 82 109 granite
+fill 60 82 110 60 82 120 diorite
+fill 60 82 121 60 82 124 stone
+60 82 125 diorite
+60 82 126 diorite
+60 82 127 gravel
+61 82 0 stone
+61 82 1 stone
+fill 61 82 2 61 82 5 gravel
+fill 61 82 6 61 82 35 stone
+fill 61 82 36 61 82 40 andesite
+fill 61 82 41 61 82 53 stone
+fill 61 82 54 61 82 59 andesite
+fill 61 82 60 61 82 64 diorite
+61 82 65 stone
+61 82 66 stone
+fill 61 82 67 61 82 70 diorite
+61 82 80 granite
+61 82 81 copper_ore
+61 82 82 granite
+fill 61 82 83 61 82 101 stone
+61 82 102 granite
+61 82 103 granite
+61 82 104 iron_ore
+61 82 105 iron_ore
+fill 61 82 106 61 82 108 granite
+fill 61 82 109 61 82 118 diorite
+61 82 119 stone
+fill 61 82 120 61 82 123 diorite
+61 82 124 copper_ore
+61 82 125 diorite
+61 82 126 diorite
+61 82 127 gravel
+62 82 0 stone
+62 82 1 stone
+fill 62 82 2 62 82 5 gravel
+fill 62 82 6 62 82 36 stone
+fill 62 82 37 62 82 40 andesite
+fill 62 82 41 62 82 52 stone
+62 82 53 granite
+62 82 54 granite
+fill 62 82 55 62 82 58 andesite
+fill 62 82 59 62 82 65 diorite
+62 82 66 stone
+62 82 67 stone
+fill 62 82 68 62 82 70 diorite
+62 82 80 copper_ore
+62 82 81 copper_ore
+fill 62 82 82 62 82 98 stone
+62 82 99 iron_ore
+62 82 100 iron_ore
+fill 62 82 101 62 82 103 stone
+62 82 104 granite
+62 82 105 granite
+62 82 106 stone
+62 82 107 granite
+62 82 108 granite
+fill 62 82 109 62 82 116 diorite
+62 82 117 stone
+fill 62 82 118 62 82 126 diorite
+62 82 127 gravel
+fill 63 82 0 63 82 2 stone
+fill 63 82 3 63 82 6 gravel
+fill 63 82 7 63 82 38 stone
+63 82 39 andesite
+fill 63 82 40 63 82 51 stone
+fill 63 82 52 63 82 56 granite
+63 82 57 andesite
+fill 63 82 58 63 82 66 diorite
+63 82 67 stone
+63 82 68 stone
+63 82 69 diorite
+63 82 79 stone
+63 82 80 granite
+63 82 81 stone
+63 82 82 copper_ore
+fill 63 82 83 63 82 104 stone
+63 82 105 iron_ore
+fill 63 82 106 63 82 108 stone
+fill 63 82 109 63 82 112 diorite
+fill 63 82 113 63 82 117 stone
+fill 63 82 118 63 82 123 diorite
+63 82 124 raw_copper_block
+fill 63 82 125 63 82 127 diorite
+fill 64 82 0 64 82 2 stone
+fill 64 82 3 64 82 5 gravel
+fill 64 82 6 64 82 51 stone
+fill 64 82 52 64 82 57 granite
+64 82 58 stone
+fill 64 82 59 64 82 65 diorite
+fill 64 82 66 64 82 69 stone
+64 82 80 copper_ore
+64 82 81 copper_ore
+fill 64 82 82 64 82 108 stone
+64 82 109 gold_ore
+64 82 110 gold_ore
+fill 64 82 111 64 82 117 stone
+fill 64 82 118 64 82 127 diorite
+fill 65 82 0 65 82 3 stone
+65 82 4 gravel
+65 82 5 gravel
+fill 65 82 6 65 82 49 stone
+fill 65 82 50 65 82 56 granite
+fill 65 82 57 65 82 69 stone
+65 82 80 stone
+65 82 81 granite
+fill 65 82 82 65 82 108 stone
+65 82 109 gold_ore
+65 82 110 gold_ore
+fill 65 82 111 65 82 117 stone
+fill 65 82 118 65 82 127 diorite
+fill 66 82 0 66 82 47 stone
+fill 66 82 48 66 82 56 granite
+fill 66 82 57 66 82 69 stone
+66 82 79 diorite
+66 82 80 granite
+fill 66 82 81 66 82 119 stone
+fill 66 82 120 66 82 127 diorite
+fill 67 82 0 67 82 46 stone
+fill 67 82 47 67 82 54 granite
+fill 67 82 55 67 82 69 stone
+67 82 79 diorite
+67 82 80 diorite
+fill 67 82 81 67 82 101 stone
+67 82 102 gold_ore
+67 82 103 gold_ore
+fill 67 82 104 67 82 121 stone
+fill 67 82 122 67 82 127 diorite
+68 82 0 granite
+fill 68 82 1 68 82 19 stone
+68 82 20 iron_ore
+fill 68 82 21 68 82 45 stone
+fill 68 82 46 68 82 53 granite
+fill 68 82 54 68 82 69 stone
+68 82 79 diorite
+68 82 80 copper_ore
+fill 68 82 81 68 82 101 stone
+68 82 102 gold_ore
+68 82 103 gold_ore
+fill 68 82 104 68 82 123 stone
+fill 68 82 124 68 82 127 diorite
+69 82 0 granite
+69 82 1 granite
+fill 69 82 2 69 82 5 stone
+fill 69 82 6 69 82 12 stone
+69 82 13 granite
+69 82 14 granite
+fill 69 82 15 69 82 36 stone
+fill 69 82 38 69 82 45 stone
+fill 69 82 46 69 82 52 granite
+fill 69 82 53 69 82 68 stone
+69 82 69 granite
+69 82 79 diorite
+69 82 80 granite
+fill 69 82 81 69 82 102 stone
+69 82 103 gold_ore
+fill 69 82 104 69 82 127 stone
+70 82 0 granite
+70 82 1 granite
+fill 70 82 2 70 82 6 stone
+70 82 7 iron_ore
+fill 70 82 8 70 82 10 stone
+fill 70 82 11 70 82 15 granite
+fill 70 82 16 70 82 35 stone
+fill 70 82 39 70 82 45 stone
+fill 70 82 46 70 82 51 granite
+70 82 52 stone
+70 82 53 stone
+70 82 54 iron_ore
+fill 70 82 55 70 82 69 stone
+70 82 79 stone
+70 82 80 granite
+fill 70 82 81 70 82 111 stone
+fill 70 82 112 70 82 124 andesite
+fill 70 82 125 70 82 127 stone
+fill 71 82 0 71 82 2 granite
+fill 71 82 3 71 82 9 stone
+fill 71 82 10 71 82 16 granite
+fill 71 82 17 71 82 35 stone
+fill 71 82 39 71 82 43 stone
+fill 71 82 44 71 82 50 granite
+fill 71 82 51 71 82 70 stone
+71 82 79 stone
+71 82 80 granite
+fill 71 82 81 71 82 95 stone
+fill 71 82 96 71 82 98 diorite
+fill 71 82 99 71 82 110 stone
+fill 71 82 111 71 82 126 andesite
+71 82 127 stone
+fill 72 82 0 72 82 2 granite
+fill 72 82 3 72 82 7 stone
+72 82 8 diorite
+fill 72 82 9 72 82 16 granite
+fill 72 82 17 72 82 36 stone
+fill 72 82 38 72 82 43 stone
+fill 72 82 44 72 82 48 granite
+fill 72 82 49 72 82 71 stone
+fill 72 82 78 72 82 92 stone
+fill 72 82 93 72 82 99 diorite
+fill 72 82 100 72 82 110 stone
+fill 72 82 111 72 82 127 andesite
+fill 73 82 0 73 82 2 granite
+fill 73 82 3 73 82 6 stone
+73 82 7 diorite
+73 82 8 granite
+73 82 9 granite
+fill 73 82 13 73 82 15 granite
+fill 73 82 16 73 82 48 stone
+fill 73 82 51 73 82 72 stone
+fill 73 82 77 73 82 89 stone
+fill 73 82 90 73 82 99 diorite
+fill 73 82 100 73 82 110 stone
+fill 73 82 111 73 82 127 andesite
+fill 74 82 0 74 82 2 granite
+74 82 3 stone
+74 82 4 stone
+74 82 5 diorite
+74 82 6 diorite
+74 82 7 granite

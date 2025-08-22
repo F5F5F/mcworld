@@ -1,0 +1,449 @@
+383 129 107 oak_leaves[distance=4,persistent=false,waterlogged=false]
+383 129 108 leaf_litter[facing=west,segment_amount=3]
+383 129 109 short_grass
+383 129 111 leaf_litter[facing=east,segment_amount=4]
+383 129 112 short_grass
+fill 383 129 115 383 129 127 grass_block[snowy=false]
+fill 256 130 0 256 130 9 stone
+fill 256 130 10 256 130 23 dirt
+fill 256 130 24 256 130 27 grass_block[snowy=false]
+fill 256 130 28 256 130 61 dirt
+256 130 62 grass_block[snowy=false]
+256 130 70 birch_leaves[distance=3,persistent=false,waterlogged=false]
+256 130 71 birch_leaves[distance=2,persistent=false,waterlogged=false]
+256 130 72 birch_leaves[distance=1,persistent=false,waterlogged=false]
+256 130 73 birch_leaves[distance=2,persistent=false,waterlogged=false]
+256 130 74 birch_leaves[distance=3,persistent=false,waterlogged=false]
+256 130 86 grass_block[snowy=false]
+fill 256 130 87 256 130 96 dirt
+256 130 97 grass_block[snowy=false]
+256 130 109 dirt
+fill 256 130 110 256 130 112 stone
+fill 256 130 113 256 130 116 dirt
+fill 256 130 117 256 130 124 stone
+fill 256 130 125 256 130 127 dirt
+fill 257 130 0 257 130 9 stone
+fill 257 130 10 257 130 23 dirt
+fill 257 130 24 257 130 29 grass_block[snowy=false]
+fill 257 130 30 257 130 59 dirt
+257 130 60 grass_block[snowy=false]
+257 130 61 grass_block[snowy=false]
+257 130 70 birch_leaves[distance=2,persistent=false,waterlogged=false]
+257 130 71 birch_leaves[distance=1,persistent=false,waterlogged=false]
+257 130 72 birch_log[axis=y]
+257 130 73 birch_leaves[distance=1,persistent=false,waterlogged=false]
+257 130 74 birch_leaves[distance=2,persistent=false,waterlogged=false]
+257 130 86 grass_block[snowy=false]
+fill 257 130 87 257 130 96 dirt
+257 130 97 grass_block[snowy=false]
+257 130 98 grass_block[snowy=false]
+fill 257 130 109 257 130 113 stone
+fill 257 130 114 257 130 116 dirt
+fill 257 130 117 257 130 123 stone
+fill 257 130 124 257 130 127 dirt
+fill 258 130 0 258 130 9 stone
+fill 258 130 10 258 130 23 dirt
+258 130 24 grass_block[snowy=false]
+258 130 25 dirt
+fill 258 130 26 258 130 30 grass_block[snowy=false]
+fill 258 130 31 258 130 47 dirt
+258 130 48 grass_block[snowy=false]
+fill 258 130 49 258 130 57 dirt
+258 130 58 grass_block[snowy=false]
+258 130 59 grass_block[snowy=false]
+258 130 70 birch_leaves[distance=3,persistent=false,waterlogged=false]
+258 130 71 birch_leaves[distance=2,persistent=false,waterlogged=false]
+258 130 72 birch_leaves[distance=1,persistent=false,waterlogged=false]
+258 130 73 birch_leaves[distance=2,persistent=false,waterlogged=false]
+258 130 74 birch_leaves[distance=3,persistent=false,waterlogged=false]
+258 130 86 grass_block[snowy=false]
+fill 258 130 87 258 130 97 dirt
+258 130 98 grass_block[snowy=false]
+258 130 99 birch_log[axis=y]
+fill 258 130 109 258 130 114 stone
+fill 258 130 115 258 130 117 dirt
+fill 258 130 118 258 130 123 stone
+fill 258 130 124 258 130 127 dirt
+259 130 0 diorite
+259 130 1 diorite
+fill 259 130 2 259 130 8 stone
+fill 259 130 9 259 130 23 dirt
+fill 259 130 24 259 130 41 grass_block[snowy=false]
+fill 259 130 42 259 130 45 dirt
+fill 259 130 46 259 130 49 grass_block[snowy=false]
+fill 259 130 50 259 130 54 dirt
+fill 259 130 55 259 130 57 grass_block[snowy=false]
+259 130 67 birch_log[axis=y]
+259 130 70 birch_leaves[distance=3,persistent=false,waterlogged=false]
+259 130 71 birch_leaves[distance=2,persistent=false,waterlogged=false]
+259 130 72 birch_leaves[distance=1,persistent=false,waterlogged=false]
+259 130 73 birch_leaves[distance=2,persistent=false,waterlogged=false]
+259 130 74 birch_leaves[distance=3,persistent=false,waterlogged=false]
+259 130 87 grass_block[snowy=false]
+fill 259 130 88 259 130 97 dirt
+259 130 98 grass_block[snowy=false]
+fill 259 130 109 259 130 115 stone
+259 130 116 dirt
+fill 259 130 117 259 130 122 stone
+fill 259 130 123 259 130 127 dirt
+fill 260 130 0 260 130 3 diorite
+fill 260 130 4 260 130 8 stone
+fill 260 130 9 260 130 23 dirt
+fill 260 130 24 260 130 26 grass_block[snowy=false]
+260 130 32 birch_log[axis=y]
+fill 260 130 39 260 130 50 grass_block[snowy=false]
+260 130 51 dirt
+260 130 52 dirt
+260 130 53 grass_block[snowy=false]
+260 130 54 grass_block[snowy=false]
+260 130 70 birch_leaves[distance=2,persistent=false,waterlogged=false]
+260 130 71 birch_leaves[distance=1,persistent=false,waterlogged=false]
+260 130 72 birch_log[axis=y]
+260 130 73 birch_leaves[distance=1,persistent=false,waterlogged=false]
+260 130 74 birch_leaves[distance=2,persistent=false,waterlogged=false]
+260 130 88 dirt
+260 130 89 grass_block[snowy=false]
+fill 260 130 90 260 130 97 dirt
+260 130 98 grass_block[snowy=false]
+260 130 99 grass_block[snowy=false]
+260 130 109 dirt
+260 130 110 dirt
+fill 260 130 111 260 130 122 stone
+fill 260 130 123 260 130 127 dirt
+fill 261 130 0 261 130 6 diorite
+261 130 7 stone
+fill 261 130 8 261 130 24 dirt
+261 130 25 grass_block[snowy=false]
+261 130 26 grass_block[snowy=false]
+261 130 43 short_grass
+fill 261 130 45 261 130 53 grass_block[snowy=false]
+261 130 64 birch_log[axis=y]
+261 130 70 birch_leaves[distance=3,persistent=false,waterlogged=false]
+261 130 71 birch_leaves[distance=2,persistent=false,waterlogged=false]
+261 130 72 birch_leaves[distance=1,persistent=false,waterlogged=false]
+261 130 73 birch_leaves[distance=2,persistent=false,waterlogged=false]
+261 130 74 birch_leaves[distance=3,persistent=false,waterlogged=false]
+261 130 76 grass_block[snowy=false]
+261 130 89 grass_block[snowy=false]
+261 130 90 grass_block[snowy=false]
+fill 261 130 91 261 130 98 dirt
+261 130 99 grass_block[snowy=false]
+261 130 100 grass_block[snowy=false]
+fill 261 130 110 261 130 112 dirt
+fill 261 130 113 261 130 121 stone
+fill 261 130 122 261 130 127 dirt
+fill 262 130 0 262 130 4 diorite
+262 130 5 dirt
+262 130 6 diorite
+fill 262 130 7 262 130 24 dirt
+262 130 25 grass_block[snowy=false]
+262 130 26 grass_block[snowy=false]
+fill 262 130 46 262 130 53 grass_block[snowy=false]
+262 130 63 birch_leaves[distance=2,persistent=false,waterlogged=false]
+262 130 64 birch_leaves[distance=1,persistent=false,waterlogged=false]
+262 130 65 birch_leaves[distance=2,persistent=false,waterlogged=false]
+262 130 71 birch_leaves[distance=3,persistent=false,waterlogged=false]
+262 130 72 birch_leaves[distance=2,persistent=false,waterlogged=false]
+262 130 73 birch_leaves[distance=3,persistent=false,waterlogged=false]
+262 130 74 birch_leaves[distance=4,persistent=false,waterlogged=false]
+fill 262 130 75 262 130 77 grass_block[snowy=false]
+262 130 90 grass_block[snowy=false]
+262 130 91 grass_block[snowy=false]
+fill 262 130 92 262 130 99 dirt
+262 130 100 grass_block[snowy=false]
+262 130 101 grass_block[snowy=false]
+262 130 110 grass_block[snowy=false]
+fill 262 130 111 262 130 113 dirt
+fill 262 130 114 262 130 120 stone
+fill 262 130 121 262 130 127 dirt
+263 130 0 diorite
+263 130 1 diorite
+263 130 2 dirt
+263 130 3 diorite
+263 130 4 dirt
+263 130 5 diorite
+fill 263 130 6 263 130 22 dirt
+fill 263 130 23 263 130 25 grass_block[snowy=false]
+263 130 33 birch_leaves[distance=2,persistent=false,waterlogged=false]
+263 130 34 birch_leaves[distance=1,persistent=false,waterlogged=false]
+fill 263 130 46 263 130 52 grass_block[snowy=false]
+263 130 53 birch_log[axis=y]
+263 130 62 birch_leaves[distance=3,persistent=false,waterlogged=false]
+263 130 63 birch_leaves[distance=2,persistent=false,waterlogged=false]
+263 130 64 birch_leaves[distance=1,persistent=false,waterlogged=false]
+263 130 65 birch_leaves[distance=2,persistent=false,waterlogged=false]
+263 130 66 birch_leaves[distance=3,persistent=false,waterlogged=false]
+263 130 74 grass_block[snowy=false]
+263 130 75 grass_block[snowy=false]
+263 130 76 dirt
+263 130 77 grass_block[snowy=false]
+263 130 78 grass_block[snowy=false]
+263 130 79 birch_log[axis=y]
+263 130 86 birch_leaves[distance=4,persistent=false,waterlogged=false]
+263 130 87 birch_leaves[distance=3,persistent=false,waterlogged=false]
+263 130 88 birch_leaves[distance=2,persistent=false,waterlogged=false]
+263 130 89 birch_leaves[distance=3,persistent=false,waterlogged=false]
+263 130 91 grass_block[snowy=false]
+263 130 92 grass_block[snowy=false]
+fill 263 130 93 263 130 99 dirt
+263 130 100 grass_block[snowy=false]
+263 130 101 grass_block[snowy=false]
+263 130 111 grass_block[snowy=false]
+263 130 112 dirt
+263 130 113 dirt
+fill 263 130 114 263 130 120 stone
+fill 263 130 121 263 130 127 dirt
+fill 264 130 0 264 130 3 diorite
+264 130 4 dirt
+264 130 5 diorite
+fill 264 130 6 264 130 21 dirt
+264 130 22 grass_block[snowy=false]
+264 130 23 grass_block[snowy=false]
+264 130 33 birch_leaves[distance=1,persistent=false,waterlogged=false]
+264 130 34 birch_log[axis=y]
+264 130 35 birch_leaves[distance=1,persistent=false,waterlogged=false]
+264 130 44 short_grass
+264 130 45 wildflowers[facing=south,flower_amount=1]
+fill 264 130 46 264 130 48 grass_block[snowy=false]
+264 130 49 dirt
+fill 264 130 50 264 130 52 grass_block[snowy=false]
+264 130 62 birch_leaves[distance=2,persistent=false,waterlogged=false]
+264 130 63 birch_leaves[distance=1,persistent=false,waterlogged=false]
+264 130 64 birch_log[axis=y]
+264 130 65 birch_leaves[distance=1,persistent=false,waterlogged=false]
+264 130 66 birch_leaves[distance=2,persistent=false,waterlogged=false]
+fill 264 130 73 264 130 75 grass_block[snowy=false]
+264 130 76 dirt
+fill 264 130 77 264 130 79 grass_block[snowy=false]
+264 130 80 wildflowers[facing=west,flower_amount=1]
+264 130 86 birch_leaves[distance=3,persistent=false,waterlogged=false]
+264 130 87 birch_leaves[distance=2,persistent=false,waterlogged=false]
+264 130 88 birch_leaves[distance=1,persistent=false,waterlogged=false]
+264 130 89 birch_leaves[distance=2,persistent=false,waterlogged=false]
+264 130 90 birch_leaves[distance=3,persistent=false,waterlogged=false]
+264 130 92 grass_block[snowy=false]
+264 130 93 grass_block[snowy=false]
+fill 264 130 94 264 130 99 dirt
+264 130 100 grass_block[snowy=false]
+264 130 101 grass_block[snowy=false]
+264 130 111 peony[half=lower]
+264 130 113 dirt
+264 130 114 dirt
+fill 264 130 115 264 130 120 stone
+fill 264 130 121 264 130 127 dirt
+265 130 0 diorite
+265 130 1 diorite
+fill 265 130 2 265 130 19 dirt
+265 130 20 grass_block[snowy=false]
+265 130 34 birch_leaves[distance=1,persistent=false,waterlogged=false]
+265 130 35 birch_leaves[distance=2,persistent=false,waterlogged=false]
+265 130 45 birch_log[axis=y]
+fill 265 130 46 265 130 52 grass_block[snowy=false]
+265 130 62 birch_leaves[distance=3,persistent=false,waterlogged=false]
+265 130 63 birch_leaves[distance=2,persistent=false,waterlogged=false]
+265 130 64 birch_leaves[distance=1,persistent=false,waterlogged=false]
+265 130 65 birch_leaves[distance=2,persistent=false,waterlogged=false]
+265 130 66 birch_leaves[distance=3,persistent=false,waterlogged=false]
+fill 265 130 72 265 130 74 grass_block[snowy=false]
+fill 265 130 75 265 130 77 dirt
+fill 265 130 78 265 130 81 grass_block[snowy=false]
+265 130 83 birch_log[axis=y]
+265 130 86 birch_leaves[distance=2,persistent=false,waterlogged=false]
+265 130 87 birch_leaves[distance=1,persistent=false,waterlogged=false]
+265 130 88 birch_log[axis=y]
+265 130 89 birch_leaves[distance=1,persistent=false,waterlogged=false]
+265 130 90 birch_leaves[distance=2,persistent=false,waterlogged=false]
+265 130 94 dirt
+265 130 95 dirt
+265 130 96 stone
+fill 265 130 97 265 130 99 dirt
+265 130 100 grass_block[snowy=false]
+265 130 101 grass_block[snowy=false]
+265 130 109 birch_leaves[distance=4,persistent=false,waterlogged=false]
+265 130 110 birch_leaves[distance=3,persistent=false,waterlogged=false]
+265 130 111 birch_leaves[distance=2,persistent=false,waterlogged=false]
+265 130 112 birch_leaves[distance=3,persistent=false,waterlogged=false]
+265 130 113 dirt
+265 130 114 dirt
+fill 265 130 115 265 130 120 stone
+fill 265 130 121 265 130 127 dirt
+266 130 0 stone
+266 130 1 diorite
+fill 266 130 2 266 130 18 dirt
+266 130 19 grass_block[snowy=false]
+fill 266 130 46 266 130 52 grass_block[snowy=false]
+266 130 54 birch_log[axis=y]
+266 130 62 birch_leaves[distance=4,persistent=false,waterlogged=false]
+266 130 63 birch_leaves[distance=3,persistent=false,waterlogged=false]
+266 130 64 birch_leaves[distance=2,persistent=false,waterlogged=false]
+266 130 65 birch_leaves[distance=1,persistent=false,waterlogged=false]
+266 130 71 grass_block[snowy=false]
+fill 266 130 72 266 130 80 dirt
+266 130 81 grass_block[snowy=false]
+266 130 86 birch_leaves[distance=3,persistent=false,waterlogged=false]
+266 130 87 birch_leaves[distance=2,persistent=false,waterlogged=false]
+266 130 88 birch_leaves[distance=1,persistent=false,waterlogged=false]
+266 130 89 birch_leaves[distance=2,persistent=false,waterlogged=false]
+266 130 90 birch_leaves[distance=3,persistent=false,waterlogged=false]
+266 130 94 grass_block[snowy=false]
+266 130 95 dirt
+fill 266 130 96 266 130 98 stone
+266 130 99 dirt
+266 130 100 grass_block[snowy=false]
+266 130 101 grass_block[snowy=false]
+266 130 102 short_grass
+266 130 109 birch_leaves[distance=3,persistent=false,waterlogged=false]
+266 130 110 birch_leaves[distance=2,persistent=false,waterlogged=false]
+266 130 111 birch_leaves[distance=1,persistent=false,waterlogged=false]
+266 130 112 birch_leaves[distance=2,persistent=false,waterlogged=false]
+266 130 113 dirt
+266 130 114 gravel
+266 130 115 dirt
+fill 266 130 116 266 130 118 diorite
+266 130 119 stone
+fill 266 130 120 266 130 127 dirt
+267 130 0 stone
+267 130 1 stone
+267 130 2 diorite
+fill 267 130 3 267 130 18 dirt
+267 130 19 birch_leaves[distance=4,persistent=false,waterlogged=false]
+267 130 20 birch_leaves[distance=3,persistent=false,waterlogged=false]
+267 130 21 birch_leaves[distance=2,persistent=false,waterlogged=false]
+267 130 22 birch_leaves[distance=3,persistent=false,waterlogged=false]
+267 130 24 birch_leaves[distance=4,persistent=false,waterlogged=false]
+267 130 25 birch_leaves[distance=3,persistent=false,waterlogged=false]
+267 130 26 birch_leaves[distance=2,persistent=false,waterlogged=false]
+267 130 27 birch_leaves[distance=3,persistent=false,waterlogged=false]
+267 130 37 birch_log[axis=y]
+267 130 45 wildflowers[facing=north,flower_amount=2]
+fill 267 130 46 267 130 52 grass_block[snowy=false]
+267 130 65 birch_log[axis=y]
+267 130 70 grass_block[snowy=false]
+267 130 71 grass_block[snowy=false]
+fill 267 130 72 267 130 80 dirt
+267 130 81 grass_block[snowy=false]
+267 130 86 birch_leaves[distance=4,persistent=false,waterlogged=false]
+267 130 87 birch_leaves[distance=3,persistent=false,waterlogged=false]
+267 130 88 birch_leaves[distance=2,persistent=false,waterlogged=false]
+267 130 89 birch_leaves[distance=3,persistent=false,waterlogged=false]
+267 130 90 birch_leaves[distance=4,persistent=false,waterlogged=false]
+267 130 95 dirt
+fill 267 130 96 267 130 98 stone
+fill 267 130 99 267 130 101 dirt
+267 130 102 grass_block[snowy=false]
+267 130 109 birch_leaves[distance=2,persistent=false,waterlogged=false]
+267 130 110 birch_leaves[distance=1,persistent=false,waterlogged=false]
+267 130 111 birch_log[axis=y]
+267 130 112 birch_leaves[distance=1,persistent=false,waterlogged=false]
+267 130 113 dirt
+267 130 114 gravel
+267 130 115 dirt
+fill 267 130 116 267 130 119 diorite
+fill 267 130 120 267 130 127 dirt
+fill 268 130 0 268 130 2 stone
+268 130 3 diorite
+fill 268 130 4 268 130 17 dirt
+268 130 18 grass_block[snowy=false]
+268 130 19 birch_leaves[distance=3,persistent=false,waterlogged=false]
+268 130 20 birch_leaves[distance=2,persistent=false,waterlogged=false]
+268 130 21 birch_leaves[distance=1,persistent=false,waterlogged=false]
+268 130 22 birch_leaves[distance=2,persistent=false,waterlogged=false]
+268 130 23 birch_leaves[distance=3,persistent=false,waterlogged=false]
+268 130 24 birch_leaves[distance=3,persistent=false,waterlogged=false]
+268 130 25 birch_leaves[distance=2,persistent=false,waterlogged=false]
+268 130 26 birch_leaves[distance=1,persistent=false,waterlogged=false]
+268 130 27 birch_leaves[distance=2,persistent=false,waterlogged=false]
+268 130 28 birch_leaves[distance=3,persistent=false,waterlogged=false]
+268 130 44 wildflowers[facing=east,flower_amount=1]
+268 130 45 wildflowers[facing=south,flower_amount=4]
+fill 268 130 46 268 130 50 grass_block[snowy=false]
+268 130 51 dirt
+268 130 58 birch_log[axis=y]
+fill 268 130 69 268 130 71 grass_block[snowy=false]
+268 130 72 dirt
+268 130 73 dirt
+fill 268 130 74 268 130 81 grass_block[snowy=false]
+268 130 86 birch_leaves[distance=3,persistent=false,waterlogged=false]
+268 130 87 birch_leaves[distance=2,persistent=false,waterlogged=false]
+268 130 88 birch_leaves[distance=1,persistent=false,waterlogged=false]
+268 130 89 birch_leaves[distance=2,persistent=false,waterlogged=false]
+268 130 90 birch_leaves[distance=3,persistent=false,waterlogged=false]
+268 130 95 dirt
+fill 268 130 96 268 130 99 stone
+fill 268 130 100 268 130 102 dirt
+268 130 109 birch_leaves[distance=3,persistent=false,waterlogged=false]
+268 130 110 birch_leaves[distance=2,persistent=false,waterlogged=false]
+268 130 111 birch_leaves[distance=1,persistent=false,waterlogged=false]
+268 130 112 birch_leaves[distance=2,persistent=false,waterlogged=false]
+268 130 113 dirt
+fill 268 130 114 268 130 117 diorite
+268 130 118 dirt
+268 130 119 diorite
+fill 268 130 120 268 130 127 dirt
+fill 269 130 0 269 130 4 stone
+269 130 5 diorite
+fill 269 130 6 269 130 17 dirt
+269 130 18 grass_block[snowy=false]
+269 130 19 birch_leaves[distance=2,persistent=false,waterlogged=false]
+269 130 20 birch_leaves[distance=1,persistent=false,waterlogged=false]
+269 130 21 birch_log[axis=y]
+269 130 22 birch_leaves[distance=1,persistent=false,waterlogged=false]
+269 130 23 birch_leaves[distance=2,persistent=false,waterlogged=false]
+269 130 24 birch_leaves[distance=2,persistent=false,waterlogged=false]
+269 130 25 birch_leaves[distance=1,persistent=false,waterlogged=false]
+269 130 26 birch_log[axis=y]
+269 130 27 birch_leaves[distance=1,persistent=false,waterlogged=false]
+269 130 28 birch_leaves[distance=2,persistent=false,waterlogged=false]
+269 130 45 wildflowers[facing=north,flower_amount=3]
+fill 269 130 46 269 130 50 grass_block[snowy=false]
+269 130 62 birch_log[axis=y]
+fill 269 130 68 269 130 70 grass_block[snowy=false]
+fill 269 130 71 269 130 73 dirt
+fill 269 130 74 269 130 81 grass_block[snowy=false]
+269 130 82 wildflowers[facing=south,flower_amount=3]
+269 130 86 birch_leaves[distance=2,persistent=false,waterlogged=false]
+269 130 87 birch_leaves[distance=1,persistent=false,waterlogged=false]
+269 130 88 birch_log[axis=y]
+269 130 89 birch_leaves[distance=1,persistent=false,waterlogged=false]
+269 130 90 birch_leaves[distance=2,persistent=false,waterlogged=false]
+269 130 95 grass_block[snowy=false]
+269 130 96 dirt
+fill 269 130 97 269 130 101 stone
+269 130 102 dirt
+269 130 109 birch_leaves[distance=4,persistent=false,waterlogged=false]
+269 130 110 birch_leaves[distance=3,persistent=false,waterlogged=false]
+269 130 111 birch_leaves[distance=2,persistent=false,waterlogged=false]
+269 130 112 birch_leaves[distance=3,persistent=false,waterlogged=false]
+269 130 113 dirt
+269 130 114 dirt
+fill 269 130 115 269 130 119 diorite
+269 130 120 stone
+fill 269 130 121 269 130 126 dirt
+269 130 127 sand
+fill 270 130 0 270 130 6 stone
+fill 270 130 7 270 130 17 dirt
+270 130 18 grass_block[snowy=false]
+270 130 19 birch_leaves[distance=3,persistent=false,waterlogged=false]
+270 130 20 birch_leaves[distance=2,persistent=false,waterlogged=false]
+270 130 21 birch_leaves[distance=1,persistent=false,waterlogged=false]
+270 130 22 birch_leaves[distance=2,persistent=false,waterlogged=false]
+270 130 23 birch_leaves[distance=3,persistent=false,waterlogged=false]
+270 130 24 birch_leaves[distance=3,persistent=false,waterlogged=false]
+270 130 25 birch_leaves[distance=2,persistent=false,waterlogged=false]
+270 130 26 birch_leaves[distance=1,persistent=false,waterlogged=false]
+270 130 27 birch_leaves[distance=2,persistent=false,waterlogged=false]
+270 130 28 birch_leaves[distance=3,persistent=false,waterlogged=false]
+270 130 44 wildflowers[facing=south,flower_amount=4]
+270 130 45 wildflowers[facing=east,flower_amount=4]
+fill 270 130 46 270 130 50 grass_block[snowy=false]
+270 130 67 grass_block[snowy=false]
+fill 270 130 68 270 130 73 dirt
+270 130 74 grass_block[snowy=false]
+270 130 75 grass_block[snowy=false]
+fill 270 130 78 270 130 80 grass_block[snowy=false]
+270 130 81 short_grass
+270 130 86 birch_leaves[distance=3,persistent=false,waterlogged=false]
+270 130 87 birch_leaves[distance=2,persistent=false,waterlogged=false]
+270 130 88 birch_leaves[distance=1,persistent=false,waterlogged=false]
+270 130 89 birch_leaves[distance=2,persistent=false,waterlogged=false]
+270 130 90 birch_leaves[distance=3,persistent=false,waterlogged=false]

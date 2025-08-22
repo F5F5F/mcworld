@@ -1,0 +1,567 @@
+fill 75 78 846 75 78 850 copper_ore
+fill 75 78 851 75 78 866 stone
+fill 75 78 867 75 78 869 granite
+75 78 870 diorite
+75 78 871 iron_ore
+fill 75 78 872 75 78 879 diorite
+fill 75 78 880 75 78 885 water[level=0]
+fill 75 78 886 75 78 895 stone
+fill 76 78 768 76 78 771 dripstone_block
+76 78 772 pointed_dripstone[thickness=base,vertical_direction=up,waterlogged=false]
+fill 76 78 785 76 78 799 stone
+76 78 801 granite
+76 78 802 granite
+76 78 803 dripstone_block
+76 78 804 dripstone_block
+76 78 805 granite
+76 78 806 granite
+76 78 835 glow_lichen[down=false,east=true,north=false,south=false,up=false,waterlogged=false,west=false]
+fill 76 78 836 76 78 847 stone
+fill 76 78 848 76 78 850 copper_ore
+fill 76 78 851 76 78 868 stone
+76 78 869 granite
+76 78 870 iron_ore
+76 78 871 iron_ore
+fill 76 78 872 76 78 879 diorite
+fill 76 78 880 76 78 885 water[level=0]
+fill 76 78 886 76 78 895 stone
+fill 77 78 768 77 78 770 dripstone_block
+77 78 771 lava[level=8]
+fill 77 78 786 77 78 800 stone
+77 78 801 granite
+77 78 802 granite
+77 78 803 dripstone_block
+fill 77 78 804 77 78 808 granite
+77 78 809 stone
+77 78 813 water[level=8]
+77 78 834 glow_lichen[down=false,east=false,north=false,south=true,up=false,waterlogged=false,west=false]
+fill 77 78 835 77 78 856 stone
+77 78 857 granite
+77 78 858 granite
+fill 77 78 859 77 78 869 stone
+77 78 870 granite
+77 78 871 granite
+fill 77 78 872 77 78 879 diorite
+fill 77 78 880 77 78 885 water[level=0]
+fill 77 78 886 77 78 895 stone
+78 78 768 stone
+78 78 769 dripstone_block
+78 78 770 lava[level=8]
+78 78 771 lava[level=2]
+fill 78 78 786 78 78 800 stone
+fill 78 78 801 78 78 808 granite
+78 78 809 stone
+78 78 810 stone
+fill 78 78 835 78 78 855 stone
+fill 78 78 856 78 78 859 granite
+fill 78 78 860 78 78 870 stone
+78 78 871 granite
+78 78 872 granite
+fill 78 78 873 78 78 878 diorite
+fill 78 78 879 78 78 886 water[level=0]
+fill 78 78 887 78 78 895 stone
+79 78 768 stone
+79 78 769 stone
+79 78 770 lava[level=2]
+fill 79 78 787 79 78 800 stone
+fill 79 78 801 79 78 808 granite
+fill 79 78 809 79 78 811 stone
+fill 79 78 834 79 78 854 stone
+fill 79 78 855 79 78 857 granite
+79 78 858 dripstone_block
+79 78 859 granite
+fill 79 78 860 79 78 864 dirt
+fill 79 78 865 79 78 871 stone
+79 78 872 granite
+79 78 873 granite
+79 78 874 stone
+fill 79 78 875 79 78 878 diorite
+fill 79 78 879 79 78 888 water[level=0]
+fill 79 78 889 79 78 895 stone
+80 78 768 stone
+80 78 769 stone
+fill 80 78 787 80 78 800 stone
+fill 80 78 801 80 78 808 granite
+fill 80 78 809 80 78 812 stone
+fill 80 78 833 80 78 853 stone
+80 78 854 granite
+fill 80 78 855 80 78 858 dripstone_block
+80 78 859 granite
+fill 80 78 860 80 78 865 dirt
+fill 80 78 866 80 78 870 stone
+fill 80 78 871 80 78 874 granite
+fill 80 78 875 80 78 878 stone
+80 78 879 water[level=0]
+80 78 880 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=true]
+fill 80 78 881 80 78 888 water[level=0]
+fill 80 78 889 80 78 895 stone
+81 78 768 stone
+81 78 769 stone
+fill 81 78 788 81 78 800 stone
+fill 81 78 801 81 78 808 granite
+fill 81 78 809 81 78 812 stone
+fill 81 78 831 81 78 850 stone
+81 78 851 dirt
+81 78 852 dirt
+fill 81 78 853 81 78 860 dripstone_block
+fill 81 78 861 81 78 867 dirt
+fill 81 78 868 81 78 870 stone
+fill 81 78 871 81 78 875 granite
+fill 81 78 876 81 78 878 stone
+fill 81 78 879 81 78 889 water[level=0]
+fill 81 78 890 81 78 895 stone
+82 78 768 stone
+82 78 774 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+82 78 775 dripstone_block
+82 78 781 dripstone_block
+fill 82 78 788 82 78 801 stone
+fill 82 78 802 82 78 808 granite
+fill 82 78 809 82 78 812 stone
+fill 82 78 830 82 78 850 stone
+fill 82 78 851 82 78 853 dirt
+fill 82 78 854 82 78 859 dripstone_block
+82 78 860 stone
+82 78 861 stone
+fill 82 78 862 82 78 868 dirt
+82 78 869 stone
+82 78 870 stone
+fill 82 78 871 82 78 876 granite
+82 78 877 stone
+82 78 878 stone
+fill 82 78 879 82 78 889 water[level=0]
+fill 82 78 890 82 78 895 stone
+83 78 768 stone
+83 78 769 stone
+83 78 780 dripstone_block
+83 78 781 dripstone_block
+fill 83 78 788 83 78 802 stone
+fill 83 78 803 83 78 807 granite
+fill 83 78 808 83 78 812 stone
+fill 83 78 827 83 78 842 stone
+fill 83 78 843 83 78 850 stone
+fill 83 78 851 83 78 854 dirt
+fill 83 78 855 83 78 862 dripstone_block
+fill 83 78 863 83 78 869 dirt
+83 78 870 stone
+fill 83 78 871 83 78 877 granite
+83 78 878 stone
+fill 83 78 879 83 78 889 water[level=0]
+fill 83 78 890 83 78 895 stone
+84 78 768 stone
+84 78 769 dripstone_block
+84 78 770 stone
+84 78 771 stone
+84 78 778 pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=false]
+84 78 780 pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=false]
+fill 84 78 790 84 78 793 stone
+fill 84 78 800 84 78 802 stone
+fill 84 78 803 84 78 807 granite
+fill 84 78 808 84 78 812 stone
+84 78 819 stone
+84 78 820 stone
+fill 84 78 825 84 78 847 stone
+fill 84 78 848 84 78 850 diorite
+fill 84 78 851 84 78 854 dirt
+fill 84 78 855 84 78 860 dripstone_block
+fill 84 78 861 84 78 864 stone
+fill 84 78 865 84 78 869 dirt
+84 78 870 stone
+fill 84 78 871 84 78 877 granite
+84 78 878 stone
+fill 84 78 879 84 78 889 water[level=0]
+fill 84 78 890 84 78 895 stone
+fill 85 78 768 85 78 770 stone
+fill 85 78 771 85 78 773 copper_ore
+85 78 774 stone
+85 78 779 pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=false]
+85 78 783 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+fill 85 78 805 85 78 807 granite
+fill 85 78 808 85 78 812 stone
+85 78 819 stone
+85 78 820 stone
+fill 85 78 826 85 78 829 stone
+85 78 830 coal_ore
+85 78 831 coal_ore
+fill 85 78 832 85 78 846 stone
+fill 85 78 847 85 78 851 diorite
+fill 85 78 852 85 78 854 dirt
+fill 85 78 855 85 78 857 dripstone_block
+fill 85 78 858 85 78 870 stone
+fill 85 78 871 85 78 877 granite
+fill 85 78 878 85 78 882 water[level=0]
+fill 85 78 883 85 78 886 stone
+85 78 887 water[level=0]
+fill 85 78 888 85 78 895 stone
+fill 86 78 768 86 78 770 stone
+fill 86 78 771 86 78 773 copper_ore
+fill 86 78 774 86 78 776 stone
+86 78 777 dripstone_block
+86 78 782 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+86 78 784 pointed_dripstone[thickness=frustum,vertical_direction=down,waterlogged=false]
+fill 86 78 807 86 78 812 stone
+86 78 819 stone
+86 78 820 stone
+fill 86 78 827 86 78 829 stone
+86 78 830 coal_ore
+86 78 831 coal_ore
+fill 86 78 832 86 78 846 stone
+fill 86 78 847 86 78 852 diorite
+86 78 853 dripstone_block
+86 78 854 granite
+86 78 855 stone
+86 78 856 dripstone_block
+fill 86 78 857 86 78 870 stone
+fill 86 78 871 86 78 877 granite
+fill 86 78 878 86 78 882 water[level=0]
+fill 86 78 883 86 78 895 stone
+fill 87 78 768 87 78 771 stone
+fill 87 78 772 87 78 774 copper_ore
+87 78 779 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+87 78 781 pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=false]
+87 78 783 pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=false]
+fill 87 78 809 87 78 812 stone
+87 78 820 stone
+87 78 821 stone
+fill 87 78 828 87 78 846 stone
+fill 87 78 847 87 78 853 diorite
+87 78 854 stone
+87 78 855 dripstone_block
+fill 87 78 856 87 78 870 stone
+fill 87 78 871 87 78 877 granite
+fill 87 78 878 87 78 881 water[level=0]
+fill 87 78 882 87 78 895 stone
+fill 88 78 768 88 78 771 stone
+88 78 772 copper_ore
+88 78 773 copper_ore
+88 78 776 pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=false]
+88 78 777 pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=false]
+88 78 778 pointed_dripstone[thickness=frustum,vertical_direction=down,waterlogged=false]
+88 78 781 pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=false]
+88 78 786 pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=false]
+88 78 799 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+fill 88 78 809 88 78 813 stone
+fill 88 78 820 88 78 822 stone
+88 78 823 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+fill 88 78 828 88 78 846 stone
+fill 88 78 847 88 78 853 diorite
+fill 88 78 854 88 78 871 stone
+fill 88 78 872 88 78 877 granite
+fill 88 78 878 88 78 880 water[level=0]
+fill 88 78 881 88 78 895 stone
+89 78 768 gold_ore
+fill 89 78 769 89 78 772 stone
+89 78 775 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+89 78 781 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+89 78 783 pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=false]
+89 78 785 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+89 78 786 pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=false]
+fill 89 78 810 89 78 813 stone
+fill 89 78 820 89 78 822 stone
+fill 89 78 829 89 78 846 stone
+fill 89 78 847 89 78 853 diorite
+fill 89 78 854 89 78 871 stone
+fill 89 78 872 89 78 877 granite
+fill 89 78 878 89 78 880 water[level=0]
+fill 89 78 881 89 78 895 stone
+fill 90 78 768 90 78 772 stone
+90 78 774 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+90 78 775 pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=false]
+90 78 779 pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=false]
+90 78 780 chain[axis=y,waterlogged=false]
+fill 90 78 811 90 78 814 stone
+fill 90 78 820 90 78 822 stone
+90 78 823 dripstone_block
+fill 90 78 829 90 78 846 stone
+fill 90 78 847 90 78 854 diorite
+fill 90 78 855 90 78 870 stone
+fill 90 78 871 90 78 873 water[level=0]
+90 78 874 granite
+90 78 875 granite
+90 78 876 water[level=0]
+90 78 877 granite
+90 78 878 water[level=0]
+90 78 879 water[level=0]
+fill 90 78 880 90 78 895 stone
+fill 91 78 768 91 78 772 stone
+91 78 779 pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=false]
+91 78 780 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+91 78 781 pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=false]
+91 78 782 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+fill 91 78 812 91 78 814 stone
+fill 91 78 821 91 78 824 stone
+fill 91 78 829 91 78 846 stone
+fill 91 78 847 91 78 854 diorite
+fill 91 78 855 91 78 865 stone
+91 78 866 granite
+91 78 867 granite
+91 78 868 stone
+91 78 869 stone
+fill 91 78 870 91 78 873 water[level=0]
+fill 91 78 874 91 78 876 granite
+fill 91 78 877 91 78 879 water[level=0]
+fill 91 78 880 91 78 895 stone
+92 78 768 stone
+92 78 769 dripstone_block
+92 78 770 stone
+92 78 771 diorite
+92 78 772 diorite
+fill 92 78 812 92 78 815 stone
+fill 92 78 820 92 78 825 stone
+92 78 829 glow_lichen[down=false,east=false,north=false,south=false,up=true,waterlogged=false,west=false]
+fill 92 78 830 92 78 846 stone
+fill 92 78 847 92 78 854 diorite
+fill 92 78 855 92 78 865 stone
+fill 92 78 866 92 78 869 granite
+fill 92 78 870 92 78 873 water[level=0]
+fill 92 78 874 92 78 876 granite
+fill 92 78 877 92 78 879 water[level=0]
+fill 92 78 880 92 78 895 stone
+93 78 768 stone
+93 78 769 dripstone_block
+fill 93 78 770 93 78 773 diorite
+93 78 778 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+93 78 779 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+93 78 782 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+fill 93 78 813 93 78 815 stone
+fill 93 78 820 93 78 824 stone
+fill 93 78 830 93 78 846 stone
+fill 93 78 847 93 78 855 diorite
+fill 93 78 856 93 78 863 stone
+93 78 864 dripstone_block
+93 78 865 dripstone_block
+93 78 866 stone
+93 78 867 granite
+93 78 868 granite
+fill 93 78 869 93 78 872 water[level=0]
+93 78 873 stone
+fill 93 78 874 93 78 877 granite
+93 78 878 water[level=0]
+93 78 879 water[level=0]
+fill 93 78 880 93 78 895 stone
+94 78 768 stone
+94 78 769 stone
+fill 94 78 770 94 78 773 diorite
+fill 94 78 814 94 78 816 stone
+fill 94 78 820 94 78 824 stone
+fill 94 78 830 94 78 846 stone
+fill 94 78 847 94 78 850 diorite
+fill 94 78 851 94 78 859 water[level=0]
+fill 94 78 860 94 78 863 stone
+94 78 864 dripstone_block
+94 78 865 dripstone_block
+94 78 866 stone
+94 78 867 granite
+94 78 868 granite
+fill 94 78 869 94 78 872 water[level=0]
+94 78 873 granite
+94 78 874 stone
+fill 94 78 875 94 78 878 granite
+fill 94 78 879 94 78 895 stone
+95 78 768 stone
+95 78 769 stone
+fill 95 78 770 95 78 772 diorite
+fill 95 78 814 95 78 816 stone
+fill 95 78 820 95 78 824 stone
+fill 95 78 830 95 78 846 stone
+fill 95 78 847 95 78 849 diorite
+fill 95 78 850 95 78 857 water[level=0]
+95 78 858 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=true]
+fill 95 78 859 95 78 861 water[level=0]
+95 78 862 stone
+95 78 863 stone
+95 78 864 dripstone_block
+95 78 865 stone
+95 78 866 stone
+95 78 867 granite
+95 78 868 granite
+fill 95 78 869 95 78 871 water[level=0]
+95 78 872 granite
+95 78 873 granite
+95 78 874 stone
+95 78 875 stone
+fill 95 78 876 95 78 878 granite
+fill 95 78 879 95 78 895 stone
+96 78 768 stone
+96 78 769 stone
+fill 96 78 770 96 78 772 diorite
+96 78 784 pointed_dripstone[thickness=frustum,vertical_direction=down,waterlogged=false]
+fill 96 78 813 96 78 824 stone
+fill 96 78 830 96 78 847 stone
+96 78 848 diorite
+fill 96 78 849 96 78 861 water[level=0]
+fill 96 78 862 96 78 866 stone
+fill 96 78 867 96 78 874 granite
+fill 96 78 875 96 78 895 stone
+97 78 768 dripstone_block
+97 78 769 stone
+97 78 770 stone
+97 78 771 diorite
+97 78 772 diorite
+97 78 782 pointed_dripstone[thickness=frustum,vertical_direction=down,waterlogged=false]
+fill 97 78 813 97 78 819 stone
+97 78 820 dripstone_block
+fill 97 78 821 97 78 824 stone
+fill 97 78 830 97 78 837 stone
+97 78 838 iron_ore
+97 78 839 iron_ore
+fill 97 78 840 97 78 848 stone
+fill 97 78 849 97 78 858 water[level=0]
+97 78 859 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=true]
+97 78 860 water[level=0]
+97 78 861 water[level=0]
+97 78 862 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=true]
+fill 97 78 863 97 78 868 stone
+97 78 869 granite
+97 78 870 diorite
+97 78 871 diorite
+fill 97 78 872 97 78 874 granite
+fill 97 78 875 97 78 895 stone
+fill 98 78 768 98 78 771 dripstone_block
+98 78 772 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+98 78 773 pointed_dripstone[thickness=base,vertical_direction=down,waterlogged=false]
+98 78 775 pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=false]
+98 78 776 pointed_dripstone[thickness=frustum,vertical_direction=down,waterlogged=false]
+98 78 784 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+98 78 788 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+98 78 813 andesite
+fill 98 78 814 98 78 818 stone
+fill 98 78 819 98 78 821 dripstone_block
+98 78 822 stone
+98 78 823 dripstone_block
+98 78 825 glow_lichen[down=false,east=false,north=false,south=false,up=true,waterlogged=false,west=false]
+fill 98 78 830 98 78 837 stone
+98 78 838 iron_ore
+98 78 839 iron_ore
+98 78 840 lapis_ore
+98 78 841 lapis_ore
+fill 98 78 842 98 78 847 stone
+98 78 848 diorite
+fill 98 78 849 98 78 852 water[level=0]
+fill 98 78 853 98 78 855 diorite
+fill 98 78 856 98 78 861 water[level=0]
+98 78 862 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=true]
+98 78 863 dripstone_block
+fill 98 78 864 98 78 868 stone
+fill 98 78 869 98 78 871 diorite
+fill 98 78 872 98 78 875 granite
+fill 98 78 876 98 78 895 stone
+fill 99 78 768 99 78 771 stone
+99 78 772 dripstone_block
+99 78 773 pointed_dripstone[thickness=base,vertical_direction=down,waterlogged=false]
+99 78 774 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+99 78 782 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+99 78 785 pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=false]
+99 78 808 stone
+fill 99 78 813 99 78 818 stone
+fill 99 78 819 99 78 823 dripstone_block
+99 78 824 stone
+99 78 825 glow_lichen[down=false,east=false,north=false,south=false,up=true,waterlogged=false,west=false]
+99 78 827 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+fill 99 78 830 99 78 839 stone
+99 78 840 lapis_ore
+99 78 841 lapis_ore
+fill 99 78 842 99 78 845 stone
+fill 99 78 846 99 78 858 diorite
+99 78 859 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=true]
+99 78 860 water[level=0]
+99 78 861 water[level=0]
+99 78 862 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=true]
+99 78 863 water[level=0]
+fill 99 78 864 99 78 868 stone
+fill 99 78 869 99 78 871 diorite
+fill 99 78 872 99 78 875 granite
+fill 99 78 876 99 78 895 stone
+fill 100 78 768 100 78 773 stone
+100 78 777 pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=false]
+100 78 779 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+100 78 781 pointed_dripstone[thickness=frustum,vertical_direction=down,waterlogged=false]
+100 78 782 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+100 78 784 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+100 78 787 pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=false]
+100 78 788 pointed_dripstone[thickness=frustum,vertical_direction=down,waterlogged=false]
+fill 100 78 805 100 78 810 stone
+100 78 811 andesite
+100 78 812 andesite
+fill 100 78 813 100 78 819 stone
+100 78 820 dripstone_block
+100 78 821 dripstone_block
+100 78 822 stone
+100 78 823 stone
+fill 100 78 830 100 78 845 stone
+fill 100 78 846 100 78 849 diorite
+100 78 850 water[level=0]
+fill 100 78 851 100 78 858 diorite
+100 78 859 dripstone_block
+fill 100 78 860 100 78 863 water[level=0]
+fill 100 78 864 100 78 868 stone
+fill 100 78 869 100 78 872 diorite
+fill 100 78 873 100 78 875 granite
+fill 100 78 876 100 78 895 stone
+fill 101 78 768 101 78 772 stone
+101 78 773 dripstone_block
+101 78 774 dripstone_block
+101 78 775 glow_lichen[down=false,east=true,north=false,south=false,up=false,waterlogged=false,west=false]
+101 78 781 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+101 78 782 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+101 78 784 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+101 78 785 pointed_dripstone[thickness=frustum,vertical_direction=down,waterlogged=false]
+101 78 786 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+101 78 787 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+fill 101 78 803 101 78 819 stone
+101 78 820 dripstone_block
+fill 101 78 821 101 78 824 stone
+fill 101 78 830 101 78 845 stone
+fill 101 78 846 101 78 849 diorite
+101 78 850 water[level=0]
+fill 101 78 851 101 78 859 diorite
+fill 101 78 860 101 78 862 water[level=0]
+101 78 863 dripstone_block
+fill 101 78 864 101 78 868 stone
+fill 101 78 869 101 78 872 diorite
+fill 101 78 873 101 78 888 stone
+fill 101 78 889 101 78 892 granite
+fill 101 78 893 101 78 895 stone
+fill 102 78 768 102 78 772 stone
+fill 102 78 773 102 78 775 dripstone_block
+102 78 776 pointed_dripstone[thickness=base,vertical_direction=down,waterlogged=false]
+102 78 777 pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=false]
+fill 102 78 802 102 78 810 stone
+102 78 811 granite
+102 78 812 granite
+fill 102 78 813 102 78 819 stone
+102 78 820 dripstone_block
+fill 102 78 821 102 78 824 stone
+fill 102 78 830 102 78 846 stone
+fill 102 78 847 102 78 858 diorite
+fill 102 78 859 102 78 863 water[level=0]
+fill 102 78 864 102 78 868 stone
+102 78 869 iron_ore
+fill 102 78 870 102 78 872 diorite
+fill 102 78 873 102 78 887 stone
+fill 102 78 888 102 78 892 granite
+fill 102 78 893 102 78 895 stone
+fill 103 78 768 103 78 773 stone
+103 78 774 dripstone_block
+103 78 775 dripstone_block
+103 78 777 pointed_dripstone[thickness=base,vertical_direction=down,waterlogged=false]
+103 78 784 pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=false]
+fill 103 78 802 103 78 809 stone
+fill 103 78 810 103 78 813 granite
+fill 103 78 814 103 78 824 stone
+103 78 830 copper_ore
+103 78 831 copper_ore
+fill 103 78 832 103 78 847 stone
+fill 103 78 848 103 78 858 diorite
+fill 103 78 859 103 78 863 water[level=0]
+fill 103 78 864 103 78 868 stone
+103 78 869 iron_ore
+103 78 870 iron_ore
+103 78 871 diorite
+103 78 872 diorite
+fill 103 78 873 103 78 887 stone
+fill 103 78 888 103 78 893 granite
+103 78 894 stone
+103 78 895 stone
+fill 104 78 768 104 78 773 stone
+fill 104 78 774 104 78 777 dripstone_block
+104 78 778 pointed_dripstone[thickness=frustum,vertical_direction=down,waterlogged=false]
