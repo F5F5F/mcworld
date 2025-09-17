@@ -1,0 +1,543 @@
+519 182 467 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+519 182 468 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+519 182 469 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+519 182 470 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+fill 520 182 450 520 182 456 spruce_planks
+520 182 460 snow[layers=1]
+520 182 461 snow[layers=1]
+520 182 462 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+520 182 463 snow[layers=1]
+520 182 464 snow[layers=1]
+520 182 466 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+520 182 467 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+520 182 468 spruce_log[axis=y]
+520 182 469 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+520 182 470 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+fill 521 182 461 521 182 463 snow[layers=1]
+521 182 466 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+521 182 467 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+521 182 468 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+521 182 469 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+521 182 470 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+522 182 467 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+522 182 468 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+522 182 469 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+523 182 431 spruce_planks
+523 182 432 spruce_slab[type=top,waterlogged=false]
+523 182 434 spruce_slab[type=top,waterlogged=false]
+523 182 435 spruce_planks
+523 182 436 spruce_slab[type=top,waterlogged=false]
+523 182 437 spruce_planks
+523 182 438 spruce_slab[type=top,waterlogged=false]
+523 182 440 spruce_slab[type=top,waterlogged=false]
+523 182 441 spruce_planks
+523 182 449 spruce_planks
+523 182 450 spruce_slab[type=top,waterlogged=false]
+523 182 452 spruce_slab[type=top,waterlogged=false]
+523 182 453 spruce_planks
+524 182 431 spruce_planks
+fill 524 182 432 524 182 434 stripped_spruce_log[axis=y]
+524 182 435 spruce_planks
+524 182 436 stripped_spruce_log[axis=z]
+524 182 437 spruce_planks
+fill 524 182 438 524 182 440 stripped_spruce_log[axis=y]
+524 182 441 spruce_planks
+524 182 449 spruce_planks
+fill 524 182 450 524 182 452 stripped_spruce_wood[axis=y]
+524 182 453 spruce_planks
+525 182 431 spruce_planks
+525 182 432 stripped_spruce_log[axis=z]
+525 182 435 spruce_planks
+525 182 437 spruce_planks
+525 182 440 stripped_spruce_log[axis=z]
+525 182 441 spruce_planks
+525 182 449 spruce_planks
+525 182 451 lantern[hanging=true,waterlogged=false]
+525 182 452 cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=tall]
+525 182 453 spruce_planks
+526 182 431 spruce_planks
+526 182 432 stripped_spruce_log[axis=z]
+526 182 433 wall_torch[facing=south]
+526 182 435 spruce_planks
+526 182 437 spruce_planks
+526 182 439 wall_torch[facing=north]
+526 182 440 stripped_spruce_log[axis=z]
+526 182 441 spruce_planks
+526 182 449 spruce_planks
+526 182 453 spruce_planks
+527 182 431 spruce_planks
+527 182 432 stripped_spruce_log[axis=z]
+527 182 435 spruce_planks
+527 182 436 stripped_spruce_log[axis=y]
+527 182 437 spruce_planks
+527 182 440 stripped_spruce_log[axis=z]
+527 182 441 spruce_planks
+527 182 449 spruce_planks
+527 182 451 lantern[hanging=true,waterlogged=false]
+527 182 453 spruce_planks
+528 182 431 spruce_planks
+528 182 432 stripped_spruce_log[axis=y]
+528 182 433 stripped_spruce_log[axis=y]
+528 182 434 stripped_spruce_log[axis=y]
+528 182 435 spruce_planks
+528 182 437 spruce_planks
+fill 528 182 438 528 182 440 stripped_spruce_log[axis=y]
+528 182 441 spruce_planks
+528 182 449 spruce_planks
+fill 528 182 450 528 182 452 stripped_spruce_wood[axis=y]
+528 182 453 spruce_planks
+529 182 431 spruce_planks
+529 182 432 spruce_slab[type=top,waterlogged=false]
+529 182 434 spruce_slab[type=top,waterlogged=false]
+529 182 435 spruce_planks
+529 182 436 spruce_slab[type=top,waterlogged=false]
+529 182 437 spruce_planks
+529 182 438 spruce_slab[type=top,waterlogged=false]
+529 182 440 spruce_slab[type=top,waterlogged=false]
+529 182 441 spruce_planks
+529 182 449 spruce_planks
+529 182 450 spruce_slab[type=top,waterlogged=false]
+529 182 451 lantern[hanging=true,waterlogged=false]
+529 182 452 spruce_slab[type=top,waterlogged=false]
+529 182 453 spruce_planks
+530 182 426 snow[layers=1]
+530 182 427 snow[layers=1]
+530 182 428 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+531 182 426 snow[layers=1]
+531 182 427 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+531 182 428 spruce_log[axis=y]
+531 182 429 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+532 182 426 snow[layers=1]
+532 182 427 snow[layers=1]
+532 182 428 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+533 182 427 snow[layers=1]
+533 182 428 snow[layers=1]
+533 182 440 snow[layers=1]
+533 182 441 spruce_planks
+533 182 442 spruce_slab[type=top,waterlogged=false]
+533 182 443 spruce_planks
+533 182 444 snow[layers=1]
+534 182 440 snow[layers=1]
+534 182 441 spruce_planks
+534 182 442 stripped_spruce_wood[axis=y]
+534 182 443 spruce_planks
+534 182 444 snow[layers=1]
+534 182 456 spruce_slab[type=bottom,waterlogged=false]
+534 182 457 spruce_slab[type=bottom,waterlogged=false]
+535 182 440 snow[layers=1]
+535 182 441 spruce_planks
+535 182 442 wall_torch[facing=east]
+535 182 443 spruce_planks
+535 182 444 snow[layers=1]
+535 182 456 spruce_slab[type=bottom,waterlogged=false]
+535 182 457 spruce_slab[type=bottom,waterlogged=false]
+536 182 440 spruce_slab[type=bottom,waterlogged=false]
+536 182 441 spruce_planks
+536 182 443 spruce_planks
+536 182 444 spruce_slab[type=bottom,waterlogged=false]
+536 182 456 spruce_slab[type=bottom,waterlogged=false]
+536 182 457 spruce_slab[type=bottom,waterlogged=false]
+537 182 440 snow[layers=1]
+537 182 441 cobblestone
+537 182 442 wall_torch[facing=west]
+537 182 443 spruce_planks
+537 182 444 snow[layers=1]
+537 182 456 spruce_slab[type=bottom,waterlogged=false]
+537 182 457 spruce_slab[type=bottom,waterlogged=false]
+538 182 440 snow[layers=1]
+538 182 441 spruce_planks
+538 182 442 stripped_spruce_wood[axis=y]
+538 182 443 spruce_planks
+538 182 444 snow[layers=1]
+538 182 456 spruce_slab[type=bottom,waterlogged=false]
+538 182 457 spruce_slab[type=bottom,waterlogged=false]
+539 182 440 snow[layers=1]
+539 182 441 spruce_planks
+539 182 442 spruce_slab[type=top,waterlogged=false]
+539 182 443 spruce_planks
+539 182 444 snow[layers=1]
+539 182 456 spruce_slab[type=bottom,waterlogged=false]
+539 182 457 spruce_slab[type=bottom,waterlogged=false]
+fill 545 182 441 545 182 449 snow[layers=1]
+fill 546 182 441 546 182 449 spruce_planks
+fill 547 182 441 547 182 449 snow[layers=1]
+555 182 468 snow[layers=1]
+555 182 469 snow[layers=1]
+fill 556 182 467 556 182 471 snow[layers=1]
+fill 557 182 466 557 182 472 snow[layers=1]
+fill 558 182 465 558 182 471 snow[layers=1]
+558 182 472 short_grass
+558 182 473 snow[layers=1]
+fill 559 182 465 559 182 476 snow[layers=1]
+fill 560 182 465 560 182 482 snow[layers=1]
+fill 561 182 465 561 182 468 snow[layers=1]
+561 182 469 grass_block[snowy=true]
+fill 561 182 470 561 182 491 snow[layers=1]
+fill 562 182 465 562 182 467 snow[layers=1]
+fill 562 182 468 562 182 470 grass_block[snowy=true]
+fill 562 182 471 562 182 473 snow[layers=1]
+562 182 474 short_grass
+fill 562 182 475 562 182 494 snow[layers=1]
+fill 563 182 465 563 182 468 snow[layers=1]
+563 182 469 grass_block[snowy=false]
+563 182 470 grass_block[snowy=true]
+563 182 471 grass_block[snowy=true]
+563 182 472 snow[layers=1]
+563 182 473 snow[layers=1]
+563 182 474 short_grass
+fill 563 182 475 563 182 494 snow[layers=1]
+fill 564 182 465 564 182 468 snow[layers=1]
+fill 564 182 469 564 182 473 grass_block[snowy=true]
+fill 564 182 474 564 182 488 snow[layers=1]
+564 182 489 short_grass
+fill 564 182 490 564 182 495 snow[layers=1]
+fill 565 182 466 565 182 468 snow[layers=1]
+fill 565 182 469 565 182 474 grass_block[snowy=true]
+fill 565 182 475 565 182 496 snow[layers=1]
+fill 566 182 466 566 182 468 snow[layers=1]
+fill 566 182 469 566 182 475 grass_block[snowy=true]
+fill 566 182 476 566 182 498 snow[layers=1]
+fill 567 182 467 567 182 471 snow[layers=1]
+fill 567 182 472 567 182 474 grass_block[snowy=true]
+fill 567 182 475 567 182 497 snow[layers=1]
+fill 568 182 468 568 182 472 snow[layers=1]
+568 182 473 grass_block[snowy=true]
+fill 568 182 474 568 182 491 snow[layers=1]
+fill 569 182 469 569 182 484 snow[layers=1]
+fill 570 182 469 570 182 482 snow[layers=1]
+fill 571 182 473 571 182 475 snow[layers=1]
+574 182 459 snow[layers=1]
+574 182 460 snow[layers=1]
+575 182 458 snow[layers=1]
+575 182 459 snow[layers=1]
+575 182 460 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+576 182 458 snow[layers=1]
+576 182 459 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+576 182 460 spruce_log[axis=y]
+576 182 461 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+577 182 458 snow[layers=1]
+577 182 459 snow[layers=1]
+577 182 460 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+578 182 459 snow[layers=1]
+578 182 460 snow[layers=1]
+608 182 448 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+609 182 447 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+609 182 448 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+609 182 449 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+610 182 448 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+fill 516 183 450 516 183 456 snow[layers=1]
+fill 517 183 450 517 183 453 spruce_planks
+517 183 454 cobblestone
+517 183 455 spruce_planks
+517 183 456 spruce_planks
+518 183 451 stripped_spruce_log[axis=y]
+518 183 455 stripped_spruce_log[axis=y]
+518 183 456 lantern[hanging=true,waterlogged=false]
+fill 518 183 467 518 183 469 snow[layers=1]
+fill 519 183 450 519 183 456 spruce_planks
+519 183 462 spruce_log[axis=y]
+519 183 466 snow[layers=1]
+519 183 467 snow[layers=1]
+519 183 468 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+519 183 469 snow[layers=1]
+519 183 470 snow[layers=1]
+fill 520 183 450 520 183 456 snow[layers=1]
+520 183 466 snow[layers=1]
+520 183 467 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+520 183 468 spruce_log[axis=y]
+520 183 469 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+520 183 470 snow[layers=1]
+521 183 466 snow[layers=1]
+521 183 467 snow[layers=1]
+521 183 468 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+521 183 469 snow[layers=1]
+521 183 470 snow[layers=1]
+fill 522 183 467 522 183 469 snow[layers=1]
+523 183 431 snow[layers=1]
+523 183 432 spruce_planks
+523 183 433 spruce_slab[type=top,waterlogged=false]
+523 183 434 spruce_planks
+523 183 435 spruce_slab[type=bottom,waterlogged=false]
+523 183 436 spruce_planks
+523 183 437 spruce_slab[type=bottom,waterlogged=false]
+523 183 438 spruce_planks
+523 183 439 spruce_slab[type=top,waterlogged=false]
+523 183 440 spruce_planks
+523 183 441 snow[layers=1]
+523 183 449 snow[layers=1]
+523 183 450 spruce_planks
+523 183 451 spruce_slab[type=top,waterlogged=false]
+523 183 452 spruce_planks
+523 183 453 snow[layers=1]
+524 183 431 snow[layers=1]
+524 183 432 spruce_planks
+524 183 433 stripped_spruce_log[axis=y]
+524 183 434 spruce_planks
+524 183 435 snow[layers=1]
+524 183 436 spruce_planks
+524 183 437 snow[layers=1]
+524 183 438 spruce_planks
+524 183 439 stripped_spruce_log[axis=y]
+524 183 440 spruce_planks
+524 183 441 snow[layers=1]
+524 183 449 snow[layers=1]
+524 183 450 spruce_planks
+524 183 451 stripped_spruce_wood[axis=y]
+524 183 452 spruce_planks
+524 183 453 snow[layers=1]
+525 183 431 snow[layers=1]
+525 183 432 spruce_planks
+525 183 434 spruce_planks
+525 183 435 snow[layers=1]
+525 183 436 spruce_planks
+525 183 437 snow[layers=1]
+525 183 438 spruce_planks
+525 183 440 spruce_planks
+525 183 441 snow[layers=1]
+525 183 449 snow[layers=1]
+525 183 450 spruce_planks
+525 183 451 spruce_fence[east=false,north=true,south=true,waterlogged=false,west=true]
+525 183 452 cobblestone
+525 183 453 snow[layers=1]
+526 183 431 snow[layers=1]
+526 183 432 spruce_planks
+526 183 434 spruce_planks
+526 183 435 snow[layers=1]
+526 183 436 spruce_planks
+526 183 437 snow[layers=1]
+526 183 438 spruce_planks
+526 183 440 spruce_planks
+526 183 441 snow[layers=1]
+526 183 449 spruce_slab[type=bottom,waterlogged=false]
+526 183 450 spruce_planks
+526 183 452 spruce_planks
+526 183 453 spruce_slab[type=bottom,waterlogged=false]
+527 183 431 snow[layers=1]
+527 183 432 spruce_planks
+527 183 434 spruce_planks
+527 183 435 snow[layers=1]
+527 183 436 spruce_planks
+527 183 437 snow[layers=1]
+527 183 438 spruce_planks
+527 183 440 spruce_planks
+527 183 441 snow[layers=1]
+527 183 449 snow[layers=1]
+527 183 450 spruce_planks
+527 183 451 spruce_fence[east=true,north=true,south=true,waterlogged=false,west=false]
+527 183 452 spruce_planks
+527 183 453 snow[layers=1]
+528 183 431 snow[layers=1]
+528 183 432 spruce_planks
+528 183 433 stripped_spruce_log[axis=y]
+528 183 434 spruce_planks
+528 183 435 snow[layers=1]
+528 183 436 spruce_planks
+528 183 437 snow[layers=1]
+528 183 438 spruce_planks
+528 183 439 stripped_spruce_log[axis=y]
+528 183 440 spruce_planks
+528 183 441 snow[layers=1]
+528 183 449 snow[layers=1]
+528 183 450 spruce_planks
+528 183 451 stripped_spruce_wood[axis=y]
+528 183 452 spruce_planks
+528 183 453 snow[layers=1]
+529 183 431 snow[layers=1]
+529 183 432 spruce_planks
+529 183 433 spruce_slab[type=top,waterlogged=false]
+529 183 434 spruce_planks
+529 183 435 spruce_slab[type=bottom,waterlogged=false]
+529 183 436 spruce_planks
+529 183 437 spruce_slab[type=bottom,waterlogged=false]
+529 183 438 spruce_planks
+529 183 439 spruce_slab[type=top,waterlogged=false]
+529 183 440 spruce_planks
+529 183 441 snow[layers=1]
+529 183 449 snow[layers=1]
+529 183 450 spruce_planks
+529 183 451 spruce_slab[type=double,waterlogged=false]
+529 183 452 spruce_planks
+529 183 453 snow[layers=1]
+531 183 428 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+533 183 441 snow[layers=1]
+533 183 442 spruce_planks
+533 183 443 snow[layers=1]
+534 183 441 snow[layers=1]
+534 183 442 spruce_planks
+534 183 443 snow[layers=1]
+535 183 441 snow[layers=1]
+535 183 442 spruce_planks
+535 183 443 snow[layers=1]
+536 183 441 snow[layers=1]
+536 183 442 spruce_planks
+536 183 443 snow[layers=1]
+537 183 441 cobblestone_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=none]
+537 183 442 spruce_planks
+537 183 443 snow[layers=1]
+538 183 441 snow[layers=1]
+538 183 442 spruce_planks
+538 183 443 snow[layers=1]
+539 183 441 snow[layers=1]
+539 183 442 spruce_planks
+539 183 443 snow[layers=1]
+fill 546 183 441 546 183 449 snow[layers=1]
+561 183 469 snow[layers=1]
+fill 562 183 468 562 183 470 snow[layers=1]
+563 183 469 short_grass
+563 183 470 snow[layers=1]
+563 183 471 snow[layers=1]
+fill 564 183 469 564 183 473 snow[layers=1]
+fill 565 183 469 565 183 474 snow[layers=1]
+fill 566 183 469 566 183 475 snow[layers=1]
+fill 567 183 472 567 183 474 snow[layers=1]
+568 183 473 snow[layers=1]
+576 183 460 spruce_log[axis=y]
+608 183 448 snow[layers=1]
+609 183 447 snow[layers=1]
+609 183 448 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+609 183 449 snow[layers=1]
+610 183 448 snow[layers=1]
+fill 517 184 450 517 184 453 snow[layers=1]
+517 184 454 cobblestone_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=none]
+517 184 455 snow[layers=1]
+517 184 456 snow[layers=1]
+fill 518 184 450 518 184 456 spruce_planks
+518 184 462 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+fill 519 184 450 519 184 456 snow[layers=1]
+519 184 461 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+519 184 462 spruce_log[axis=y]
+519 184 463 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+520 184 462 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+520 184 468 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+523 184 432 snow[layers=1]
+523 184 433 spruce_planks
+523 184 434 snow[layers=1]
+523 184 436 snow[layers=1]
+523 184 438 snow[layers=1]
+523 184 439 spruce_planks
+523 184 440 snow[layers=1]
+523 184 450 snow[layers=1]
+523 184 451 spruce_planks
+523 184 452 snow[layers=1]
+524 184 432 snow[layers=1]
+524 184 433 spruce_planks
+524 184 434 snow[layers=1]
+524 184 436 snow[layers=1]
+524 184 438 snow[layers=1]
+524 184 439 spruce_planks
+524 184 440 snow[layers=1]
+524 184 450 snow[layers=1]
+524 184 451 spruce_planks
+524 184 452 snow[layers=1]
+525 184 432 snow[layers=1]
+525 184 433 spruce_planks
+525 184 434 snow[layers=1]
+525 184 436 snow[layers=1]
+525 184 438 snow[layers=1]
+525 184 439 spruce_planks
+525 184 440 snow[layers=1]
+525 184 450 snow[layers=1]
+525 184 451 spruce_planks
+525 184 452 cobblestone_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=none]
+526 184 432 snow[layers=1]
+526 184 433 spruce_planks
+526 184 434 snow[layers=1]
+526 184 436 snow[layers=1]
+526 184 438 snow[layers=1]
+526 184 439 spruce_planks
+526 184 440 snow[layers=1]
+526 184 450 snow[layers=1]
+526 184 451 spruce_planks
+526 184 452 snow[layers=1]
+527 184 432 snow[layers=1]
+527 184 433 spruce_planks
+527 184 434 snow[layers=1]
+527 184 436 snow[layers=1]
+527 184 438 snow[layers=1]
+527 184 439 spruce_planks
+527 184 440 snow[layers=1]
+527 184 450 snow[layers=1]
+527 184 451 spruce_planks
+527 184 452 snow[layers=1]
+528 184 432 snow[layers=1]
+528 184 433 spruce_planks
+528 184 434 snow[layers=1]
+528 184 436 snow[layers=1]
+528 184 438 snow[layers=1]
+528 184 439 spruce_planks
+528 184 440 snow[layers=1]
+528 184 450 snow[layers=1]
+528 184 451 spruce_planks
+528 184 452 snow[layers=1]
+529 184 432 snow[layers=1]
+529 184 433 spruce_planks
+529 184 434 snow[layers=1]
+529 184 436 snow[layers=1]
+529 184 438 snow[layers=1]
+529 184 439 spruce_planks
+529 184 440 snow[layers=1]
+529 184 450 snow[layers=1]
+529 184 451 spruce_planks
+529 184 452 snow[layers=1]
+530 184 428 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+531 184 427 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+531 184 428 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+531 184 429 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+532 184 428 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+533 184 442 snow[layers=1]
+534 184 442 snow[layers=1]
+535 184 442 snow[layers=1]
+536 184 442 snow[layers=1]
+537 184 441 cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]
+537 184 442 snow[layers=1]
+538 184 442 snow[layers=1]
+539 184 442 snow[layers=1]
+575 184 460 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+576 184 459 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+576 184 460 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+576 184 461 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+577 184 460 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+609 184 448 snow[layers=1]
+517 185 454 cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]
+fill 518 185 450 518 185 456 snow[layers=1]
+518 185 462 snow[layers=1]
+519 185 461 snow[layers=1]
+519 185 462 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+519 185 463 snow[layers=1]
+519 185 468 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+520 185 462 snow[layers=1]
+520 185 467 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+520 185 468 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+520 185 469 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+521 185 468 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+523 185 433 snow[layers=1]
+523 185 439 snow[layers=1]
+523 185 451 snow[layers=1]
+524 185 433 snow[layers=1]
+524 185 439 snow[layers=1]
+524 185 451 snow[layers=1]
+525 185 433 snow[layers=1]
+525 185 439 snow[layers=1]
+525 185 451 snow[layers=1]
+525 185 452 cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]
+526 185 433 snow[layers=1]
+526 185 439 snow[layers=1]
+526 185 451 snow[layers=1]
+527 185 433 snow[layers=1]
+527 185 439 snow[layers=1]
+527 185 451 snow[layers=1]
+528 185 433 snow[layers=1]
+528 185 439 snow[layers=1]
+528 185 451 snow[layers=1]
+529 185 433 snow[layers=1]
+529 185 439 snow[layers=1]
+529 185 451 snow[layers=1]
+530 185 428 snow[layers=1]
+531 185 427 snow[layers=1]
+531 185 428 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+532 185 428 snow[layers=1]
+575 185 460 snow[layers=1]
+576 185 459 snow[layers=1]
+576 185 460 snow[layers=1]
+577 185 460 snow[layers=1]
+519 186 462 snow[layers=1]

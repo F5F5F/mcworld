@@ -1,0 +1,593 @@
+560 51 577 dispenser[facing=south,triggered=false]
+560 51 600 trial_spawner[ominous=false,trial_spawner_state=waiting_for_players]
+560 51 603 dispenser[facing=north,triggered=false]
+560 51 604 tuff_bricks
+fill 560 51 605 560 51 639 deepslate[axis=y]
+fill 561 51 512 561 51 515 deepslate[axis=y]
+561 51 516 tuff_bricks
+561 51 517 tuff_bricks
+561 51 533 polished_tuff
+561 51 534 polished_tuff
+561 51 535 ladder[facing=west,waterlogged=false]
+fill 561 51 536 561 51 561 polished_tuff
+fill 561 51 574 561 51 576 tuff_bricks
+561 51 577 waxed_copper_block
+561 51 603 waxed_copper_block
+561 51 604 tuff_bricks
+fill 561 51 605 561 51 639 deepslate[axis=y]
+fill 562 51 512 562 51 515 deepslate[axis=y]
+fill 562 51 516 562 51 518 tuff_bricks
+fill 562 51 522 562 51 528 tuff_bricks
+fill 562 51 532 562 51 537 tuff_bricks
+fill 562 51 538 562 51 540 polished_tuff
+562 51 541 tuff_bricks
+562 51 542 waxed_copper_block
+562 51 543 waxed_copper_block
+562 51 544 waxed_exposed_copper_bulb[lit=true,powered=false]
+562 51 545 waxed_copper_block
+562 51 546 waxed_copper_block
+562 51 547 tuff_bricks
+fill 562 51 548 562 51 550 polished_tuff
+562 51 551 tuff_bricks
+562 51 552 tuff_bricks
+fill 562 51 553 562 51 555 polished_tuff
+fill 562 51 556 562 51 559 tuff_bricks
+562 51 563 tuff_bricks
+562 51 564 tuff_bricks
+562 51 568 tuff_bricks
+562 51 569 tuff_bricks
+562 51 573 waxed_chiseled_copper
+fill 562 51 574 562 51 576 tuff_bricks
+562 51 577 waxed_copper_block
+562 51 578 waxed_copper_block
+562 51 582 waxed_copper_block
+562 51 583 waxed_copper_block
+562 51 587 waxed_copper_block
+562 51 588 waxed_copper_block
+562 51 592 waxed_copper_block
+562 51 593 waxed_copper_block
+562 51 597 waxed_copper_block
+562 51 598 waxed_copper_block
+562 51 602 waxed_copper_block
+562 51 603 waxed_copper_block
+562 51 604 tuff_bricks
+fill 562 51 605 562 51 639 deepslate[axis=y]
+fill 563 51 512 563 51 515 deepslate[axis=y]
+fill 563 51 516 563 51 541 tuff_bricks
+fill 563 51 542 563 51 546 waxed_copper_block
+fill 563 51 547 563 51 576 tuff_bricks
+fill 563 51 577 563 51 579 waxed_copper_block
+563 51 580 dispenser[facing=west,triggered=false]
+fill 563 51 581 563 51 584 waxed_copper_block
+563 51 585 dispenser[facing=west,triggered=false]
+563 51 586 waxed_copper_block
+563 51 587 tuff_bricks
+563 51 588 waxed_copper_block
+563 51 592 hopper[enabled=true,facing=down]
+563 51 593 waxed_copper_bulb[lit=true,powered=false]
+563 51 594 waxed_copper_block
+563 51 595 dispenser[facing=west,triggered=false]
+fill 563 51 596 563 51 603 waxed_copper_block
+563 51 604 tuff_bricks
+fill 563 51 605 563 51 608 deepslate[axis=y]
+fill 563 51 609 563 51 612 tuff
+fill 563 51 613 563 51 639 deepslate[axis=y]
+fill 564 51 512 564 51 515 deepslate[axis=y]
+fill 564 51 516 564 51 541 tuff_bricks
+564 51 542 waxed_copper_block
+564 51 543 waxed_copper_block
+564 51 544 waxed_exposed_copper_bulb[lit=true,powered=false]
+564 51 545 waxed_copper_block
+564 51 546 waxed_copper_block
+fill 564 51 547 564 51 587 tuff_bricks
+564 51 588 waxed_copper_block
+564 51 592 waxed_copper_block
+fill 564 51 593 564 51 604 tuff_bricks
+fill 564 51 605 564 51 608 deepslate[axis=y]
+fill 564 51 609 564 51 614 tuff
+fill 564 51 615 564 51 617 deepslate[axis=y]
+fill 564 51 618 564 51 620 tuff
+fill 564 51 621 564 51 639 deepslate[axis=y]
+fill 565 51 512 565 51 515 deepslate[axis=y]
+fill 565 51 516 565 51 536 tuff_bricks
+fill 565 51 537 565 51 539 deepslate[axis=y]
+fill 565 51 540 565 51 563 tuff_bricks
+565 51 564 deepslate[axis=y]
+565 51 565 deepslate[axis=y]
+fill 565 51 582 565 51 587 deepslate[axis=y]
+fill 565 51 588 565 51 592 waxed_copper_block
+fill 565 51 593 565 51 608 deepslate[axis=y]
+fill 565 51 609 565 51 615 tuff
+565 51 616 deepslate[axis=y]
+fill 565 51 617 565 51 619 tuff
+565 51 620 deepslate_iron_ore
+565 51 621 tuff
+fill 565 51 622 565 51 639 deepslate[axis=y]
+fill 566 51 512 566 51 515 deepslate[axis=y]
+fill 566 51 516 566 51 536 tuff_bricks
+fill 566 51 537 566 51 539 deepslate[axis=y]
+566 51 540 tuff_bricks
+fill 566 51 541 566 51 562 chiseled_tuff_bricks
+566 51 563 tuff_bricks
+566 51 583 deepslate[axis=y]
+566 51 584 deepslate[axis=y]
+fill 566 51 585 566 51 608 deepslate[axis=y]
+fill 566 51 609 566 51 618 tuff
+566 51 619 deepslate_iron_ore
+566 51 620 tuff
+566 51 621 tuff
+fill 566 51 622 566 51 639 deepslate[axis=y]
+fill 567 51 512 567 51 534 tuff_bricks
+fill 567 51 535 567 51 539 deepslate[axis=y]
+567 51 540 tuff_bricks
+567 51 541 chiseled_tuff_bricks
+567 51 542 chiseled_tuff_bricks
+567 51 545 sculk_vein[down=false,east=false,north=false,south=true,up=false,waterlogged=false,west=false]
+567 51 546 chiseled_tuff_bricks
+567 51 547 chiseled_tuff_bricks
+567 51 548 sculk_vein[down=false,east=false,north=true,south=false,up=false,waterlogged=false,west=true]
+567 51 551 chiseled_tuff_bricks
+567 51 552 chiseled_tuff_bricks
+567 51 553 waxed_copper_grate[waterlogged=false]
+567 51 554 polished_tuff
+567 51 555 waxed_copper_grate[waterlogged=false]
+567 51 556 chiseled_tuff_bricks
+567 51 557 chiseled_tuff_bricks
+567 51 561 chiseled_tuff_bricks
+567 51 562 chiseled_tuff_bricks
+567 51 563 tuff_bricks
+fill 567 51 578 567 51 609 deepslate[axis=y]
+fill 567 51 610 567 51 621 tuff
+fill 567 51 622 567 51 639 deepslate[axis=y]
+fill 568 51 512 568 51 534 tuff_bricks
+fill 568 51 535 568 51 539 deepslate[axis=y]
+568 51 540 tuff_bricks
+568 51 541 chiseled_tuff_bricks
+568 51 546 sculk_vein[down=false,east=false,north=false,south=false,up=false,waterlogged=false,west=true]
+568 51 547 sculk_vein[down=false,east=false,north=false,south=false,up=false,waterlogged=false,west=true]
+568 51 553 waxed_copper_grate[waterlogged=false]
+568 51 554 polished_tuff
+568 51 555 waxed_copper_grate[waterlogged=false]
+568 51 562 chiseled_tuff_bricks
+568 51 563 tuff_bricks
+fill 568 51 580 568 51 609 deepslate[axis=y]
+fill 568 51 610 568 51 622 tuff
+fill 568 51 623 568 51 639 deepslate[axis=y]
+fill 569 51 512 569 51 528 tuff_bricks
+fill 569 51 529 569 51 531 polished_tuff
+fill 569 51 532 569 51 534 tuff_bricks
+fill 569 51 535 569 51 539 deepslate[axis=y]
+569 51 540 tuff_bricks
+569 51 541 chiseled_tuff_bricks
+569 51 553 waxed_copper_grate[waterlogged=false]
+569 51 554 polished_tuff
+569 51 555 waxed_copper_grate[waterlogged=false]
+569 51 562 chiseled_tuff_bricks
+569 51 563 tuff_bricks
+fill 569 51 569 569 51 571 deepslate[axis=y]
+fill 569 51 582 569 51 610 deepslate[axis=y]
+fill 569 51 611 569 51 622 tuff
+fill 569 51 623 569 51 625 deepslate[axis=y]
+569 51 626 deepslate_diamond_ore
+fill 569 51 627 569 51 639 deepslate[axis=y]
+fill 570 51 512 570 51 528 tuff_bricks
+fill 570 51 529 570 51 532 polished_tuff
+570 51 533 tuff_bricks
+570 51 534 tuff_bricks
+fill 570 51 535 570 51 539 deepslate[axis=y]
+570 51 540 tuff_bricks
+570 51 541 chiseled_tuff_bricks
+570 51 553 waxed_copper_grate[waterlogged=false]
+570 51 554 polished_tuff
+570 51 555 waxed_copper_grate[waterlogged=false]
+570 51 562 chiseled_tuff_bricks
+570 51 563 tuff_bricks
+fill 570 51 567 570 51 575 deepslate[axis=y]
+fill 570 51 582 570 51 611 deepslate[axis=y]
+fill 570 51 612 570 51 622 tuff
+570 51 623 deepslate[axis=y]
+570 51 624 deepslate[axis=y]
+570 51 625 deepslate_gold_ore
+570 51 626 deepslate_gold_ore
+fill 570 51 627 570 51 639 deepslate[axis=y]
+fill 571 51 512 571 51 528 tuff_bricks
+fill 571 51 529 571 51 532 polished_tuff
+571 51 533 tuff_bricks
+571 51 534 tuff_bricks
+fill 571 51 535 571 51 539 deepslate[axis=y]
+571 51 540 tuff_bricks
+571 51 541 chiseled_tuff_bricks
+571 51 542 chiseled_tuff_bricks
+571 51 553 waxed_copper_grate[waterlogged=false]
+571 51 554 polished_tuff
+571 51 555 waxed_copper_grate[waterlogged=false]
+571 51 561 chiseled_tuff_bricks
+571 51 562 chiseled_tuff_bricks
+571 51 563 tuff_bricks
+fill 571 51 567 571 51 577 deepslate[axis=y]
+fill 571 51 584 571 51 613 deepslate[axis=y]
+fill 571 51 614 571 51 622 tuff
+571 51 623 deepslate[axis=y]
+571 51 624 deepslate[axis=y]
+571 51 625 deepslate_gold_ore
+571 51 626 deepslate_gold_ore
+fill 571 51 627 571 51 638 deepslate[axis=y]
+571 51 639 deepslate_iron_ore
+fill 572 51 512 572 51 528 tuff_bricks
+fill 572 51 529 572 51 532 polished_tuff
+572 51 533 tuff_bricks
+572 51 534 tuff_bricks
+fill 572 51 535 572 51 539 deepslate[axis=y]
+572 51 540 tuff_bricks
+572 51 541 chiseled_tuff_bricks
+572 51 542 chiseled_tuff_bricks
+572 51 553 waxed_copper_grate[waterlogged=false]
+572 51 554 polished_tuff
+572 51 555 waxed_copper_grate[waterlogged=false]
+572 51 561 chiseled_tuff_bricks
+572 51 562 chiseled_tuff_bricks
+572 51 563 tuff_bricks
+fill 572 51 567 572 51 579 deepslate[axis=y]
+fill 572 51 584 572 51 614 deepslate[axis=y]
+fill 572 51 615 572 51 622 tuff
+fill 572 51 623 572 51 625 deepslate[axis=y]
+572 51 626 deepslate_gold_ore
+fill 572 51 627 572 51 637 deepslate[axis=y]
+572 51 638 deepslate_iron_ore
+572 51 639 deepslate[axis=y]
+fill 573 51 512 573 51 528 tuff_bricks
+fill 573 51 529 573 51 531 polished_tuff
+fill 573 51 532 573 51 534 tuff_bricks
+fill 573 51 535 573 51 539 deepslate[axis=y]
+573 51 540 tuff_bricks
+573 51 541 chiseled_tuff_bricks
+573 51 553 waxed_copper_grate[waterlogged=false]
+573 51 554 polished_tuff
+573 51 555 waxed_copper_grate[waterlogged=false]
+573 51 562 chiseled_tuff_bricks
+573 51 563 tuff_bricks
+573 51 566 tuff
+fill 573 51 567 573 51 580 deepslate[axis=y]
+fill 573 51 586 573 51 614 deepslate[axis=y]
+fill 573 51 615 573 51 622 tuff
+fill 573 51 623 573 51 625 deepslate[axis=y]
+fill 573 51 626 573 51 639 deepslate[axis=y]
+574 51 512 tuff_bricks
+574 51 513 tuff_bricks
+fill 574 51 514 574 51 531 polished_tuff
+fill 574 51 532 574 51 534 tuff_bricks
+fill 574 51 535 574 51 539 deepslate[axis=y]
+574 51 540 tuff_bricks
+574 51 541 chiseled_tuff_bricks
+574 51 553 waxed_copper_grate[waterlogged=false]
+574 51 554 polished_tuff
+574 51 555 waxed_copper_grate[waterlogged=false]
+574 51 562 chiseled_tuff_bricks
+574 51 563 tuff_bricks
+574 51 566 tuff
+574 51 567 deepslate_diamond_ore
+fill 574 51 568 574 51 581 deepslate[axis=y]
+fill 574 51 588 574 51 608 deepslate[axis=y]
+fill 574 51 612 574 51 614 deepslate[axis=y]
+fill 574 51 615 574 51 622 tuff
+fill 574 51 623 574 51 639 deepslate[axis=y]
+575 51 512 tuff_bricks
+fill 575 51 513 575 51 523 polished_tuff
+fill 575 51 524 575 51 526 waxed_copper_block
+fill 575 51 527 575 51 532 polished_tuff
+575 51 533 tuff_bricks
+575 51 534 tuff_bricks
+fill 575 51 535 575 51 539 deepslate[axis=y]
+575 51 540 tuff_bricks
+575 51 541 chiseled_tuff_bricks
+575 51 553 waxed_copper_grate[waterlogged=false]
+575 51 554 polished_tuff
+575 51 555 waxed_copper_grate[waterlogged=false]
+575 51 562 chiseled_tuff_bricks
+575 51 563 tuff_bricks
+575 51 566 tuff
+575 51 567 deepslate_diamond_ore
+fill 575 51 568 575 51 582 deepslate[axis=y]
+fill 575 51 591 575 51 607 deepslate[axis=y]
+575 51 613 deepslate[axis=y]
+575 51 614 deepslate[axis=y]
+fill 575 51 615 575 51 622 tuff
+575 51 623 water[level=0]
+575 51 624 water[level=0]
+fill 575 51 625 575 51 639 deepslate[axis=y]
+576 51 512 tuff_bricks
+fill 576 51 513 576 51 523 polished_tuff
+576 51 524 waxed_copper_block
+576 51 525 waxed_chiseled_copper
+576 51 526 waxed_copper_block
+fill 576 51 527 576 51 532 polished_tuff
+576 51 533 tuff_bricks
+576 51 534 tuff_bricks
+fill 576 51 535 576 51 539 deepslate[axis=y]
+576 51 540 tuff_bricks
+fill 576 51 541 576 51 545 chiseled_tuff_bricks
+576 51 553 waxed_copper_grate[waterlogged=false]
+576 51 554 polished_tuff
+576 51 555 waxed_copper_grate[waterlogged=false]
+576 51 561 chiseled_tuff_bricks
+576 51 562 chiseled_tuff_bricks
+576 51 563 tuff_bricks
+fill 576 51 565 576 51 567 tuff
+fill 576 51 568 576 51 588 deepslate[axis=y]
+fill 576 51 592 576 51 608 deepslate[axis=y]
+576 51 614 deepslate[axis=y]
+fill 576 51 615 576 51 622 tuff
+576 51 623 water[level=0]
+576 51 624 water[level=0]
+fill 576 51 625 576 51 639 deepslate[axis=y]
+577 51 512 tuff_bricks
+fill 577 51 513 577 51 523 polished_tuff
+fill 577 51 524 577 51 526 waxed_copper_block
+fill 577 51 527 577 51 532 polished_tuff
+577 51 533 tuff_bricks
+577 51 534 tuff_bricks
+fill 577 51 535 577 51 538 deepslate[axis=y]
+577 51 539 tuff_bricks
+577 51 540 tuff_bricks
+577 51 541 chiseled_tuff_bricks
+577 51 542 chiseled_tuff_bricks
+577 51 543 polished_tuff
+577 51 544 polished_tuff
+577 51 545 chiseled_tuff_bricks
+577 51 551 sculk_vein[down=false,east=false,north=false,south=true,up=false,waterlogged=false,west=false]
+fill 577 51 552 577 51 556 polished_tuff
+577 51 561 chiseled_tuff_bricks
+577 51 562 chiseled_tuff_bricks
+577 51 563 tuff_bricks
+fill 577 51 565 577 51 567 tuff
+fill 577 51 568 577 51 582 deepslate[axis=y]
+fill 577 51 583 577 51 586 tuff
+fill 577 51 587 577 51 590 deepslate[axis=y]
+fill 577 51 594 577 51 609 deepslate[axis=y]
+fill 577 51 616 577 51 618 tuff
+577 51 619 deepslate_iron_ore
+577 51 620 tuff
+577 51 621 tuff
+577 51 622 water[level=0]
+577 51 623 water[level=0]
+fill 577 51 624 577 51 639 deepslate[axis=y]
+fill 578 51 512 578 51 517 tuff_bricks
+fill 578 51 518 578 51 531 polished_tuff
+fill 578 51 532 578 51 534 tuff_bricks
+fill 578 51 535 578 51 538 deepslate[axis=y]
+578 51 539 tuff_bricks
+fill 578 51 540 578 51 544 polished_tuff
+578 51 545 chiseled_tuff_bricks
+fill 578 51 552 578 51 556 polished_tuff
+578 51 561 polished_tuff
+578 51 562 chiseled_tuff_bricks
+578 51 563 tuff_bricks
+fill 578 51 565 578 51 567 tuff
+fill 578 51 568 578 51 582 deepslate[axis=y]
+fill 578 51 583 578 51 586 tuff
+fill 578 51 587 578 51 591 deepslate[axis=y]
+fill 578 51 594 578 51 610 deepslate[axis=y]
+578 51 615 deepslate[axis=y]
+fill 578 51 616 578 51 618 deepslate_iron_ore
+fill 578 51 619 578 51 621 tuff
+578 51 622 water[level=0]
+578 51 623 water[level=0]
+fill 578 51 624 578 51 639 deepslate[axis=y]
+fill 579 51 512 579 51 517 tuff_bricks
+fill 579 51 518 579 51 532 polished_tuff
+579 51 533 tuff_bricks
+579 51 534 tuff_bricks
+fill 579 51 535 579 51 538 deepslate[axis=y]
+579 51 539 tuff_bricks
+fill 579 51 540 579 51 542 polished_tuff
+579 51 544 polished_tuff
+579 51 545 chiseled_tuff_bricks
+fill 579 51 552 579 51 556 polished_tuff
+579 51 561 polished_tuff
+579 51 562 chiseled_tuff_bricks
+579 51 563 tuff_bricks
+579 51 566 tuff
+579 51 567 tuff
+fill 579 51 568 579 51 580 deepslate[axis=y]
+fill 579 51 581 579 51 586 tuff
+fill 579 51 587 579 51 613 deepslate[axis=y]
+579 51 615 deepslate_iron_ore
+579 51 616 deepslate_iron_ore
+579 51 617 water[level=0]
+579 51 618 water[level=0]
+579 51 619 tuff
+579 51 620 tuff
+579 51 621 deepslate[axis=y]
+579 51 622 deepslate[axis=y]
+579 51 623 water[level=0]
+fill 579 51 624 579 51 636 deepslate[axis=y]
+579 51 637 deepslate_iron_ore
+579 51 638 deepslate_iron_ore
+579 51 639 deepslate[axis=y]
+fill 580 51 512 580 51 517 tuff_bricks
+580 51 518 polished_tuff
+fill 580 51 519 580 51 521 waxed_copper_block
+580 51 522 polished_tuff
+580 51 523 polished_tuff
+fill 580 51 524 580 51 526 tuff_bricks
+580 51 527 polished_tuff
+580 51 528 polished_tuff
+fill 580 51 529 580 51 531 waxed_copper_block
+580 51 532 polished_tuff
+580 51 533 tuff_bricks
+580 51 534 tuff_bricks
+fill 580 51 535 580 51 538 deepslate[axis=y]
+580 51 539 tuff_bricks
+fill 580 51 540 580 51 544 polished_tuff
+580 51 545 chiseled_tuff_bricks
+fill 580 51 552 580 51 556 polished_tuff
+580 51 561 polished_tuff
+580 51 562 chiseled_tuff_bricks
+580 51 563 tuff_bricks
+580 51 566 tuff
+580 51 567 tuff
+fill 580 51 568 580 51 579 deepslate[axis=y]
+fill 580 51 580 580 51 586 tuff
+fill 580 51 587 580 51 613 deepslate[axis=y]
+580 51 615 deepslate[axis=y]
+580 51 616 tuff
+fill 580 51 617 580 51 619 water[level=0]
+580 51 620 tuff
+fill 580 51 621 580 51 623 water[level=0]
+fill 580 51 624 580 51 634 deepslate[axis=y]
+580 51 635 deepslate[axis=y]
+580 51 636 deepslate[axis=y]
+580 51 637 deepslate_iron_ore
+580 51 638 deepslate_iron_ore
+580 51 639 deepslate[axis=y]
+fill 581 51 512 581 51 517 tuff_bricks
+581 51 518 polished_tuff
+581 51 519 waxed_copper_block
+581 51 520 waxed_chiseled_copper
+581 51 521 waxed_copper_block
+581 51 522 polished_tuff
+581 51 523 polished_tuff
+fill 581 51 524 581 51 526 tuff_bricks
+581 51 527 polished_tuff
+581 51 528 polished_tuff
+581 51 529 waxed_copper_block
+581 51 530 waxed_chiseled_copper
+581 51 531 waxed_copper_block
+581 51 532 polished_tuff
+581 51 533 tuff_bricks
+581 51 534 tuff_bricks
+fill 581 51 535 581 51 538 deepslate[axis=y]
+581 51 539 tuff_bricks
+581 51 540 tuff_bricks
+581 51 541 chiseled_tuff_bricks
+581 51 542 chiseled_tuff_bricks
+581 51 543 polished_tuff
+581 51 544 polished_tuff
+581 51 545 chiseled_tuff_bricks
+fill 581 51 552 581 51 556 polished_tuff
+581 51 561 chiseled_tuff_bricks
+581 51 562 chiseled_tuff_bricks
+581 51 563 tuff_bricks
+581 51 566 tuff
+fill 581 51 567 581 51 569 deepslate[axis=y]
+fill 581 51 570 581 51 575 tuff
+fill 581 51 576 581 51 579 deepslate[axis=y]
+fill 581 51 580 581 51 584 tuff
+fill 581 51 585 581 51 615 deepslate[axis=y]
+581 51 616 tuff
+fill 581 51 617 581 51 623 water[level=0]
+fill 581 51 624 581 51 639 deepslate[axis=y]
+fill 582 51 512 582 51 517 tuff_bricks
+582 51 518 polished_tuff
+fill 582 51 519 582 51 521 waxed_copper_block
+582 51 522 polished_tuff
+582 51 523 polished_tuff
+fill 582 51 524 582 51 526 tuff_bricks
+582 51 527 polished_tuff
+582 51 528 polished_tuff
+fill 582 51 529 582 51 531 waxed_copper_block
+582 51 532 polished_tuff
+582 51 533 tuff_bricks
+582 51 534 tuff_bricks
+fill 582 51 535 582 51 539 deepslate[axis=y]
+582 51 540 tuff_bricks
+582 51 541 chiseled_tuff_bricks
+582 51 542 chiseled_tuff_bricks
+582 51 543 polished_tuff
+582 51 544 polished_tuff
+582 51 545 chiseled_tuff_bricks
+582 51 561 chiseled_tuff_bricks
+582 51 562 tuff_bricks
+582 51 563 tuff_bricks
+582 51 567 deepslate[axis=y]
+582 51 568 deepslate[axis=y]
+fill 582 51 569 582 51 584 tuff
+fill 582 51 585 582 51 616 deepslate[axis=y]
+fill 582 51 617 582 51 624 water[level=0]
+fill 582 51 625 582 51 639 deepslate[axis=y]
+fill 583 51 512 583 51 517 tuff_bricks
+fill 583 51 518 583 51 532 polished_tuff
+583 51 533 tuff_bricks
+583 51 534 tuff_bricks
+fill 583 51 535 583 51 539 deepslate[axis=y]
+583 51 540 tuff_bricks
+583 51 541 chiseled_tuff_bricks
+fill 583 51 542 583 51 544 polished_tuff
+583 51 545 chiseled_tuff_bricks
+583 51 562 chiseled_tuff_bricks
+583 51 563 tuff_bricks
+583 51 568 deepslate[axis=y]
+fill 583 51 569 583 51 583 tuff
+fill 583 51 584 583 51 612 deepslate[axis=y]
+583 51 613 deepslate_lapis_ore
+583 51 614 deepslate_lapis_ore
+583 51 615 deepslate[axis=y]
+583 51 616 deepslate[axis=y]
+fill 583 51 617 583 51 624 water[level=0]
+fill 583 51 625 583 51 639 deepslate[axis=y]
+fill 584 51 512 584 51 517 tuff_bricks
+fill 584 51 518 584 51 531 polished_tuff
+fill 584 51 532 584 51 534 tuff_bricks
+fill 584 51 535 584 51 539 deepslate[axis=y]
+584 51 540 tuff_bricks
+584 51 541 chiseled_tuff_bricks
+fill 584 51 542 584 51 544 polished_tuff
+584 51 545 chiseled_tuff_bricks
+584 51 562 chiseled_tuff_bricks
+584 51 563 tuff_bricks
+584 51 568 deepslate[axis=y]
+fill 584 51 569 584 51 582 tuff
+fill 584 51 583 584 51 585 deepslate[axis=y]
+584 51 586 deepslate_lapis_ore
+584 51 587 deepslate_lapis_ore
+fill 584 51 588 584 51 612 deepslate[axis=y]
+584 51 613 deepslate_lapis_ore
+584 51 614 deepslate_lapis_ore
+fill 584 51 615 584 51 617 deepslate[axis=y]
+fill 584 51 618 584 51 624 water[level=0]
+fill 584 51 625 584 51 639 deepslate[axis=y]
+fill 585 51 512 585 51 517 tuff_bricks
+fill 585 51 518 585 51 532 polished_tuff
+585 51 533 tuff_bricks
+585 51 534 tuff_bricks
+fill 585 51 535 585 51 539 deepslate[axis=y]
+585 51 540 tuff_bricks
+585 51 541 chiseled_tuff_bricks
+fill 585 51 542 585 51 544 polished_tuff
+585 51 545 chiseled_tuff_bricks
+585 51 562 chiseled_tuff_bricks
+585 51 563 tuff_bricks
+585 51 568 deepslate[axis=y]
+585 51 569 deepslate[axis=y]
+fill 585 51 570 585 51 576 tuff
+fill 585 51 578 585 51 583 tuff
+585 51 584 deepslate[axis=y]
+585 51 585 deepslate[axis=y]
+585 51 586 deepslate_lapis_ore
+585 51 587 deepslate_lapis_ore
+fill 585 51 588 585 51 617 deepslate[axis=y]
+fill 585 51 618 585 51 624 water[level=0]
+fill 585 51 625 585 51 639 deepslate[axis=y]
+fill 586 51 512 586 51 517 tuff_bricks
+fill 586 51 518 586 51 532 polished_tuff
+586 51 533 tuff_bricks
+586 51 534 tuff_bricks
+fill 586 51 535 586 51 539 deepslate[axis=y]
+586 51 540 tuff_bricks
+586 51 541 chiseled_tuff_bricks
+586 51 542 chiseled_tuff_bricks
+586 51 543 polished_tuff
+586 51 544 polished_tuff
+586 51 545 chiseled_tuff_bricks
+586 51 561 chiseled_tuff_bricks
+586 51 562 chiseled_tuff_bricks
+586 51 563 tuff_bricks
+586 51 564 deepslate[axis=y]
+586 51 565 deepslate[axis=y]
+fill 586 51 568 586 51 570 deepslate[axis=y]
+fill 586 51 571 586 51 573 tuff
+586 51 576 tuff
+fill 586 51 578 586 51 584 tuff
+fill 586 51 585 586 51 617 deepslate[axis=y]
+fill 586 51 618 586 51 624 water[level=0]
+fill 586 51 625 586 51 639 deepslate[axis=y]

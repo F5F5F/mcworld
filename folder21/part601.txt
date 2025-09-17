@@ -1,0 +1,438 @@
+780 159 129 oak_leaves[distance=2,persistent=false,waterlogged=false]
+780 159 130 oak_leaves[distance=3,persistent=false,waterlogged=false]
+780 159 131 oak_leaves[distance=3,persistent=false,waterlogged=false]
+780 159 132 oak_leaves[distance=2,persistent=false,waterlogged=false]
+780 159 133 oak_leaves[distance=3,persistent=false,waterlogged=false]
+fill 780 159 177 780 159 180 dark_oak_planks
+fill 780 159 184 780 159 187 dark_oak_planks
+781 159 130 oak_leaves[distance=3,persistent=false,waterlogged=false]
+781 159 131 oak_leaves[distance=2,persistent=false,waterlogged=false]
+781 159 132 oak_leaves[distance=1,persistent=false,waterlogged=false]
+781 159 133 oak_leaves[distance=2,persistent=false,waterlogged=false]
+781 159 134 oak_leaves[distance=3,persistent=false,waterlogged=false]
+fill 781 159 177 781 159 180 dark_oak_planks
+fill 781 159 184 781 159 187 dark_oak_planks
+782 159 130 oak_leaves[distance=2,persistent=false,waterlogged=false]
+782 159 131 oak_leaves[distance=1,persistent=false,waterlogged=false]
+782 159 132 oak_log[axis=y]
+782 159 133 oak_leaves[distance=1,persistent=false,waterlogged=false]
+782 159 134 oak_leaves[distance=2,persistent=false,waterlogged=false]
+782 159 177 torch
+fill 782 159 178 782 159 180 dark_oak_planks
+fill 782 159 184 782 159 186 dark_oak_planks
+782 159 187 torch
+783 159 130 oak_leaves[distance=3,persistent=false,waterlogged=false]
+783 159 131 oak_leaves[distance=2,persistent=false,waterlogged=false]
+783 159 132 oak_leaves[distance=1,persistent=false,waterlogged=false]
+783 159 133 oak_leaves[distance=2,persistent=false,waterlogged=false]
+783 159 134 oak_leaves[distance=3,persistent=false,waterlogged=false]
+784 159 131 oak_leaves[distance=3,persistent=false,waterlogged=false]
+784 159 132 oak_leaves[distance=2,persistent=false,waterlogged=false]
+784 159 133 oak_leaves[distance=3,persistent=false,waterlogged=false]
+784 159 134 oak_leaves[distance=4,persistent=false,waterlogged=false]
+785 159 130 birch_log[axis=y]
+792 159 131 birch_log[axis=y]
+799 159 134 oak_log[axis=y]
+799 159 138 leaf_litter[facing=north,segment_amount=2]
+800 159 135 leaf_litter[facing=north,segment_amount=2]
+800 159 136 leaf_litter[facing=north,segment_amount=2]
+801 159 132 leaf_litter[facing=south,segment_amount=3]
+801 159 135 leaf_litter[facing=west,segment_amount=1]
+801 159 136 leaf_litter[facing=north,segment_amount=3]
+801 159 137 leaf_litter[facing=west,segment_amount=2]
+801 159 138 leaf_litter[facing=east,segment_amount=4]
+801 159 139 leaf_litter[facing=north,segment_amount=3]
+801 159 140 leaf_litter[facing=east,segment_amount=2]
+801 159 141 leaf_litter[facing=east,segment_amount=4]
+801 159 142 leaf_litter[facing=west,segment_amount=2]
+801 159 143 short_grass
+801 159 144 leaf_litter[facing=south,segment_amount=3]
+802 159 135 leaf_litter[facing=east,segment_amount=3]
+802 159 139 leaf_litter[facing=north,segment_amount=3]
+802 159 140 leaf_litter[facing=east,segment_amount=1]
+802 159 141 leaf_litter[facing=west,segment_amount=2]
+802 159 142 leaf_litter[facing=north,segment_amount=1]
+802 159 143 short_grass
+803 159 128 leaf_litter[facing=south,segment_amount=2]
+803 159 131 leaf_litter[facing=east,segment_amount=2]
+803 159 137 leaf_litter[facing=south,segment_amount=3]
+803 159 138 leaf_litter[facing=west,segment_amount=2]
+803 159 140 birch_log[axis=y]
+803 159 141 leaf_litter[facing=east,segment_amount=2]
+803 159 142 leaf_litter[facing=west,segment_amount=4]
+803 159 144 grass_block[snowy=false]
+803 159 145 grass_block[snowy=false]
+804 159 130 leaf_litter[facing=south,segment_amount=1]
+804 159 136 leaf_litter[facing=west,segment_amount=3]
+804 159 138 leaf_litter[facing=east,segment_amount=1]
+804 159 140 leaf_litter[facing=south,segment_amount=1]
+804 159 141 leaf_litter[facing=south,segment_amount=3]
+fill 804 159 142 804 159 146 grass_block[snowy=false]
+805 159 128 leaf_litter[facing=south,segment_amount=3]
+805 159 129 leaf_litter[facing=west,segment_amount=3]
+805 159 130 leaf_litter[facing=west,segment_amount=1]
+805 159 131 leaf_litter[facing=east,segment_amount=3]
+805 159 133 leaf_litter[facing=south,segment_amount=3]
+805 159 135 leaf_litter[facing=east,segment_amount=3]
+805 159 136 leaf_litter[facing=west,segment_amount=3]
+fill 805 159 137 805 159 144 grass_block[snowy=false]
+fill 805 159 145 805 159 148 grass_block[snowy=false]
+806 159 128 leaf_litter[facing=east,segment_amount=3]
+806 159 129 leaf_litter[facing=west,segment_amount=2]
+806 159 130 leaf_litter[facing=east,segment_amount=4]
+806 159 131 leaf_litter[facing=east,segment_amount=1]
+806 159 132 leaf_litter[facing=east,segment_amount=2]
+806 159 134 leaf_litter[facing=west,segment_amount=3]
+806 159 135 short_grass
+fill 806 159 136 806 159 149 grass_block[snowy=false]
+806 159 150 short_grass
+807 159 128 leaf_litter[facing=north,segment_amount=1]
+807 159 129 birch_log[axis=y]
+807 159 130 leaf_litter[facing=east,segment_amount=2]
+807 159 133 leaf_litter[facing=west,segment_amount=2]
+807 159 135 leaf_litter[facing=south,segment_amount=3]
+807 159 136 grass_block[snowy=false]
+807 159 137 dirt
+fill 807 159 138 807 159 144 grass_block[snowy=false]
+807 159 145 dirt
+fill 807 159 146 807 159 150 grass_block[snowy=false]
+808 159 128 leaf_litter[facing=east,segment_amount=1]
+808 159 130 leaf_litter[facing=north,segment_amount=2]
+808 159 131 leaf_litter[facing=north,segment_amount=4]
+808 159 133 leaf_litter[facing=south,segment_amount=1]
+808 159 134 leaf_litter[facing=south,segment_amount=3]
+fill 808 159 135 808 159 144 grass_block[snowy=false]
+808 159 145 dirt
+808 159 146 dirt
+fill 808 159 147 808 159 150 grass_block[snowy=false]
+809 159 128 leaf_litter[facing=west,segment_amount=3]
+809 159 129 leaf_litter[facing=south,segment_amount=1]
+809 159 131 leaf_litter[facing=north,segment_amount=1]
+809 159 132 leaf_litter[facing=east,segment_amount=1]
+809 159 134 leaf_litter[facing=west,segment_amount=3]
+fill 809 159 135 809 159 143 grass_block[snowy=false]
+fill 809 159 144 809 159 147 dirt
+fill 809 159 148 809 159 150 grass_block[snowy=false]
+809 159 152 oak_log[axis=y]
+810 159 128 leaf_litter[facing=west,segment_amount=3]
+810 159 131 short_grass
+810 159 132 leaf_litter[facing=east,segment_amount=2]
+810 159 133 leaf_litter[facing=south,segment_amount=2]
+810 159 134 leaf_litter[facing=north,segment_amount=3]
+fill 810 159 135 810 159 139 grass_block[snowy=false]
+810 159 140 dirt
+fill 810 159 141 810 159 143 grass_block[snowy=false]
+fill 810 159 144 810 159 147 dirt
+fill 810 159 148 810 159 150 grass_block[snowy=false]
+811 159 128 leaf_litter[facing=south,segment_amount=1]
+811 159 130 leaf_litter[facing=south,segment_amount=3]
+811 159 131 leaf_litter[facing=east,segment_amount=1]
+811 159 132 short_grass
+811 159 133 leaf_litter[facing=east,segment_amount=2]
+811 159 134 leaf_litter[facing=east,segment_amount=1]
+811 159 135 oak_log[axis=y]
+fill 811 159 136 811 159 143 grass_block[snowy=false]
+fill 811 159 144 811 159 148 dirt
+fill 811 159 149 811 159 151 grass_block[snowy=false]
+812 159 132 leaf_litter[facing=east,segment_amount=1]
+812 159 133 leaf_litter[facing=west,segment_amount=3]
+812 159 135 leaf_litter[facing=east,segment_amount=2]
+812 159 136 leaf_litter[facing=south,segment_amount=1]
+812 159 137 leaf_litter[facing=south,segment_amount=2]
+fill 812 159 138 812 159 142 grass_block[snowy=false]
+fill 812 159 143 812 159 148 dirt
+fill 812 159 149 812 159 151 grass_block[snowy=false]
+813 159 129 leaf_litter[facing=north,segment_amount=2]
+813 159 130 leaf_litter[facing=south,segment_amount=1]
+813 159 131 leaf_litter[facing=east,segment_amount=4]
+813 159 132 leaf_litter[facing=south,segment_amount=2]
+813 159 133 leaf_litter[facing=west,segment_amount=3]
+813 159 134 leaf_litter[facing=east,segment_amount=3]
+813 159 135 leaf_litter[facing=north,segment_amount=3]
+813 159 136 leaf_litter[facing=west,segment_amount=2]
+813 159 137 leaf_litter[facing=south,segment_amount=1]
+813 159 138 grass_block[snowy=false]
+813 159 139 dirt
+fill 813 159 140 813 159 142 grass_block[snowy=false]
+fill 813 159 143 813 159 149 dirt
+813 159 150 grass_block[snowy=false]
+813 159 151 grass_block[snowy=false]
+fill 814 159 128 814 159 130 grass_block[snowy=false]
+814 159 131 leaf_litter[facing=west,segment_amount=2]
+814 159 132 leaf_litter[facing=west,segment_amount=3]
+814 159 133 leaf_litter[facing=east,segment_amount=3]
+814 159 134 leaf_litter[facing=north,segment_amount=4]
+814 159 135 leaf_litter[facing=west,segment_amount=2]
+814 159 137 leaf_litter[facing=south,segment_amount=3]
+fill 814 159 138 814 159 142 grass_block[snowy=false]
+fill 814 159 143 814 159 149 dirt
+814 159 150 grass_block[snowy=false]
+814 159 151 grass_block[snowy=false]
+814 159 152 short_grass
+fill 815 159 128 815 159 131 grass_block[snowy=false]
+815 159 132 dirt
+815 159 133 leaf_litter[facing=north,segment_amount=1]
+815 159 136 leaf_litter[facing=north,segment_amount=2]
+815 159 137 leaf_litter[facing=east,segment_amount=1]
+fill 815 159 138 815 159 140 grass_block[snowy=false]
+fill 815 159 141 815 159 149 dirt
+815 159 150 grass_block[snowy=false]
+815 159 151 grass_block[snowy=false]
+fill 816 159 128 816 159 139 grass_block[snowy=false]
+fill 816 159 140 816 159 144 dirt
+816 159 145 stone
+fill 816 159 146 816 159 149 dirt
+816 159 150 grass_block[snowy=false]
+816 159 151 grass_block[snowy=false]
+fill 817 159 128 817 159 139 grass_block[snowy=false]
+817 159 140 dirt
+fill 817 159 141 817 159 146 stone
+fill 817 159 147 817 159 149 dirt
+817 159 150 grass_block[snowy=false]
+817 159 151 grass_block[snowy=false]
+fill 818 159 128 818 159 138 grass_block[snowy=false]
+818 159 139 dirt
+fill 818 159 140 818 159 144 stone
+fill 818 159 145 818 159 149 dirt
+818 159 150 grass_block[snowy=false]
+818 159 151 grass_block[snowy=false]
+fill 819 159 128 819 159 138 grass_block[snowy=false]
+819 159 139 dirt
+fill 819 159 140 819 159 146 stone
+fill 819 159 147 819 159 149 dirt
+819 159 150 grass_block[snowy=false]
+819 159 151 grass_block[snowy=false]
+fill 820 159 128 820 159 138 grass_block[snowy=false]
+820 159 139 dirt
+fill 820 159 140 820 159 146 stone
+fill 820 159 147 820 159 149 dirt
+820 159 150 grass_block[snowy=false]
+820 159 151 grass_block[snowy=false]
+fill 821 159 128 821 159 137 grass_block[snowy=false]
+821 159 138 dirt
+fill 821 159 139 821 159 146 stone
+fill 821 159 147 821 159 149 dirt
+821 159 150 grass_block[snowy=false]
+821 159 151 grass_block[snowy=false]
+fill 822 159 128 822 159 137 grass_block[snowy=false]
+822 159 138 dirt
+fill 822 159 139 822 159 145 stone
+fill 822 159 146 822 159 149 dirt
+822 159 150 grass_block[snowy=false]
+822 159 151 grass_block[snowy=false]
+fill 823 159 128 823 159 135 grass_block[snowy=false]
+fill 823 159 136 823 159 138 dirt
+fill 823 159 139 823 159 145 stone
+fill 823 159 146 823 159 149 dirt
+823 159 150 grass_block[snowy=false]
+fill 824 159 128 824 159 130 dirt
+fill 824 159 131 824 159 134 grass_block[snowy=false]
+fill 824 159 135 824 159 138 dirt
+fill 824 159 139 824 159 143 stone
+fill 824 159 144 824 159 147 dirt
+824 159 148 grass_block[snowy=false]
+824 159 149 grass_block[snowy=false]
+fill 825 159 128 825 159 130 stone
+825 159 131 dirt
+825 159 132 dirt
+825 159 133 grass_block[snowy=false]
+825 159 134 dirt
+fill 825 159 135 825 159 137 stone
+fill 825 159 138 825 159 145 dirt
+fill 825 159 146 825 159 148 grass_block[snowy=false]
+fill 826 159 128 826 159 131 stone
+826 159 132 dirt
+826 159 133 dirt
+fill 826 159 134 826 159 137 stone
+fill 826 159 138 826 159 143 dirt
+fill 826 159 144 826 159 147 grass_block[snowy=false]
+fill 827 159 128 827 159 135 stone
+fill 827 159 136 827 159 141 dirt
+fill 827 159 142 827 159 145 grass_block[snowy=false]
+fill 828 159 128 828 159 137 stone
+828 159 138 dirt
+828 159 139 dirt
+fill 828 159 140 828 159 144 grass_block[snowy=false]
+fill 829 159 128 829 159 136 stone
+829 159 137 dirt
+829 159 138 dirt
+fill 829 159 139 829 159 143 grass_block[snowy=false]
+829 159 144 short_grass
+fill 830 159 128 830 159 135 stone
+830 159 136 dirt
+830 159 137 dirt
+fill 830 159 138 830 159 141 grass_block[snowy=false]
+830 159 142 short_grass
+fill 831 159 128 831 159 134 stone
+831 159 135 dirt
+831 159 136 dirt
+fill 831 159 137 831 159 140 grass_block[snowy=false]
+fill 832 159 128 832 159 133 stone
+832 159 134 dirt
+832 159 135 dirt
+fill 832 159 136 832 159 138 grass_block[snowy=false]
+fill 833 159 128 833 159 132 stone
+833 159 133 dirt
+833 159 134 dirt
+fill 833 159 135 833 159 138 grass_block[snowy=false]
+fill 834 159 128 834 159 131 stone
+834 159 132 dirt
+fill 834 159 133 834 159 137 grass_block[snowy=false]
+fill 835 159 128 835 159 131 stone
+835 159 132 dirt
+fill 835 159 133 835 159 136 grass_block[snowy=false]
+fill 836 159 128 836 159 130 stone
+836 159 131 dirt
+fill 836 159 132 836 159 136 grass_block[snowy=false]
+fill 837 159 128 837 159 130 stone
+837 159 131 dirt
+fill 837 159 132 837 159 135 grass_block[snowy=false]
+838 159 128 stone
+838 159 129 stone
+838 159 130 dirt
+fill 838 159 131 838 159 134 grass_block[snowy=false]
+839 159 128 stone
+839 159 129 dirt
+fill 839 159 130 839 159 133 grass_block[snowy=false]
+840 159 128 dirt
+fill 840 159 129 840 159 131 grass_block[snowy=false]
+fill 841 159 128 841 159 130 grass_block[snowy=false]
+fill 842 159 128 842 159 130 grass_block[snowy=false]
+842 159 131 short_grass
+843 159 128 grass_block[snowy=false]
+843 159 129 grass_block[snowy=false]
+843 159 130 short_grass
+844 159 128 grass_block[snowy=false]
+844 159 129 grass_block[snowy=false]
+844 159 130 short_grass
+845 159 128 grass_block[snowy=false]
+845 159 129 grass_block[snowy=false]
+846 159 128 grass_block[snowy=false]
+846 159 129 grass_block[snowy=false]
+846 159 131 short_grass
+847 159 128 grass_block[snowy=false]
+847 159 129 grass_block[snowy=false]
+848 159 128 grass_block[snowy=false]
+848 159 129 grass_block[snowy=false]
+849 159 128 grass_block[snowy=false]
+849 159 129 grass_block[snowy=false]
+850 159 128 grass_block[snowy=false]
+850 159 129 grass_block[snowy=false]
+852 159 128 short_grass
+fill 772 160 179 772 160 185 dark_oak_planks
+fill 773 160 178 773 160 186 dark_oak_planks
+fill 774 160 177 774 160 187 dark_oak_planks
+fill 775 160 177 775 160 181 dark_oak_planks
+fill 775 160 183 775 160 185 dark_oak_planks
+775 160 186 dark_oak_planks
+775 160 187 dark_oak_planks
+fill 776 160 177 776 160 180 dark_oak_planks
+fill 776 160 184 776 160 187 dark_oak_planks
+777 160 129 oak_leaves[distance=1,persistent=false,waterlogged=false]
+fill 777 160 177 777 160 179 dark_oak_planks
+fill 777 160 185 777 160 187 dark_oak_planks
+778 160 128 oak_leaves[distance=1,persistent=false,waterlogged=false]
+778 160 129 oak_log[axis=y]
+778 160 130 oak_leaves[distance=1,persistent=false,waterlogged=false]
+fill 778 160 177 778 160 180 dark_oak_planks
+fill 778 160 184 778 160 187 dark_oak_planks
+779 160 129 oak_leaves[distance=1,persistent=false,waterlogged=false]
+fill 779 160 177 779 160 181 dark_oak_planks
+fill 779 160 183 779 160 187 dark_oak_planks
+fill 780 160 177 780 160 187 dark_oak_planks
+781 160 128 oak_leaves[distance=3,persistent=false,waterlogged=false]
+781 160 131 oak_leaves[distance=2,persistent=false,waterlogged=false]
+781 160 132 oak_leaves[distance=1,persistent=false,waterlogged=false]
+781 160 133 oak_leaves[distance=2,persistent=false,waterlogged=false]
+fill 781 160 178 781 160 186 dark_oak_planks
+782 160 128 oak_leaves[distance=2,persistent=false,waterlogged=false]
+782 160 129 oak_leaves[distance=3,persistent=false,waterlogged=false]
+782 160 131 oak_leaves[distance=1,persistent=false,waterlogged=false]
+782 160 132 oak_log[axis=y]
+782 160 133 oak_leaves[distance=1,persistent=false,waterlogged=false]
+fill 782 160 179 782 160 185 dark_oak_planks
+783 160 128 oak_leaves[distance=1,persistent=false,waterlogged=false]
+783 160 129 oak_leaves[distance=2,persistent=false,waterlogged=false]
+783 160 130 birch_leaves[distance=2,persistent=false,waterlogged=false]
+783 160 131 oak_leaves[distance=2,persistent=false,waterlogged=false]
+783 160 132 oak_leaves[distance=1,persistent=false,waterlogged=false]
+784 160 128 oak_leaves[distance=2,persistent=false,waterlogged=false]
+784 160 129 oak_leaves[distance=2,persistent=false,waterlogged=false]
+784 160 130 birch_leaves[distance=1,persistent=false,waterlogged=false]
+784 160 131 birch_leaves[distance=2,persistent=false,waterlogged=false]
+784 160 132 birch_leaves[distance=2,persistent=false,waterlogged=false]
+785 160 128 oak_leaves[distance=2,persistent=false,waterlogged=false]
+785 160 129 oak_leaves[distance=1,persistent=false,waterlogged=false]
+785 160 130 birch_log[axis=y]
+785 160 131 birch_leaves[distance=1,persistent=false,waterlogged=false]
+785 160 132 birch_leaves[distance=2,persistent=false,waterlogged=false]
+786 160 128 birch_leaves[distance=3,persistent=false,waterlogged=false]
+786 160 129 birch_leaves[distance=2,persistent=false,waterlogged=false]
+786 160 130 birch_leaves[distance=1,persistent=false,waterlogged=false]
+786 160 131 birch_leaves[distance=2,persistent=false,waterlogged=false]
+786 160 132 birch_leaves[distance=3,persistent=false,waterlogged=false]
+787 160 129 birch_leaves[distance=3,persistent=false,waterlogged=false]
+787 160 130 birch_leaves[distance=2,persistent=false,waterlogged=false]
+787 160 131 birch_leaves[distance=3,persistent=false,waterlogged=false]
+787 160 132 birch_leaves[distance=4,persistent=false,waterlogged=false]
+792 160 131 birch_log[axis=y]
+797 160 133 oak_leaves[distance=3,persistent=false,waterlogged=false]
+797 160 134 oak_leaves[distance=2,persistent=false,waterlogged=false]
+797 160 135 oak_leaves[distance=3,persistent=false,waterlogged=false]
+797 160 136 oak_leaves[distance=4,persistent=false,waterlogged=false]
+798 160 132 oak_leaves[distance=3,persistent=false,waterlogged=false]
+798 160 133 oak_leaves[distance=2,persistent=false,waterlogged=false]
+798 160 134 oak_leaves[distance=1,persistent=false,waterlogged=false]
+798 160 135 oak_leaves[distance=2,persistent=false,waterlogged=false]
+798 160 136 oak_leaves[distance=3,persistent=false,waterlogged=false]
+799 160 132 oak_leaves[distance=2,persistent=false,waterlogged=false]
+799 160 133 oak_leaves[distance=1,persistent=false,waterlogged=false]
+799 160 134 oak_log[axis=y]
+799 160 135 oak_leaves[distance=1,persistent=false,waterlogged=false]
+799 160 136 oak_leaves[distance=2,persistent=false,waterlogged=false]
+800 160 132 oak_leaves[distance=3,persistent=false,waterlogged=false]
+800 160 133 oak_leaves[distance=2,persistent=false,waterlogged=false]
+800 160 134 oak_leaves[distance=1,persistent=false,waterlogged=false]
+800 160 135 oak_leaves[distance=2,persistent=false,waterlogged=false]
+800 160 136 oak_leaves[distance=3,persistent=false,waterlogged=false]
+801 160 133 oak_leaves[distance=3,persistent=false,waterlogged=false]
+801 160 134 oak_leaves[distance=2,persistent=false,waterlogged=false]
+801 160 135 oak_leaves[distance=3,persistent=false,waterlogged=false]
+801 160 136 oak_leaves[distance=4,persistent=false,waterlogged=false]
+803 160 140 birch_log[axis=y]
+803 160 144 leaf_litter[facing=east,segment_amount=2]
+804 160 142 leaf_litter[facing=south,segment_amount=3]
+804 160 145 short_grass
+805 160 137 leaf_litter[facing=north,segment_amount=1]
+805 160 138 leaf_litter[facing=west,segment_amount=2]
+805 160 139 leaf_litter[facing=west,segment_amount=2]
+805 160 140 leaf_litter[facing=north,segment_amount=4]
+805 160 141 short_grass
+805 160 142 leaf_litter[facing=west,segment_amount=3]
+805 160 144 leaf_litter[facing=north,segment_amount=3]
+806 160 136 leaf_litter[facing=east,segment_amount=1]
+806 160 137 leaf_litter[facing=north,segment_amount=4]
+806 160 138 leaf_litter[facing=west,segment_amount=4]
+806 160 139 leaf_litter[facing=west,segment_amount=1]
+806 160 143 short_grass
+806 160 145 short_grass
+806 160 148 short_grass
+807 160 129 birch_log[axis=y]
+807 160 136 leaf_litter[facing=west,segment_amount=3]
+807 160 137 birch_log[axis=y]
+807 160 138 leaf_litter[facing=east,segment_amount=2]
+807 160 141 leaf_litter[facing=south,segment_amount=3]
+807 160 142 leaf_litter[facing=north,segment_amount=1]
+807 160 144 leaf_litter[facing=south,segment_amount=1]
+807 160 145 grass_block[snowy=false]
+807 160 149 short_grass
+808 160 135 short_grass
+808 160 136 leaf_litter[facing=west,segment_amount=2]
+808 160 137 leaf_litter[facing=west,segment_amount=3]
+808 160 138 leaf_litter[facing=west,segment_amount=2]
+808 160 139 leaf_litter[facing=east,segment_amount=3]
+808 160 142 leaf_litter[facing=west,segment_amount=2]
+808 160 144 short_grass
+808 160 145 grass_block[snowy=false]
+808 160 146 grass_block[snowy=false]
+809 160 134 oak_leaves[distance=3,persistent=false,waterlogged=false]

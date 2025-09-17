@@ -1,0 +1,731 @@
+5 105 104 andesite
+fill 5 105 105 5 105 110 granite
+fill 5 105 111 5 105 117 stone
+fill 5 105 118 5 105 126 granite
+5 105 127 andesite
+6 105 8 stone
+6 105 9 stone
+6 105 25 stone
+6 105 26 granite
+fill 6 105 27 6 105 40 water[level=0]
+6 105 41 diorite
+6 105 42 diorite
+fill 6 105 43 6 105 53 stone
+6 105 54 andesite
+6 105 55 copper_ore
+fill 6 105 56 6 105 59 andesite
+6 105 60 stone
+6 105 61 stone
+fill 6 105 62 6 105 78 granite
+fill 6 105 79 6 105 89 stone
+6 105 90 gravel
+6 105 91 gravel
+fill 6 105 92 6 105 102 water[level=0]
+6 105 103 andesite
+6 105 104 andesite
+fill 6 105 105 6 105 112 granite
+fill 6 105 113 6 105 117 stone
+fill 6 105 118 6 105 126 granite
+6 105 127 andesite
+7 105 9 stone
+7 105 10 stone
+7 105 25 stone
+fill 7 105 26 7 105 39 water[level=0]
+fill 7 105 40 7 105 43 diorite
+fill 7 105 44 7 105 47 stone
+7 105 48 granite
+7 105 49 granite
+fill 7 105 50 7 105 54 stone
+7 105 55 copper_ore
+fill 7 105 56 7 105 59 andesite
+fill 7 105 60 7 105 62 stone
+fill 7 105 63 7 105 72 granite
+fill 7 105 73 7 105 76 granite
+fill 7 105 77 7 105 90 stone
+7 105 91 gravel
+fill 7 105 92 7 105 102 water[level=0]
+7 105 103 andesite
+7 105 104 andesite
+fill 7 105 105 7 105 113 granite
+fill 7 105 114 7 105 117 stone
+fill 7 105 118 7 105 125 granite
+7 105 126 diorite
+7 105 127 diorite
+8 105 9 stone
+8 105 10 stone
+8 105 24 stone
+8 105 25 stone
+fill 8 105 26 8 105 38 water[level=0]
+fill 8 105 39 8 105 43 diorite
+fill 8 105 44 8 105 46 stone
+fill 8 105 47 8 105 50 granite
+fill 8 105 51 8 105 56 stone
+8 105 57 andesite
+8 105 58 andesite
+fill 8 105 59 8 105 64 stone
+fill 8 105 65 8 105 75 granite
+fill 8 105 76 8 105 87 stone
+fill 8 105 88 8 105 90 diorite
+8 105 91 gravel
+fill 8 105 92 8 105 102 water[level=0]
+8 105 103 andesite
+8 105 104 andesite
+fill 8 105 105 8 105 113 granite
+fill 8 105 114 8 105 117 stone
+8 105 118 iron_ore
+8 105 119 iron_ore
+fill 8 105 120 8 105 125 granite
+8 105 126 diorite
+8 105 127 diorite
+fill 9 105 10 9 105 13 stone
+9 105 24 stone
+fill 9 105 25 9 105 37 water[level=0]
+fill 9 105 38 9 105 42 diorite
+fill 9 105 43 9 105 46 stone
+fill 9 105 47 9 105 50 granite
+fill 9 105 51 9 105 85 stone
+fill 9 105 86 9 105 91 diorite
+fill 9 105 92 9 105 101 water[level=0]
+fill 9 105 102 9 105 105 andesite
+fill 9 105 106 9 105 114 granite
+fill 9 105 115 9 105 117 stone
+fill 9 105 118 9 105 125 granite
+9 105 126 diorite
+9 105 127 diorite
+fill 10 105 10 10 105 16 stone
+10 105 23 stone
+10 105 24 stone
+fill 10 105 25 10 105 36 water[level=0]
+fill 10 105 37 10 105 42 diorite
+fill 10 105 43 10 105 46 stone
+fill 10 105 47 10 105 50 granite
+fill 10 105 51 10 105 82 stone
+fill 10 105 83 10 105 91 diorite
+fill 10 105 92 10 105 101 water[level=0]
+fill 10 105 102 10 105 106 andesite
+fill 10 105 107 10 105 115 granite
+10 105 116 stone
+10 105 117 stone
+fill 10 105 118 10 105 124 granite
+10 105 125 stone
+10 105 126 diorite
+10 105 127 diorite
+fill 11 105 10 11 105 18 stone
+fill 11 105 19 11 105 22 dirt
+11 105 23 stone
+11 105 24 stone
+fill 11 105 25 11 105 36 water[level=0]
+11 105 37 granite
+fill 11 105 38 11 105 41 diorite
+fill 11 105 42 11 105 45 stone
+fill 11 105 46 11 105 51 granite
+fill 11 105 52 11 105 79 stone
+fill 11 105 80 11 105 93 diorite
+fill 11 105 94 11 105 100 water[level=0]
+fill 11 105 101 11 105 106 andesite
+fill 11 105 107 11 105 115 granite
+11 105 116 stone
+11 105 117 stone
+fill 11 105 118 11 105 124 granite
+11 105 125 stone
+11 105 126 stone
+11 105 127 diorite
+12 105 10 stone
+fill 12 105 11 12 105 17 water[level=0]
+12 105 18 glow_lichen[down=false,east=false,north=false,south=false,up=false,waterlogged=true,west=true]
+12 105 19 bubble_column[drag=true]
+fill 12 105 20 12 105 23 water[level=0]
+fill 12 105 24 12 105 27 stone
+fill 12 105 28 12 105 36 water[level=0]
+12 105 37 granite
+12 105 38 granite
+12 105 39 diorite
+12 105 40 diorite
+fill 12 105 41 12 105 45 stone
+fill 12 105 46 12 105 51 granite
+fill 12 105 52 12 105 78 stone
+fill 12 105 79 12 105 95 diorite
+fill 12 105 96 12 105 99 water[level=0]
+fill 12 105 100 12 105 106 andesite
+12 105 107 stone
+fill 12 105 108 12 105 115 granite
+12 105 116 stone
+12 105 117 stone
+fill 12 105 118 12 105 124 granite
+12 105 125 stone
+12 105 126 stone
+12 105 127 diorite
+13 105 9 stone
+13 105 10 stone
+fill 13 105 11 13 105 16 water[level=0]
+13 105 17 bubble_column[drag=true]
+fill 13 105 18 13 105 23 water[level=0]
+fill 13 105 24 13 105 29 stone
+fill 13 105 30 13 105 36 water[level=0]
+13 105 37 granite
+13 105 38 granite
+fill 13 105 39 13 105 44 stone
+fill 13 105 45 13 105 52 granite
+fill 13 105 53 13 105 78 stone
+fill 13 105 79 13 105 95 diorite
+13 105 96 stone
+13 105 97 water[level=0]
+13 105 98 water[level=0]
+13 105 99 stone
+fill 13 105 100 13 105 106 andesite
+13 105 107 stone
+13 105 108 stone
+fill 13 105 109 13 105 115 granite
+13 105 116 stone
+13 105 117 stone
+fill 13 105 118 13 105 123 granite
+fill 13 105 124 13 105 126 stone
+13 105 127 diorite
+14 105 8 stone
+14 105 9 stone
+fill 14 105 10 14 105 16 water[level=0]
+14 105 17 bubble_column[drag=true]
+14 105 18 bubble_column[drag=true]
+fill 14 105 19 14 105 23 water[level=0]
+fill 14 105 24 14 105 32 stone
+fill 14 105 33 14 105 36 water[level=0]
+fill 14 105 37 14 105 44 stone
+fill 14 105 45 14 105 52 granite
+fill 14 105 53 14 105 78 stone
+fill 14 105 79 14 105 92 diorite
+fill 14 105 93 14 105 96 stone
+14 105 97 water[level=0]
+14 105 98 water[level=0]
+14 105 99 stone
+14 105 100 stone
+fill 14 105 101 14 105 106 andesite
+fill 14 105 107 14 105 112 stone
+14 105 113 granite
+14 105 114 granite
+fill 14 105 115 14 105 117 stone
+fill 14 105 118 14 105 123 granite
+fill 14 105 124 14 105 127 stone
+15 105 7 stone
+15 105 8 stone
+fill 15 105 9 15 105 23 water[level=0]
+15 105 24 stone
+15 105 25 stone
+fill 15 105 28 15 105 44 stone
+fill 15 105 45 15 105 52 granite
+fill 15 105 53 15 105 65 stone
+15 105 66 andesite
+15 105 67 andesite
+fill 15 105 68 15 105 79 stone
+fill 15 105 80 15 105 84 diorite
+15 105 85 stone
+15 105 86 diorite
+15 105 87 diorite
+15 105 88 stone
+15 105 89 diorite
+15 105 90 diorite
+fill 15 105 91 15 105 102 stone
+fill 15 105 103 15 105 105 andesite
+fill 15 105 106 15 105 117 stone
+fill 15 105 118 15 105 122 granite
+fill 15 105 123 15 105 125 stone
+15 105 126 coal_ore
+15 105 127 coal_ore
+16 105 7 stone
+fill 16 105 8 16 105 23 water[level=0]
+16 105 24 stone
+16 105 25 stone
+fill 16 105 30 16 105 39 diorite
+16 105 40 stone
+16 105 41 stone
+fill 16 105 42 16 105 49 diorite
+fill 16 105 50 16 105 52 granite
+fill 16 105 53 16 105 63 stone
+fill 16 105 64 16 105 68 andesite
+fill 16 105 69 16 105 79 stone
+16 105 80 copper_ore
+fill 16 105 81 16 105 118 stone
+fill 16 105 119 16 105 121 granite
+fill 16 105 122 16 105 124 stone
+fill 16 105 125 16 105 127 coal_ore
+fill 17 105 0 17 105 7 stone
+fill 17 105 8 17 105 12 water[level=0]
+fill 17 105 13 17 105 23 water[level=0]
+17 105 24 stone
+17 105 25 stone
+fill 17 105 33 17 105 51 diorite
+17 105 52 granite
+fill 17 105 53 17 105 63 stone
+fill 17 105 64 17 105 66 andesite
+17 105 67 gravel
+17 105 68 gravel
+fill 17 105 69 17 105 78 stone
+17 105 79 copper_ore
+17 105 80 copper_ore
+fill 17 105 81 17 105 124 stone
+fill 17 105 125 17 105 127 coal_ore
+fill 18 105 0 18 105 5 water[level=0]
+18 105 6 stone
+fill 18 105 7 18 105 23 water[level=0]
+18 105 24 stone
+18 105 25 stone
+fill 18 105 36 18 105 54 diorite
+fill 18 105 55 18 105 62 stone
+fill 18 105 63 18 105 67 andesite
+fill 18 105 68 18 105 71 gravel
+fill 18 105 72 18 105 78 stone
+18 105 79 copper_ore
+fill 18 105 80 18 105 127 stone
+fill 19 105 0 19 105 24 water[level=0]
+19 105 25 diorite
+fill 19 105 35 19 105 55 diorite
+fill 19 105 56 19 105 61 stone
+fill 19 105 62 19 105 68 andesite
+fill 19 105 69 19 105 72 gravel
+fill 19 105 73 19 105 127 stone
+fill 20 105 0 20 105 18 water[level=0]
+20 105 19 bubble_column[drag=true]
+fill 20 105 20 20 105 24 water[level=0]
+20 105 25 diorite
+fill 20 105 34 20 105 40 diorite
+20 105 41 stone
+fill 20 105 42 20 105 56 diorite
+fill 20 105 57 20 105 61 stone
+fill 20 105 62 20 105 68 andesite
+fill 20 105 69 20 105 72 gravel
+fill 20 105 73 20 105 125 stone
+20 105 126 dirt
+20 105 127 dirt
+fill 21 105 0 21 105 24 water[level=0]
+21 105 25 diorite
+21 105 26 diorite
+fill 21 105 32 21 105 39 diorite
+fill 21 105 40 21 105 42 stone
+fill 21 105 43 21 105 57 diorite
+fill 21 105 58 21 105 60 stone
+fill 21 105 61 21 105 68 andesite
+fill 21 105 69 21 105 72 gravel
+fill 21 105 73 21 105 75 stone
+21 105 76 coal_ore
+21 105 77 coal_ore
+fill 21 105 78 21 105 124 stone
+fill 21 105 125 21 105 127 dirt
+fill 22 105 0 22 105 24 water[level=0]
+22 105 25 diorite
+22 105 26 diorite
+fill 22 105 30 22 105 37 diorite
+fill 22 105 38 22 105 42 stone
+fill 22 105 43 22 105 50 gravel
+fill 22 105 51 22 105 58 diorite
+22 105 59 stone
+fill 22 105 60 22 105 67 andesite
+fill 22 105 68 22 105 75 stone
+22 105 76 coal_ore
+22 105 77 coal_ore
+fill 22 105 78 22 105 123 stone
+fill 22 105 124 22 105 127 dirt
+fill 23 105 0 23 105 24 water[level=0]
+23 105 25 diorite
+23 105 26 diorite
+fill 23 105 29 23 105 35 diorite
+fill 23 105 36 23 105 41 stone
+fill 23 105 42 23 105 50 gravel
+fill 23 105 51 23 105 59 diorite
+fill 23 105 60 23 105 67 andesite
+fill 23 105 68 23 105 127 stone
+fill 24 105 0 24 105 24 water[level=0]
+fill 24 105 25 24 105 28 stone
+fill 24 105 29 24 105 34 diorite
+fill 24 105 35 24 105 40 stone
+fill 24 105 41 24 105 49 gravel
+fill 24 105 50 24 105 59 diorite
+fill 24 105 60 24 105 67 andesite
+fill 24 105 68 24 105 94 stone
+fill 24 105 95 24 105 97 granite
+fill 24 105 98 24 105 109 stone
+24 105 110 andesite
+fill 24 105 111 24 105 127 stone
+fill 25 105 0 25 105 24 water[level=0]
+fill 25 105 25 25 105 31 stone
+fill 25 105 32 25 105 35 diorite
+fill 25 105 36 25 105 40 stone
+fill 25 105 41 25 105 48 gravel
+25 105 49 stone
+fill 25 105 50 25 105 58 diorite
+25 105 59 stone
+fill 25 105 60 25 105 67 andesite
+fill 25 105 68 25 105 93 stone
+fill 25 105 94 25 105 98 granite
+fill 25 105 99 25 105 108 stone
+fill 25 105 109 25 105 111 andesite
+fill 25 105 112 25 105 127 stone
+fill 26 105 0 26 105 9 water[level=0]
+fill 26 105 10 26 105 19 water[level=0]
+fill 26 105 20 26 105 30 stone
+fill 26 105 31 26 105 35 diorite
+fill 26 105 36 26 105 43 stone
+26 105 44 gravel
+26 105 45 gravel
+fill 26 105 46 26 105 58 stone
+fill 26 105 59 26 105 66 andesite
+fill 26 105 67 26 105 93 stone
+fill 26 105 94 26 105 98 granite
+fill 26 105 99 26 105 105 stone
+26 105 106 diorite
+26 105 107 stone
+fill 26 105 108 26 105 112 andesite
+fill 26 105 113 26 105 127 stone
+fill 27 105 0 27 105 11 water[level=0]
+fill 27 105 12 27 105 30 stone
+fill 27 105 31 27 105 36 diorite
+fill 27 105 37 27 105 46 stone
+fill 27 105 47 27 105 53 water[level=0]
+fill 27 105 54 27 105 58 stone
+fill 27 105 59 27 105 61 andesite
+27 105 62 copper_ore
+27 105 63 copper_ore
+fill 27 105 64 27 105 66 andesite
+fill 27 105 67 27 105 92 stone
+fill 27 105 93 27 105 99 granite
+fill 27 105 100 27 105 104 stone
+fill 27 105 105 27 105 107 diorite
+27 105 108 stone
+fill 27 105 109 27 105 111 andesite
+fill 27 105 112 27 105 127 stone
+fill 28 105 0 28 105 10 water[level=0]
+fill 28 105 11 28 105 29 stone
+28 105 30 copper_ore
+fill 28 105 31 28 105 36 diorite
+fill 28 105 37 28 105 44 stone
+fill 28 105 45 28 105 55 water[level=0]
+fill 28 105 56 28 105 58 stone
+fill 28 105 59 28 105 61 andesite
+28 105 62 copper_ore
+28 105 63 copper_ore
+28 105 64 andesite
+28 105 65 andesite
+fill 28 105 66 28 105 68 stone
+fill 28 105 69 28 105 71 copper_ore
+fill 28 105 72 28 105 92 stone
+fill 28 105 93 28 105 99 granite
+fill 28 105 100 28 105 105 stone
+fill 28 105 106 28 105 109 diorite
+28 105 110 andesite
+fill 28 105 111 28 105 124 stone
+28 105 125 diorite
+28 105 126 diorite
+28 105 127 stone
+fill 29 105 0 29 105 6 water[level=0]
+29 105 7 bubble_column[drag=true]
+29 105 8 water[level=0]
+fill 29 105 9 29 105 25 stone
+29 105 26 coal_ore
+29 105 27 coal_ore
+29 105 28 stone
+29 105 29 stone
+fill 29 105 30 29 105 35 diorite
+fill 29 105 36 29 105 43 stone
+fill 29 105 44 29 105 61 water[level=0]
+29 105 62 copper_ore
+29 105 63 copper_ore
+29 105 64 andesite
+29 105 65 stone
+29 105 66 stone
+29 105 67 copper_ore
+29 105 68 copper_ore
+29 105 69 stone
+fill 29 105 70 29 105 72 copper_ore
+fill 29 105 73 29 105 80 stone
+29 105 81 gravel
+29 105 82 gravel
+fill 29 105 83 29 105 92 stone
+fill 29 105 93 29 105 99 granite
+fill 29 105 100 29 105 106 stone
+fill 29 105 107 29 105 109 diorite
+fill 29 105 110 29 105 124 stone
+fill 29 105 125 29 105 127 diorite
+30 105 0 stone
+30 105 1 stone
+fill 30 105 2 30 105 6 water[level=0]
+fill 30 105 7 30 105 23 stone
+fill 30 105 24 30 105 27 coal_ore
+30 105 28 stone
+30 105 29 stone
+fill 30 105 30 30 105 36 diorite
+fill 30 105 37 30 105 42 stone
+fill 30 105 43 30 105 62 water[level=0]
+30 105 63 andesite
+fill 30 105 64 30 105 67 stone
+30 105 68 iron_ore
+30 105 69 iron_ore
+fill 30 105 70 30 105 79 stone
+fill 30 105 80 30 105 83 gravel
+fill 30 105 84 30 105 91 stone
+fill 30 105 92 30 105 99 granite
+30 105 100 andesite
+30 105 101 andesite
+fill 30 105 102 30 105 106 stone
+fill 30 105 107 30 105 110 diorite
+fill 30 105 111 30 105 124 stone
+fill 30 105 125 30 105 127 diorite
+fill 31 105 0 31 105 18 stone
+fill 31 105 19 31 105 21 copper_ore
+31 105 22 stone
+31 105 23 stone
+fill 31 105 24 31 105 27 coal_ore
+31 105 28 stone
+fill 31 105 29 31 105 36 diorite
+fill 31 105 37 31 105 42 stone
+31 105 43 bubble_column[drag=true]
+fill 31 105 44 31 105 63 water[level=0]
+fill 31 105 64 31 105 66 stone
+fill 31 105 67 31 105 69 iron_ore
+fill 31 105 70 31 105 79 stone
+fill 31 105 80 31 105 83 gravel
+fill 31 105 84 31 105 91 stone
+fill 31 105 92 31 105 98 granite
+fill 31 105 99 31 105 104 andesite
+fill 31 105 105 31 105 108 stone
+fill 31 105 109 31 105 112 diorite
+fill 31 105 113 31 105 124 stone
+fill 31 105 125 31 105 127 diorite
+fill 32 105 0 32 105 19 stone
+fill 32 105 20 32 105 22 copper_ore
+32 105 23 stone
+32 105 24 coal_ore
+32 105 25 coal_ore
+fill 32 105 26 32 105 28 stone
+fill 32 105 29 32 105 36 diorite
+fill 32 105 37 32 105 42 stone
+fill 32 105 43 32 105 63 water[level=0]
+fill 32 105 64 32 105 80 stone
+fill 32 105 81 32 105 83 gravel
+fill 32 105 84 32 105 91 stone
+fill 32 105 92 32 105 98 granite
+fill 32 105 99 32 105 106 andesite
+fill 32 105 107 32 105 109 stone
+fill 32 105 110 32 105 112 diorite
+fill 32 105 113 32 105 125 stone
+32 105 126 diorite
+32 105 127 diorite
+fill 33 105 0 33 105 28 stone
+fill 33 105 29 33 105 36 diorite
+fill 33 105 37 33 105 41 stone
+fill 33 105 42 33 105 47 water[level=0]
+33 105 48 glow_lichen[down=false,east=false,north=false,south=false,up=true,waterlogged=true,west=false]
+fill 33 105 49 33 105 64 water[level=0]
+33 105 65 stone
+fill 33 105 66 33 105 69 andesite
+fill 33 105 70 33 105 80 stone
+fill 33 105 81 33 105 83 gravel
+fill 33 105 84 33 105 91 stone
+fill 33 105 92 33 105 99 granite
+fill 33 105 100 33 105 107 andesite
+33 105 108 stone
+33 105 109 stone
+fill 33 105 110 33 105 112 diorite
+fill 33 105 113 33 105 125 stone
+33 105 126 diorite
+33 105 127 diorite
+fill 34 105 0 34 105 28 stone
+fill 34 105 29 34 105 36 diorite
+fill 34 105 37 34 105 40 stone
+fill 34 105 41 34 105 65 water[level=0]
+fill 34 105 66 34 105 71 andesite
+fill 34 105 72 34 105 80 stone
+fill 34 105 81 34 105 83 gravel
+fill 34 105 84 34 105 91 stone
+fill 34 105 92 34 105 97 granite
+34 105 98 granite
+34 105 99 granite
+fill 34 105 100 34 105 108 andesite
+fill 34 105 109 34 105 125 stone
+34 105 126 diorite
+34 105 127 diorite
+fill 35 105 0 35 105 16 stone
+35 105 17 andesite
+35 105 18 andesite
+fill 35 105 19 35 105 28 stone
+fill 35 105 29 35 105 36 diorite
+fill 35 105 37 35 105 40 stone
+fill 35 105 41 35 105 65 water[level=0]
+fill 35 105 66 35 105 72 andesite
+fill 35 105 73 35 105 81 stone
+35 105 82 gravel
+fill 35 105 83 35 105 91 stone
+fill 35 105 92 35 105 98 granite
+35 105 99 stone
+fill 35 105 100 35 105 109 andesite
+fill 35 105 110 35 105 126 stone
+35 105 127 diorite
+fill 36 105 0 36 105 16 stone
+36 105 17 andesite
+36 105 18 andesite
+fill 36 105 19 36 105 28 stone
+fill 36 105 29 36 105 36 diorite
+fill 36 105 37 36 105 40 stone
+36 105 41 water[level=0]
+36 105 42 water[level=0]
+fill 36 105 43 36 105 45 stone
+fill 36 105 46 36 105 65 water[level=0]
+fill 36 105 66 36 105 73 andesite
+fill 36 105 74 36 105 91 stone
+fill 36 105 92 36 105 98 granite
+36 105 99 stone
+fill 36 105 100 36 105 110 andesite
+fill 36 105 111 36 105 122 stone
+fill 36 105 123 36 105 125 granite
+36 105 126 stone
+36 105 127 stone
+fill 37 105 0 37 105 14 stone
+37 105 15 andesite
+37 105 16 andesite
+fill 37 105 17 37 105 28 stone
+fill 37 105 29 37 105 35 diorite
+fill 37 105 36 37 105 40 stone
+37 105 41 water[level=0]
+fill 37 105 42 37 105 46 stone
+fill 37 105 47 37 105 66 water[level=0]
+fill 37 105 67 37 105 74 andesite
+fill 37 105 75 37 105 91 stone
+fill 37 105 92 37 105 97 granite
+fill 37 105 98 37 105 100 stone
+fill 37 105 101 37 105 110 andesite
+fill 37 105 111 37 105 119 stone
+fill 37 105 120 37 105 125 granite
+37 105 126 stone
+37 105 127 stone
+fill 38 105 0 38 105 13 stone
+fill 38 105 14 38 105 17 andesite
+fill 38 105 18 38 105 28 stone
+fill 38 105 29 38 105 35 diorite
+fill 38 105 36 38 105 40 stone
+38 105 41 water[level=0]
+fill 38 105 42 38 105 47 stone
+fill 38 105 48 38 105 66 water[level=0]
+fill 38 105 67 38 105 75 andesite
+fill 38 105 76 38 105 92 stone
+fill 38 105 93 38 105 97 granite
+fill 38 105 98 38 105 101 stone
+fill 38 105 102 38 105 110 andesite
+fill 38 105 111 38 105 118 stone
+fill 38 105 119 38 105 125 granite
+38 105 126 stone
+38 105 127 stone
+fill 39 105 0 39 105 12 stone
+fill 39 105 13 39 105 17 andesite
+fill 39 105 18 39 105 28 stone
+fill 39 105 29 39 105 35 diorite
+fill 39 105 36 39 105 39 stone
+fill 39 105 40 39 105 42 water[level=0]
+fill 39 105 43 39 105 46 stone
+fill 39 105 47 39 105 66 water[level=0]
+39 105 67 stone
+fill 39 105 68 39 105 76 andesite
+fill 39 105 77 39 105 92 stone
+fill 39 105 93 39 105 96 granite
+fill 39 105 97 39 105 102 stone
+fill 39 105 103 39 105 110 andesite
+fill 39 105 111 39 105 117 stone
+39 105 118 granite
+39 105 119 granite
+39 105 120 andesite
+fill 39 105 121 39 105 125 granite
+39 105 126 stone
+39 105 127 stone
+fill 40 105 0 40 105 8 stone
+40 105 9 water[level=0]
+fill 40 105 10 40 105 12 stone
+fill 40 105 13 40 105 16 andesite
+fill 40 105 17 40 105 29 stone
+fill 40 105 30 40 105 34 diorite
+fill 40 105 35 40 105 38 stone
+fill 40 105 39 40 105 43 water[level=0]
+40 105 44 stone
+40 105 45 stone
+fill 40 105 46 40 105 66 water[level=0]
+40 105 67 stone
+40 105 68 diorite
+fill 40 105 69 40 105 77 andesite
+fill 40 105 78 40 105 93 stone
+fill 40 105 94 40 105 96 granite
+fill 40 105 97 40 105 103 stone
+fill 40 105 104 40 105 111 andesite
+fill 40 105 112 40 105 116 stone
+40 105 117 granite
+40 105 118 granite
+fill 40 105 119 40 105 122 andesite
+fill 40 105 123 40 105 125 granite
+40 105 126 stone
+40 105 127 stone
+fill 41 105 0 41 105 7 stone
+fill 41 105 8 41 105 10 water[level=0]
+41 105 11 stone
+41 105 12 stone
+fill 41 105 13 41 105 15 andesite
+fill 41 105 16 41 105 29 stone
+fill 41 105 30 41 105 34 diorite
+41 105 35 stone
+41 105 36 stone
+fill 41 105 37 41 105 66 water[level=0]
+fill 41 105 67 41 105 70 diorite
+fill 41 105 71 41 105 77 andesite
+fill 41 105 78 41 105 105 stone
+fill 41 105 106 41 105 111 andesite
+fill 41 105 112 41 105 115 stone
+41 105 116 granite
+41 105 117 granite
+fill 41 105 118 41 105 122 andesite
+fill 41 105 123 41 105 125 granite
+41 105 126 stone
+41 105 127 stone
+fill 42 105 0 42 105 2 stone
+42 105 3 andesite
+42 105 4 andesite
+42 105 5 stone
+fill 42 105 6 42 105 11 water[level=0]
+42 105 12 stone
+42 105 13 andesite
+42 105 14 andesite
+42 105 15 stone
+42 105 16 stone
+42 105 17 iron_ore
+42 105 18 iron_ore
+fill 42 105 19 42 105 29 stone
+fill 42 105 30 42 105 32 diorite
+fill 42 105 33 42 105 66 water[level=0]
+fill 42 105 67 42 105 70 diorite
+fill 42 105 71 42 105 78 andesite
+fill 42 105 79 42 105 109 stone
+42 105 110 andesite
+fill 42 105 111 42 105 115 stone
+42 105 116 granite
+42 105 117 granite
+fill 42 105 118 42 105 123 andesite
+42 105 124 granite
+fill 42 105 125 42 105 127 stone
+43 105 0 stone
+43 105 1 stone
+fill 43 105 2 43 105 4 andesite
+fill 43 105 5 43 105 11 water[level=0]
+fill 43 105 12 43 105 15 stone
+fill 43 105 16 43 105 18 iron_ore
+43 105 19 stone
+43 105 20 iron_ore
+43 105 21 iron_ore
+fill 43 105 22 43 105 30 stone
+43 105 31 diorite
+fill 43 105 32 43 105 36 water[level=0]
+fill 43 105 37 43 105 66 water[level=0]
+fill 43 105 67 43 105 71 diorite
+fill 43 105 72 43 105 78 andesite
+fill 43 105 79 43 105 113 stone
+fill 43 105 114 43 105 117 granite
+fill 43 105 118 43 105 123 andesite
+43 105 124 granite
+fill 43 105 125 43 105 127 stone
+44 105 0 stone
+44 105 1 stone
+44 105 2 andesite
+44 105 3 andesite
+fill 44 105 4 44 105 11 water[level=0]
+fill 44 105 12 44 105 19 stone

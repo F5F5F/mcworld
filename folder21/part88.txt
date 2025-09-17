@@ -1,0 +1,502 @@
+fill 798 141 48 798 141 53 dirt
+fill 798 141 54 798 141 81 stone
+fill 798 141 82 798 141 86 coal_ore
+fill 798 141 87 798 141 127 stone
+799 141 30 birch_leaves[distance=3,persistent=false,waterlogged=false]
+799 141 31 birch_leaves[distance=2,persistent=false,waterlogged=false]
+799 141 32 birch_leaves[distance=1,persistent=false,waterlogged=false]
+799 141 33 birch_leaves[distance=2,persistent=false,waterlogged=false]
+799 141 34 birch_leaves[distance=3,persistent=false,waterlogged=false]
+799 141 42 leaf_litter[facing=west,segment_amount=3]
+fill 799 141 43 799 141 47 grass_block[snowy=false]
+fill 799 141 48 799 141 53 dirt
+fill 799 141 54 799 141 67 stone
+fill 799 141 68 799 141 72 dirt
+fill 799 141 73 799 141 84 stone
+fill 799 141 85 799 141 87 coal_ore
+fill 799 141 88 799 141 127 stone
+800 141 29 oak_leaves[distance=2,persistent=false,waterlogged=false]
+800 141 30 birch_leaves[distance=2,persistent=false,waterlogged=false]
+800 141 31 birch_leaves[distance=1,persistent=false,waterlogged=false]
+800 141 32 birch_log[axis=y]
+800 141 33 birch_leaves[distance=1,persistent=false,waterlogged=false]
+800 141 34 birch_leaves[distance=2,persistent=false,waterlogged=false]
+800 141 39 leaf_litter[facing=west,segment_amount=1]
+800 141 40 leaf_litter[facing=west,segment_amount=1]
+800 141 41 leaf_litter[facing=north,segment_amount=1]
+800 141 42 leaf_litter[facing=south,segment_amount=3]
+fill 800 141 43 800 141 47 grass_block[snowy=false]
+fill 800 141 48 800 141 53 dirt
+fill 800 141 54 800 141 65 stone
+fill 800 141 66 800 141 72 dirt
+fill 800 141 73 800 141 85 stone
+800 141 86 coal_ore
+800 141 87 coal_ore
+fill 800 141 88 800 141 127 stone
+801 141 3 snow[layers=1]
+801 141 9 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+801 141 28 oak_leaves[distance=2,persistent=false,waterlogged=false]
+801 141 29 oak_leaves[distance=1,persistent=false,waterlogged=false]
+801 141 30 birch_leaves[distance=2,persistent=false,waterlogged=false]
+801 141 31 birch_leaves[distance=2,persistent=false,waterlogged=false]
+801 141 32 birch_leaves[distance=1,persistent=false,waterlogged=false]
+801 141 33 birch_leaves[distance=2,persistent=false,waterlogged=false]
+801 141 34 birch_leaves[distance=3,persistent=false,waterlogged=false]
+801 141 38 leaf_litter[facing=south,segment_amount=2]
+801 141 39 leaf_litter[facing=south,segment_amount=4]
+801 141 40 leaf_litter[facing=north,segment_amount=3]
+fill 801 141 42 801 141 47 grass_block[snowy=false]
+fill 801 141 48 801 141 53 dirt
+fill 801 141 54 801 141 64 stone
+fill 801 141 65 801 141 71 dirt
+fill 801 141 72 801 141 127 stone
+802 141 29 oak_leaves[distance=2,persistent=false,waterlogged=false]
+802 141 30 birch_leaves[distance=3,persistent=false,waterlogged=false]
+802 141 31 birch_leaves[distance=3,persistent=false,waterlogged=false]
+802 141 32 birch_leaves[distance=2,persistent=false,waterlogged=false]
+802 141 33 birch_leaves[distance=3,persistent=false,waterlogged=false]
+802 141 39 leaf_litter[facing=east,segment_amount=2]
+802 141 40 leaf_litter[facing=west,segment_amount=1]
+802 141 41 birch_log[axis=y]
+fill 802 141 42 802 141 46 grass_block[snowy=false]
+fill 802 141 47 802 141 53 dirt
+fill 802 141 54 802 141 64 stone
+fill 802 141 65 802 141 70 dirt
+fill 802 141 71 802 141 127 stone
+803 141 34 birch_leaves[distance=3,persistent=false,waterlogged=false]
+803 141 35 birch_leaves[distance=2,persistent=false,waterlogged=false]
+803 141 36 birch_leaves[distance=3,persistent=false,waterlogged=false]
+803 141 40 leaf_litter[facing=south,segment_amount=1]
+803 141 41 leaf_litter[facing=east,segment_amount=4]
+fill 803 141 42 803 141 46 grass_block[snowy=false]
+fill 803 141 47 803 141 53 dirt
+fill 803 141 54 803 141 63 stone
+fill 803 141 64 803 141 69 dirt
+fill 803 141 70 803 141 105 stone
+803 141 106 gravel
+803 141 107 gravel
+fill 803 141 108 803 141 127 stone
+804 141 0 snow[layers=1]
+804 141 33 birch_leaves[distance=3,persistent=false,waterlogged=false]
+804 141 34 birch_leaves[distance=2,persistent=false,waterlogged=false]
+804 141 35 birch_leaves[distance=1,persistent=false,waterlogged=false]
+804 141 36 birch_leaves[distance=2,persistent=false,waterlogged=false]
+804 141 37 birch_leaves[distance=3,persistent=false,waterlogged=false]
+804 141 39 leaf_litter[facing=east,segment_amount=1]
+804 141 40 leaf_litter[facing=north,segment_amount=2]
+804 141 41 leaf_litter[facing=east,segment_amount=2]
+fill 804 141 42 804 141 45 grass_block[snowy=false]
+804 141 46 grass_block[snowy=false]
+fill 804 141 47 804 141 53 dirt
+fill 804 141 54 804 141 64 stone
+fill 804 141 65 804 141 67 dirt
+fill 804 141 68 804 141 105 stone
+fill 804 141 106 804 141 108 gravel
+fill 804 141 109 804 141 127 stone
+805 141 33 birch_leaves[distance=2,persistent=false,waterlogged=false]
+805 141 34 birch_leaves[distance=1,persistent=false,waterlogged=false]
+805 141 35 birch_log[axis=y]
+805 141 36 birch_leaves[distance=1,persistent=false,waterlogged=false]
+805 141 37 birch_leaves[distance=2,persistent=false,waterlogged=false]
+fill 805 141 42 805 141 45 grass_block[snowy=false]
+fill 805 141 46 805 141 53 dirt
+fill 805 141 54 805 141 73 stone
+805 141 74 coal_ore
+fill 805 141 75 805 141 104 stone
+fill 805 141 105 805 141 108 gravel
+fill 805 141 109 805 141 127 stone
+806 141 33 birch_leaves[distance=3,persistent=false,waterlogged=false]
+806 141 34 birch_leaves[distance=2,persistent=false,waterlogged=false]
+806 141 35 birch_leaves[distance=1,persistent=false,waterlogged=false]
+806 141 36 birch_leaves[distance=2,persistent=false,waterlogged=false]
+806 141 37 birch_leaves[distance=3,persistent=false,waterlogged=false]
+fill 806 141 42 806 141 45 grass_block[snowy=false]
+fill 806 141 46 806 141 53 dirt
+fill 806 141 54 806 141 72 stone
+806 141 73 coal_ore
+806 141 74 coal_ore
+fill 806 141 75 806 141 104 stone
+fill 806 141 105 806 141 108 gravel
+fill 806 141 109 806 141 127 stone
+807 141 0 snow[layers=1]
+807 141 33 birch_leaves[distance=4,persistent=false,waterlogged=false]
+807 141 34 birch_leaves[distance=3,persistent=false,waterlogged=false]
+807 141 35 birch_leaves[distance=2,persistent=false,waterlogged=false]
+807 141 36 birch_leaves[distance=3,persistent=false,waterlogged=false]
+807 141 37 birch_leaves[distance=4,persistent=false,waterlogged=false]
+fill 807 141 41 807 141 44 grass_block[snowy=false]
+fill 807 141 45 807 141 52 dirt
+fill 807 141 53 807 141 72 stone
+807 141 73 coal_ore
+807 141 74 coal_ore
+fill 807 141 75 807 141 104 stone
+fill 807 141 105 807 141 109 gravel
+fill 807 141 110 807 141 127 stone
+808 141 34 oak_leaves[distance=2,persistent=false,waterlogged=false]
+808 141 40 leaf_litter[facing=north,segment_amount=1]
+fill 808 141 41 808 141 44 grass_block[snowy=false]
+fill 808 141 45 808 141 52 dirt
+fill 808 141 53 808 141 104 stone
+fill 808 141 105 808 141 108 gravel
+fill 808 141 109 808 141 127 stone
+809 141 33 oak_leaves[distance=2,persistent=false,waterlogged=false]
+809 141 34 oak_leaves[distance=1,persistent=false,waterlogged=false]
+809 141 35 oak_leaves[distance=2,persistent=false,waterlogged=false]
+809 141 40 leaf_litter[facing=west,segment_amount=4]
+fill 809 141 41 809 141 43 grass_block[snowy=false]
+fill 809 141 44 809 141 51 dirt
+fill 809 141 52 809 141 64 stone
+809 141 65 dirt
+fill 809 141 66 809 141 104 stone
+fill 809 141 105 809 141 108 gravel
+fill 809 141 109 809 141 127 stone
+810 141 34 oak_leaves[distance=2,persistent=false,waterlogged=false]
+810 141 40 leaf_litter[facing=west,segment_amount=2]
+810 141 41 dirt
+810 141 42 grass_block[snowy=false]
+810 141 43 grass_block[snowy=false]
+fill 810 141 44 810 141 50 dirt
+fill 810 141 51 810 141 62 stone
+810 141 63 dirt
+810 141 64 stone
+810 141 65 dirt
+fill 810 141 66 810 141 104 stone
+fill 810 141 105 810 141 108 gravel
+fill 810 141 109 810 141 127 stone
+811 141 40 leaf_litter[facing=south,segment_amount=3]
+811 141 41 grass_block[snowy=false]
+fill 811 141 42 811 141 49 dirt
+fill 811 141 50 811 141 59 stone
+811 141 60 coal_ore
+fill 811 141 61 811 141 104 stone
+fill 811 141 105 811 141 108 gravel
+fill 811 141 109 811 141 127 stone
+812 141 3 snow[layers=1]
+812 141 40 grass_block[snowy=false]
+fill 812 141 41 812 141 50 dirt
+fill 812 141 51 812 141 57 stone
+fill 812 141 58 812 141 60 coal_ore
+fill 812 141 61 812 141 105 stone
+812 141 106 gravel
+812 141 107 gravel
+fill 812 141 108 812 141 121 stone
+812 141 122 dirt
+812 141 123 dirt
+fill 812 141 124 812 141 127 stone
+813 141 37 oak_leaves[distance=4,persistent=false,waterlogged=false]
+813 141 38 oak_leaves[distance=3,persistent=false,waterlogged=false]
+813 141 39 oak_leaves[distance=4,persistent=false,waterlogged=false]
+813 141 40 grass_block[snowy=false]
+fill 813 141 41 813 141 49 dirt
+fill 813 141 50 813 141 57 stone
+813 141 58 coal_ore
+813 141 59 coal_ore
+fill 813 141 60 813 141 121 stone
+fill 813 141 122 813 141 124 dirt
+fill 813 141 125 813 141 127 stone
+814 141 36 oak_leaves[distance=2,persistent=false,waterlogged=false]
+814 141 37 oak_leaves[distance=3,persistent=false,waterlogged=false]
+814 141 38 oak_leaves[distance=2,persistent=false,waterlogged=false]
+814 141 39 oak_leaves[distance=3,persistent=false,waterlogged=false]
+fill 814 141 40 814 141 48 dirt
+fill 814 141 49 814 141 120 stone
+fill 814 141 121 814 141 124 dirt
+fill 814 141 125 814 141 127 stone
+815 141 9 snow[layers=1]
+815 141 33 oak_leaves[distance=1,persistent=false,waterlogged=false]
+815 141 34 oak_leaves[distance=2,persistent=false,waterlogged=false]
+815 141 35 oak_leaves[distance=2,persistent=false,waterlogged=false]
+815 141 36 oak_leaves[distance=1,persistent=false,waterlogged=false]
+815 141 37 oak_leaves[distance=2,persistent=false,waterlogged=false]
+815 141 38 oak_leaves[distance=2,persistent=false,waterlogged=false]
+815 141 39 oak_leaves[distance=3,persistent=false,waterlogged=false]
+fill 815 141 40 815 141 46 dirt
+fill 815 141 47 815 141 93 stone
+fill 815 141 94 815 141 120 stone
+fill 815 141 121 815 141 124 dirt
+fill 815 141 125 815 141 127 stone
+816 141 32 oak_leaves[distance=1,persistent=false,waterlogged=false]
+816 141 33 oak_log[axis=y]
+816 141 34 oak_leaves[distance=1,persistent=false,waterlogged=false]
+816 141 35 oak_leaves[distance=1,persistent=false,waterlogged=false]
+816 141 36 oak_log[axis=z]
+816 141 37 oak_log[axis=z]
+816 141 38 oak_leaves[distance=1,persistent=false,waterlogged=false]
+816 141 39 oak_leaves[distance=2,persistent=false,waterlogged=false]
+fill 816 141 40 816 141 45 dirt
+fill 816 141 46 816 141 117 stone
+816 141 118 copper_ore
+816 141 119 copper_ore
+816 141 120 stone
+fill 816 141 121 816 141 124 dirt
+fill 816 141 125 816 141 127 stone
+817 141 0 snow[layers=1]
+817 141 32 oak_leaves[distance=1,persistent=false,waterlogged=false]
+817 141 33 oak_log[axis=x]
+817 141 34 oak_leaves[distance=1,persistent=false,waterlogged=false]
+817 141 35 oak_leaves[distance=2,persistent=false,waterlogged=false]
+817 141 36 oak_leaves[distance=1,persistent=false,waterlogged=false]
+817 141 37 oak_leaves[distance=1,persistent=false,waterlogged=false]
+817 141 38 oak_leaves[distance=2,persistent=false,waterlogged=false]
+817 141 39 oak_leaves[distance=3,persistent=false,waterlogged=false]
+fill 817 141 40 817 141 43 dirt
+fill 817 141 44 817 141 78 stone
+fill 817 141 79 817 141 82 coal_ore
+fill 817 141 83 817 141 117 stone
+fill 817 141 118 817 141 120 copper_ore
+fill 817 141 121 817 141 124 dirt
+fill 817 141 125 817 141 127 stone
+818 141 32 oak_log[axis=x]
+818 141 33 oak_leaves[distance=1,persistent=false,waterlogged=false]
+818 141 34 oak_leaves[distance=2,persistent=false,waterlogged=false]
+818 141 35 oak_leaves[distance=3,persistent=false,waterlogged=false]
+818 141 36 oak_leaves[distance=2,persistent=false,waterlogged=false]
+fill 818 141 40 818 141 42 dirt
+fill 818 141 43 818 141 77 stone
+fill 818 141 78 818 141 82 coal_ore
+fill 818 141 83 818 141 120 stone
+fill 818 141 121 818 141 124 dirt
+fill 818 141 125 818 141 127 stone
+819 141 33 oak_leaves[distance=2,persistent=false,waterlogged=false]
+819 141 34 oak_leaves[distance=3,persistent=false,waterlogged=false]
+819 141 35 oak_leaves[distance=4,persistent=false,waterlogged=false]
+819 141 39 grass_block[snowy=false]
+819 141 40 dirt
+819 141 41 dirt
+fill 819 141 42 819 141 79 stone
+819 141 80 coal_ore
+fill 819 141 81 819 141 120 stone
+fill 819 141 121 819 141 124 dirt
+fill 819 141 125 819 141 127 stone
+820 141 39 dirt
+820 141 40 dirt
+fill 820 141 41 820 141 121 stone
+820 141 122 dirt
+820 141 123 dirt
+fill 820 141 124 820 141 127 stone
+821 141 38 grass_block[snowy=false]
+821 141 39 dirt
+fill 821 141 40 821 141 66 stone
+fill 821 141 67 821 141 76 andesite
+fill 821 141 77 821 141 84 stone
+821 141 85 copper_ore
+fill 821 141 86 821 141 127 stone
+822 141 36 grass_block[snowy=false]
+822 141 37 grass_block[snowy=false]
+822 141 38 dirt
+fill 822 141 39 822 141 66 stone
+fill 822 141 67 822 141 78 andesite
+fill 822 141 79 822 141 84 stone
+822 141 85 copper_ore
+822 141 86 copper_ore
+fill 822 141 87 822 141 127 stone
+823 141 34 grass_block[snowy=false]
+fill 823 141 35 823 141 37 dirt
+fill 823 141 38 823 141 66 stone
+fill 823 141 67 823 141 79 andesite
+fill 823 141 80 823 141 84 stone
+823 141 85 copper_ore
+823 141 86 copper_ore
+fill 823 141 87 823 141 127 stone
+824 141 33 dirt
+824 141 34 dirt
+fill 824 141 35 824 141 66 stone
+fill 824 141 67 824 141 80 andesite
+fill 824 141 81 824 141 127 stone
+825 141 30 grass_block[snowy=false]
+825 141 31 dirt
+825 141 32 dirt
+fill 825 141 33 825 141 52 stone
+825 141 53 dirt
+fill 825 141 54 825 141 68 stone
+fill 825 141 69 825 141 80 andesite
+fill 825 141 81 825 141 127 stone
+fill 826 141 29 826 141 49 stone
+fill 826 141 50 826 141 54 dirt
+fill 826 141 55 826 141 70 stone
+fill 826 141 71 826 141 80 andesite
+fill 826 141 81 826 141 127 stone
+fill 827 141 29 827 141 48 stone
+fill 827 141 49 827 141 54 dirt
+fill 827 141 55 827 141 61 stone
+fill 827 141 62 827 141 72 stone
+fill 827 141 73 827 141 80 andesite
+fill 827 141 81 827 141 127 stone
+828 141 28 grass_block[snowy=false]
+fill 828 141 29 828 141 34 stone
+fill 828 141 35 828 141 37 dirt
+fill 828 141 38 828 141 40 stone
+fill 828 141 41 828 141 54 dirt
+fill 828 141 55 828 141 74 stone
+828 141 75 andesite
+828 141 76 andesite
+fill 828 141 77 828 141 127 stone
+829 141 28 grass_block[snowy=false]
+fill 829 141 29 829 141 34 stone
+fill 829 141 35 829 141 43 dirt
+fill 829 141 44 829 141 49 grass_block[snowy=false]
+fill 829 141 50 829 141 54 dirt
+fill 829 141 55 829 141 127 stone
+830 141 28 grass_block[snowy=false]
+fill 830 141 29 830 141 35 stone
+fill 830 141 36 830 141 40 dirt
+830 141 41 grass_block[snowy=false]
+830 141 42 grass_block[snowy=false]
+830 141 43 oak_log[axis=y]
+830 141 44 vine[east=false,north=true,south=false,up=false,west=false]
+830 141 47 leaf_litter[facing=south,segment_amount=2]
+830 141 49 grass_block[snowy=false]
+830 141 50 grass_block[snowy=false]
+fill 830 141 51 830 141 54 dirt
+fill 830 141 55 830 141 127 stone
+fill 831 141 29 831 141 35 stone
+fill 831 141 36 831 141 39 dirt
+831 141 40 grass_block[snowy=false]
+831 141 43 vine[east=false,north=false,south=false,up=false,west=true]
+831 141 49 grass_block[snowy=false]
+fill 831 141 50 831 141 53 dirt
+fill 831 141 54 831 141 80 stone
+831 141 81 coal_ore
+831 141 82 coal_ore
+fill 831 141 83 831 141 120 stone
+fill 831 141 121 831 141 124 dirt
+fill 831 141 125 831 141 127 stone
+fill 832 141 29 832 141 35 stone
+fill 832 141 36 832 141 39 dirt
+832 141 40 grass_block[snowy=false]
+832 141 48 grass_block[snowy=false]
+832 141 49 grass_block[snowy=false]
+fill 832 141 50 832 141 53 dirt
+fill 832 141 54 832 141 80 stone
+fill 832 141 81 832 141 83 coal_ore
+fill 832 141 84 832 141 119 stone
+fill 832 141 120 832 141 126 dirt
+832 141 127 stone
+fill 833 141 29 833 141 36 stone
+fill 833 141 37 833 141 39 dirt
+833 141 48 grass_block[snowy=false]
+fill 833 141 49 833 141 52 dirt
+fill 833 141 53 833 141 81 stone
+833 141 82 coal_ore
+833 141 83 coal_ore
+fill 833 141 84 833 141 119 stone
+fill 833 141 120 833 141 127 dirt
+fill 834 141 31 834 141 35 stone
+834 141 36 andesite
+834 141 37 andesite
+834 141 38 dirt
+834 141 39 grass_block[snowy=false]
+834 141 48 grass_block[snowy=false]
+fill 834 141 49 834 141 52 dirt
+fill 834 141 53 834 141 121 stone
+fill 834 141 122 834 141 127 dirt
+835 141 33 dirt
+835 141 34 dirt
+835 141 35 andesite
+fill 835 141 36 835 141 38 dirt
+835 141 47 grass_block[snowy=false]
+835 141 48 grass_block[snowy=false]
+fill 835 141 49 835 141 52 dirt
+fill 835 141 53 835 141 122 stone
+fill 835 141 123 835 141 127 dirt
+fill 836 141 35 836 141 37 grass_block[snowy=false]
+836 141 46 leaf_litter[facing=east,segment_amount=3]
+836 141 47 grass_block[snowy=false]
+836 141 48 grass_block[snowy=false]
+fill 836 141 49 836 141 52 dirt
+fill 836 141 53 836 141 125 stone
+836 141 126 dirt
+836 141 127 dirt
+837 141 47 grass_block[snowy=false]
+fill 837 141 48 837 141 51 dirt
+fill 837 141 52 837 141 117 stone
+837 141 118 copper_ore
+fill 837 141 119 837 141 127 stone
+838 141 44 leaf_litter[facing=east,segment_amount=1]
+838 141 45 leaf_litter[facing=north,segment_amount=3]
+838 141 46 grass_block[snowy=false]
+838 141 47 grass_block[snowy=false]
+fill 838 141 48 838 141 51 dirt
+fill 838 141 52 838 141 117 stone
+838 141 118 copper_ore
+838 141 119 copper_ore
+fill 838 141 120 838 141 127 stone
+839 141 44 leaf_litter[facing=south,segment_amount=1]
+839 141 45 leaf_litter[facing=east,segment_amount=2]
+839 141 46 grass_block[snowy=false]
+fill 839 141 47 839 141 50 dirt
+839 141 51 coal_ore
+fill 839 141 52 839 141 98 stone
+839 141 99 copper_ore
+fill 839 141 100 839 141 110 stone
+fill 839 141 111 839 141 117 stone
+839 141 118 copper_ore
+839 141 119 copper_ore
+fill 839 141 120 839 141 127 stone
+840 141 43 oak_log[axis=y]
+840 141 44 leaf_litter[facing=west,segment_amount=2]
+840 141 45 grass_block[snowy=false]
+840 141 46 grass_block[snowy=false]
+fill 840 141 47 840 141 50 dirt
+fill 840 141 51 840 141 118 stone
+840 141 119 copper_ore
+fill 840 141 120 840 141 127 stone
+841 141 30 oak_leaves[distance=2,persistent=false,waterlogged=false]
+841 141 31 oak_leaves[distance=1,persistent=false,waterlogged=false]
+841 141 43 leaf_litter[facing=south,segment_amount=4]
+841 141 44 grass_block[snowy=false]
+841 141 45 grass_block[snowy=false]
+fill 841 141 46 841 141 50 dirt
+fill 841 141 51 841 141 127 stone
+842 141 30 oak_leaves[distance=1,persistent=false,waterlogged=false]
+842 141 31 oak_log[axis=y]
+842 141 32 oak_leaves[distance=1,persistent=false,waterlogged=false]
+842 141 39 oak_leaves[distance=4,persistent=false,waterlogged=false]
+842 141 40 oak_leaves[distance=3,persistent=false,waterlogged=false]
+842 141 41 oak_leaves[distance=2,persistent=false,waterlogged=false]
+842 141 42 oak_leaves[distance=3,persistent=false,waterlogged=false]
+842 141 43 leaf_litter[facing=west,segment_amount=3]
+842 141 44 grass_block[snowy=false]
+842 141 45 grass_block[snowy=false]
+fill 842 141 46 842 141 50 dirt
+fill 842 141 51 842 141 93 stone
+842 141 94 coal_ore
+fill 842 141 95 842 141 110 stone
+842 141 111 copper_ore
+fill 842 141 112 842 141 127 stone
+843 141 31 oak_leaves[distance=1,persistent=false,waterlogged=false]
+843 141 32 oak_leaves[distance=2,persistent=false,waterlogged=false]
+843 141 39 oak_leaves[distance=3,persistent=false,waterlogged=false]
+843 141 40 oak_leaves[distance=2,persistent=false,waterlogged=false]
+843 141 41 oak_leaves[distance=1,persistent=false,waterlogged=false]
+843 141 42 oak_leaves[distance=2,persistent=false,waterlogged=false]
+843 141 43 oak_leaves[distance=3,persistent=false,waterlogged=false]
+843 141 44 grass_block[snowy=false]
+fill 843 141 45 843 141 50 dirt
+fill 843 141 51 843 141 93 stone
+843 141 94 coal_ore
+843 141 95 coal_ore
+fill 843 141 96 843 141 127 stone
+844 141 39 oak_leaves[distance=2,persistent=false,waterlogged=false]
+844 141 40 oak_leaves[distance=1,persistent=false,waterlogged=false]
+844 141 41 oak_log[axis=y]
+844 141 42 oak_leaves[distance=1,persistent=false,waterlogged=false]
+844 141 43 grass_block[snowy=false]
+844 141 44 grass_block[snowy=false]
+fill 844 141 45 844 141 49 dirt
+fill 844 141 50 844 141 54 stone
+844 141 55 lava[level=0]
+fill 844 141 56 844 141 74 stone
+fill 844 141 75 844 141 78 gravel
+fill 844 141 79 844 141 93 stone
+844 141 94 coal_ore
+844 141 95 coal_ore
+fill 844 141 96 844 141 127 stone
+845 141 39 oak_leaves[distance=3,persistent=false,waterlogged=false]
+845 141 40 oak_leaves[distance=2,persistent=false,waterlogged=false]
+845 141 41 oak_leaves[distance=1,persistent=false,waterlogged=false]
+845 141 42 oak_leaves[distance=2,persistent=false,waterlogged=false]
+845 141 43 grass_block[snowy=false]
+845 141 44 grass_block[snowy=false]
+fill 845 141 45 845 141 49 dirt
+fill 845 141 50 845 141 64 stone

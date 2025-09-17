@@ -1,0 +1,620 @@
+fill 550 104 840 550 104 842 rail[shape=north_south,waterlogged=false]
+550 104 843 cave_air
+fill 550 104 844 550 104 855 rail[shape=north_south,waterlogged=false]
+fill 550 104 856 550 104 890 cave_air
+fill 550 104 891 550 104 895 stone
+fill 551 104 768 551 104 775 stone
+fill 551 104 789 551 104 793 stone
+fill 551 104 794 551 104 805 andesite
+fill 551 104 806 551 104 813 stone
+551 104 814 iron_ore
+fill 551 104 815 551 104 820 stone
+551 104 821 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+551 104 822 cave_air
+551 104 823 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+fill 551 104 824 551 104 832 stone
+fill 551 104 833 551 104 837 cave_air
+551 104 838 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+fill 551 104 839 551 104 842 cave_air
+551 104 843 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+fill 551 104 844 551 104 847 cave_air
+551 104 848 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+fill 551 104 849 551 104 852 cave_air
+551 104 853 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+fill 551 104 854 551 104 856 cave_air
+551 104 857 oak_planks
+551 104 858 cave_air
+551 104 859 oak_planks
+fill 551 104 860 551 104 862 cave_air
+551 104 863 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+fill 551 104 864 551 104 867 cave_air
+551 104 868 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+fill 551 104 869 551 104 872 cave_air
+551 104 873 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+fill 551 104 874 551 104 877 cave_air
+551 104 878 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+fill 551 104 879 551 104 882 cave_air
+551 104 883 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+fill 551 104 884 551 104 887 cave_air
+551 104 888 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+551 104 889 cave_air
+551 104 890 cave_air
+fill 551 104 891 551 104 895 stone
+fill 552 104 768 552 104 775 stone
+552 104 789 stone
+552 104 790 gravel
+552 104 791 lapis_ore
+552 104 792 stone
+552 104 793 stone
+fill 552 104 794 552 104 803 andesite
+fill 552 104 804 552 104 820 stone
+fill 552 104 821 552 104 823 cave_air
+fill 552 104 824 552 104 832 stone
+fill 552 104 833 552 104 835 cave_air
+fill 552 104 836 552 104 839 stone
+fill 552 104 840 552 104 847 diorite
+552 104 848 stone
+fill 552 104 849 552 104 851 cave_air
+fill 552 104 852 552 104 856 stone
+fill 552 104 857 552 104 859 cave_air
+fill 552 104 860 552 104 869 stone
+fill 552 104 870 552 104 882 granite
+fill 552 104 883 552 104 885 andesite
+552 104 886 iron_ore
+552 104 887 iron_ore
+fill 552 104 888 552 104 895 stone
+fill 553 104 768 553 104 775 stone
+553 104 789 stone
+553 104 790 gravel
+553 104 791 gravel
+fill 553 104 792 553 104 794 stone
+fill 553 104 795 553 104 802 andesite
+fill 553 104 803 553 104 820 stone
+fill 553 104 821 553 104 823 cave_air
+fill 553 104 824 553 104 839 stone
+fill 553 104 840 553 104 847 diorite
+553 104 848 stone
+fill 553 104 849 553 104 851 cave_air
+fill 553 104 852 553 104 856 stone
+fill 553 104 857 553 104 859 cave_air
+fill 553 104 860 553 104 868 stone
+fill 553 104 869 553 104 883 granite
+553 104 884 andesite
+553 104 885 andesite
+553 104 886 granite
+fill 553 104 887 553 104 895 stone
+fill 554 104 768 554 104 775 stone
+554 104 789 stone
+fill 554 104 790 554 104 792 gravel
+554 104 793 stone
+554 104 794 stone
+fill 554 104 795 554 104 801 andesite
+fill 554 104 802 554 104 820 stone
+fill 554 104 821 554 104 823 cave_air
+fill 554 104 824 554 104 839 stone
+fill 554 104 840 554 104 847 diorite
+554 104 848 stone
+554 104 849 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+554 104 850 cave_air
+554 104 851 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+fill 554 104 852 554 104 856 stone
+fill 554 104 857 554 104 859 cave_air
+fill 554 104 860 554 104 867 stone
+fill 554 104 868 554 104 887 granite
+fill 554 104 888 554 104 895 stone
+fill 555 104 768 555 104 775 stone
+555 104 789 stone
+fill 555 104 790 555 104 793 gravel
+555 104 794 stone
+fill 555 104 795 555 104 820 stone
+fill 555 104 821 555 104 823 cave_air
+fill 555 104 824 555 104 833 stone
+fill 555 104 834 555 104 837 coal_ore
+fill 555 104 838 555 104 840 stone
+fill 555 104 841 555 104 846 diorite
+555 104 847 stone
+555 104 848 stone
+fill 555 104 849 555 104 851 cave_air
+fill 555 104 852 555 104 855 stone
+555 104 856 coal_ore
+555 104 857 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+555 104 858 cave_air
+555 104 859 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+fill 555 104 860 555 104 866 stone
+fill 555 104 867 555 104 879 granite
+555 104 880 stone
+fill 555 104 881 555 104 888 granite
+fill 555 104 889 555 104 895 stone
+fill 556 104 768 556 104 775 stone
+556 104 789 stone
+fill 556 104 790 556 104 793 gravel
+fill 556 104 794 556 104 800 stone
+556 104 801 dirt
+fill 556 104 802 556 104 820 stone
+556 104 821 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+556 104 822 cave_air
+556 104 823 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+556 104 824 granite
+556 104 825 granite
+fill 556 104 826 556 104 833 stone
+fill 556 104 834 556 104 837 coal_ore
+fill 556 104 838 556 104 840 stone
+fill 556 104 841 556 104 846 diorite
+556 104 847 stone
+556 104 848 stone
+fill 556 104 849 556 104 851 cave_air
+fill 556 104 852 556 104 855 stone
+556 104 856 coal_ore
+fill 556 104 857 556 104 859 cave_air
+fill 556 104 860 556 104 865 stone
+fill 556 104 866 556 104 878 granite
+556 104 879 stone
+556 104 880 stone
+fill 556 104 881 556 104 885 granite
+fill 556 104 886 556 104 893 gravel
+556 104 894 stone
+556 104 895 stone
+fill 557 104 768 557 104 776 stone
+557 104 789 stone
+557 104 790 stone
+fill 557 104 791 557 104 793 gravel
+fill 557 104 794 557 104 796 stone
+557 104 797 diorite
+557 104 798 diorite
+557 104 799 stone
+557 104 800 dirt
+557 104 801 dirt
+fill 557 104 802 557 104 820 stone
+fill 557 104 821 557 104 823 cave_air
+fill 557 104 824 557 104 826 granite
+fill 557 104 827 557 104 840 stone
+fill 557 104 841 557 104 847 diorite
+557 104 848 stone
+fill 557 104 849 557 104 851 cave_air
+fill 557 104 852 557 104 856 stone
+fill 557 104 857 557 104 859 cave_air
+fill 557 104 860 557 104 865 stone
+fill 557 104 866 557 104 875 granite
+fill 557 104 876 557 104 880 stone
+fill 557 104 881 557 104 885 granite
+fill 557 104 886 557 104 895 gravel
+fill 558 104 768 558 104 776 stone
+fill 558 104 789 558 104 791 stone
+558 104 792 gravel
+558 104 798 diorite
+558 104 799 stone
+558 104 800 dirt
+558 104 801 dirt
+fill 558 104 802 558 104 807 stone
+558 104 808 coal_ore
+fill 558 104 809 558 104 820 stone
+fill 558 104 821 558 104 823 cave_air
+fill 558 104 824 558 104 827 granite
+fill 558 104 828 558 104 840 stone
+fill 558 104 841 558 104 847 diorite
+558 104 848 stone
+fill 558 104 849 558 104 851 cave_air
+fill 558 104 852 558 104 856 stone
+fill 558 104 857 558 104 859 cave_air
+fill 558 104 860 558 104 868 stone
+fill 558 104 869 558 104 873 granite
+fill 558 104 874 558 104 881 stone
+fill 558 104 882 558 104 885 granite
+fill 558 104 886 558 104 895 gravel
+fill 559 104 768 559 104 776 stone
+559 104 789 stone
+559 104 798 diorite
+fill 559 104 799 559 104 806 stone
+fill 559 104 807 559 104 809 coal_ore
+fill 559 104 810 559 104 816 stone
+559 104 817 coal_ore
+fill 559 104 818 559 104 820 stone
+559 104 821 glow_lichen[down=false,east=false,north=true,south=false,up=false,waterlogged=false,west=false]
+559 104 822 cave_air
+559 104 823 cave_air
+559 104 824 granite
+fill 559 104 825 559 104 828 diorite
+fill 559 104 829 559 104 840 stone
+fill 559 104 841 559 104 846 diorite
+559 104 847 stone
+559 104 848 stone
+559 104 849 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+559 104 850 cave_air
+559 104 851 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+559 104 852 stone
+559 104 853 stone
+559 104 854 copper_ore
+559 104 855 copper_ore
+559 104 856 stone
+fill 559 104 857 559 104 859 cave_air
+fill 559 104 860 559 104 881 stone
+fill 559 104 882 559 104 887 granite
+fill 559 104 888 559 104 895 gravel
+560 104 768 stone
+560 104 769 infested_stone
+560 104 770 infested_stone
+fill 560 104 771 560 104 776 stone
+560 104 789 stone
+560 104 799 diorite
+fill 560 104 800 560 104 815 stone
+560 104 816 coal_ore
+560 104 817 coal_ore
+fill 560 104 818 560 104 820 stone
+fill 560 104 821 560 104 823 cave_air
+fill 560 104 824 560 104 831 diorite
+fill 560 104 832 560 104 839 stone
+fill 560 104 840 560 104 846 diorite
+560 104 847 stone
+560 104 848 stone
+fill 560 104 849 560 104 851 cave_air
+560 104 852 stone
+560 104 853 stone
+560 104 854 copper_ore
+560 104 855 copper_ore
+560 104 856 stone
+560 104 857 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+560 104 858 cave_air
+560 104 859 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+fill 560 104 860 560 104 882 stone
+fill 560 104 883 560 104 891 granite
+fill 560 104 892 560 104 895 stone
+561 104 768 stone
+561 104 769 infested_stone
+561 104 770 infested_stone
+fill 561 104 771 561 104 777 stone
+561 104 788 stone
+561 104 789 stone
+fill 561 104 799 561 104 815 stone
+561 104 816 coal_ore
+561 104 817 coal_ore
+fill 561 104 818 561 104 820 stone
+561 104 821 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+561 104 822 cave_air
+561 104 823 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+fill 561 104 824 561 104 834 diorite
+fill 561 104 835 561 104 839 stone
+fill 561 104 840 561 104 846 diorite
+561 104 847 stone
+561 104 848 stone
+fill 561 104 849 561 104 851 cave_air
+fill 561 104 852 561 104 854 stone
+561 104 855 copper_ore
+561 104 856 stone
+fill 561 104 857 561 104 859 cave_air
+fill 561 104 860 561 104 882 stone
+fill 561 104 883 561 104 891 granite
+fill 561 104 892 561 104 895 stone
+fill 562 104 768 562 104 777 stone
+562 104 788 stone
+562 104 789 stone
+fill 562 104 800 562 104 815 stone
+562 104 816 coal_ore
+fill 562 104 817 562 104 820 stone
+fill 562 104 821 562 104 823 cave_air
+fill 562 104 824 562 104 835 diorite
+fill 562 104 836 562 104 839 stone
+fill 562 104 840 562 104 845 diorite
+fill 562 104 846 562 104 848 stone
+fill 562 104 849 562 104 851 cave_air
+fill 562 104 852 562 104 856 stone
+fill 562 104 857 562 104 859 cave_air
+fill 562 104 860 562 104 865 stone
+fill 562 104 866 562 104 869 coal_ore
+fill 562 104 870 562 104 883 stone
+fill 562 104 884 562 104 891 granite
+fill 562 104 892 562 104 895 stone
+fill 563 104 768 563 104 778 stone
+563 104 788 stone
+563 104 789 stone
+fill 563 104 800 563 104 820 stone
+fill 563 104 821 563 104 823 cave_air
+563 104 824 granite
+fill 563 104 825 563 104 833 diorite
+563 104 834 coal_ore
+563 104 835 coal_ore
+fill 563 104 836 563 104 844 diorite
+fill 563 104 845 563 104 848 stone
+fill 563 104 849 563 104 851 cave_air
+fill 563 104 852 563 104 856 stone
+fill 563 104 857 563 104 859 cave_air
+fill 563 104 860 563 104 865 stone
+fill 563 104 866 563 104 870 coal_ore
+fill 563 104 871 563 104 884 stone
+fill 563 104 885 563 104 891 granite
+fill 563 104 892 563 104 895 stone
+fill 564 104 768 564 104 778 stone
+564 104 779 water[level=8]
+564 104 780 water[level=1]
+564 104 788 stone
+564 104 789 stone
+fill 564 104 801 564 104 820 stone
+fill 564 104 821 564 104 823 cave_air
+564 104 824 granite
+564 104 825 granite
+fill 564 104 826 564 104 843 diorite
+564 104 844 stone
+564 104 845 stone
+fill 564 104 846 564 104 848 stone
+564 104 849 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+564 104 850 cave_air
+564 104 851 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+fill 564 104 852 564 104 855 stone
+564 104 856 cave_air
+564 104 857 oak_planks
+564 104 858 cave_air
+564 104 859 oak_planks
+564 104 860 cave_air
+fill 564 104 861 564 104 885 stone
+fill 564 104 886 564 104 891 granite
+fill 564 104 892 564 104 895 stone
+fill 565 104 768 565 104 778 stone
+565 104 779 water[level=8]
+565 104 780 water[level=1]
+565 104 781 water[level=2]
+565 104 788 stone
+565 104 789 stone
+fill 565 104 801 565 104 820 stone
+fill 565 104 821 565 104 823 cave_air
+fill 565 104 824 565 104 826 granite
+fill 565 104 827 565 104 841 diorite
+fill 565 104 842 565 104 848 stone
+fill 565 104 849 565 104 851 cave_air
+fill 565 104 852 565 104 855 stone
+fill 565 104 856 565 104 860 cave_air
+fill 565 104 861 565 104 888 stone
+565 104 889 granite
+565 104 890 granite
+fill 565 104 891 565 104 895 stone
+fill 566 104 768 566 104 779 stone
+566 104 780 water[level=8]
+566 104 781 water[level=1]
+fill 566 104 788 566 104 790 stone
+fill 566 104 802 566 104 820 stone
+566 104 821 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+566 104 822 cave_air
+566 104 823 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+fill 566 104 824 566 104 828 granite
+fill 566 104 829 566 104 836 diorite
+566 104 837 andesite
+566 104 838 andesite
+fill 566 104 839 566 104 841 diorite
+fill 566 104 842 566 104 848 stone
+fill 566 104 849 566 104 851 cave_air
+fill 566 104 852 566 104 855 stone
+566 104 856 cave_air
+566 104 857 oak_planks
+566 104 858 cave_air
+566 104 859 oak_planks
+566 104 860 cave_air
+fill 566 104 861 566 104 895 stone
+fill 567 104 768 567 104 779 stone
+fill 567 104 788 567 104 790 granite
+567 104 791 diorite
+fill 567 104 802 567 104 820 stone
+fill 567 104 821 567 104 823 cave_air
+fill 567 104 824 567 104 828 granite
+fill 567 104 829 567 104 836 diorite
+567 104 837 andesite
+567 104 838 andesite
+567 104 839 diorite
+567 104 840 diorite
+fill 567 104 841 567 104 856 stone
+fill 567 104 857 567 104 859 cave_air
+fill 567 104 860 567 104 895 stone
+fill 568 104 768 568 104 779 stone
+568 104 788 granite
+568 104 789 granite
+fill 568 104 790 568 104 798 diorite
+568 104 799 stone
+568 104 800 stone
+fill 568 104 802 568 104 808 stone
+568 104 809 granite
+568 104 810 granite
+fill 568 104 811 568 104 820 stone
+fill 568 104 821 568 104 823 cave_air
+fill 568 104 824 568 104 830 granite
+fill 568 104 831 568 104 835 diorite
+fill 568 104 836 568 104 838 andesite
+568 104 839 diorite
+568 104 840 diorite
+fill 568 104 841 568 104 895 stone
+fill 569 104 768 569 104 779 stone
+fill 569 104 788 569 104 790 granite
+fill 569 104 791 569 104 800 diorite
+fill 569 104 803 569 104 807 stone
+569 104 808 granite
+569 104 809 granite
+569 104 810 copper_ore
+569 104 811 copper_ore
+569 104 812 granite
+fill 569 104 813 569 104 823 stone
+fill 569 104 824 569 104 831 granite
+569 104 832 stone
+fill 569 104 833 569 104 836 diorite
+569 104 837 andesite
+569 104 838 andesite
+569 104 839 diorite
+fill 569 104 840 569 104 895 stone
+fill 570 104 768 570 104 780 stone
+fill 570 104 788 570 104 790 granite
+fill 570 104 791 570 104 800 diorite
+570 104 803 diorite
+fill 570 104 804 570 104 806 stone
+fill 570 104 807 570 104 813 granite
+fill 570 104 814 570 104 823 stone
+570 104 824 lapis_ore
+fill 570 104 825 570 104 831 granite
+fill 570 104 832 570 104 836 stone
+570 104 837 andesite
+570 104 838 andesite
+fill 570 104 839 570 104 849 stone
+fill 570 104 850 570 104 854 andesite
+fill 570 104 855 570 104 895 stone
+fill 571 104 768 571 104 780 stone
+fill 571 104 787 571 104 791 granite
+fill 571 104 792 571 104 804 diorite
+571 104 805 granite
+571 104 806 stone
+fill 571 104 807 571 104 813 granite
+fill 571 104 814 571 104 824 stone
+fill 571 104 825 571 104 830 granite
+fill 571 104 831 571 104 836 stone
+571 104 837 andesite
+571 104 838 andesite
+fill 571 104 839 571 104 849 stone
+fill 571 104 850 571 104 855 andesite
+fill 571 104 856 571 104 869 stone
+571 104 870 iron_ore
+571 104 871 iron_ore
+fill 571 104 872 571 104 895 stone
+fill 572 104 768 572 104 780 stone
+fill 572 104 787 572 104 793 granite
+fill 572 104 794 572 104 805 diorite
+fill 572 104 806 572 104 813 granite
+fill 572 104 814 572 104 825 stone
+fill 572 104 826 572 104 830 granite
+fill 572 104 831 572 104 835 stone
+fill 572 104 836 572 104 839 andesite
+fill 572 104 840 572 104 849 stone
+fill 572 104 850 572 104 856 andesite
+fill 572 104 857 572 104 869 stone
+572 104 870 iron_ore
+572 104 871 iron_ore
+fill 572 104 872 572 104 895 stone
+fill 573 104 768 573 104 780 stone
+fill 573 104 787 573 104 794 granite
+fill 573 104 795 573 104 806 diorite
+fill 573 104 807 573 104 814 granite
+fill 573 104 815 573 104 826 stone
+fill 573 104 827 573 104 830 granite
+fill 573 104 831 573 104 835 stone
+fill 573 104 836 573 104 839 andesite
+fill 573 104 840 573 104 849 stone
+fill 573 104 850 573 104 857 andesite
+fill 573 104 858 573 104 868 stone
+fill 573 104 869 573 104 895 stone
+fill 574 104 768 574 104 777 stone
+574 104 778 iron_ore
+574 104 779 stone
+574 104 780 stone
+574 104 786 stone
+fill 574 104 787 574 104 795 granite
+fill 574 104 796 574 104 806 diorite
+fill 574 104 807 574 104 814 granite
+fill 574 104 815 574 104 825 stone
+fill 574 104 826 574 104 828 cave_air
+574 104 829 granite
+574 104 830 granite
+fill 574 104 831 574 104 835 stone
+fill 574 104 836 574 104 839 andesite
+fill 574 104 840 574 104 849 stone
+fill 574 104 850 574 104 858 andesite
+fill 574 104 859 574 104 895 stone
+fill 575 104 768 575 104 782 stone
+575 104 783 copper_ore
+575 104 784 stone
+fill 575 104 786 575 104 796 stone
+fill 575 104 797 575 104 806 diorite
+fill 575 104 807 575 104 814 granite
+fill 575 104 815 575 104 825 stone
+fill 575 104 826 575 104 828 cave_air
+fill 575 104 829 575 104 836 stone
+fill 575 104 837 575 104 839 andesite
+fill 575 104 840 575 104 850 stone
+fill 575 104 851 575 104 859 andesite
+fill 575 104 860 575 104 895 stone
+576 104 768 gravel
+576 104 769 gravel
+fill 576 104 770 576 104 783 stone
+576 104 784 copper_ore
+fill 576 104 785 576 104 798 stone
+fill 576 104 799 576 104 806 diorite
+fill 576 104 807 576 104 814 granite
+576 104 815 stone
+576 104 816 stone
+fill 576 104 817 576 104 822 dirt
+fill 576 104 823 576 104 825 granite
+576 104 826 oak_planks
+576 104 827 cave_air
+576 104 828 oak_planks
+576 104 829 granite
+fill 576 104 830 576 104 850 stone
+fill 576 104 851 576 104 859 andesite
+fill 576 104 860 576 104 886 stone
+576 104 887 water[level=0]
+576 104 888 water[level=0]
+fill 576 104 889 576 104 895 stone
+fill 577 104 768 577 104 770 gravel
+fill 577 104 771 577 104 786 stone
+577 104 787 coal_ore
+577 104 788 stone
+577 104 789 stone
+577 104 790 iron_ore
+fill 577 104 791 577 104 800 stone
+fill 577 104 801 577 104 805 diorite
+fill 577 104 806 577 104 814 granite
+577 104 815 stone
+fill 577 104 816 577 104 822 dirt
+fill 577 104 823 577 104 825 granite
+fill 577 104 826 577 104 828 cave_air
+fill 577 104 829 577 104 833 granite
+fill 577 104 834 577 104 851 stone
+fill 577 104 852 577 104 860 andesite
+fill 577 104 861 577 104 886 stone
+fill 577 104 887 577 104 889 water[level=0]
+fill 577 104 890 577 104 895 stone
+578 104 768 gravel
+578 104 769 gravel
+fill 578 104 770 578 104 785 stone
+578 104 786 coal_ore
+578 104 787 coal_ore
+fill 578 104 788 578 104 795 stone
+fill 578 104 796 578 104 804 andesite
+fill 578 104 805 578 104 814 granite
+fill 578 104 815 578 104 822 dirt
+fill 578 104 823 578 104 825 granite
+578 104 826 cave_air
+578 104 827 cave_air
+fill 578 104 828 578 104 834 granite
+fill 578 104 835 578 104 851 stone
+fill 578 104 852 578 104 861 andesite
+fill 578 104 862 578 104 885 stone
+fill 578 104 886 578 104 890 water[level=0]
+fill 578 104 891 578 104 895 stone
+fill 579 104 768 579 104 770 gravel
+fill 579 104 771 579 104 785 stone
+579 104 786 coal_ore
+579 104 787 coal_ore
+fill 579 104 788 579 104 792 stone
+fill 579 104 793 579 104 806 andesite
+fill 579 104 807 579 104 814 granite
+579 104 815 stone
+fill 579 104 816 579 104 820 dirt
+fill 579 104 821 579 104 825 granite
+fill 579 104 826 579 104 828 cave_air
+579 104 829 granite
+579 104 830 granite
+579 104 831 dirt
+579 104 832 dirt
+579 104 833 copper_ore
+579 104 834 dirt
+579 104 835 granite
+579 104 836 granite
+fill 579 104 837 579 104 852 stone
+fill 579 104 853 579 104 861 andesite
+fill 579 104 862 579 104 885 stone
+fill 579 104 886 579 104 895 water[level=0]
+fill 580 104 768 580 104 770 gravel
+fill 580 104 771 580 104 783 stone
+580 104 784 diorite
+580 104 785 diorite
+fill 580 104 786 580 104 790 stone
+fill 580 104 791 580 104 807 andesite
+fill 580 104 808 580 104 814 granite
+fill 580 104 815 580 104 819 stone
+fill 580 104 820 580 104 825 granite
+fill 580 104 826 580 104 828 cave_air
+580 104 829 granite
+580 104 830 granite
+fill 580 104 831 580 104 833 dirt
+fill 580 104 834 580 104 836 granite

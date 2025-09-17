@@ -1,0 +1,680 @@
+340 146 772 snow[layers=1]
+340 146 773 snow[layers=1]
+341 146 768 dirt
+341 146 769 dirt
+341 146 770 grass_block[snowy=true]
+341 146 771 grass_block[snowy=true]
+341 146 772 snow[layers=1]
+342 146 768 dirt
+342 146 769 grass_block[snowy=true]
+342 146 770 grass_block[snowy=true]
+342 146 771 snow[layers=1]
+342 146 772 snow[layers=1]
+343 146 768 dirt
+343 146 769 grass_block[snowy=true]
+343 146 770 grass_block[snowy=true]
+343 146 771 snow[layers=1]
+343 146 772 snow[layers=1]
+344 146 768 dirt
+fill 344 146 769 344 146 771 grass_block[snowy=true]
+344 146 772 snow[layers=1]
+345 146 768 dirt
+345 146 769 dirt
+345 146 770 grass_block[snowy=true]
+345 146 771 grass_block[snowy=true]
+345 146 772 snow[layers=1]
+346 146 768 dirt
+346 146 769 dirt
+346 146 770 grass_block[snowy=true]
+346 146 771 grass_block[snowy=true]
+346 146 772 snow[layers=1]
+346 146 773 snow[layers=1]
+fill 347 146 768 347 146 770 dirt
+347 146 771 grass_block[snowy=true]
+347 146 772 grass_block[snowy=true]
+347 146 773 snow[layers=1]
+fill 348 146 768 348 146 771 dirt
+348 146 772 grass_block[snowy=true]
+348 146 773 snow[layers=1]
+348 146 774 snow[layers=1]
+fill 349 146 768 349 146 771 dirt
+349 146 772 grass_block[snowy=true]
+349 146 773 snow[layers=1]
+349 146 774 snow[layers=1]
+fill 350 146 768 350 146 772 dirt
+350 146 773 grass_block[snowy=true]
+350 146 774 snow[layers=1]
+351 146 768 stone
+fill 351 146 769 351 146 772 dirt
+351 146 773 grass_block[snowy=true]
+351 146 774 grass_block[snowy=true]
+351 146 775 snow[layers=1]
+fill 352 146 768 352 146 773 dirt
+352 146 774 grass_block[snowy=true]
+352 146 775 snow[layers=1]
+352 146 776 snow[layers=1]
+fill 353 146 768 353 146 773 dirt
+353 146 774 grass_block[snowy=true]
+353 146 775 grass_block[snowy=true]
+353 146 776 snow[layers=1]
+fill 354 146 768 354 146 774 dirt
+354 146 775 grass_block[snowy=true]
+354 146 776 snow[layers=1]
+fill 355 146 768 355 146 774 dirt
+355 146 775 grass_block[snowy=true]
+355 146 776 snow[layers=1]
+355 146 777 snow[layers=1]
+356 146 768 stone
+fill 356 146 769 356 146 774 dirt
+356 146 775 grass_block[snowy=true]
+356 146 776 grass_block[snowy=true]
+356 146 777 snow[layers=1]
+357 146 768 stone
+357 146 769 stone
+fill 357 146 770 357 146 775 dirt
+357 146 776 grass_block[snowy=true]
+357 146 777 snow[layers=1]
+358 146 768 stone
+358 146 769 stone
+fill 358 146 770 358 146 775 dirt
+358 146 776 grass_block[snowy=true]
+358 146 777 snow[layers=1]
+358 146 778 snow[layers=1]
+359 146 768 stone
+359 146 769 stone
+fill 359 146 770 359 146 775 dirt
+359 146 776 grass_block[snowy=true]
+359 146 777 snow[layers=1]
+360 146 768 stone
+360 146 769 stone
+fill 360 146 770 360 146 775 dirt
+360 146 776 grass_block[snowy=true]
+360 146 777 snow[layers=1]
+361 146 768 stone
+361 146 769 stone
+fill 361 146 770 361 146 775 dirt
+361 146 776 grass_block[snowy=true]
+361 146 777 snow[layers=1]
+362 146 768 stone
+362 146 769 stone
+fill 362 146 770 362 146 775 dirt
+362 146 776 grass_block[snowy=true]
+362 146 777 snow[layers=1]
+363 146 768 stone
+fill 363 146 769 363 146 775 dirt
+363 146 776 grass_block[snowy=true]
+fill 364 146 768 364 146 774 dirt
+364 146 775 grass_block[snowy=true]
+364 146 776 snow[layers=1]
+fill 365 146 768 365 146 774 dirt
+365 146 775 grass_block[snowy=true]
+365 146 776 snow[layers=1]
+fill 366 146 768 366 146 774 dirt
+366 146 775 grass_block[snowy=true]
+366 146 776 snow[layers=1]
+fill 367 146 768 367 146 774 dirt
+367 146 775 grass_block[snowy=true]
+367 146 776 snow[layers=1]
+fill 368 146 768 368 146 774 dirt
+368 146 775 grass_block[snowy=true]
+368 146 776 snow[layers=1]
+fill 369 146 768 369 146 774 dirt
+369 146 775 grass_block[snowy=true]
+369 146 776 grass_block[snowy=true]
+fill 369 146 777 369 146 781 snow[layers=1]
+fill 370 146 768 370 146 774 dirt
+370 146 775 grass_block[snowy=true]
+370 146 776 grass_block[snowy=true]
+370 146 777 snow[layers=1]
+370 146 778 short_grass
+370 146 779 snow[layers=1]
+370 146 780 short_grass
+370 146 781 snow[layers=1]
+fill 371 146 768 371 146 774 dirt
+371 146 775 grass_block[snowy=true]
+371 146 776 grass_block[snowy=false]
+fill 371 146 777 371 146 780 snow[layers=1]
+371 146 781 short_grass
+fill 372 146 768 372 146 774 dirt
+372 146 775 grass_block[snowy=true]
+372 146 776 grass_block[snowy=true]
+372 146 777 snow[layers=1]
+372 146 778 snow[layers=1]
+372 146 779 short_grass
+372 146 780 snow[layers=1]
+372 146 781 short_grass
+fill 373 146 768 373 146 773 dirt
+fill 373 146 774 373 146 776 grass_block[snowy=true]
+fill 373 146 777 373 146 781 snow[layers=1]
+fill 374 146 768 374 146 773 dirt
+374 146 774 grass_block[snowy=true]
+374 146 775 grass_block[snowy=true]
+fill 374 146 776 374 146 781 snow[layers=1]
+fill 375 146 768 375 146 772 dirt
+fill 375 146 773 375 146 775 grass_block[snowy=true]
+fill 375 146 776 375 146 781 snow[layers=1]
+fill 376 146 768 376 146 771 dirt
+fill 376 146 772 376 146 774 grass_block[snowy=true]
+fill 376 146 775 376 146 777 snow[layers=1]
+376 146 778 short_grass
+376 146 779 snow[layers=1]
+376 146 780 snow[layers=1]
+377 146 768 dirt
+377 146 769 dirt
+fill 377 146 770 377 146 772 grass_block[snowy=true]
+fill 377 146 773 377 146 780 snow[layers=1]
+378 146 768 snow[layers=1]
+378 146 769 grass_block[snowy=true]
+fill 378 146 770 378 146 772 snow[layers=1]
+fill 378 146 774 378 146 776 snow[layers=1]
+378 146 777 grass_block[snowy=true]
+378 146 778 snow[layers=1]
+378 146 779 snow[layers=1]
+fill 379 146 768 379 146 779 snow[layers=1]
+fill 380 146 771 380 146 778 snow[layers=1]
+fill 381 146 773 381 146 777 snow[layers=1]
+382 146 773 snow[layers=1]
+382 146 774 snow[layers=1]
+383 146 773 snow[layers=1]
+383 146 774 snow[layers=1]
+293 147 768 snow[layers=1]
+294 147 768 snow[layers=1]
+294 147 769 snow[layers=1]
+295 147 768 grass_block[snowy=false]
+fill 295 147 769 295 147 771 snow[layers=1]
+296 147 768 grass_block[snowy=true]
+fill 296 147 769 296 147 772 snow[layers=1]
+297 147 768 grass_block[snowy=true]
+297 147 769 grass_block[snowy=true]
+fill 297 147 770 297 147 772 snow[layers=1]
+298 147 768 dirt
+298 147 769 grass_block[snowy=true]
+298 147 770 grass_block[snowy=true]
+fill 298 147 771 298 147 773 snow[layers=1]
+299 147 768 dirt
+299 147 769 dirt
+299 147 770 grass_block[snowy=true]
+299 147 771 grass_block[snowy=true]
+299 147 772 snow[layers=1]
+299 147 773 snow[layers=1]
+fill 300 147 768 300 147 770 dirt
+300 147 771 grass_block[snowy=true]
+300 147 772 grass_block[snowy=true]
+300 147 773 snow[layers=1]
+300 147 774 snow[layers=1]
+fill 301 147 768 301 147 770 dirt
+301 147 771 grass_block[snowy=true]
+301 147 772 grass_block[snowy=true]
+301 147 773 snow[layers=1]
+301 147 774 snow[layers=1]
+fill 302 147 768 302 147 771 dirt
+302 147 772 grass_block[snowy=true]
+302 147 773 snow[layers=1]
+302 147 774 snow[layers=1]
+fill 303 147 768 303 147 771 dirt
+303 147 772 grass_block[snowy=true]
+303 147 773 snow[layers=1]
+303 147 774 snow[layers=1]
+fill 304 147 768 304 147 771 dirt
+304 147 772 grass_block[snowy=true]
+304 147 773 snow[layers=1]
+304 147 774 snow[layers=1]
+305 147 768 stone
+fill 305 147 769 305 147 771 dirt
+305 147 772 grass_block[snowy=true]
+305 147 773 snow[layers=1]
+305 147 774 snow[layers=1]
+306 147 768 stone
+fill 306 147 769 306 147 771 dirt
+306 147 772 grass_block[snowy=true]
+306 147 773 snow[layers=1]
+307 147 768 stone
+fill 307 147 769 307 147 771 dirt
+307 147 772 grass_block[snowy=true]
+307 147 773 snow[layers=1]
+307 147 774 snow[layers=1]
+308 147 768 stone
+fill 308 147 769 308 147 771 dirt
+308 147 772 grass_block[snowy=true]
+308 147 773 snow[layers=1]
+308 147 774 snow[layers=1]
+309 147 768 stone
+309 147 769 stone
+fill 309 147 770 309 147 772 dirt
+309 147 773 grass_block[snowy=true]
+309 147 774 snow[layers=1]
+309 147 775 snow[layers=1]
+fill 310 147 768 310 147 770 stone
+310 147 771 dirt
+310 147 772 dirt
+310 147 773 grass_block[snowy=true]
+310 147 774 grass_block[snowy=true]
+310 147 775 snow[layers=1]
+fill 311 147 768 311 147 770 stone
+311 147 771 dirt
+311 147 772 dirt
+311 147 773 grass_block[snowy=true]
+311 147 774 snow[layers=1]
+312 147 768 stone
+312 147 769 stone
+312 147 770 dirt
+312 147 771 dirt
+312 147 772 grass_block[snowy=true]
+312 147 773 snow[layers=1]
+312 147 774 snow[layers=1]
+313 147 768 stone
+313 147 769 stone
+313 147 770 dirt
+313 147 771 dirt
+313 147 772 grass_block[snowy=true]
+313 147 773 snow[layers=1]
+314 147 768 stone
+314 147 769 dirt
+314 147 770 dirt
+314 147 771 grass_block[snowy=false]
+314 147 772 snow[layers=1]
+314 147 773 snow[layers=1]
+315 147 768 stone
+315 147 769 dirt
+315 147 770 dirt
+315 147 771 grass_block[snowy=true]
+315 147 772 snow[layers=1]
+315 147 773 snow[layers=1]
+316 147 768 dirt
+316 147 769 dirt
+316 147 770 grass_block[snowy=true]
+316 147 771 grass_block[snowy=true]
+316 147 772 snow[layers=1]
+316 147 773 snow[layers=1]
+317 147 768 dirt
+317 147 769 dirt
+317 147 770 grass_block[snowy=true]
+317 147 771 grass_block[snowy=true]
+317 147 772 snow[layers=1]
+317 147 773 snow[layers=1]
+318 147 768 dirt
+318 147 769 dirt
+318 147 770 grass_block[snowy=true]
+318 147 771 grass_block[snowy=true]
+318 147 772 snow[layers=1]
+318 147 773 snow[layers=1]
+319 147 768 dirt
+319 147 769 dirt
+fill 319 147 770 319 147 772 grass_block[snowy=true]
+319 147 773 snow[layers=1]
+319 147 774 snow[layers=1]
+fill 320 147 768 320 147 770 dirt
+fill 320 147 771 320 147 773 grass_block[snowy=true]
+320 147 774 snow[layers=1]
+320 147 775 snow[layers=1]
+321 147 768 stone
+fill 321 147 769 321 147 772 dirt
+321 147 773 grass_block[snowy=true]
+321 147 774 grass_block[snowy=true]
+321 147 775 snow[layers=1]
+321 147 806 spruce_log[axis=y]
+322 147 768 stone
+fill 322 147 769 322 147 773 dirt
+322 147 774 grass_block[snowy=true]
+322 147 775 snow[layers=1]
+322 147 776 snow[layers=1]
+323 147 768 stone
+fill 323 147 769 323 147 772 dirt
+323 147 773 grass_block[snowy=true]
+323 147 774 grass_block[snowy=true]
+323 147 775 snow[layers=1]
+323 147 776 snow[layers=1]
+324 147 768 stone
+324 147 769 stone
+fill 324 147 770 324 147 772 dirt
+324 147 773 grass_block[snowy=true]
+324 147 774 grass_block[snowy=true]
+324 147 775 snow[layers=1]
+325 147 768 stone
+325 147 769 stone
+325 147 770 dirt
+325 147 771 dirt
+325 147 772 grass_block[snowy=true]
+325 147 773 grass_block[snowy=false]
+325 147 774 grass_block[snowy=true]
+325 147 775 snow[layers=1]
+326 147 768 stone
+326 147 769 stone
+326 147 770 dirt
+326 147 771 dirt
+326 147 772 grass_block[snowy=true]
+326 147 773 grass_block[snowy=false]
+326 147 774 snow[layers=1]
+326 147 775 snow[layers=1]
+327 147 768 stone
+327 147 769 stone
+327 147 770 dirt
+327 147 771 dirt
+327 147 772 grass_block[snowy=true]
+327 147 773 grass_block[snowy=true]
+327 147 774 snow[layers=1]
+327 147 775 snow[layers=1]
+328 147 768 stone
+328 147 769 stone
+328 147 770 dirt
+328 147 771 dirt
+328 147 772 grass_block[snowy=true]
+328 147 773 grass_block[snowy=true]
+328 147 774 snow[layers=1]
+328 147 775 snow[layers=1]
+329 147 768 stone
+329 147 769 stone
+fill 329 147 770 329 147 772 dirt
+329 147 773 grass_block[snowy=true]
+329 147 774 grass_block[snowy=true]
+329 147 775 snow[layers=1]
+330 147 768 stone
+330 147 769 stone
+fill 330 147 770 330 147 772 dirt
+330 147 773 grass_block[snowy=true]
+330 147 774 grass_block[snowy=true]
+330 147 775 snow[layers=1]
+fill 331 147 768 331 147 771 dirt
+331 147 772 grass_block[snowy=true]
+331 147 773 grass_block[snowy=true]
+331 147 774 snow[layers=1]
+331 147 775 snow[layers=1]
+fill 332 147 768 332 147 770 dirt
+fill 332 147 771 332 147 773 grass_block[snowy=true]
+332 147 774 snow[layers=1]
+332 147 775 snow[layers=1]
+fill 333 147 768 333 147 770 dirt
+333 147 771 grass_block[snowy=true]
+333 147 772 grass_block[snowy=true]
+333 147 773 snow[layers=1]
+333 147 774 snow[layers=1]
+334 147 768 dirt
+334 147 769 dirt
+fill 334 147 770 334 147 772 grass_block[snowy=true]
+334 147 773 snow[layers=1]
+334 147 774 snow[layers=1]
+335 147 768 dirt
+fill 335 147 769 335 147 771 grass_block[snowy=true]
+335 147 772 snow[layers=1]
+335 147 773 snow[layers=1]
+336 147 768 dirt
+fill 336 147 769 336 147 771 grass_block[snowy=true]
+336 147 772 snow[layers=1]
+336 147 773 snow[layers=1]
+337 147 768 dirt
+337 147 769 grass_block[snowy=true]
+337 147 770 grass_block[snowy=true]
+fill 337 147 771 337 147 773 snow[layers=1]
+338 147 768 dirt
+338 147 769 grass_block[snowy=true]
+338 147 770 grass_block[snowy=true]
+338 147 771 snow[layers=1]
+338 147 772 snow[layers=1]
+fill 339 147 768 339 147 770 grass_block[snowy=true]
+339 147 771 snow[layers=1]
+339 147 772 snow[layers=1]
+340 147 768 grass_block[snowy=true]
+340 147 769 grass_block[snowy=true]
+340 147 770 snow[layers=1]
+340 147 771 snow[layers=1]
+341 147 768 grass_block[snowy=true]
+341 147 769 grass_block[snowy=true]
+341 147 770 snow[layers=1]
+341 147 771 snow[layers=1]
+342 147 768 grass_block[snowy=true]
+342 147 769 snow[layers=1]
+342 147 770 snow[layers=1]
+343 147 768 grass_block[snowy=true]
+343 147 769 snow[layers=1]
+343 147 770 snow[layers=1]
+344 147 768 grass_block[snowy=true]
+fill 344 147 769 344 147 771 snow[layers=1]
+345 147 768 grass_block[snowy=true]
+345 147 769 grass_block[snowy=true]
+345 147 770 snow[layers=1]
+345 147 771 snow[layers=1]
+346 147 768 grass_block[snowy=true]
+346 147 769 grass_block[snowy=true]
+346 147 770 snow[layers=1]
+346 147 771 snow[layers=1]
+347 147 768 dirt
+347 147 769 grass_block[snowy=true]
+347 147 770 grass_block[snowy=true]
+347 147 771 snow[layers=1]
+347 147 772 snow[layers=1]
+348 147 768 dirt
+348 147 769 dirt
+348 147 770 grass_block[snowy=true]
+348 147 771 grass_block[snowy=true]
+348 147 772 snow[layers=1]
+349 147 768 dirt
+349 147 769 dirt
+349 147 770 grass_block[snowy=true]
+349 147 771 grass_block[snowy=true]
+349 147 772 snow[layers=1]
+fill 350 147 768 350 147 770 dirt
+350 147 771 grass_block[snowy=true]
+350 147 772 grass_block[snowy=true]
+350 147 773 snow[layers=1]
+fill 351 147 768 351 147 771 dirt
+351 147 772 grass_block[snowy=true]
+351 147 773 snow[layers=1]
+351 147 774 snow[layers=1]
+fill 352 147 768 352 147 771 dirt
+352 147 772 grass_block[snowy=true]
+352 147 773 grass_block[snowy=true]
+352 147 774 snow[layers=1]
+fill 353 147 768 353 147 772 dirt
+353 147 773 grass_block[snowy=true]
+353 147 774 snow[layers=1]
+353 147 775 snow[layers=1]
+fill 354 147 768 354 147 772 dirt
+354 147 773 grass_block[snowy=true]
+354 147 774 grass_block[snowy=true]
+354 147 775 snow[layers=1]
+fill 355 147 768 355 147 773 dirt
+355 147 774 grass_block[snowy=true]
+355 147 775 snow[layers=1]
+fill 356 147 768 356 147 773 dirt
+356 147 774 grass_block[snowy=true]
+356 147 775 snow[layers=1]
+356 147 776 snow[layers=1]
+fill 357 147 768 357 147 773 dirt
+357 147 774 grass_block[snowy=true]
+357 147 775 grass_block[snowy=true]
+357 147 776 snow[layers=1]
+fill 358 147 768 358 147 773 dirt
+358 147 774 grass_block[snowy=true]
+358 147 775 grass_block[snowy=true]
+358 147 776 snow[layers=1]
+fill 359 147 768 359 147 773 dirt
+359 147 774 grass_block[snowy=true]
+359 147 775 grass_block[snowy=true]
+359 147 776 snow[layers=1]
+fill 360 147 768 360 147 773 dirt
+360 147 774 grass_block[snowy=true]
+360 147 775 grass_block[snowy=true]
+360 147 776 snow[layers=1]
+fill 361 147 768 361 147 773 dirt
+361 147 774 grass_block[snowy=true]
+361 147 775 grass_block[snowy=true]
+361 147 776 snow[layers=1]
+fill 362 147 768 362 147 773 dirt
+362 147 774 grass_block[snowy=true]
+362 147 775 grass_block[snowy=true]
+362 147 776 snow[layers=1]
+fill 363 147 768 363 147 773 dirt
+363 147 774 grass_block[snowy=true]
+363 147 775 grass_block[snowy=true]
+363 147 776 snow[layers=1]
+fill 364 147 768 364 147 773 dirt
+364 147 774 grass_block[snowy=true]
+364 147 775 snow[layers=1]
+fill 365 147 768 365 147 773 dirt
+365 147 774 grass_block[snowy=true]
+365 147 775 snow[layers=1]
+fill 366 147 768 366 147 773 dirt
+366 147 774 grass_block[snowy=true]
+366 147 775 snow[layers=1]
+fill 367 147 768 367 147 773 dirt
+367 147 774 grass_block[snowy=true]
+367 147 775 snow[layers=1]
+fill 368 147 768 368 147 773 dirt
+368 147 774 grass_block[snowy=true]
+368 147 775 snow[layers=1]
+fill 369 147 768 369 147 773 dirt
+369 147 774 grass_block[snowy=true]
+369 147 775 snow[layers=1]
+369 147 776 snow[layers=1]
+fill 370 147 768 370 147 772 dirt
+370 147 773 grass_block[snowy=true]
+370 147 774 grass_block[snowy=true]
+370 147 775 snow[layers=1]
+370 147 776 snow[layers=1]
+fill 371 147 768 371 147 772 dirt
+371 147 773 grass_block[snowy=true]
+371 147 774 grass_block[snowy=true]
+371 147 775 snow[layers=1]
+371 147 776 short_grass
+fill 372 147 768 372 147 772 dirt
+372 147 773 grass_block[snowy=true]
+372 147 774 grass_block[snowy=true]
+372 147 775 snow[layers=1]
+372 147 776 snow[layers=1]
+fill 373 147 768 373 147 771 dirt
+373 147 772 grass_block[snowy=true]
+373 147 773 grass_block[snowy=true]
+fill 373 147 774 373 147 776 snow[layers=1]
+fill 374 147 768 374 147 771 dirt
+374 147 772 grass_block[snowy=true]
+374 147 773 grass_block[snowy=true]
+374 147 774 snow[layers=1]
+374 147 775 snow[layers=1]
+fill 375 147 768 375 147 770 dirt
+375 147 771 grass_block[snowy=true]
+375 147 772 grass_block[snowy=true]
+fill 375 147 773 375 147 775 snow[layers=1]
+376 147 768 dirt
+376 147 769 dirt
+376 147 770 grass_block[snowy=true]
+376 147 771 grass_block[snowy=true]
+376 147 772 snow[layers=1]
+376 147 773 snow[layers=1]
+376 147 774 snow[layers=1]
+377 147 768 grass_block[snowy=true]
+377 147 769 grass_block[snowy=true]
+fill 377 147 770 377 147 772 snow[layers=1]
+378 147 769 snow[layers=1]
+378 147 777 snow[layers=1]
+295 148 768 short_grass
+296 148 768 snow[layers=1]
+297 148 768 snow[layers=1]
+297 148 769 snow[layers=1]
+298 148 768 grass_block[snowy=true]
+298 148 769 snow[layers=1]
+298 148 770 snow[layers=1]
+299 148 768 grass_block[snowy=true]
+299 148 769 grass_block[snowy=true]
+299 148 770 snow[layers=1]
+299 148 771 snow[layers=1]
+300 148 768 dirt
+300 148 769 grass_block[snowy=true]
+300 148 770 grass_block[snowy=true]
+300 148 771 snow[layers=1]
+300 148 772 snow[layers=1]
+301 148 768 dirt
+301 148 769 grass_block[snowy=true]
+301 148 770 grass_block[snowy=true]
+301 148 771 snow[layers=1]
+301 148 772 snow[layers=1]
+302 148 768 dirt
+302 148 769 dirt
+302 148 770 grass_block[snowy=true]
+302 148 771 grass_block[snowy=true]
+302 148 772 snow[layers=1]
+303 148 768 dirt
+303 148 769 dirt
+303 148 770 grass_block[snowy=true]
+303 148 771 grass_block[snowy=true]
+303 148 772 snow[layers=1]
+304 148 768 dirt
+304 148 769 dirt
+304 148 770 grass_block[snowy=true]
+304 148 771 grass_block[snowy=true]
+304 148 772 snow[layers=1]
+305 148 768 dirt
+305 148 769 dirt
+305 148 770 grass_block[snowy=true]
+305 148 771 grass_block[snowy=true]
+305 148 772 snow[layers=1]
+fill 306 148 768 306 148 770 dirt
+306 148 771 grass_block[snowy=true]
+306 148 772 snow[layers=1]
+fill 307 148 768 307 148 770 dirt
+307 148 771 grass_block[snowy=true]
+307 148 772 snow[layers=1]
+308 148 768 stone
+308 148 769 dirt
+308 148 770 dirt
+308 148 771 grass_block[snowy=true]
+308 148 772 snow[layers=1]
+309 148 768 stone
+309 148 769 dirt
+309 148 770 dirt
+309 148 771 grass_block[snowy=true]
+309 148 772 grass_block[snowy=true]
+309 148 773 snow[layers=1]
+310 148 768 stone
+310 148 769 stone
+310 148 770 dirt
+310 148 771 dirt
+310 148 772 grass_block[snowy=true]
+310 148 773 snow[layers=1]
+310 148 774 snow[layers=1]
+311 148 768 stone
+311 148 769 dirt
+311 148 770 dirt
+311 148 771 grass_block[snowy=true]
+311 148 772 grass_block[snowy=true]
+311 148 773 snow[layers=1]
+312 148 768 dirt
+312 148 769 dirt
+312 148 770 grass_block[snowy=true]
+312 148 771 grass_block[snowy=true]
+312 148 772 snow[layers=1]
+313 148 768 dirt
+313 148 769 dirt
+313 148 770 grass_block[snowy=true]
+313 148 771 grass_block[snowy=true]
+313 148 772 snow[layers=1]
+314 148 768 dirt
+314 148 769 grass_block[snowy=true]
+314 148 770 grass_block[snowy=false]
+314 148 771 short_grass
+315 148 768 dirt
+315 148 769 grass_block[snowy=true]
+315 148 770 grass_block[snowy=true]
+315 148 771 snow[layers=1]
+316 148 768 grass_block[snowy=true]
+316 148 769 grass_block[snowy=false]
+316 148 770 snow[layers=1]
+316 148 771 snow[layers=1]
+317 148 768 grass_block[snowy=true]
+317 148 769 grass_block[snowy=true]
+317 148 770 snow[layers=1]
+317 148 771 snow[layers=1]
+318 148 768 grass_block[snowy=true]
+318 148 769 grass_block[snowy=false]
+318 148 770 snow[layers=1]
+318 148 771 snow[layers=1]
+319 148 768 grass_block[snowy=true]
+319 148 769 grass_block[snowy=true]
+fill 319 148 770 319 148 772 snow[layers=1]
+fill 320 148 768 320 148 770 grass_block[snowy=true]
+fill 320 148 771 320 148 773 snow[layers=1]
+320 148 806 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+321 148 768 dirt
+fill 321 148 769 321 148 772 grass_block[snowy=true]
+321 148 773 snow[layers=1]
+321 148 774 snow[layers=1]
+321 148 805 spruce_leaves[distance=2,persistent=false,waterlogged=false]

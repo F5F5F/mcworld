@@ -1,0 +1,471 @@
+432 20 577 deepslate_tile_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+432 20 578 gray_wool
+432 20 579 gray_wool
+432 20 586 gray_wool
+432 20 587 gray_wool
+432 20 588 deepslate_tile_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+fill 432 20 589 432 20 592 deepslate[axis=y]
+fill 432 20 593 432 20 596 water[level=0]
+fill 432 20 597 432 20 599 deepslate[axis=y]
+432 20 600 tuff
+432 20 601 tuff
+fill 432 20 603 432 20 611 tuff
+fill 432 20 612 432 20 617 deepslate[axis=y]
+432 20 619 deepslate[axis=y]
+432 20 620 gravel
+432 20 621 gravel
+fill 432 20 622 432 20 627 deepslate[axis=y]
+fill 432 20 628 432 20 630 tuff
+fill 432 20 631 432 20 639 deepslate[axis=y]
+fill 433 20 512 433 20 524 deepslate[axis=y]
+fill 433 20 525 433 20 527 tuff
+fill 433 20 528 433 20 546 deepslate[axis=y]
+433 20 574 deepslate_bricks
+433 20 577 cracked_deepslate_bricks
+433 20 578 cracked_deepslate_bricks
+433 20 579 deepslate_bricks
+433 20 580 deepslate_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+433 20 585 deepslate_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+433 20 586 cracked_deepslate_bricks
+433 20 587 deepslate_bricks
+433 20 588 cracked_deepslate_bricks
+433 20 589 deepslate[axis=y]
+433 20 590 water[level=0]
+433 20 591 deepslate_bricks
+fill 433 20 592 433 20 597 water[level=0]
+fill 433 20 598 433 20 600 deepslate[axis=y]
+fill 433 20 601 433 20 608 tuff
+fill 433 20 620 433 20 626 deepslate[axis=y]
+fill 433 20 627 433 20 631 tuff
+fill 433 20 632 433 20 639 deepslate[axis=y]
+fill 434 20 512 434 20 533 deepslate[axis=y]
+434 20 534 sculk
+fill 434 20 535 434 20 541 deepslate[axis=y]
+fill 434 20 542 434 20 544 sculk
+434 20 545 deepslate[axis=y]
+434 20 546 deepslate[axis=y]
+434 20 577 cracked_deepslate_bricks
+434 20 579 deepslate_bricks
+434 20 586 deepslate_bricks
+434 20 587 deepslate_bricks
+434 20 588 deepslate[axis=y]
+434 20 589 deepslate[axis=y]
+fill 434 20 590 434 20 599 water[level=0]
+434 20 600 deepslate[axis=y]
+434 20 601 deepslate[axis=y]
+fill 434 20 602 434 20 606 tuff
+434 20 625 deepslate[axis=y]
+434 20 626 deepslate[axis=y]
+fill 434 20 627 434 20 631 tuff
+fill 434 20 632 434 20 639 deepslate[axis=y]
+fill 435 20 512 435 20 528 deepslate[axis=y]
+fill 435 20 529 435 20 531 sculk
+435 20 532 sculk_vein[down=false,east=false,north=false,south=false,up=false,waterlogged=false,west=true]
+435 20 533 sculk_vein[down=false,east=false,north=false,south=false,up=false,waterlogged=false,west=true]
+435 20 535 sculk
+435 20 536 deepslate[axis=y]
+435 20 537 deepslate[axis=y]
+fill 435 20 538 435 20 541 sculk
+435 20 545 sculk_vein[down=false,east=false,north=false,south=false,up=false,waterlogged=false,west=true]
+435 20 588 deepslate[axis=y]
+435 20 589 deepslate[axis=y]
+fill 435 20 590 435 20 600 water[level=0]
+fill 435 20 601 435 20 605 deepslate[axis=y]
+fill 435 20 627 435 20 632 tuff
+fill 435 20 633 435 20 639 deepslate[axis=y]
+436 20 512 tuff
+fill 436 20 513 436 20 527 deepslate[axis=y]
+436 20 528 sculk
+436 20 536 sculk_vein[down=false,east=false,north=false,south=false,up=false,waterlogged=false,west=true]
+436 20 537 sculk_vein[down=false,east=false,north=false,south=false,up=false,waterlogged=false,west=true]
+436 20 588 deepslate[axis=y]
+436 20 589 deepslate[axis=y]
+fill 436 20 590 436 20 602 water[level=0]
+436 20 603 deepslate[axis=y]
+436 20 604 deepslate[axis=y]
+fill 436 20 630 436 20 632 tuff
+fill 436 20 633 436 20 639 deepslate[axis=y]
+fill 437 20 517 437 20 526 deepslate[axis=y]
+437 20 527 sculk
+437 20 588 deepslate[axis=y]
+437 20 589 deepslate[axis=y]
+fill 437 20 590 437 20 602 water[level=0]
+437 20 603 deepslate[axis=y]
+437 20 632 tuff
+437 20 633 tuff
+fill 437 20 634 437 20 639 deepslate[axis=y]
+438 20 518 tuff
+fill 438 20 519 438 20 525 deepslate[axis=y]
+438 20 526 sculk
+438 20 588 deepslate[axis=y]
+438 20 589 deepslate[axis=y]
+fill 438 20 590 438 20 601 water[level=0]
+438 20 602 deepslate[axis=y]
+438 20 603 polished_deepslate
+fill 438 20 635 438 20 639 deepslate[axis=y]
+439 20 519 tuff
+439 20 520 tuff
+fill 439 20 521 439 20 525 deepslate[axis=y]
+439 20 526 sculk
+439 20 588 deepslate[axis=y]
+439 20 589 deepslate[axis=y]
+fill 439 20 590 439 20 601 water[level=0]
+439 20 602 deepslate[axis=y]
+439 20 603 deepslate[axis=y]
+439 20 636 deepslate[axis=y]
+439 20 637 deepslate[axis=y]
+439 20 638 gravel
+439 20 639 deepslate[axis=y]
+440 20 520 tuff
+440 20 521 tuff
+fill 440 20 522 440 20 524 deepslate[axis=y]
+440 20 525 sculk
+440 20 587 sculk_vein[down=false,east=false,north=false,south=true,up=false,waterlogged=false,west=false]
+440 20 588 deepslate[axis=y]
+440 20 589 deepslate[axis=y]
+fill 440 20 590 440 20 601 water[level=0]
+440 20 602 deepslate[axis=y]
+440 20 603 deepslate[axis=y]
+440 20 636 gravel
+440 20 637 deepslate[axis=y]
+440 20 638 gravel
+440 20 639 deepslate[axis=y]
+fill 441 20 520 441 20 522 tuff
+441 20 523 deepslate[axis=y]
+441 20 524 deepslate[axis=y]
+441 20 525 sculk
+441 20 536 deepslate[axis=y]
+441 20 537 deepslate[axis=y]
+441 20 551 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+441 20 587 sculk_vein[down=false,east=false,north=false,south=true,up=false,waterlogged=false,west=false]
+441 20 588 deepslate[axis=y]
+441 20 589 deepslate[axis=y]
+fill 441 20 590 441 20 601 water[level=0]
+441 20 602 gravel
+441 20 603 deepslate[axis=y]
+fill 441 20 636 441 20 639 deepslate[axis=y]
+fill 442 20 520 442 20 522 tuff
+442 20 523 deepslate[axis=y]
+442 20 524 deepslate[axis=y]
+442 20 525 sculk
+442 20 588 deepslate[axis=y]
+442 20 589 deepslate[axis=y]
+fill 442 20 590 442 20 601 water[level=0]
+442 20 602 gravel
+442 20 603 tuff
+fill 442 20 636 442 20 639 deepslate[axis=y]
+fill 443 20 520 443 20 522 tuff
+443 20 523 deepslate[axis=y]
+443 20 524 deepslate[axis=y]
+443 20 525 sculk
+443 20 588 deepslate[axis=y]
+443 20 589 deepslate[axis=y]
+fill 443 20 590 443 20 601 water[level=0]
+443 20 602 tuff
+443 20 603 tuff
+fill 443 20 636 443 20 639 deepslate[axis=y]
+444 20 520 tuff
+444 20 521 tuff
+fill 444 20 522 444 20 524 deepslate[axis=y]
+444 20 525 sculk
+444 20 551 cracked_deepslate_tiles
+444 20 588 deepslate[axis=y]
+444 20 589 deepslate[axis=y]
+fill 444 20 590 444 20 601 water[level=0]
+444 20 602 tuff
+444 20 603 deepslate_redstone_ore[lit=false]
+fill 444 20 636 444 20 639 deepslate[axis=y]
+445 20 519 sculk_vein[down=false,east=false,north=false,south=true,up=false,waterlogged=false,west=false]
+fill 445 20 520 445 20 524 deepslate[axis=y]
+445 20 525 sculk
+445 20 551 cracked_deepslate_tiles
+445 20 587 sculk_vein[down=false,east=false,north=false,south=true,up=false,waterlogged=false,west=false]
+445 20 588 deepslate[axis=y]
+445 20 589 deepslate[axis=y]
+fill 445 20 590 445 20 601 water[level=0]
+445 20 602 deepslate[axis=y]
+fill 445 20 636 445 20 639 deepslate[axis=y]
+446 20 520 sculk
+fill 446 20 521 446 20 524 deepslate[axis=y]
+446 20 525 sculk
+446 20 532 deepslate_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+446 20 563 soul_lantern[hanging=false,waterlogged=false]
+446 20 587 sculk_vein[down=false,east=true,north=false,south=true,up=false,waterlogged=false,west=false]
+446 20 588 deepslate[axis=y]
+446 20 589 deepslate[axis=y]
+fill 446 20 590 446 20 600 water[level=0]
+446 20 601 deepslate[axis=y]
+446 20 602 deepslate[axis=y]
+fill 446 20 636 446 20 639 deepslate[axis=y]
+447 20 520 sculk
+fill 447 20 521 447 20 524 deepslate[axis=y]
+447 20 525 sculk
+447 20 532 deepslate_tiles
+447 20 533 soul_fire
+447 20 587 cracked_deepslate_tiles
+447 20 588 deepslate_tiles
+447 20 589 deepslate[axis=y]
+fill 447 20 590 447 20 599 water[level=0]
+447 20 600 deepslate[axis=y]
+447 20 601 deepslate[axis=y]
+fill 447 20 636 447 20 639 deepslate[axis=y]
+448 20 520 sculk
+fill 448 20 521 448 20 524 deepslate[axis=y]
+448 20 525 sculk
+448 20 532 deepslate_tiles
+448 20 533 deepslate_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+448 20 534 white_candle[candles=3,lit=true,waterlogged=false]
+fill 448 20 587 448 20 596 deepslate[axis=y]
+448 20 597 water[level=0]
+448 20 598 water[level=0]
+448 20 599 deepslate[axis=y]
+448 20 600 deepslate[axis=y]
+fill 448 20 636 448 20 639 deepslate[axis=y]
+449 20 520 sculk
+fill 449 20 521 449 20 524 deepslate[axis=y]
+449 20 525 sculk
+449 20 532 deepslate_tiles
+449 20 533 cracked_deepslate_bricks
+fill 449 20 593 449 20 598 deepslate[axis=y]
+fill 449 20 636 449 20 639 deepslate[axis=y]
+450 20 520 sculk
+fill 450 20 521 450 20 524 deepslate[axis=y]
+450 20 525 sculk
+450 20 532 deepslate_tiles
+450 20 533 deepslate_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+fill 450 20 636 450 20 639 deepslate[axis=y]
+451 20 521 sculk
+fill 451 20 522 451 20 524 deepslate[axis=y]
+451 20 525 sculk
+451 20 532 deepslate_tiles
+451 20 533 soul_fire
+fill 451 20 636 451 20 639 deepslate[axis=y]
+fill 452 20 522 452 20 524 sculk
+452 20 532 deepslate_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+452 20 533 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+452 20 563 soul_lantern[hanging=false,waterlogged=false]
+452 20 588 deepslate_bricks
+fill 452 20 636 452 20 639 deepslate[axis=y]
+453 20 534 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+453 20 551 deepslate_tiles
+fill 453 20 636 453 20 639 deepslate[axis=y]
+454 20 535 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+454 20 551 deepslate_tiles
+fill 454 20 636 454 20 639 deepslate[axis=y]
+455 20 535 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+455 20 589 cracked_deepslate_bricks
+455 20 590 deepslate_bricks
+455 20 591 cracked_deepslate_bricks
+fill 455 20 636 455 20 639 deepslate[axis=y]
+456 20 533 sculk_sensor[power=0,sculk_sensor_phase=inactive,waterlogged=false]
+456 20 534 sculk_sensor[power=0,sculk_sensor_phase=inactive,waterlogged=false]
+456 20 589 deepslate_bricks
+456 20 590 cracked_deepslate_bricks
+fill 456 20 636 456 20 639 deepslate[axis=y]
+457 20 533 sculk_sensor[power=0,sculk_sensor_phase=inactive,waterlogged=false]
+457 20 535 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+457 20 536 sculk
+457 20 537 sculk
+457 20 543 deepslate_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+457 20 544 sculk
+457 20 545 deepslate_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+fill 457 20 636 457 20 639 deepslate[axis=y]
+458 20 563 soul_lantern[hanging=false,waterlogged=false]
+fill 458 20 636 458 20 639 tuff
+459 20 563 soul_lantern[hanging=false,waterlogged=false]
+fill 459 20 636 459 20 639 tuff
+fill 460 20 636 460 20 639 tuff
+fill 461 20 635 461 20 639 tuff
+fill 462 20 634 462 20 639 tuff
+fill 463 20 627 463 20 629 deepslate[axis=y]
+fill 463 20 630 463 20 638 tuff
+463 20 639 deepslate[axis=y]
+fill 464 20 626 464 20 629 deepslate[axis=y]
+fill 464 20 630 464 20 637 tuff
+464 20 638 deepslate[axis=y]
+464 20 639 deepslate[axis=y]
+465 20 615 lava[level=8]
+fill 465 20 625 465 20 628 deepslate[axis=y]
+fill 465 20 629 465 20 636 tuff
+fill 465 20 637 465 20 639 deepslate[axis=y]
+466 20 587 sculk
+466 20 588 sculk
+fill 466 20 625 466 20 628 deepslate[axis=y]
+fill 466 20 629 466 20 635 tuff
+fill 466 20 636 466 20 639 deepslate[axis=y]
+467 20 587 sculk_vein[down=false,east=false,north=false,south=false,up=true,waterlogged=false,west=false]
+fill 467 20 625 467 20 629 deepslate[axis=y]
+467 20 630 tuff
+467 20 631 tuff
+467 20 632 deepslate[axis=y]
+467 20 633 tuff
+fill 467 20 634 467 20 639 deepslate[axis=y]
+fill 468 20 625 468 20 631 deepslate[axis=y]
+468 20 632 tuff
+fill 468 20 633 468 20 639 deepslate[axis=y]
+469 20 529 chiseled_deepslate
+469 20 617 lava[level=8]
+fill 469 20 625 469 20 629 deepslate[axis=y]
+fill 469 20 630 469 20 634 tuff
+fill 469 20 635 469 20 639 deepslate[axis=y]
+fill 470 20 625 470 20 629 deepslate[axis=y]
+fill 470 20 630 470 20 635 tuff
+fill 470 20 636 470 20 639 deepslate[axis=y]
+471 20 587 sculk
+471 20 588 sculk
+471 20 600 sculk_sensor[power=0,sculk_sensor_phase=inactive,waterlogged=false]
+fill 471 20 625 471 20 629 deepslate[axis=y]
+fill 471 20 630 471 20 636 tuff
+fill 471 20 637 471 20 639 deepslate[axis=y]
+fill 472 20 625 472 20 629 deepslate[axis=y]
+fill 472 20 630 472 20 637 tuff
+472 20 638 deepslate[axis=y]
+472 20 639 deepslate[axis=y]
+473 20 589 sculk_vein[down=false,east=true,north=false,south=false,up=false,waterlogged=false,west=false]
+fill 473 20 625 473 20 629 deepslate[axis=y]
+fill 473 20 630 473 20 637 tuff
+473 20 638 deepslate[axis=y]
+473 20 639 deepslate[axis=y]
+474 20 589 deepslate_bricks
+474 20 590 sculk
+474 20 591 sculk
+fill 474 20 625 474 20 629 deepslate[axis=y]
+fill 474 20 630 474 20 638 tuff
+474 20 639 deepslate[axis=y]
+475 20 589 deepslate_bricks
+475 20 590 sculk
+fill 475 20 626 475 20 630 deepslate[axis=y]
+fill 475 20 631 475 20 639 tuff
+476 20 589 sculk_vein[down=false,east=false,north=false,south=false,up=false,waterlogged=false,west=true]
+fill 476 20 626 476 20 630 deepslate[axis=y]
+fill 476 20 631 476 20 639 tuff
+477 20 602 water[level=8]
+fill 477 20 627 477 20 631 deepslate[axis=y]
+fill 477 20 632 477 20 639 tuff
+478 20 602 water[level=8]
+fill 478 20 627 478 20 631 deepslate[axis=y]
+fill 478 20 632 478 20 639 tuff
+479 20 603 water[level=8]
+479 20 604 water[level=1]
+fill 479 20 628 479 20 632 deepslate[axis=y]
+fill 479 20 633 479 20 639 tuff
+480 20 516 deepslate_tile_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+480 20 517 deepslate_tile_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+480 20 521 deepslate_tile_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+480 20 522 deepslate_tile_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+480 20 527 deepslate_tile_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+480 20 528 deepslate_tile_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+480 20 533 deepslate_tile_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+480 20 534 deepslate_tile_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+480 20 539 deepslate_tile_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+480 20 540 deepslate_tile_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+480 20 545 deepslate_tile_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+480 20 546 deepslate_tile_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+480 20 551 deepslate_tile_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+480 20 552 deepslate_tile_slab[type=bottom,waterlogged=false]
+480 20 604 water[level=8]
+fill 480 20 628 480 20 632 deepslate[axis=y]
+fill 480 20 633 480 20 639 tuff
+481 20 552 deepslate_tile_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+481 20 603 water[level=1]
+481 20 604 water[level=8]
+fill 481 20 628 481 20 633 deepslate[axis=y]
+fill 481 20 634 481 20 639 tuff
+fill 482 20 628 482 20 635 deepslate[axis=y]
+fill 482 20 636 482 20 639 tuff
+483 20 512 deepslate_tile_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+483 20 513 deepslate_tile_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+483 20 518 deepslate_tile_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+483 20 519 deepslate_tile_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+483 20 531 deepslate_tile_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+483 20 532 deepslate_tile_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+483 20 537 deepslate_tile_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+483 20 538 deepslate_tile_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+483 20 543 deepslate_tile_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+483 20 544 deepslate_tile_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+483 20 563 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+fill 483 20 628 483 20 636 deepslate[axis=y]
+fill 483 20 637 483 20 639 tuff
+fill 484 20 628 484 20 637 deepslate[axis=y]
+484 20 638 tuff
+484 20 639 tuff
+485 20 563 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+fill 485 20 628 485 20 638 deepslate[axis=y]
+485 20 639 tuff
+486 20 552 deepslate_tile_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+fill 486 20 628 486 20 639 deepslate[axis=y]
+487 20 552 deepslate_tile_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+fill 487 20 628 487 20 632 deepslate[axis=y]
+fill 487 20 633 487 20 636 deepslate[axis=y]
+fill 487 20 637 487 20 639 tuff
+488 20 549 deepslate_tile_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+fill 488 20 628 488 20 635 deepslate[axis=y]
+fill 488 20 636 488 20 639 tuff
+489 20 549 deepslate_tile_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+489 20 563 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+fill 489 20 628 489 20 633 deepslate[axis=y]
+fill 489 20 634 489 20 639 tuff
+490 20 529 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+490 20 530 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+490 20 534 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+490 20 536 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+fill 490 20 628 490 20 632 deepslate[axis=y]
+fill 490 20 633 490 20 639 tuff
+fill 491 20 628 491 20 632 deepslate[axis=y]
+fill 491 20 633 491 20 639 tuff
+492 20 529 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+492 20 531 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+492 20 533 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+492 20 535 sculk_vein[down=true,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+492 20 552 deepslate_tile_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+fill 492 20 627 492 20 632 deepslate[axis=y]
+fill 492 20 633 492 20 639 tuff
+493 20 525 lava[level=8]
+493 20 527 sculk_vein[down=false,east=true,north=false,south=false,up=false,waterlogged=false,west=false]
+493 20 531 sculk_vein[down=false,east=true,north=false,south=false,up=false,waterlogged=false,west=false]
+493 20 552 deepslate_tile_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+fill 493 20 627 493 20 633 deepslate[axis=y]
+fill 493 20 634 493 20 639 tuff
+fill 494 20 521 494 20 527 deepslate_bricks
+fill 494 20 528 494 20 530 sculk
+494 20 531 deepslate_bricks
+fill 494 20 532 494 20 534 sculk
+fill 494 20 625 494 20 632 deepslate[axis=y]
+fill 494 20 633 494 20 635 tuff
+fill 494 20 636 494 20 638 deepslate[axis=y]
+494 20 639 tuff
+495 20 521 cracked_deepslate_bricks
+495 20 522 cracked_deepslate_bricks
+fill 495 20 523 495 20 527 deepslate_bricks
+495 20 528 sculk
+495 20 529 sculk
+fill 495 20 530 495 20 534 deepslate_bricks
+495 20 535 sculk_vein[down=false,east=false,north=true,south=false,up=false,waterlogged=false,west=false]
+495 20 582 sculk_vein[down=false,east=true,north=false,south=false,up=false,waterlogged=false,west=false]
+495 20 591 sculk_vein[down=false,east=true,north=false,south=false,up=false,waterlogged=false,west=false]
+495 20 593 sculk_vein[down=false,east=true,north=false,south=false,up=false,waterlogged=false,west=false]
+fill 495 20 624 495 20 632 deepslate[axis=y]
+fill 495 20 633 495 20 637 tuff
+495 20 638 deepslate[axis=y]
+495 20 639 deepslate[axis=y]
+fill 496 20 521 496 20 524 deepslate_bricks
+496 20 525 cracked_deepslate_bricks
+496 20 526 cracked_deepslate_bricks
+496 20 527 deepslate_bricks
+496 20 528 deepslate_bricks
+496 20 529 cracked_deepslate_bricks
+496 20 530 deepslate_bricks
+496 20 531 deepslate_bricks
+496 20 532 cracked_deepslate_bricks
+496 20 533 deepslate_bricks
+496 20 534 deepslate_bricks
+496 20 561 deepslate_tiles
+496 20 562 chiseled_deepslate
+496 20 563 chiseled_deepslate
+496 20 564 deepslate_tiles
+496 20 571 deepslate_tiles
+496 20 572 chiseled_deepslate
+496 20 573 chiseled_deepslate
+496 20 574 cracked_deepslate_tiles
+496 20 581 deepslate_tiles
+496 20 582 chiseled_deepslate

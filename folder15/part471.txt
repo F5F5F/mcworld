@@ -1,0 +1,561 @@
+584 53 541 dispenser[facing=south,triggered=false]
+584 53 554 chain[axis=y,waterlogged=false]
+584 53 559 chain[axis=y,waterlogged=false]
+584 53 562 dispenser[facing=north,triggered=false]
+584 53 563 tuff_bricks
+fill 584 53 564 584 53 568 deepslate[axis=y]
+fill 584 53 569 584 53 583 tuff
+fill 584 53 584 584 53 592 deepslate[axis=y]
+584 53 593 deepslate_diamond_ore
+fill 584 53 594 584 53 616 deepslate[axis=y]
+fill 584 53 617 584 53 620 water[level=0]
+fill 584 53 621 584 53 639 deepslate[axis=y]
+fill 585 53 512 585 53 539 deepslate[axis=y]
+585 53 540 tuff_bricks
+585 53 541 waxed_copper_block
+585 53 562 waxed_copper_block
+585 53 563 tuff_bricks
+fill 585 53 564 585 53 569 deepslate[axis=y]
+fill 585 53 570 585 53 584 tuff
+fill 585 53 585 585 53 617 deepslate[axis=y]
+fill 585 53 618 585 53 620 water[level=0]
+fill 585 53 621 585 53 639 deepslate[axis=y]
+fill 586 53 512 586 53 539 deepslate[axis=y]
+586 53 540 tuff_bricks
+586 53 541 waxed_copper_block
+586 53 542 waxed_copper_block
+586 53 546 waxed_copper_block
+586 53 561 waxed_copper_block
+586 53 562 waxed_copper_block
+586 53 563 tuff_bricks
+fill 586 53 564 586 53 570 deepslate[axis=y]
+fill 586 53 571 586 53 585 tuff
+fill 586 53 586 586 53 618 deepslate[axis=y]
+fill 586 53 619 586 53 621 water[level=0]
+fill 586 53 622 586 53 639 deepslate[axis=y]
+fill 587 53 512 587 53 539 deepslate[axis=y]
+587 53 540 tuff_bricks
+587 53 541 waxed_copper_block
+587 53 542 waxed_copper_block
+587 53 546 waxed_copper_block
+587 53 561 waxed_copper_block
+587 53 562 waxed_copper_block
+587 53 563 tuff_bricks
+fill 587 53 564 587 53 571 deepslate[axis=y]
+fill 587 53 572 587 53 586 tuff
+fill 587 53 587 587 53 619 deepslate[axis=y]
+587 53 620 water[level=0]
+587 53 621 water[level=0]
+fill 587 53 622 587 53 639 deepslate[axis=y]
+fill 588 53 512 588 53 539 deepslate[axis=y]
+588 53 540 tuff_bricks
+588 53 541 waxed_copper_block
+588 53 562 waxed_copper_block
+588 53 563 tuff_bricks
+fill 588 53 564 588 53 573 deepslate[axis=y]
+fill 588 53 574 588 53 587 tuff
+fill 588 53 588 588 53 620 deepslate[axis=y]
+588 53 621 water[level=0]
+fill 588 53 622 588 53 639 deepslate[axis=y]
+fill 589 53 512 589 53 515 deepslate[axis=y]
+589 53 516 deepslate_diamond_ore
+589 53 517 deepslate_diamond_ore
+fill 589 53 518 589 53 539 deepslate[axis=y]
+589 53 540 tuff_bricks
+589 53 541 dispenser[facing=south,triggered=false]
+589 53 544 trial_spawner[ominous=false,trial_spawner_state=waiting_for_players]
+589 53 549 chain[axis=y,waterlogged=false]
+589 53 559 chain[axis=y,waterlogged=false]
+589 53 562 waxed_copper_block
+589 53 563 tuff_bricks
+fill 589 53 564 589 53 575 deepslate[axis=y]
+fill 589 53 576 589 53 587 tuff
+fill 589 53 588 589 53 621 deepslate[axis=y]
+589 53 622 water[level=0]
+fill 589 53 623 589 53 639 deepslate[axis=y]
+fill 590 53 512 590 53 515 deepslate[axis=y]
+590 53 516 deepslate_diamond_ore
+590 53 517 deepslate_diamond_ore
+fill 590 53 518 590 53 539 deepslate[axis=y]
+590 53 540 tuff_bricks
+590 53 541 waxed_copper_block
+590 53 562 waxed_copper_block
+590 53 563 tuff_bricks
+fill 590 53 564 590 53 577 deepslate[axis=y]
+fill 590 53 578 590 53 586 tuff
+fill 590 53 587 590 53 618 deepslate[axis=y]
+fill 590 53 619 590 53 639 deepslate[axis=y]
+fill 591 53 512 591 53 539 deepslate[axis=y]
+591 53 540 tuff_bricks
+591 53 541 waxed_copper_block
+591 53 542 waxed_copper_block
+591 53 546 waxed_copper_block
+591 53 547 waxed_copper_block
+591 53 551 waxed_copper_block
+591 53 552 waxed_copper_block
+591 53 556 waxed_copper_block
+591 53 557 waxed_copper_block
+591 53 561 waxed_copper_block
+591 53 562 waxed_copper_block
+591 53 563 tuff_bricks
+fill 591 53 564 591 53 637 deepslate[axis=y]
+591 53 638 deepslate_iron_ore
+591 53 639 deepslate_iron_ore
+fill 592 53 512 592 53 526 deepslate[axis=y]
+592 53 527 deepslate_redstone_ore[lit=false]
+fill 592 53 528 592 53 539 deepslate[axis=y]
+592 53 540 tuff_bricks
+fill 592 53 541 592 53 543 waxed_copper_block
+592 53 544 dispenser[facing=west,triggered=false]
+fill 592 53 545 592 53 552 waxed_copper_block
+592 53 556 hopper[enabled=true,facing=down]
+592 53 557 waxed_copper_bulb[lit=true,powered=false]
+592 53 558 waxed_copper_block
+592 53 559 dispenser[facing=west,triggered=false]
+fill 592 53 560 592 53 562 waxed_copper_block
+592 53 563 tuff_bricks
+fill 592 53 564 592 53 585 deepslate[axis=y]
+fill 592 53 586 592 53 588 tuff
+fill 592 53 589 592 53 637 deepslate[axis=y]
+592 53 638 deepslate_iron_ore
+592 53 639 deepslate_iron_ore
+fill 593 53 512 593 53 525 deepslate[axis=y]
+593 53 526 deepslate_redstone_ore[lit=false]
+593 53 527 deepslate_redstone_ore[lit=false]
+fill 593 53 528 593 53 539 deepslate[axis=y]
+fill 593 53 540 593 53 551 tuff_bricks
+593 53 552 waxed_copper_block
+593 53 556 waxed_copper_block
+fill 593 53 557 593 53 563 tuff_bricks
+fill 593 53 564 593 53 584 deepslate[axis=y]
+fill 593 53 585 593 53 589 tuff
+fill 593 53 590 593 53 639 deepslate[axis=y]
+fill 594 53 512 594 53 551 deepslate[axis=y]
+fill 594 53 552 594 53 556 waxed_copper_block
+fill 594 53 557 594 53 584 deepslate[axis=y]
+fill 594 53 585 594 53 589 tuff
+fill 594 53 590 594 53 639 deepslate[axis=y]
+fill 595 53 512 595 53 533 deepslate[axis=y]
+595 53 534 deepslate_redstone_ore[lit=false]
+595 53 535 deepslate_redstone_ore[lit=false]
+fill 595 53 536 595 53 553 deepslate[axis=y]
+595 53 554 deepslate_diamond_ore
+fill 595 53 555 595 53 584 deepslate[axis=y]
+fill 595 53 585 595 53 589 tuff
+fill 595 53 590 595 53 639 deepslate[axis=y]
+fill 596 53 512 596 53 533 deepslate[axis=y]
+596 53 534 deepslate_redstone_ore[lit=false]
+596 53 535 deepslate_redstone_ore[lit=false]
+fill 596 53 536 596 53 578 deepslate[axis=y]
+fill 596 53 579 596 53 582 deepslate[axis=y]
+fill 596 53 583 596 53 589 tuff
+fill 596 53 590 596 53 636 deepslate[axis=y]
+596 53 638 deepslate[axis=y]
+596 53 639 deepslate[axis=y]
+fill 597 53 512 597 53 582 deepslate[axis=y]
+fill 597 53 583 597 53 589 tuff
+fill 597 53 590 597 53 635 deepslate[axis=y]
+597 53 638 deepslate[axis=y]
+597 53 639 deepslate[axis=y]
+fill 598 53 512 598 53 582 deepslate[axis=y]
+fill 598 53 583 598 53 589 tuff
+fill 598 53 590 598 53 635 deepslate[axis=y]
+598 53 639 deepslate[axis=y]
+fill 599 53 512 599 53 581 deepslate[axis=y]
+fill 599 53 582 599 53 589 tuff
+fill 599 53 590 599 53 636 deepslate[axis=y]
+599 53 638 deepslate[axis=y]
+599 53 639 deepslate[axis=y]
+fill 600 53 512 600 53 581 deepslate[axis=y]
+fill 600 53 582 600 53 589 tuff
+fill 600 53 590 600 53 602 deepslate[axis=y]
+600 53 603 tuff
+fill 600 53 604 600 53 639 deepslate[axis=y]
+fill 601 53 512 601 53 534 deepslate[axis=y]
+601 53 535 deepslate_diamond_ore
+601 53 536 deepslate_diamond_ore
+fill 601 53 537 601 53 544 deepslate[axis=y]
+fill 601 53 545 601 53 550 tuff
+fill 601 53 551 601 53 581 deepslate[axis=y]
+fill 601 53 582 601 53 589 tuff
+fill 601 53 590 601 53 600 deepslate[axis=y]
+601 53 601 deepslate_lapis_ore
+fill 601 53 602 601 53 604 tuff
+fill 601 53 605 601 53 632 deepslate[axis=y]
+fill 601 53 633 601 53 635 tuff
+fill 601 53 636 601 53 638 deepslate[axis=y]
+fill 602 53 512 602 53 535 deepslate[axis=y]
+602 53 536 deepslate_diamond_ore
+fill 602 53 537 602 53 543 deepslate[axis=y]
+fill 602 53 544 602 53 551 tuff
+602 53 552 deepslate[axis=y]
+602 53 553 deepslate[axis=y]
+fill 602 53 554 602 53 581 deepslate[axis=y]
+fill 602 53 582 602 53 589 tuff
+fill 602 53 590 602 53 600 deepslate[axis=y]
+602 53 601 deepslate_lapis_ore
+fill 602 53 602 602 53 608 tuff
+fill 602 53 609 602 53 632 deepslate[axis=y]
+fill 602 53 633 602 53 636 tuff
+602 53 637 deepslate[axis=y]
+602 53 638 deepslate[axis=y]
+fill 603 53 512 603 53 540 deepslate[axis=y]
+fill 603 53 541 603 53 551 tuff
+fill 603 53 552 603 53 581 deepslate[axis=y]
+fill 603 53 582 603 53 589 tuff
+fill 603 53 590 603 53 603 deepslate[axis=y]
+fill 603 53 604 603 53 610 tuff
+fill 603 53 611 603 53 632 deepslate[axis=y]
+fill 603 53 633 603 53 636 tuff
+603 53 637 deepslate[axis=y]
+fill 604 53 512 604 53 539 deepslate[axis=y]
+fill 604 53 540 604 53 551 tuff
+604 53 552 deepslate[axis=y]
+fill 604 53 555 604 53 581 deepslate[axis=y]
+fill 604 53 582 604 53 589 tuff
+fill 604 53 590 604 53 602 deepslate[axis=y]
+fill 604 53 603 604 53 611 tuff
+fill 604 53 612 604 53 633 deepslate[axis=y]
+fill 605 53 512 605 53 515 gravel
+fill 605 53 516 605 53 538 deepslate[axis=y]
+fill 605 53 539 605 53 550 tuff
+605 53 551 deepslate_gold_ore
+fill 605 53 556 605 53 581 deepslate[axis=y]
+fill 605 53 582 605 53 588 tuff
+fill 605 53 589 605 53 603 deepslate[axis=y]
+fill 605 53 604 605 53 612 tuff
+fill 605 53 613 605 53 630 deepslate[axis=y]
+605 53 631 water[level=0]
+605 53 632 deepslate[axis=y]
+605 53 633 deepslate[axis=y]
+fill 606 53 512 606 53 516 gravel
+fill 606 53 517 606 53 537 deepslate[axis=y]
+fill 606 53 538 606 53 550 tuff
+606 53 551 deepslate[axis=y]
+fill 606 53 557 606 53 581 deepslate[axis=y]
+fill 606 53 582 606 53 588 tuff
+fill 606 53 589 606 53 603 deepslate[axis=y]
+fill 606 53 604 606 53 613 tuff
+fill 606 53 614 606 53 630 deepslate[axis=y]
+606 53 631 water[level=0]
+606 53 632 deepslate[axis=y]
+606 53 633 deepslate[axis=y]
+fill 607 53 512 607 53 518 gravel
+fill 607 53 519 607 53 537 deepslate[axis=y]
+fill 607 53 538 607 53 549 tuff
+fill 607 53 550 607 53 552 deepslate[axis=y]
+fill 607 53 558 607 53 581 deepslate[axis=y]
+fill 607 53 582 607 53 588 tuff
+fill 607 53 589 607 53 603 deepslate[axis=y]
+fill 607 53 604 607 53 613 tuff
+fill 607 53 614 607 53 629 deepslate[axis=y]
+607 53 630 water[level=0]
+fill 607 53 631 607 53 633 deepslate[axis=y]
+608 53 512 deepslate[axis=y]
+fill 608 53 513 608 53 518 gravel
+fill 608 53 519 608 53 536 deepslate[axis=y]
+fill 608 53 537 608 53 548 tuff
+fill 608 53 549 608 53 554 deepslate[axis=y]
+fill 608 53 558 608 53 582 deepslate[axis=y]
+fill 608 53 583 608 53 587 tuff
+fill 608 53 588 608 53 604 deepslate[axis=y]
+fill 608 53 605 608 53 614 tuff
+fill 608 53 615 608 53 626 deepslate[axis=y]
+fill 608 53 627 608 53 629 water[level=0]
+608 53 630 deepslate[axis=y]
+608 53 631 deepslate[axis=y]
+609 53 512 deepslate[axis=y]
+609 53 513 deepslate[axis=y]
+fill 609 53 514 609 53 518 gravel
+fill 609 53 519 609 53 535 deepslate[axis=y]
+fill 609 53 536 609 53 546 tuff
+fill 609 53 547 609 53 556 deepslate[axis=y]
+fill 609 53 559 609 53 582 deepslate[axis=y]
+fill 609 53 583 609 53 586 tuff
+fill 609 53 587 609 53 605 deepslate[axis=y]
+fill 609 53 606 609 53 614 tuff
+fill 609 53 615 609 53 626 deepslate[axis=y]
+609 53 627 water[level=0]
+fill 609 53 628 609 53 631 deepslate[axis=y]
+fill 610 53 512 610 53 535 deepslate[axis=y]
+fill 610 53 536 610 53 546 tuff
+fill 610 53 547 610 53 556 deepslate[axis=y]
+fill 610 53 559 610 53 582 deepslate[axis=y]
+fill 610 53 583 610 53 586 tuff
+fill 610 53 587 610 53 606 deepslate[axis=y]
+fill 610 53 607 610 53 614 tuff
+fill 610 53 615 610 53 620 deepslate[axis=y]
+fill 610 53 623 610 53 629 deepslate[axis=y]
+fill 611 53 512 611 53 535 deepslate[axis=y]
+fill 611 53 536 611 53 544 tuff
+fill 611 53 545 611 53 556 deepslate[axis=y]
+fill 611 53 560 611 53 583 deepslate[axis=y]
+611 53 584 tuff
+611 53 585 tuff
+fill 611 53 586 611 53 607 deepslate[axis=y]
+fill 611 53 608 611 53 614 tuff
+fill 611 53 615 611 53 620 deepslate[axis=y]
+fill 611 53 624 611 53 626 deepslate[axis=y]
+fill 612 53 512 612 53 535 deepslate[axis=y]
+fill 612 53 536 612 53 539 tuff
+fill 612 53 540 612 53 556 deepslate[axis=y]
+fill 612 53 560 612 53 610 deepslate[axis=y]
+fill 612 53 611 612 53 613 tuff
+fill 612 53 614 612 53 620 deepslate[axis=y]
+fill 613 53 512 613 53 541 deepslate[axis=y]
+613 53 542 gravel
+613 53 543 gravel
+fill 613 53 544 613 53 555 deepslate[axis=y]
+fill 613 53 560 613 53 619 deepslate[axis=y]
+fill 614 53 512 614 53 539 deepslate[axis=y]
+fill 614 53 540 614 53 543 gravel
+fill 614 53 544 614 53 555 deepslate[axis=y]
+fill 614 53 560 614 53 619 deepslate[axis=y]
+614 53 622 deepslate[axis=y]
+fill 615 53 512 615 53 538 deepslate[axis=y]
+fill 615 53 539 615 53 542 gravel
+615 53 543 tuff
+fill 615 53 544 615 53 550 deepslate[axis=y]
+615 53 551 gravel
+615 53 552 gravel
+fill 615 53 553 615 53 555 deepslate[axis=y]
+fill 615 53 560 615 53 591 deepslate[axis=y]
+615 53 592 deepslate_gold_ore
+615 53 593 deepslate_gold_ore
+fill 615 53 594 615 53 605 deepslate[axis=y]
+fill 615 53 606 615 53 621 deepslate[axis=y]
+fill 616 53 512 616 53 524 deepslate[axis=y]
+fill 616 53 526 616 53 537 deepslate[axis=y]
+fill 616 53 538 616 53 541 gravel
+fill 616 53 542 616 53 544 tuff
+fill 616 53 545 616 53 552 deepslate[axis=y]
+616 53 553 gravel
+616 53 554 gravel
+616 53 555 deepslate[axis=y]
+fill 616 53 560 616 53 591 deepslate[axis=y]
+616 53 592 deepslate_gold_ore
+616 53 593 deepslate_gold_ore
+fill 616 53 594 616 53 620 deepslate[axis=y]
+fill 616 53 632 616 53 634 deepslate[axis=y]
+fill 617 53 515 617 53 523 deepslate[axis=y]
+fill 617 53 527 617 53 536 deepslate[axis=y]
+fill 617 53 537 617 53 541 gravel
+fill 617 53 542 617 53 544 tuff
+fill 617 53 545 617 53 552 deepslate[axis=y]
+617 53 553 gravel
+617 53 554 gravel
+617 53 555 deepslate[axis=y]
+fill 617 53 560 617 53 607 deepslate[axis=y]
+617 53 608 deepslate_lapis_ore
+fill 617 53 609 617 53 621 deepslate[axis=y]
+fill 617 53 631 617 53 634 deepslate[axis=y]
+fill 618 53 516 618 53 523 deepslate[axis=y]
+fill 618 53 527 618 53 536 deepslate[axis=y]
+fill 618 53 537 618 53 540 gravel
+fill 618 53 541 618 53 544 tuff
+fill 618 53 545 618 53 555 deepslate[axis=y]
+fill 618 53 560 618 53 621 deepslate[axis=y]
+618 53 631 deepslate[axis=y]
+618 53 632 deepslate_redstone_ore[lit=false]
+fill 618 53 633 618 53 635 deepslate[axis=y]
+fill 619 53 517 619 53 523 deepslate[axis=y]
+fill 619 53 527 619 53 536 deepslate[axis=y]
+619 53 537 gravel
+619 53 538 gravel
+619 53 539 deepslate[axis=y]
+fill 619 53 540 619 53 544 tuff
+fill 619 53 545 619 53 555 deepslate[axis=y]
+fill 619 53 559 619 53 622 deepslate[axis=y]
+fill 619 53 631 619 53 634 deepslate[axis=y]
+fill 620 53 517 620 53 522 deepslate[axis=y]
+fill 620 53 526 620 53 538 deepslate[axis=y]
+fill 620 53 539 620 53 545 tuff
+fill 620 53 546 620 53 556 deepslate[axis=y]
+fill 620 53 559 620 53 622 deepslate[axis=y]
+620 53 632 deepslate[axis=y]
+620 53 633 deepslate[axis=y]
+fill 621 53 518 621 53 522 deepslate[axis=y]
+fill 621 53 526 621 53 538 deepslate[axis=y]
+fill 621 53 539 621 53 545 tuff
+fill 621 53 546 621 53 582 deepslate[axis=y]
+621 53 583 deepslate_iron_ore
+621 53 584 deepslate_iron_ore
+fill 621 53 585 621 53 622 deepslate[axis=y]
+fill 622 53 519 622 53 521 deepslate[axis=y]
+fill 622 53 525 622 53 538 deepslate[axis=y]
+fill 622 53 539 622 53 545 tuff
+fill 622 53 546 622 53 609 deepslate[axis=y]
+fill 622 53 610 622 53 623 deepslate[axis=y]
+fill 623 53 520 623 53 522 deepslate[axis=y]
+fill 623 53 524 623 53 538 deepslate[axis=y]
+fill 623 53 539 623 53 544 tuff
+fill 623 53 545 623 53 565 deepslate[axis=y]
+623 53 566 deepslate_iron_ore
+623 53 567 deepslate_iron_ore
+fill 623 53 568 623 53 622 deepslate[axis=y]
+fill 624 53 521 624 53 536 deepslate[axis=y]
+624 53 537 deepslate_gold_ore
+624 53 538 deepslate_gold_ore
+fill 624 53 539 624 53 545 tuff
+fill 624 53 546 624 53 565 deepslate[axis=y]
+624 53 566 deepslate_iron_ore
+624 53 567 deepslate_iron_ore
+fill 624 53 568 624 53 581 deepslate[axis=y]
+624 53 582 tuff
+624 53 583 tuff
+fill 624 53 584 624 53 622 deepslate[axis=y]
+625 53 521 tuff
+fill 625 53 523 625 53 536 deepslate[axis=y]
+625 53 537 deepslate_gold_ore
+625 53 538 deepslate_gold_ore
+fill 625 53 539 625 53 545 tuff
+fill 625 53 546 625 53 580 deepslate[axis=y]
+fill 625 53 581 625 53 585 tuff
+fill 625 53 586 625 53 622 deepslate[axis=y]
+fill 626 53 522 626 53 536 deepslate[axis=y]
+626 53 537 deepslate_gold_ore
+fill 626 53 538 626 53 545 tuff
+fill 626 53 546 626 53 579 deepslate[axis=y]
+fill 626 53 580 626 53 585 tuff
+fill 626 53 586 626 53 621 deepslate[axis=y]
+626 53 622 tuff
+fill 627 53 523 627 53 537 deepslate[axis=y]
+fill 627 53 538 627 53 545 tuff
+fill 627 53 546 627 53 578 deepslate[axis=y]
+627 53 579 deepslate_diamond_ore
+fill 627 53 580 627 53 587 tuff
+fill 627 53 588 627 53 619 deepslate[axis=y]
+fill 627 53 620 627 53 622 tuff
+fill 628 53 523 628 53 537 deepslate[axis=y]
+fill 628 53 538 628 53 544 tuff
+fill 628 53 545 628 53 579 deepslate[axis=y]
+fill 628 53 580 628 53 588 tuff
+fill 628 53 589 628 53 607 deepslate[axis=y]
+fill 628 53 608 628 53 612 tuff
+fill 628 53 613 628 53 618 deepslate[axis=y]
+fill 628 53 619 628 53 621 tuff
+fill 629 53 524 629 53 537 deepslate[axis=y]
+fill 629 53 538 629 53 544 tuff
+fill 629 53 545 629 53 554 deepslate[axis=y]
+629 53 555 deepslate_lapis_ore
+629 53 556 deepslate_lapis_ore
+fill 629 53 557 629 53 576 deepslate[axis=y]
+629 53 577 deepslate_iron_ore
+629 53 578 deepslate_iron_ore
+629 53 579 deepslate[axis=y]
+629 53 580 deepslate[axis=y]
+fill 629 53 581 629 53 589 tuff
+fill 629 53 590 629 53 604 deepslate[axis=y]
+fill 629 53 605 629 53 612 tuff
+fill 629 53 613 629 53 618 deepslate[axis=y]
+629 53 619 tuff
+629 53 620 tuff
+fill 630 53 524 630 53 538 deepslate[axis=y]
+630 53 539 tuff
+630 53 540 deepslate_copper_ore
+fill 630 53 541 630 53 543 tuff
+fill 630 53 544 630 53 554 deepslate[axis=y]
+630 53 555 deepslate_lapis_ore
+fill 630 53 556 630 53 564 deepslate[axis=y]
+fill 630 53 565 630 53 582 deepslate[axis=y]
+630 53 583 tuff
+630 53 584 deepslate_iron_ore
+fill 630 53 585 630 53 589 tuff
+fill 630 53 590 630 53 603 deepslate[axis=y]
+fill 630 53 604 630 53 612 tuff
+fill 630 53 613 630 53 618 deepslate[axis=y]
+630 53 619 tuff
+fill 631 53 524 631 53 538 deepslate[axis=y]
+631 53 539 tuff
+631 53 540 deepslate_copper_ore
+631 53 541 deepslate_copper_ore
+631 53 542 tuff
+631 53 543 tuff
+fill 631 53 544 631 53 583 deepslate[axis=y]
+fill 631 53 584 631 53 590 tuff
+fill 631 53 591 631 53 602 deepslate[axis=y]
+fill 631 53 603 631 53 612 tuff
+fill 631 53 613 631 53 619 deepslate[axis=y]
+632 53 514 deepslate[axis=y]
+fill 632 53 525 632 53 538 deepslate[axis=y]
+632 53 539 tuff
+632 53 540 deepslate_copper_ore
+632 53 541 deepslate_copper_ore
+632 53 542 tuff
+632 53 543 tuff
+fill 632 53 544 632 53 556 deepslate[axis=y]
+632 53 557 deepslate_iron_ore
+fill 632 53 558 632 53 570 deepslate[axis=y]
+632 53 571 tuff
+632 53 572 tuff
+fill 632 53 573 632 53 584 deepslate[axis=y]
+fill 632 53 585 632 53 590 tuff
+fill 632 53 591 632 53 602 deepslate[axis=y]
+fill 632 53 603 632 53 612 tuff
+fill 632 53 613 632 53 619 deepslate[axis=y]
+fill 633 53 512 633 53 515 deepslate[axis=y]
+fill 633 53 525 633 53 537 deepslate[axis=y]
+fill 633 53 538 633 53 540 tuff
+633 53 541 deepslate_copper_ore
+633 53 542 tuff
+633 53 543 tuff
+fill 633 53 544 633 53 557 deepslate[axis=y]
+633 53 558 lava[level=8]
+fill 633 53 560 633 53 570 deepslate[axis=y]
+fill 633 53 571 633 53 575 tuff
+fill 633 53 576 633 53 600 deepslate[axis=y]
+fill 633 53 601 633 53 611 tuff
+fill 633 53 612 633 53 619 deepslate[axis=y]
+fill 634 53 512 634 53 516 deepslate[axis=y]
+fill 634 53 525 634 53 537 deepslate[axis=y]
+fill 634 53 538 634 53 542 tuff
+634 53 543 deepslate_lapis_ore
+634 53 544 deepslate_lapis_ore
+634 53 545 tuff
+fill 634 53 546 634 53 556 deepslate[axis=y]
+634 53 557 lava[level=8]
+fill 634 53 560 634 53 570 deepslate[axis=y]
+fill 634 53 571 634 53 576 tuff
+fill 634 53 577 634 53 583 deepslate[axis=y]
+634 53 584 deepslate_lapis_ore
+fill 634 53 585 634 53 599 deepslate[axis=y]
+fill 634 53 600 634 53 610 tuff
+fill 634 53 611 634 53 619 deepslate[axis=y]
+fill 635 53 512 635 53 517 deepslate[axis=y]
+635 53 525 deepslate[axis=y]
+fill 635 53 531 635 53 537 deepslate[axis=y]
+fill 635 53 538 635 53 543 tuff
+635 53 544 deepslate_lapis_ore
+fill 635 53 545 635 53 548 tuff
+fill 635 53 549 635 53 556 deepslate[axis=y]
+fill 635 53 560 635 53 564 tuff
+fill 635 53 565 635 53 571 deepslate[axis=y]
+fill 635 53 572 635 53 577 tuff
+fill 635 53 578 635 53 598 deepslate[axis=y]
+fill 635 53 599 635 53 610 tuff
+635 53 611 deepslate[axis=y]
+635 53 612 deepslate_copper_ore
+fill 635 53 613 635 53 619 deepslate[axis=y]
+fill 636 53 512 636 53 518 deepslate[axis=y]
+fill 636 53 533 636 53 538 deepslate[axis=y]
+fill 636 53 539 636 53 550 tuff
+fill 636 53 551 636 53 557 deepslate[axis=y]
+fill 636 53 560 636 53 564 tuff
+fill 636 53 565 636 53 571 deepslate[axis=y]
+fill 636 53 572 636 53 576 tuff
+636 53 577 deepslate_iron_ore
+636 53 578 tuff
+636 53 579 tuff
+fill 636 53 580 636 53 598 deepslate[axis=y]
+fill 636 53 599 636 53 608 tuff
+636 53 609 deepslate[axis=y]
+636 53 610 deepslate[axis=y]
+636 53 611 deepslate_lapis_ore
+fill 636 53 612 636 53 620 deepslate[axis=y]
+fill 637 53 512 637 53 519 deepslate[axis=y]
+637 53 533 deepslate[axis=y]
+fill 637 53 537 637 53 539 deepslate[axis=y]
+fill 637 53 540 637 53 550 tuff
+fill 637 53 551 637 53 554 deepslate[axis=y]
+fill 637 53 555 637 53 557 tuff
+fill 637 53 559 637 53 564 tuff

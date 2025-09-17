@@ -1,0 +1,575 @@
+203 145 406 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+203 145 407 spruce_log[axis=y]
+203 145 408 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+203 145 409 snow[layers=1]
+204 145 384 grass_block[snowy=true]
+fill 204 145 385 204 145 389 snow[layers=1]
+204 145 405 snow[layers=1]
+204 145 406 snow[layers=1]
+204 145 407 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+204 145 408 snow[layers=1]
+204 145 409 snow[layers=1]
+205 145 384 grass_block[snowy=true]
+fill 205 145 385 205 145 389 snow[layers=1]
+fill 205 145 406 205 145 408 snow[layers=1]
+fill 206 145 384 206 145 389 snow[layers=1]
+207 145 384 grass_block[snowy=true]
+fill 207 145 385 207 145 389 snow[layers=1]
+208 145 384 grass_block[snowy=true]
+fill 208 145 385 208 145 389 snow[layers=1]
+fill 209 145 384 209 145 386 grass_block[snowy=true]
+fill 209 145 387 209 145 389 snow[layers=1]
+fill 210 145 384 210 145 387 grass_block[snowy=true]
+fill 210 145 388 210 145 390 snow[layers=1]
+fill 211 145 384 211 145 386 grass_block[snowy=true]
+fill 211 145 387 211 145 389 snow[layers=1]
+fill 212 145 384 212 145 386 grass_block[snowy=true]
+212 145 387 snow[layers=1]
+212 145 388 short_grass
+213 145 384 grass_block[snowy=true]
+213 145 385 grass_block[snowy=true]
+fill 213 145 386 213 145 388 snow[layers=1]
+214 145 384 grass_block[snowy=true]
+214 145 385 grass_block[snowy=true]
+214 145 386 snow[layers=1]
+214 145 387 snow[layers=1]
+215 145 384 snow[layers=1]
+215 145 385 snow[layers=1]
+215 145 488 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+216 145 487 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+216 145 488 spruce_log[axis=y]
+216 145 489 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+217 145 488 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+222 145 451 snow[layers=1]
+fill 223 145 450 223 145 452 snow[layers=1]
+fill 223 145 509 223 145 511 snow[layers=1]
+224 145 451 snow[layers=1]
+fill 224 145 504 224 145 511 snow[layers=1]
+fill 225 145 501 225 145 510 snow[layers=1]
+225 145 511 grass_block[snowy=true]
+fill 226 145 500 226 145 503 snow[layers=1]
+fill 226 145 504 226 145 511 grass_block[snowy=true]
+fill 227 145 499 227 145 503 snow[layers=1]
+fill 227 145 504 227 145 511 grass_block[snowy=true]
+fill 228 145 499 228 145 502 snow[layers=1]
+fill 228 145 503 228 145 511 grass_block[snowy=true]
+fill 229 145 499 229 145 502 snow[layers=1]
+fill 229 145 503 229 145 507 grass_block[snowy=true]
+fill 229 145 508 229 145 511 dirt
+fill 230 145 499 230 145 502 snow[layers=1]
+fill 230 145 503 230 145 506 grass_block[snowy=true]
+fill 230 145 507 230 145 511 dirt
+fill 231 145 499 231 145 502 snow[layers=1]
+fill 231 145 503 231 145 506 grass_block[snowy=true]
+fill 231 145 507 231 145 511 dirt
+fill 232 145 500 232 145 502 snow[layers=1]
+fill 232 145 503 232 145 506 grass_block[snowy=true]
+fill 232 145 507 232 145 511 dirt
+fill 233 145 500 233 145 502 snow[layers=1]
+fill 233 145 503 233 145 506 grass_block[snowy=true]
+fill 233 145 507 233 145 511 dirt
+fill 234 145 501 234 145 503 snow[layers=1]
+fill 234 145 504 234 145 507 grass_block[snowy=true]
+fill 234 145 508 234 145 511 dirt
+fill 235 145 501 235 145 503 snow[layers=1]
+fill 235 145 504 235 145 507 grass_block[snowy=true]
+fill 235 145 508 235 145 511 dirt
+fill 236 145 501 236 145 503 snow[layers=1]
+fill 236 145 504 236 145 509 grass_block[snowy=true]
+236 145 510 dirt
+236 145 511 dirt
+fill 237 145 501 237 145 503 snow[layers=1]
+fill 237 145 504 237 145 511 grass_block[snowy=true]
+fill 238 145 501 238 145 504 snow[layers=1]
+fill 238 145 505 238 145 511 grass_block[snowy=true]
+fill 239 145 501 239 145 506 snow[layers=1]
+fill 239 145 507 239 145 511 grass_block[snowy=true]
+fill 240 145 501 240 145 508 snow[layers=1]
+fill 240 145 509 240 145 511 grass_block[snowy=true]
+fill 241 145 501 241 145 511 snow[layers=1]
+fill 242 145 506 242 145 511 snow[layers=1]
+fill 243 145 509 243 145 511 snow[layers=1]
+128 146 384 grass_block[snowy=true]
+128 146 385 snow[layers=1]
+128 146 386 grass_block[snowy=false]
+128 146 387 grass_block[snowy=false]
+128 146 388 grass_block[snowy=true]
+128 146 389 grass_block[snowy=true]
+128 146 390 snow[layers=1]
+128 146 443 dirt
+fill 128 146 444 128 146 451 stone
+fill 128 146 452 128 146 454 dirt
+fill 129 146 384 129 146 386 snow[layers=1]
+fill 129 146 387 129 146 389 grass_block[snowy=true]
+129 146 390 snow[layers=1]
+fill 129 146 444 129 146 446 dirt
+fill 129 146 447 129 146 450 stone
+129 146 451 dirt
+129 146 452 dirt
+fill 130 146 384 130 146 387 snow[layers=1]
+130 146 388 grass_block[snowy=true]
+130 146 389 grass_block[snowy=true]
+130 146 390 snow[layers=1]
+130 146 445 water[level=1]
+130 146 446 water[level=8]
+130 146 447 grass_block[snowy=true]
+130 146 448 dirt
+130 146 449 dirt
+130 146 450 grass_block[snowy=true]
+131 146 384 short_grass
+fill 131 146 385 131 146 389 snow[layers=1]
+131 146 446 water[level=1]
+131 146 448 snow[layers=1]
+131 146 449 grass_block[snowy=true]
+fill 132 146 384 132 146 389 snow[layers=1]
+fill 133 146 384 133 146 389 snow[layers=1]
+134 146 384 snow[layers=1]
+134 146 385 snow[layers=1]
+134 146 386 short_grass
+190 146 393 snow[layers=1]
+191 146 392 snow[layers=1]
+191 146 393 snow[layers=1]
+192 146 392 snow[layers=1]
+192 146 393 snow[layers=1]
+fill 193 146 391 193 146 393 snow[layers=1]
+194 146 391 snow[layers=1]
+194 146 392 short_grass
+194 146 393 snow[layers=1]
+194 146 394 snow[layers=1]
+201 146 384 snow[layers=1]
+202 146 384 grass_block[snowy=true]
+202 146 385 snow[layers=1]
+202 146 386 snow[layers=1]
+203 146 384 snow[layers=1]
+203 146 385 snow[layers=1]
+203 146 407 spruce_log[axis=y]
+204 146 384 snow[layers=1]
+205 146 384 snow[layers=1]
+207 146 384 snow[layers=1]
+208 146 384 snow[layers=1]
+fill 209 146 384 209 146 386 snow[layers=1]
+fill 210 146 384 210 146 387 snow[layers=1]
+fill 211 146 384 211 146 386 snow[layers=1]
+fill 212 146 384 212 146 386 snow[layers=1]
+213 146 384 snow[layers=1]
+213 146 385 snow[layers=1]
+214 146 384 snow[layers=1]
+214 146 385 snow[layers=1]
+214 146 487 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+214 146 488 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+214 146 489 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+215 146 486 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+215 146 487 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+215 146 488 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+215 146 489 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+215 146 490 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+216 146 486 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+216 146 487 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+216 146 488 spruce_log[axis=y]
+216 146 489 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+216 146 490 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+217 146 486 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+217 146 487 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+217 146 488 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+217 146 489 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+217 146 490 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+218 146 487 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+218 146 488 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+218 146 489 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+225 146 511 snow[layers=1]
+fill 226 146 504 226 146 511 snow[layers=1]
+fill 227 146 504 227 146 511 snow[layers=1]
+fill 228 146 503 228 146 511 snow[layers=1]
+fill 229 146 503 229 146 507 snow[layers=1]
+fill 229 146 508 229 146 511 grass_block[snowy=true]
+fill 230 146 503 230 146 506 snow[layers=1]
+fill 230 146 507 230 146 511 grass_block[snowy=true]
+fill 231 146 503 231 146 506 snow[layers=1]
+fill 231 146 507 231 146 511 grass_block[snowy=true]
+fill 232 146 503 232 146 506 snow[layers=1]
+fill 232 146 507 232 146 511 grass_block[snowy=true]
+fill 233 146 503 233 146 506 snow[layers=1]
+fill 233 146 507 233 146 511 grass_block[snowy=true]
+fill 234 146 504 234 146 507 snow[layers=1]
+fill 234 146 508 234 146 511 grass_block[snowy=true]
+fill 235 146 504 235 146 507 snow[layers=1]
+fill 235 146 508 235 146 511 grass_block[snowy=true]
+fill 236 146 504 236 146 509 snow[layers=1]
+236 146 510 grass_block[snowy=true]
+236 146 511 grass_block[snowy=true]
+fill 237 146 504 237 146 511 snow[layers=1]
+fill 238 146 505 238 146 511 snow[layers=1]
+fill 239 146 507 239 146 511 snow[layers=1]
+fill 240 146 509 240 146 511 snow[layers=1]
+128 147 384 snow[layers=1]
+128 147 386 short_grass
+128 147 387 short_grass
+128 147 388 snow[layers=1]
+128 147 389 snow[layers=1]
+128 147 443 dirt
+128 147 444 dirt
+fill 128 147 445 128 147 451 stone
+128 147 452 dirt
+128 147 453 dirt
+128 147 454 grass_block[snowy=true]
+fill 129 147 387 129 147 389 snow[layers=1]
+129 147 444 grass_block[snowy=true]
+129 147 445 dirt
+129 147 446 water[level=0]
+129 147 447 dirt
+129 147 448 stone
+129 147 449 stone
+129 147 450 dirt
+129 147 451 dirt
+129 147 452 grass_block[snowy=true]
+130 147 388 snow[layers=1]
+130 147 389 snow[layers=1]
+130 147 446 water[level=1]
+130 147 447 snow[layers=1]
+130 147 448 grass_block[snowy=true]
+130 147 449 dirt
+130 147 450 snow[layers=1]
+131 147 449 snow[layers=1]
+202 147 384 snow[layers=1]
+202 147 407 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+203 147 406 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+203 147 407 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+203 147 408 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+204 147 407 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+fill 214 147 487 214 147 489 snow[layers=1]
+215 147 486 snow[layers=1]
+215 147 487 snow[layers=1]
+215 147 488 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+215 147 489 snow[layers=1]
+215 147 490 snow[layers=1]
+216 147 486 snow[layers=1]
+216 147 487 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+216 147 488 spruce_leaves[distance=1,persistent=false,waterlogged=false]
+216 147 489 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+216 147 490 snow[layers=1]
+217 147 486 snow[layers=1]
+217 147 487 snow[layers=1]
+217 147 488 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+217 147 489 snow[layers=1]
+217 147 490 snow[layers=1]
+fill 218 147 487 218 147 489 snow[layers=1]
+fill 229 147 508 229 147 511 snow[layers=1]
+fill 230 147 507 230 147 511 snow[layers=1]
+fill 231 147 507 231 147 511 snow[layers=1]
+fill 232 147 507 232 147 511 snow[layers=1]
+fill 233 147 507 233 147 511 snow[layers=1]
+fill 234 147 508 234 147 511 snow[layers=1]
+fill 235 147 508 235 147 511 snow[layers=1]
+236 147 510 snow[layers=1]
+236 147 511 snow[layers=1]
+128 148 443 grass_block[snowy=true]
+128 148 444 dirt
+fill 128 148 445 128 148 450 stone
+128 148 451 dirt
+128 148 452 dirt
+128 148 453 grass_block[snowy=true]
+128 148 454 snow[layers=1]
+129 148 444 snow[layers=1]
+fill 129 148 445 129 148 451 dirt
+129 148 452 snow[layers=1]
+130 148 448 snow[layers=1]
+130 148 449 grass_block[snowy=true]
+202 148 407 snow[layers=1]
+fill 203 148 406 203 148 408 snow[layers=1]
+204 148 407 snow[layers=1]
+216 148 488 spruce_leaves[distance=2,persistent=false,waterlogged=false]
+128 149 443 snow[layers=1]
+fill 128 149 444 128 149 446 dirt
+fill 128 149 447 128 149 450 stone
+128 149 451 dirt
+128 149 452 dirt
+128 149 453 snow[layers=1]
+fill 129 149 445 129 149 451 dirt
+130 149 449 snow[layers=1]
+215 149 488 spruce_leaves[distance=4,persistent=false,waterlogged=false]
+216 149 487 spruce_leaves[distance=4,persistent=false,waterlogged=false]
+216 149 488 spruce_leaves[distance=3,persistent=false,waterlogged=false]
+216 149 489 spruce_leaves[distance=4,persistent=false,waterlogged=false]
+217 149 488 spruce_leaves[distance=4,persistent=false,waterlogged=false]
+fill 128 150 444 128 150 447 dirt
+128 150 448 stone
+128 150 449 stone
+128 150 450 dirt
+128 150 451 dirt
+128 150 452 grass_block[snowy=true]
+129 150 445 grass_block[snowy=true]
+129 150 446 grass_block[snowy=true]
+fill 129 150 447 129 150 450 dirt
+129 150 451 grass_block[snowy=false]
+215 150 488 snow[layers=1]
+fill 216 150 487 216 150 489 snow[layers=1]
+217 150 488 snow[layers=1]
+128 151 444 grass_block[snowy=true]
+fill 128 151 445 128 151 451 dirt
+128 151 452 snow[layers=1]
+129 151 445 snow[layers=1]
+129 151 446 snow[layers=1]
+129 151 447 grass_block[snowy=true]
+129 151 448 dirt
+129 151 449 dirt
+129 151 450 grass_block[snowy=true]
+129 151 451 short_grass
+128 152 444 snow[layers=1]
+fill 128 152 445 128 152 450 dirt
+128 152 451 grass_block[snowy=true]
+129 152 447 snow[layers=1]
+129 152 448 grass_block[snowy=true]
+129 152 449 grass_block[snowy=true]
+129 152 450 snow[layers=1]
+128 153 445 grass_block[snowy=true]
+128 153 446 grass_block[snowy=false]
+fill 128 153 447 128 153 450 dirt
+128 153 451 snow[layers=1]
+129 153 448 snow[layers=1]
+129 153 449 snow[layers=1]
+128 154 445 snow[layers=1]
+128 154 446 short_grass
+128 154 447 grass_block[snowy=true]
+128 154 448 dirt
+128 154 449 dirt
+128 154 450 grass_block[snowy=true]
+128 155 447 snow[layers=1]
+128 155 448 grass_block[snowy=true]
+128 155 449 grass_block[snowy=true]
+128 155 450 snow[layers=1]
+128 156 448 snow[layers=1]
+128 156 449 snow[layers=1]
+fill 128 0 512 128 0 639 bedrock
+fill 129 0 512 129 0 639 bedrock
+fill 130 0 512 130 0 639 bedrock
+fill 131 0 512 131 0 639 bedrock
+fill 132 0 512 132 0 639 bedrock
+fill 133 0 512 133 0 639 bedrock
+fill 134 0 512 134 0 639 bedrock
+fill 135 0 512 135 0 639 bedrock
+fill 136 0 512 136 0 624 bedrock
+fill 136 0 625 136 0 639 bedrock
+fill 137 0 512 137 0 639 bedrock
+fill 138 0 512 138 0 639 bedrock
+fill 139 0 512 139 0 639 bedrock
+fill 140 0 512 140 0 639 bedrock
+fill 141 0 512 141 0 639 bedrock
+fill 142 0 512 142 0 639 bedrock
+fill 143 0 512 143 0 639 bedrock
+fill 144 0 512 144 0 639 bedrock
+fill 145 0 512 145 0 609 bedrock
+fill 145 0 610 145 0 639 bedrock
+fill 146 0 512 146 0 639 bedrock
+fill 147 0 512 147 0 639 bedrock
+fill 148 0 512 148 0 639 bedrock
+fill 149 0 512 149 0 639 bedrock
+fill 150 0 512 150 0 639 bedrock
+fill 151 0 512 151 0 639 bedrock
+fill 152 0 512 152 0 639 bedrock
+fill 153 0 512 153 0 639 bedrock
+fill 154 0 512 154 0 594 bedrock
+fill 154 0 595 154 0 639 bedrock
+fill 155 0 512 155 0 639 bedrock
+fill 156 0 512 156 0 639 bedrock
+fill 157 0 512 157 0 639 bedrock
+fill 158 0 512 158 0 639 bedrock
+fill 159 0 512 159 0 639 bedrock
+fill 160 0 512 160 0 639 bedrock
+fill 161 0 512 161 0 639 bedrock
+fill 162 0 512 162 0 639 bedrock
+fill 163 0 512 163 0 579 bedrock
+fill 163 0 580 163 0 639 bedrock
+fill 164 0 512 164 0 639 bedrock
+fill 165 0 512 165 0 639 bedrock
+fill 166 0 512 166 0 639 bedrock
+fill 167 0 512 167 0 639 bedrock
+fill 168 0 512 168 0 639 bedrock
+fill 169 0 512 169 0 639 bedrock
+fill 170 0 512 170 0 639 bedrock
+fill 171 0 512 171 0 639 bedrock
+fill 172 0 512 172 0 564 bedrock
+fill 172 0 565 172 0 639 bedrock
+fill 173 0 512 173 0 639 bedrock
+fill 174 0 512 174 0 639 bedrock
+fill 175 0 512 175 0 639 bedrock
+fill 176 0 512 176 0 639 bedrock
+fill 177 0 512 177 0 639 bedrock
+fill 178 0 512 178 0 639 bedrock
+fill 179 0 512 179 0 639 bedrock
+fill 180 0 512 180 0 639 bedrock
+fill 181 0 512 181 0 549 bedrock
+fill 181 0 550 181 0 639 bedrock
+fill 182 0 512 182 0 639 bedrock
+fill 183 0 512 183 0 639 bedrock
+fill 184 0 512 184 0 639 bedrock
+fill 185 0 512 185 0 639 bedrock
+fill 186 0 512 186 0 639 bedrock
+fill 187 0 512 187 0 639 bedrock
+fill 188 0 512 188 0 639 bedrock
+fill 189 0 512 189 0 639 bedrock
+fill 190 0 512 190 0 534 bedrock
+fill 190 0 535 190 0 639 bedrock
+fill 191 0 512 191 0 639 bedrock
+fill 192 0 512 192 0 639 bedrock
+fill 193 0 512 193 0 639 bedrock
+fill 194 0 512 194 0 639 bedrock
+fill 195 0 512 195 0 639 bedrock
+fill 196 0 512 196 0 639 bedrock
+fill 197 0 512 197 0 639 bedrock
+fill 198 0 512 198 0 639 bedrock
+fill 199 0 512 199 0 519 bedrock
+fill 199 0 520 199 0 639 bedrock
+fill 200 0 512 200 0 639 bedrock
+fill 201 0 512 201 0 639 bedrock
+fill 202 0 512 202 0 639 bedrock
+fill 203 0 512 203 0 639 bedrock
+fill 204 0 512 204 0 639 bedrock
+fill 205 0 512 205 0 639 bedrock
+fill 206 0 512 206 0 639 bedrock
+fill 207 0 512 207 0 632 bedrock
+fill 207 0 633 207 0 639 bedrock
+fill 208 0 512 208 0 639 bedrock
+fill 209 0 512 209 0 639 bedrock
+fill 210 0 512 210 0 639 bedrock
+fill 211 0 512 211 0 639 bedrock
+fill 212 0 512 212 0 639 bedrock
+fill 213 0 512 213 0 639 bedrock
+fill 214 0 512 214 0 639 bedrock
+fill 215 0 512 215 0 639 bedrock
+fill 216 0 512 216 0 617 bedrock
+fill 216 0 618 216 0 639 bedrock
+fill 217 0 512 217 0 639 bedrock
+fill 218 0 512 218 0 639 bedrock
+fill 219 0 512 219 0 639 bedrock
+fill 220 0 512 220 0 639 bedrock
+fill 221 0 512 221 0 639 bedrock
+fill 222 0 512 222 0 639 bedrock
+fill 223 0 512 223 0 639 bedrock
+fill 224 0 512 224 0 639 bedrock
+fill 225 0 512 225 0 602 bedrock
+fill 225 0 603 225 0 639 bedrock
+fill 226 0 512 226 0 639 bedrock
+fill 227 0 512 227 0 639 bedrock
+fill 228 0 512 228 0 639 bedrock
+fill 229 0 512 229 0 639 bedrock
+fill 230 0 512 230 0 639 bedrock
+fill 231 0 512 231 0 639 bedrock
+fill 232 0 512 232 0 639 bedrock
+fill 233 0 512 233 0 639 bedrock
+fill 234 0 512 234 0 587 bedrock
+fill 234 0 588 234 0 639 bedrock
+fill 235 0 512 235 0 639 bedrock
+fill 236 0 512 236 0 639 bedrock
+fill 237 0 512 237 0 639 bedrock
+fill 238 0 512 238 0 639 bedrock
+fill 239 0 512 239 0 639 bedrock
+fill 240 0 512 240 0 639 bedrock
+fill 241 0 512 241 0 639 bedrock
+fill 242 0 512 242 0 639 bedrock
+fill 243 0 512 243 0 572 bedrock
+fill 243 0 573 243 0 639 bedrock
+fill 244 0 512 244 0 639 bedrock
+fill 245 0 512 245 0 639 bedrock
+fill 246 0 512 246 0 639 bedrock
+fill 247 0 512 247 0 639 bedrock
+fill 248 0 512 248 0 639 bedrock
+fill 249 0 512 249 0 639 bedrock
+fill 250 0 512 250 0 639 bedrock
+fill 251 0 512 251 0 639 bedrock
+fill 252 0 512 252 0 557 bedrock
+fill 252 0 558 252 0 639 bedrock
+fill 253 0 512 253 0 639 bedrock
+fill 254 0 512 254 0 639 bedrock
+fill 255 0 512 255 0 639 bedrock
+128 1 512 bedrock
+128 1 513 deepslate[axis=y]
+fill 128 1 514 128 1 518 bedrock
+128 1 519 deepslate[axis=y]
+fill 128 1 520 128 1 524 bedrock
+128 1 525 deepslate[axis=y]
+fill 128 1 526 128 1 529 bedrock
+128 1 530 deepslate[axis=y]
+128 1 531 deepslate[axis=y]
+128 1 532 bedrock
+128 1 533 deepslate[axis=y]
+128 1 534 bedrock
+128 1 535 bedrock
+128 1 536 deepslate[axis=y]
+fill 128 1 537 128 1 541 bedrock
+128 1 542 deepslate[axis=y]
+fill 128 1 543 128 1 570 bedrock
+128 1 571 deepslate[axis=y]
+128 1 572 bedrock
+128 1 573 bedrock
+128 1 574 deepslate[axis=y]
+128 1 575 deepslate[axis=y]
+fill 128 1 576 128 1 581 bedrock
+128 1 582 deepslate[axis=y]
+128 1 583 bedrock
+128 1 584 bedrock
+128 1 585 deepslate[axis=y]
+128 1 586 bedrock
+128 1 587 deepslate[axis=y]
+128 1 588 bedrock
+128 1 589 deepslate[axis=y]
+fill 128 1 590 128 1 594 bedrock
+128 1 595 deepslate[axis=y]
+128 1 596 deepslate[axis=y]
+128 1 597 bedrock
+fill 128 1 598 128 1 600 deepslate[axis=y]
+fill 128 1 601 128 1 604 bedrock
+128 1 605 deepslate[axis=y]
+fill 128 1 606 128 1 608 bedrock
+128 1 609 deepslate[axis=y]
+fill 128 1 610 128 1 617 bedrock
+128 1 618 deepslate_gold_ore
+fill 128 1 619 128 1 621 bedrock
+128 1 622 deepslate[axis=y]
+fill 128 1 623 128 1 625 bedrock
+128 1 626 deepslate[axis=y]
+fill 128 1 627 128 1 629 bedrock
+128 1 630 deepslate[axis=y]
+fill 128 1 631 128 1 639 bedrock
+fill 129 1 512 129 1 514 bedrock
+129 1 515 deepslate[axis=y]
+fill 129 1 516 129 1 519 bedrock
+129 1 520 deepslate[axis=y]
+fill 129 1 521 129 1 538 bedrock
+fill 129 1 539 129 1 541 deepslate[axis=y]
+129 1 542 bedrock
+129 1 543 bedrock
+129 1 544 deepslate[axis=y]
+129 1 545 bedrock
+129 1 546 bedrock
+129 1 547 deepslate[axis=y]
+fill 129 1 548 129 1 560 bedrock
+129 1 561 deepslate[axis=y]
+129 1 562 bedrock
+129 1 563 deepslate[axis=y]
+fill 129 1 564 129 1 568 bedrock
+129 1 569 deepslate[axis=y]
+129 1 570 bedrock
+129 1 571 deepslate[axis=y]
+129 1 572 deepslate[axis=y]
+129 1 573 bedrock
+129 1 574 bedrock
+129 1 575 deepslate[axis=y]
+129 1 576 bedrock
+129 1 577 bedrock
+129 1 578 deepslate[axis=y]
+129 1 579 deepslate[axis=y]
+fill 129 1 580 129 1 591 bedrock
+129 1 592 deepslate[axis=y]
+fill 129 1 593 129 1 600 bedrock
+129 1 601 deepslate[axis=y]
+129 1 602 bedrock
+129 1 603 deepslate[axis=y]
+129 1 604 bedrock
+129 1 605 bedrock
+129 1 606 deepslate[axis=y]
+fill 129 1 607 129 1 613 bedrock
+129 1 614 deepslate[axis=y]
+129 1 615 bedrock
+129 1 616 bedrock
+129 1 617 deepslate[axis=y]
+fill 129 1 618 129 1 620 bedrock

@@ -1,0 +1,776 @@
+fill 40 71 99 40 71 104 stone
+40 71 105 cave_air
+40 71 106 rail[shape=east_west,waterlogged=false]
+fill 40 71 107 40 71 109 cave_air
+40 71 110 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+fill 40 71 111 40 71 114 cave_air
+40 71 115 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+fill 40 71 116 40 71 124 cave_air
+40 71 125 oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+40 71 126 cave_air
+40 71 127 cave_air
+41 71 0 granite
+41 71 1 granite
+fill 41 71 2 41 71 6 stone
+41 71 7 deepslate[axis=y]
+41 71 8 stone
+41 71 9 stone
+41 71 10 deepslate[axis=y]
+41 71 11 stone
+41 71 12 deepslate[axis=y]
+fill 41 71 13 41 71 15 stone
+fill 41 71 16 41 71 23 diorite
+fill 41 71 24 41 71 28 stone
+fill 41 71 32 41 71 44 granite
+fill 41 71 45 41 71 50 stone
+fill 41 71 51 41 71 59 water[level=0]
+41 71 60 stone
+41 71 61 stone
+41 71 62 deepslate[axis=y]
+fill 41 71 63 41 71 69 stone
+41 71 70 deepslate[axis=y]
+fill 41 71 71 41 71 74 stone
+41 71 75 deepslate[axis=y]
+41 71 76 stone
+41 71 77 stone
+41 71 78 deepslate[axis=y]
+fill 41 71 79 41 71 82 stone
+41 71 83 deepslate[axis=y]
+fill 41 71 84 41 71 86 stone
+41 71 87 deepslate[axis=y]
+fill 41 71 88 41 71 90 stone
+fill 41 71 96 41 71 98 cave_air
+41 71 99 stone
+41 71 100 stone
+41 71 101 deepslate[axis=y]
+41 71 102 stone
+41 71 103 deepslate[axis=y]
+41 71 104 stone
+fill 41 71 105 41 71 107 cave_air
+fill 41 71 108 41 71 114 stone
+41 71 115 deepslate[axis=y]
+fill 41 71 116 41 71 122 stone
+fill 41 71 123 41 71 127 granite
+42 71 0 granite
+42 71 1 granite
+42 71 2 stone
+42 71 3 deepslate[axis=y]
+fill 42 71 4 42 71 9 stone
+42 71 10 deepslate[axis=y]
+42 71 11 stone
+42 71 12 stone
+42 71 13 deepslate[axis=y]
+42 71 14 stone
+42 71 15 stone
+fill 42 71 16 42 71 23 diorite
+42 71 24 deepslate[axis=y]
+42 71 25 stone
+42 71 26 deepslate[axis=y]
+42 71 27 stone
+42 71 28 stone
+fill 42 71 31 42 71 42 granite
+42 71 43 deepslate[axis=y]
+fill 42 71 44 42 71 49 stone
+fill 42 71 50 42 71 64 water[level=0]
+fill 42 71 65 42 71 67 stone
+42 71 68 deepslate[axis=y]
+fill 42 71 69 42 71 76 stone
+42 71 77 deepslate[axis=y]
+42 71 78 stone
+42 71 79 stone
+42 71 80 deepslate[axis=y]
+fill 42 71 81 42 71 84 stone
+42 71 85 deepslate[axis=y]
+fill 42 71 86 42 71 89 stone
+42 71 90 deepslate[axis=y]
+42 71 91 stone
+42 71 92 stone
+42 71 93 deepslate[axis=y]
+42 71 96 stone
+42 71 97 stone
+42 71 98 deepslate[axis=y]
+42 71 99 stone
+42 71 100 stone
+fill 42 71 101 42 71 103 cave_air
+42 71 104 andesite
+42 71 105 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+42 71 106 rail[shape=east_west,waterlogged=false]
+42 71 107 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+42 71 108 andesite
+fill 42 71 109 42 71 111 cave_air
+42 71 112 stone
+42 71 113 deepslate[axis=y]
+42 71 114 deepslate[axis=y]
+fill 42 71 115 42 71 121 stone
+42 71 122 deepslate[axis=y]
+42 71 123 stone
+fill 42 71 124 42 71 127 granite
+fill 43 71 0 43 71 5 stone
+43 71 6 deepslate[axis=y]
+fill 43 71 7 43 71 10 stone
+43 71 11 deepslate[axis=y]
+43 71 12 stone
+43 71 13 deepslate[axis=y]
+43 71 14 stone
+43 71 15 stone
+fill 43 71 16 43 71 23 diorite
+43 71 24 stone
+43 71 25 stone
+43 71 26 deepslate[axis=y]
+43 71 27 stone
+43 71 28 stone
+fill 43 71 29 43 71 42 granite
+fill 43 71 43 43 71 45 stone
+43 71 46 deepslate[axis=y]
+fill 43 71 47 43 71 49 stone
+fill 43 71 50 43 71 65 water[level=0]
+fill 43 71 66 43 71 70 stone
+43 71 71 deepslate[axis=y]
+fill 43 71 72 43 71 76 stone
+43 71 77 deepslate[axis=y]
+43 71 78 deepslate[axis=y]
+43 71 79 stone
+43 71 80 stone
+43 71 81 deepslate_iron_ore
+43 71 82 deepslate_iron_ore
+43 71 83 deepslate[axis=y]
+fill 43 71 84 43 71 91 stone
+43 71 92 deepslate[axis=y]
+fill 43 71 93 43 71 100 stone
+fill 43 71 101 43 71 103 cave_air
+43 71 104 andesite
+43 71 105 cave_air
+43 71 106 rail[shape=east_west,waterlogged=false]
+43 71 107 cave_air
+43 71 108 cave_air
+43 71 109 oak_planks
+43 71 110 cave_air
+43 71 111 oak_planks
+43 71 112 cave_air
+fill 43 71 113 43 71 120 stone
+43 71 121 deepslate[axis=y]
+43 71 122 stone
+43 71 123 stone
+fill 43 71 124 43 71 127 granite
+fill 44 71 0 44 71 15 stone
+fill 44 71 16 44 71 24 diorite
+44 71 25 stone
+44 71 26 deepslate_iron_ore
+44 71 27 stone
+44 71 28 stone
+fill 44 71 29 44 71 40 granite
+fill 44 71 41 44 71 44 stone
+44 71 45 deepslate[axis=y]
+44 71 46 copper_ore
+44 71 47 stone
+44 71 48 stone
+44 71 49 deepslate[axis=y]
+fill 44 71 50 44 71 66 water[level=0]
+fill 44 71 67 44 71 74 stone
+44 71 75 deepslate[axis=y]
+44 71 76 stone
+44 71 77 stone
+44 71 78 deepslate[axis=y]
+44 71 79 stone
+44 71 80 stone
+44 71 81 iron_ore
+fill 44 71 82 44 71 85 gravel
+fill 44 71 86 44 71 88 stone
+44 71 89 deepslate[axis=y]
+44 71 90 stone
+44 71 91 deepslate[axis=y]
+44 71 92 stone
+44 71 93 deepslate[axis=y]
+fill 44 71 94 44 71 96 stone
+44 71 97 deepslate[axis=y]
+fill 44 71 98 44 71 100 stone
+44 71 101 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+44 71 102 cave_air
+44 71 103 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+44 71 104 andesite
+44 71 105 cave_air
+44 71 106 rail[shape=east_west,waterlogged=false]
+fill 44 71 107 44 71 112 cave_air
+44 71 113 dirt
+44 71 114 deepslate[axis=y]
+fill 44 71 115 44 71 117 stone
+44 71 118 deepslate[axis=y]
+44 71 119 stone
+44 71 120 stone
+44 71 121 deepslate[axis=y]
+44 71 122 deepslate[axis=y]
+fill 44 71 123 44 71 126 stone
+44 71 127 diorite
+fill 45 71 0 45 71 16 stone
+fill 45 71 17 45 71 25 diorite
+45 71 26 stone
+45 71 27 deepslate[axis=y]
+45 71 28 stone
+fill 45 71 29 45 71 37 granite
+fill 45 71 38 45 71 45 stone
+45 71 46 copper_ore
+45 71 47 stone
+45 71 48 deepslate[axis=y]
+45 71 49 stone
+fill 45 71 50 45 71 67 water[level=0]
+fill 45 71 68 45 71 72 stone
+45 71 73 deepslate[axis=y]
+fill 45 71 74 45 71 80 stone
+fill 45 71 81 45 71 86 gravel
+45 71 87 stone
+45 71 88 stone
+45 71 89 deepslate[axis=y]
+fill 45 71 90 45 71 92 stone
+45 71 93 deepslate[axis=y]
+45 71 94 stone
+fill 45 71 95 45 71 99 diorite
+45 71 100 andesite
+fill 45 71 101 45 71 103 cave_air
+45 71 104 andesite
+45 71 105 cave_air
+45 71 106 rail[shape=east_west,waterlogged=false]
+45 71 107 cave_air
+45 71 108 cave_air
+45 71 109 oak_planks
+45 71 110 cave_air
+45 71 111 oak_planks
+45 71 112 cave_air
+45 71 113 dirt
+fill 45 71 114 45 71 116 stone
+45 71 117 iron_ore
+fill 45 71 118 45 71 125 stone
+45 71 126 diorite
+45 71 127 diorite
+fill 46 71 0 46 71 7 stone
+fill 46 71 8 46 71 10 andesite
+fill 46 71 11 46 71 17 stone
+fill 46 71 18 46 71 26 diorite
+46 71 27 stone
+46 71 28 stone
+46 71 29 deepslate[axis=y]
+46 71 30 stone
+46 71 31 granite
+46 71 32 stone
+46 71 33 granite
+46 71 34 granite
+46 71 35 stone
+46 71 36 stone
+46 71 37 deepslate[axis=y]
+fill 46 71 38 46 71 44 stone
+46 71 45 deepslate[axis=y]
+fill 46 71 46 46 71 49 stone
+fill 46 71 50 46 71 68 water[level=0]
+46 71 69 coal_ore
+46 71 70 coal_ore
+fill 46 71 71 46 71 73 stone
+46 71 74 deepslate[axis=y]
+46 71 75 stone
+46 71 76 stone
+46 71 77 deepslate[axis=y]
+46 71 78 stone
+fill 46 71 79 46 71 85 gravel
+46 71 86 stone
+46 71 87 deepslate[axis=y]
+46 71 88 stone
+46 71 89 stone
+46 71 90 deepslate[axis=y]
+fill 46 71 91 46 71 94 stone
+fill 46 71 95 46 71 97 diorite
+fill 46 71 98 46 71 100 andesite
+fill 46 71 101 46 71 103 cave_air
+46 71 104 andesite
+fill 46 71 105 46 71 107 cave_air
+46 71 108 dirt
+fill 46 71 109 46 71 111 cave_air
+46 71 112 dirt
+46 71 113 andesite
+46 71 114 stone
+46 71 115 stone
+46 71 116 deepslate[axis=y]
+46 71 117 stone
+46 71 118 deepslate[axis=y]
+fill 46 71 119 46 71 125 stone
+46 71 126 diorite
+46 71 127 diorite
+fill 47 71 0 47 71 4 stone
+47 71 5 deepslate[axis=y]
+47 71 6 stone
+fill 47 71 7 47 71 10 andesite
+fill 47 71 11 47 71 19 stone
+fill 47 71 20 47 71 26 diorite
+fill 47 71 27 47 71 30 stone
+47 71 31 deepslate[axis=y]
+fill 47 71 32 47 71 36 andesite
+47 71 37 deepslate_iron_ore
+47 71 38 andesite
+fill 47 71 39 47 71 49 stone
+fill 47 71 50 47 71 69 water[level=0]
+47 71 70 coal_ore
+fill 47 71 71 47 71 77 stone
+fill 47 71 78 47 71 85 gravel
+fill 47 71 86 47 71 90 stone
+47 71 91 deepslate[axis=y]
+47 71 92 stone
+47 71 93 stone
+47 71 94 stone
+47 71 95 stone
+47 71 96 diorite
+fill 47 71 97 47 71 100 andesite
+fill 47 71 101 47 71 103 cave_air
+47 71 104 andesite
+47 71 105 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+47 71 106 rail[shape=east_west,waterlogged=false]
+47 71 107 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+47 71 108 dirt
+fill 47 71 109 47 71 111 cave_air
+fill 47 71 112 47 71 114 andesite
+fill 47 71 115 47 71 119 stone
+47 71 120 deepslate[axis=y]
+47 71 121 stone
+47 71 122 stone
+47 71 123 deepslate[axis=y]
+fill 47 71 124 47 71 127 diorite
+fill 48 71 0 48 71 3 stone
+48 71 4 deepslate[axis=y]
+48 71 5 stone
+fill 48 71 6 48 71 10 andesite
+fill 48 71 11 48 71 15 stone
+48 71 16 deepslate[axis=y]
+fill 48 71 17 48 71 20 stone
+fill 48 71 21 48 71 26 diorite
+48 71 27 deepslate[axis=y]
+48 71 28 stone
+48 71 29 deepslate[axis=y]
+48 71 30 deepslate[axis=y]
+fill 48 71 31 48 71 36 andesite
+48 71 37 iron_ore
+48 71 38 iron_ore
+48 71 39 deepslate[axis=y]
+fill 48 71 40 48 71 48 stone
+fill 48 71 49 48 71 60 water[level=0]
+48 71 61 diorite
+fill 48 71 62 48 71 67 water[level=0]
+48 71 68 stone
+48 71 69 deepslate_coal_ore
+48 71 70 stone
+48 71 71 stone
+48 71 72 deepslate[axis=y]
+fill 48 71 73 48 71 75 stone
+48 71 76 deepslate[axis=y]
+48 71 77 stone
+fill 48 71 78 48 71 83 gravel
+48 71 84 stone
+48 71 85 stone
+48 71 86 deepslate[axis=y]
+48 71 87 deepslate[axis=y]
+fill 48 71 88 48 71 95 stone
+fill 48 71 96 48 71 100 andesite
+fill 48 71 101 48 71 103 cave_air
+48 71 104 andesite
+48 71 105 cave_air
+48 71 106 rail[shape=east_west,waterlogged=false]
+48 71 107 cave_air
+48 71 108 dirt
+fill 48 71 109 48 71 111 cave_air
+48 71 113 andesite
+48 71 114 andesite
+48 71 115 stone
+48 71 116 stone
+48 71 117 deepslate[axis=y]
+fill 48 71 118 48 71 122 stone
+fill 48 71 123 48 71 127 diorite
+fill 49 71 0 49 71 2 stone
+49 71 3 deepslate[axis=y]
+49 71 4 stone
+fill 49 71 5 49 71 11 andesite
+49 71 12 deepslate[axis=y]
+49 71 13 deepslate[axis=y]
+fill 49 71 14 49 71 19 stone
+49 71 20 deepslate[axis=y]
+fill 49 71 21 49 71 27 diorite
+49 71 28 stone
+fill 49 71 29 49 71 36 andesite
+49 71 37 iron_ore
+49 71 38 iron_ore
+fill 49 71 39 49 71 44 stone
+49 71 45 deepslate[axis=y]
+fill 49 71 46 49 71 48 stone
+fill 49 71 49 49 71 60 water[level=0]
+fill 49 71 61 49 71 63 diorite
+fill 49 71 64 49 71 69 stone
+49 71 70 deepslate[axis=y]
+fill 49 71 71 49 71 78 stone
+49 71 79 gravel
+49 71 80 gravel
+fill 49 71 81 49 71 91 stone
+49 71 92 deepslate[axis=y]
+fill 49 71 93 49 71 95 stone
+fill 49 71 96 49 71 100 andesite
+49 71 101 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+49 71 102 cave_air
+49 71 103 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+49 71 104 andesite
+49 71 105 cave_air
+49 71 106 rail[shape=east_west,waterlogged=false]
+49 71 107 cave_air
+49 71 108 dirt
+49 71 109 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+49 71 110 cave_air
+49 71 111 oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+49 71 114 andesite
+fill 49 71 115 49 71 119 stone
+fill 49 71 120 49 71 122 deepslate[axis=y]
+fill 49 71 123 49 71 127 diorite
+fill 50 71 0 50 71 4 stone
+fill 50 71 5 50 71 11 andesite
+fill 50 71 12 50 71 19 stone
+50 71 20 deepslate[axis=y]
+fill 50 71 21 50 71 27 diorite
+fill 50 71 28 50 71 37 andesite
+50 71 38 iron_ore
+fill 50 71 39 50 71 49 stone
+fill 50 71 50 50 71 60 water[level=0]
+50 71 61 diorite
+fill 50 71 70 50 71 73 stone
+50 71 74 deepslate[axis=y]
+50 71 75 stone
+50 71 76 deepslate[axis=y]
+50 71 77 stone
+50 71 78 deepslate[axis=y]
+50 71 79 stone
+50 71 80 deepslate[axis=y]
+fill 50 71 81 50 71 85 stone
+50 71 86 deepslate[axis=y]
+50 71 87 deepslate[axis=y]
+fill 50 71 88 50 71 90 stone
+50 71 91 deepslate[axis=y]
+fill 50 71 92 50 71 94 stone
+fill 50 71 95 50 71 100 andesite
+fill 50 71 101 50 71 103 cave_air
+50 71 104 andesite
+fill 50 71 105 50 71 107 cave_air
+50 71 108 dirt
+fill 50 71 109 50 71 111 cave_air
+50 71 114 stone
+50 71 115 stone
+fill 50 71 116 50 71 118 cave_air
+fill 50 71 119 50 71 122 stone
+fill 50 71 123 50 71 127 diorite
+fill 51 71 0 51 71 3 stone
+fill 51 71 4 51 71 11 andesite
+51 71 12 stone
+51 71 13 deepslate[axis=y]
+fill 51 71 14 51 71 20 stone
+fill 51 71 21 51 71 26 diorite
+fill 51 71 27 51 71 36 andesite
+fill 51 71 37 51 71 41 stone
+51 71 42 deepslate[axis=y]
+fill 51 71 43 51 71 46 stone
+51 71 47 deepslate[axis=y]
+51 71 48 stone
+51 71 49 stone
+51 71 50 gravel
+51 71 51 gravel
+51 71 52 stone
+fill 51 71 53 51 71 59 water[level=0]
+51 71 60 diorite
+51 71 61 diorite
+51 71 71 deepslate[axis=y]
+51 71 72 stone
+51 71 73 deepslate[axis=y]
+fill 51 71 74 51 71 88 stone
+51 71 89 deepslate[axis=y]
+fill 51 71 90 51 71 94 stone
+fill 51 71 95 51 71 100 andesite
+fill 51 71 101 51 71 103 cave_air
+51 71 104 andesite
+fill 51 71 105 51 71 107 cave_air
+51 71 108 dirt
+fill 51 71 109 51 71 111 cave_air
+51 71 113 andesite
+51 71 114 stone
+51 71 115 deepslate[axis=y]
+fill 51 71 116 51 71 118 cave_air
+fill 51 71 119 51 71 121 stone
+fill 51 71 122 51 71 127 diorite
+52 71 0 stone
+52 71 1 stone
+52 71 2 deepslate[axis=y]
+fill 52 71 3 52 71 10 andesite
+fill 52 71 11 52 71 16 stone
+52 71 17 deepslate[axis=y]
+fill 52 71 18 52 71 20 stone
+fill 52 71 21 52 71 25 diorite
+fill 52 71 26 52 71 35 andesite
+fill 52 71 36 52 71 44 stone
+52 71 45 deepslate[axis=y]
+fill 52 71 46 52 71 48 diorite
+fill 52 71 49 52 71 52 stone
+52 71 53 deepslate[axis=y]
+52 71 54 stone
+52 71 55 stone
+fill 52 71 56 52 71 59 water[level=0]
+52 71 60 diorite
+fill 52 71 72 52 71 78 stone
+52 71 79 deepslate[axis=y]
+52 71 80 stone
+52 71 81 stone
+52 71 82 deepslate[axis=y]
+fill 52 71 83 52 71 93 stone
+52 71 94 andesite
+52 71 95 andesite
+fill 52 71 96 52 71 98 cave_air
+52 71 99 andesite
+52 71 100 andesite
+fill 52 71 101 52 71 103 cave_air
+52 71 104 stone
+52 71 105 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+52 71 106 cave_air
+52 71 107 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+52 71 108 dirt
+fill 52 71 109 52 71 111 cave_air
+fill 52 71 112 52 71 114 stone
+52 71 115 copper_ore
+fill 52 71 116 52 71 118 cave_air
+fill 52 71 119 52 71 121 stone
+fill 52 71 122 52 71 127 diorite
+fill 53 71 0 53 71 2 stone
+fill 53 71 3 53 71 10 andesite
+53 71 11 stone
+53 71 12 deepslate[axis=y]
+53 71 13 deepslate[axis=y]
+fill 53 71 14 53 71 17 stone
+53 71 18 deepslate[axis=y]
+53 71 19 stone
+53 71 20 stone
+fill 53 71 21 53 71 25 diorite
+fill 53 71 26 53 71 34 andesite
+fill 53 71 35 53 71 44 stone
+53 71 45 deepslate[axis=y]
+fill 53 71 46 53 71 49 diorite
+fill 53 71 50 53 71 58 stone
+53 71 59 water[level=0]
+53 71 60 diorite
+fill 53 71 72 53 71 75 stone
+53 71 76 deepslate[axis=y]
+fill 53 71 77 53 71 83 stone
+53 71 84 deepslate[axis=y]
+53 71 85 stone
+53 71 86 deepslate[axis=y]
+53 71 87 stone
+53 71 88 deepslate[axis=y]
+fill 53 71 89 53 71 92 stone
+53 71 93 deepslate[axis=y]
+53 71 94 stone
+53 71 95 cave_air
+53 71 96 oak_planks
+53 71 97 cave_air
+53 71 98 oak_planks
+53 71 99 cave_air
+53 71 100 cave_air
+53 71 101 oak_planks
+53 71 102 cave_air
+53 71 103 oak_planks
+fill 53 71 104 53 71 107 cave_air
+53 71 108 dirt
+fill 53 71 109 53 71 111 cave_air
+53 71 112 stone
+53 71 113 andesite
+53 71 114 stone
+53 71 115 copper_ore
+53 71 116 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+53 71 117 cave_air
+53 71 118 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+53 71 119 stone
+53 71 120 deepslate[axis=y]
+53 71 121 stone
+fill 53 71 122 53 71 127 diorite
+fill 54 71 0 54 71 2 stone
+fill 54 71 3 54 71 12 andesite
+54 71 13 stone
+54 71 14 deepslate[axis=y]
+fill 54 71 15 54 71 17 stone
+54 71 18 deepslate[axis=y]
+fill 54 71 19 54 71 21 stone
+fill 54 71 22 54 71 24 diorite
+fill 54 71 25 54 71 32 andesite
+54 71 33 deepslate[axis=y]
+54 71 34 stone
+54 71 35 deepslate[axis=y]
+54 71 36 stone
+54 71 37 stone
+54 71 38 deepslate[axis=y]
+54 71 39 stone
+54 71 40 deepslate[axis=y]
+fill 54 71 41 54 71 45 stone
+fill 54 71 46 54 71 50 diorite
+fill 54 71 51 54 71 60 stone
+fill 54 71 73 54 71 81 stone
+54 71 82 deepslate[axis=y]
+fill 54 71 83 54 71 92 stone
+54 71 93 deepslate[axis=y]
+54 71 94 stone
+fill 54 71 95 54 71 107 cave_air
+54 71 108 dirt
+54 71 109 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+54 71 110 cave_air
+54 71 111 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+54 71 112 andesite
+54 71 113 andesite
+54 71 114 stone
+54 71 115 stone
+fill 54 71 116 54 71 118 cave_air
+fill 54 71 119 54 71 121 stone
+fill 54 71 122 54 71 127 diorite
+fill 55 71 0 55 71 2 stone
+fill 55 71 3 55 71 12 andesite
+55 71 13 stone
+55 71 14 deepslate[axis=y]
+fill 55 71 15 55 71 23 stone
+55 71 24 diorite
+55 71 25 diorite
+fill 55 71 26 55 71 30 andesite
+fill 55 71 31 55 71 36 stone
+55 71 37 deepslate[axis=y]
+55 71 38 stone
+55 71 39 stone
+55 71 40 deepslate[axis=y]
+fill 55 71 41 55 71 45 stone
+fill 55 71 46 55 71 50 diorite
+fill 55 71 53 55 71 56 stone
+55 71 57 deepslate[axis=y]
+55 71 58 stone
+55 71 59 deepslate[axis=y]
+fill 55 71 73 55 71 86 stone
+55 71 87 deepslate[axis=y]
+fill 55 71 88 55 71 93 stone
+55 71 94 deepslate[axis=y]
+55 71 95 cave_air
+55 71 96 oak_planks
+55 71 97 cave_air
+55 71 98 oak_planks
+55 71 99 cave_air
+55 71 100 cave_air
+55 71 101 oak_planks
+55 71 102 cave_air
+55 71 103 oak_planks
+fill 55 71 104 55 71 107 cave_air
+55 71 108 stone
+fill 55 71 109 55 71 111 cave_air
+fill 55 71 112 55 71 115 stone
+fill 55 71 116 55 71 118 cave_air
+55 71 119 stone
+55 71 120 stone
+fill 55 71 121 55 71 127 diorite
+56 71 0 stone
+56 71 1 stone
+56 71 2 deepslate[axis=y]
+fill 56 71 3 56 71 11 andesite
+fill 56 71 12 56 71 15 stone
+56 71 16 deepslate[axis=y]
+fill 56 71 17 56 71 23 stone
+56 71 24 diorite
+56 71 25 diorite
+56 71 26 andesite
+56 71 27 andesite
+fill 56 71 28 56 71 44 stone
+56 71 45 deepslate[axis=y]
+fill 56 71 46 56 71 50 diorite
+fill 56 71 56 56 71 59 stone
+56 71 60 diorite
+56 71 61 glow_lichen[down=false,east=false,north=true,south=false,up=false,waterlogged=false,west=false]
+fill 56 71 72 56 71 74 stone
+56 71 75 deepslate[axis=y]
+56 71 76 deepslate[axis=y]
+fill 56 71 77 56 71 82 stone
+56 71 83 deepslate[axis=y]
+fill 56 71 84 56 71 87 stone
+56 71 88 deepslate[axis=y]
+56 71 89 stone
+56 71 90 stone
+56 71 91 deepslate[axis=y]
+56 71 92 stone
+56 71 93 stone
+56 71 94 deepslate[axis=y]
+56 71 95 stone
+fill 56 71 96 56 71 98 cave_air
+56 71 99 stone
+56 71 100 stone
+fill 56 71 101 56 71 103 cave_air
+56 71 104 stone
+fill 56 71 105 56 71 107 cave_air
+56 71 108 stone
+fill 56 71 109 56 71 111 cave_air
+fill 56 71 112 56 71 120 stone
+fill 56 71 121 56 71 126 diorite
+56 71 127 granite
+fill 57 71 0 57 71 2 stone
+fill 57 71 3 57 71 8 andesite
+fill 57 71 9 57 71 11 andesite
+fill 57 71 12 57 71 15 stone
+57 71 16 deepslate[axis=y]
+57 71 17 stone
+57 71 18 deepslate[axis=y]
+fill 57 71 19 57 71 25 stone
+57 71 26 diorite
+57 71 27 stone
+57 71 28 deepslate[axis=y]
+fill 57 71 29 57 71 35 stone
+57 71 36 deepslate[axis=y]
+fill 57 71 37 57 71 46 stone
+fill 57 71 47 57 71 49 diorite
+57 71 59 stone
+57 71 60 diorite
+fill 57 71 72 57 71 84 stone
+57 71 85 deepslate[axis=y]
+fill 57 71 86 57 71 88 stone
+57 71 89 deepslate[axis=y]
+fill 57 71 90 57 71 94 stone
+57 71 95 deepslate[axis=y]
+fill 57 71 96 57 71 99 stone
+57 71 100 deepslate[axis=y]
+fill 57 71 101 57 71 103 cave_air
+57 71 104 stone
+57 71 105 oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+57 71 106 cave_air
+57 71 107 oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+57 71 108 stone
+fill 57 71 109 57 71 111 cave_air
+fill 57 71 112 57 71 115 stone
+57 71 116 deepslate[axis=y]
+57 71 117 deepslate[axis=y]
+fill 57 71 118 57 71 120 stone
+57 71 121 deepslate[axis=y]
+fill 57 71 122 57 71 125 diorite
+57 71 126 granite
+57 71 127 granite
+58 71 0 deepslate[axis=y]
+58 71 1 stone
+fill 58 71 2 58 71 10 andesite
+fill 58 71 11 58 71 15 stone
+58 71 16 deepslate[axis=y]
+fill 58 71 17 58 71 22 stone
+fill 58 71 23 58 71 28 dirt
+fill 58 71 29 58 71 32 stone
+58 71 33 deepslate[axis=y]
+58 71 34 stone
+58 71 35 deepslate[axis=y]
+58 71 36 stone
+58 71 37 deepslate[axis=y]
+fill 58 71 38 58 71 41 stone
+58 71 42 deepslate[axis=y]
+fill 58 71 43 58 71 45 stone
+58 71 46 deepslate[axis=y]
+fill 58 71 47 58 71 49 diorite
+58 71 59 stone
+58 71 60 deepslate[axis=y]
+fill 58 71 72 58 71 76 stone
+58 71 77 deepslate[axis=y]
+58 71 78 stone
+58 71 79 deepslate[axis=y]
+58 71 80 stone
+58 71 81 stone
+58 71 82 deepslate[axis=y]
+58 71 83 stone
+58 71 84 deepslate[axis=y]
+fill 58 71 85 58 71 91 stone

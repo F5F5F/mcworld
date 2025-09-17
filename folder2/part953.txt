@@ -1,0 +1,685 @@
+fill 20 186 768 20 186 770 grass_block[snowy=true]
+20 186 771 snow[layers=1]
+20 186 772 snow[layers=1]
+fill 21 186 768 21 186 770 dirt
+21 186 771 grass_block[snowy=true]
+21 186 772 grass_block[snowy=true]
+21 186 773 snow[layers=1]
+fill 22 186 768 22 186 772 dirt
+22 186 773 grass_block[snowy=true]
+22 186 774 grass_block[snowy=true]
+22 186 775 snow[layers=1]
+22 186 776 snow[layers=1]
+fill 23 186 768 23 186 772 dirt
+23 186 773 grass_block[snowy=true]
+23 186 774 grass_block[snowy=true]
+23 186 775 short_grass
+23 186 776 snow[layers=1]
+23 186 777 snow[layers=1]
+fill 24 186 768 24 186 772 dirt
+fill 24 186 773 24 186 777 snow[layers=1]
+fill 25 186 768 25 186 772 dirt
+fill 25 186 773 25 186 777 snow[layers=1]
+26 186 768 stone
+26 186 769 stone
+fill 26 186 770 26 186 772 dirt
+26 186 775 snow[layers=1]
+26 186 776 short_grass
+26 186 777 grass_block[snowy=true]
+fill 26 186 778 26 186 781 snow[layers=1]
+27 186 768 stone
+27 186 769 stone
+fill 27 186 770 27 186 778 dirt
+fill 27 186 779 27 186 781 grass_block[snowy=true]
+27 186 782 snow[layers=1]
+fill 28 186 768 28 186 771 stone
+fill 28 186 772 28 186 781 dirt
+28 186 782 grass_block[snowy=true]
+28 186 783 snow[layers=1]
+fill 29 186 768 29 186 778 stone
+fill 29 186 779 29 186 783 dirt
+29 186 784 grass_block[snowy=false]
+fill 30 186 768 30 186 781 stone
+fill 30 186 782 30 186 786 dirt
+30 186 787 grass_block[snowy=true]
+30 186 788 snow[layers=1]
+fill 31 186 768 31 186 782 stone
+fill 31 186 783 31 186 786 dirt
+31 186 787 grass_block[snowy=true]
+31 186 788 snow[layers=1]
+fill 32 186 768 32 186 783 stone
+fill 32 186 784 32 186 787 dirt
+32 186 788 snow[layers=1]
+fill 33 186 768 33 186 785 stone
+33 186 786 dirt
+33 186 787 dirt
+33 186 788 snow[layers=1]
+fill 34 186 768 34 186 784 stone
+34 186 785 coal_ore
+34 186 786 coal_ore
+34 186 787 dirt
+fill 35 186 768 35 186 785 stone
+35 186 786 coal_ore
+35 186 787 dirt
+fill 36 186 768 36 186 785 stone
+36 186 786 coal_ore
+36 186 787 dirt
+fill 37 186 768 37 186 778 stone
+37 186 779 gravel
+37 186 780 stone
+37 186 781 coal_ore
+37 186 782 coal_ore
+fill 37 186 783 37 186 786 stone
+37 186 787 dirt
+fill 38 186 768 38 186 771 stone
+38 186 772 coal_ore
+38 186 773 coal_ore
+fill 38 186 774 38 186 777 stone
+fill 38 186 778 38 186 781 gravel
+38 186 782 coal_ore
+38 186 783 coal_ore
+38 186 784 stone
+38 186 785 iron_ore
+38 186 786 iron_ore
+38 186 787 dirt
+fill 39 186 768 39 186 777 stone
+fill 39 186 778 39 186 782 gravel
+39 186 783 stone
+39 186 784 stone
+39 186 785 iron_ore
+39 186 786 iron_ore
+39 186 787 dirt
+fill 40 186 768 40 186 777 stone
+fill 40 186 778 40 186 783 gravel
+fill 40 186 784 40 186 786 stone
+40 186 787 dirt
+fill 41 186 768 41 186 779 stone
+fill 41 186 780 41 186 783 gravel
+fill 41 186 784 41 186 786 stone
+41 186 787 grass_block[snowy=true]
+fill 42 186 768 42 186 780 stone
+fill 42 186 781 42 186 783 gravel
+42 186 784 stone
+42 186 785 stone
+42 186 786 dirt
+42 186 787 grass_block[snowy=true]
+fill 43 186 768 43 186 786 stone
+43 186 787 dirt
+fill 44 186 768 44 186 786 stone
+44 186 787 dirt
+44 186 788 snow[layers=1]
+fill 45 186 768 45 186 786 stone
+45 186 787 dirt
+45 186 788 dirt
+fill 45 186 789 45 186 797 snow[layers=1]
+fill 46 186 768 46 186 786 stone
+46 186 787 dirt
+46 186 788 dirt
+fill 46 186 789 46 186 793 grass_block[snowy=true]
+fill 46 186 794 46 186 797 snow[layers=1]
+47 186 768 dirt
+fill 47 186 769 47 186 786 stone
+fill 47 186 787 47 186 791 dirt
+fill 47 186 792 47 186 796 grass_block[snowy=true]
+47 186 797 snow[layers=1]
+47 186 798 snow[layers=1]
+fill 48 186 768 48 186 770 dirt
+fill 48 186 771 48 186 787 stone
+fill 48 186 788 48 186 793 dirt
+fill 48 186 794 48 186 797 grass_block[snowy=true]
+48 186 798 snow[layers=1]
+48 186 799 snow[layers=1]
+fill 49 186 769 49 186 771 dirt
+fill 49 186 772 49 186 789 stone
+fill 49 186 790 49 186 795 dirt
+fill 49 186 796 49 186 798 grass_block[snowy=true]
+49 186 799 snow[layers=1]
+49 186 800 snow[layers=1]
+50 186 770 grass_block[snowy=true]
+50 186 771 dirt
+fill 50 186 772 50 186 790 stone
+fill 50 186 791 50 186 796 dirt
+fill 50 186 797 50 186 799 grass_block[snowy=true]
+fill 50 186 800 50 186 802 snow[layers=1]
+fill 51 186 771 51 186 773 dirt
+fill 51 186 774 51 186 789 stone
+fill 51 186 790 51 186 795 dirt
+fill 51 186 796 51 186 800 grass_block[snowy=true]
+51 186 801 snow[layers=1]
+51 186 802 snow[layers=1]
+52 186 771 grass_block[snowy=true]
+fill 52 186 772 52 186 774 dirt
+fill 52 186 775 52 186 781 stone
+52 186 782 dirt
+52 186 783 dirt
+fill 52 186 784 52 186 787 stone
+fill 52 186 788 52 186 795 dirt
+fill 52 186 796 52 186 800 grass_block[snowy=true]
+fill 52 186 801 52 186 803 snow[layers=1]
+53 186 771 snow[layers=1]
+fill 53 186 772 53 186 775 dirt
+53 186 776 stone
+53 186 777 coal_ore
+53 186 778 coal_ore
+fill 53 186 779 53 186 781 stone
+fill 53 186 782 53 186 784 dirt
+53 186 785 stone
+fill 53 186 786 53 186 793 dirt
+fill 53 186 794 53 186 801 grass_block[snowy=true]
+53 186 802 snow[layers=1]
+53 186 803 snow[layers=1]
+fill 54 186 772 54 186 775 dirt
+54 186 776 stone
+fill 54 186 777 54 186 779 coal_ore
+54 186 780 stone
+54 186 781 dirt
+54 186 782 dirt
+54 186 783 stone
+fill 54 186 784 54 186 788 dirt
+54 186 789 snow[layers=1]
+54 186 790 snow[layers=1]
+fill 54 186 791 54 186 796 grass_block[snowy=true]
+54 186 797 dirt
+fill 54 186 798 54 186 801 grass_block[snowy=true]
+54 186 802 snow[layers=1]
+54 186 803 snow[layers=1]
+55 186 772 snow[layers=1]
+fill 55 186 773 55 186 787 dirt
+55 186 788 grass_block[snowy=true]
+55 186 789 snow[layers=1]
+55 186 790 snow[layers=1]
+fill 55 186 791 55 186 799 grass_block[snowy=true]
+fill 55 186 800 55 186 802 snow[layers=1]
+56 186 774 snow[layers=1]
+56 186 775 grass_block[snowy=true]
+56 186 776 grass_block[snowy=true]
+fill 56 186 777 56 186 784 dirt
+fill 56 186 785 56 186 788 grass_block[snowy=true]
+56 186 789 snow[layers=1]
+56 186 790 snow[layers=1]
+fill 56 186 791 56 186 797 grass_block[snowy=true]
+fill 56 186 798 56 186 801 snow[layers=1]
+fill 57 186 777 57 186 780 snow[layers=1]
+57 186 781 grass_block[snowy=true]
+57 186 788 snow[layers=1]
+fill 57 186 789 57 186 794 grass_block[snowy=true]
+fill 57 186 795 57 186 799 snow[layers=1]
+fill 58 186 789 58 186 793 grass_block[snowy=true]
+fill 58 186 794 58 186 797 snow[layers=1]
+fill 59 186 789 59 186 795 snow[layers=1]
+fill 60 186 791 60 186 793 snow[layers=1]
+19 187 768 snow[layers=1]
+fill 20 187 768 20 187 770 snow[layers=1]
+fill 21 187 768 21 187 770 grass_block[snowy=true]
+21 187 771 snow[layers=1]
+21 187 772 snow[layers=1]
+fill 22 187 768 22 187 770 dirt
+22 187 771 grass_block[snowy=true]
+22 187 772 grass_block[snowy=true]
+22 187 773 snow[layers=1]
+22 187 774 snow[layers=1]
+fill 23 187 768 23 187 771 dirt
+23 187 772 grass_block[snowy=true]
+23 187 773 snow[layers=1]
+23 187 774 snow[layers=1]
+fill 24 187 768 24 187 771 dirt
+24 187 772 grass_block[snowy=true]
+fill 25 187 768 25 187 771 dirt
+25 187 772 grass_block[snowy=true]
+fill 26 187 768 26 187 771 dirt
+26 187 772 grass_block[snowy=true]
+26 187 777 snow[layers=1]
+fill 27 187 768 27 187 774 dirt
+fill 27 187 775 27 187 778 grass_block[snowy=true]
+fill 27 187 779 27 187 781 snow[layers=1]
+fill 28 187 768 28 187 779 dirt
+28 187 780 grass_block[snowy=false]
+28 187 781 grass_block[snowy=true]
+28 187 782 snow[layers=1]
+fill 29 187 768 29 187 770 stone
+fill 29 187 771 29 187 782 dirt
+29 187 783 grass_block[snowy=true]
+fill 30 187 768 30 187 779 stone
+fill 30 187 780 30 187 785 dirt
+30 187 786 grass_block[snowy=false]
+30 187 787 snow[layers=1]
+31 187 768 stone
+31 187 769 stone
+31 187 770 iron_ore
+31 187 771 iron_ore
+fill 31 187 772 31 187 781 stone
+fill 31 187 782 31 187 785 dirt
+31 187 786 grass_block[snowy=true]
+31 187 787 snow[layers=1]
+32 187 768 stone
+32 187 769 stone
+32 187 770 iron_ore
+32 187 771 iron_ore
+fill 32 187 772 32 187 782 stone
+fill 32 187 783 32 187 786 dirt
+32 187 787 grass_block[snowy=true]
+fill 33 187 768 33 187 783 stone
+fill 33 187 784 33 187 786 dirt
+33 187 787 grass_block[snowy=true]
+fill 34 187 768 34 187 784 stone
+fill 34 187 785 34 187 787 dirt
+fill 35 187 768 35 187 785 stone
+35 187 786 dirt
+35 187 787 dirt
+fill 36 187 768 36 187 780 stone
+36 187 781 iron_ore
+fill 36 187 782 36 187 785 stone
+36 187 786 dirt
+36 187 787 dirt
+fill 37 187 768 37 187 780 stone
+37 187 781 coal_ore
+37 187 782 coal_ore
+fill 37 187 783 37 187 786 stone
+37 187 787 dirt
+fill 38 187 768 38 187 780 stone
+fill 38 187 781 38 187 783 coal_ore
+fill 38 187 784 38 187 786 stone
+38 187 787 dirt
+fill 39 187 768 39 187 778 stone
+39 187 779 gravel
+fill 39 187 780 39 187 782 coal_ore
+fill 39 187 783 39 187 785 stone
+39 187 786 dirt
+39 187 787 grass_block[snowy=true]
+fill 40 187 768 40 187 779 stone
+40 187 780 coal_ore
+40 187 781 gravel
+fill 40 187 782 40 187 785 stone
+40 187 786 dirt
+40 187 787 grass_block[snowy=true]
+fill 41 187 768 41 187 785 stone
+41 187 786 dirt
+41 187 787 snow[layers=1]
+fill 42 187 768 42 187 785 stone
+42 187 786 dirt
+42 187 787 snow[layers=1]
+fill 43 187 768 43 187 785 stone
+43 187 786 dirt
+43 187 787 grass_block[snowy=true]
+fill 44 187 768 44 187 770 stone
+fill 44 187 771 44 187 774 dirt
+fill 44 187 775 44 187 785 stone
+44 187 786 dirt
+44 187 787 dirt
+fill 45 187 768 45 187 776 dirt
+45 187 777 stone
+fill 45 187 778 45 187 781 dirt
+45 187 782 stone
+45 187 783 dirt
+45 187 784 stone
+45 187 785 stone
+45 187 786 dirt
+45 187 787 dirt
+45 187 788 grass_block[snowy=true]
+fill 46 187 768 46 187 781 dirt
+fill 46 187 782 46 187 785 stone
+fill 46 187 786 46 187 788 dirt
+fill 46 187 789 46 187 793 snow[layers=1]
+fill 47 187 768 47 187 782 dirt
+fill 47 187 783 47 187 785 stone
+fill 47 187 786 47 187 788 dirt
+fill 47 187 789 47 187 791 grass_block[snowy=true]
+fill 47 187 792 47 187 796 snow[layers=1]
+48 187 768 grass_block[snowy=true]
+fill 48 187 769 48 187 784 dirt
+48 187 785 stone
+fill 48 187 786 48 187 790 dirt
+fill 48 187 791 48 187 793 grass_block[snowy=true]
+fill 48 187 794 48 187 797 snow[layers=1]
+49 187 769 grass_block[snowy=true]
+fill 49 187 770 49 187 784 dirt
+49 187 785 stone
+49 187 786 stone
+fill 49 187 787 49 187 792 dirt
+fill 49 187 793 49 187 795 grass_block[snowy=true]
+fill 49 187 796 49 187 798 snow[layers=1]
+50 187 770 snow[layers=1]
+fill 50 187 771 50 187 782 dirt
+fill 50 187 783 50 187 789 stone
+fill 50 187 790 50 187 793 dirt
+fill 50 187 794 50 187 796 grass_block[snowy=true]
+fill 50 187 797 50 187 799 snow[layers=1]
+fill 51 187 771 51 187 782 dirt
+51 187 783 stone
+51 187 784 stone
+fill 51 187 785 51 187 793 dirt
+51 187 794 grass_block[snowy=true]
+51 187 795 grass_block[snowy=true]
+fill 51 187 796 51 187 800 snow[layers=1]
+52 187 771 snow[layers=1]
+fill 52 187 772 52 187 791 dirt
+fill 52 187 792 52 187 795 grass_block[snowy=true]
+fill 52 187 796 52 187 800 snow[layers=1]
+fill 53 187 772 53 187 788 dirt
+fill 53 187 789 53 187 793 grass_block[snowy=true]
+fill 53 187 794 53 187 801 snow[layers=1]
+54 187 772 grass_block[snowy=true]
+fill 54 187 773 54 187 787 dirt
+54 187 788 grass_block[snowy=true]
+fill 54 187 791 54 187 796 snow[layers=1]
+54 187 797 grass_block[snowy=true]
+fill 54 187 798 54 187 801 snow[layers=1]
+55 187 773 grass_block[snowy=true]
+55 187 774 grass_block[snowy=true]
+fill 55 187 775 55 187 786 dirt
+55 187 787 grass_block[snowy=true]
+55 187 788 snow[layers=1]
+fill 55 187 791 55 187 799 snow[layers=1]
+56 187 775 snow[layers=1]
+56 187 776 snow[layers=1]
+56 187 777 grass_block[snowy=true]
+56 187 778 grass_block[snowy=true]
+fill 56 187 779 56 187 783 dirt
+56 187 784 grass_block[snowy=true]
+fill 56 187 785 56 187 788 snow[layers=1]
+fill 56 187 791 56 187 797 snow[layers=1]
+57 187 781 snow[layers=1]
+fill 57 187 789 57 187 794 snow[layers=1]
+fill 58 187 789 58 187 793 snow[layers=1]
+fill 21 188 768 21 188 770 snow[layers=1]
+fill 22 188 768 22 188 770 grass_block[snowy=true]
+22 188 771 snow[layers=1]
+22 188 772 snow[layers=1]
+23 188 768 dirt
+23 188 769 dirt
+23 188 770 grass_block[snowy=true]
+23 188 771 grass_block[snowy=true]
+23 188 772 snow[layers=1]
+fill 24 188 768 24 188 770 dirt
+24 188 771 grass_block[snowy=true]
+24 188 772 snow[layers=1]
+fill 25 188 768 25 188 771 dirt
+25 188 772 snow[layers=1]
+fill 26 188 768 26 188 771 dirt
+26 188 772 snow[layers=1]
+fill 27 188 768 27 188 772 dirt
+27 188 773 grass_block[snowy=true]
+27 188 774 grass_block[snowy=true]
+27 188 775 snow[layers=1]
+fill 27 188 776 27 188 778 snow[layers=1]
+fill 28 188 768 28 188 777 dirt
+28 188 778 grass_block[snowy=true]
+28 188 779 grass_block[snowy=true]
+28 188 780 short_grass
+28 188 781 snow[layers=1]
+fill 29 188 768 29 188 781 dirt
+29 188 782 grass_block[snowy=true]
+29 188 783 snow[layers=1]
+fill 30 188 768 30 188 775 dirt
+30 188 776 stone
+30 188 777 stone
+fill 30 188 778 30 188 783 dirt
+30 188 784 grass_block[snowy=true]
+30 188 785 grass_block[snowy=false]
+fill 31 188 768 31 188 775 dirt
+fill 31 188 776 31 188 778 stone
+fill 31 188 779 31 188 784 dirt
+31 188 785 grass_block[snowy=true]
+31 188 786 snow[layers=1]
+32 188 768 stone
+32 188 769 stone
+32 188 770 iron_ore
+32 188 771 iron_ore
+32 188 772 stone
+fill 32 188 773 32 188 775 dirt
+fill 32 188 776 32 188 779 stone
+fill 32 188 780 32 188 785 dirt
+32 188 786 grass_block[snowy=true]
+32 188 787 snow[layers=1]
+fill 33 188 768 33 188 781 stone
+fill 33 188 782 33 188 786 dirt
+33 188 787 snow[layers=1]
+fill 34 188 768 34 188 782 stone
+fill 34 188 783 34 188 786 dirt
+34 188 787 grass_block[snowy=true]
+fill 35 188 768 35 188 782 stone
+fill 35 188 783 35 188 786 dirt
+35 188 787 grass_block[snowy=true]
+fill 36 188 768 36 188 779 stone
+36 188 780 iron_ore
+36 188 781 iron_ore
+36 188 782 stone
+36 188 783 stone
+fill 36 188 784 36 188 786 dirt
+36 188 787 grass_block[snowy=true]
+fill 37 188 768 37 188 779 stone
+37 188 780 iron_ore
+37 188 781 iron_ore
+37 188 782 stone
+37 188 783 stone
+fill 37 188 784 37 188 786 dirt
+37 188 787 grass_block[snowy=true]
+fill 38 188 768 38 188 777 stone
+38 188 778 dirt
+fill 38 188 779 38 188 785 stone
+38 188 786 dirt
+38 188 787 dirt
+fill 39 188 768 39 188 772 stone
+fill 39 188 773 39 188 780 dirt
+fill 39 188 781 39 188 785 stone
+39 188 786 dirt
+39 188 787 snow[layers=1]
+fill 40 188 768 40 188 770 stone
+fill 40 188 771 40 188 779 dirt
+fill 40 188 780 40 188 785 stone
+40 188 786 dirt
+40 188 787 snow[layers=1]
+fill 41 188 768 41 188 782 dirt
+fill 41 188 783 41 188 785 stone
+41 188 786 dirt
+42 188 768 stone
+fill 42 188 769 42 188 783 dirt
+42 188 784 stone
+42 188 785 stone
+42 188 786 dirt
+fill 43 188 768 43 188 782 dirt
+fill 43 188 783 43 188 785 stone
+43 188 786 dirt
+43 188 787 snow[layers=1]
+fill 44 188 768 44 188 783 dirt
+44 188 784 stone
+44 188 785 stone
+44 188 786 dirt
+44 188 787 grass_block[snowy=true]
+fill 45 188 768 45 188 783 dirt
+45 188 784 stone
+45 188 785 stone
+45 188 786 dirt
+45 188 787 grass_block[snowy=true]
+45 188 788 snow[layers=1]
+fill 46 188 768 46 188 784 dirt
+46 188 785 stone
+46 188 786 dirt
+46 188 787 dirt
+46 188 788 grass_block[snowy=true]
+fill 47 188 768 47 188 787 dirt
+47 188 788 grass_block[snowy=true]
+fill 47 188 789 47 188 791 snow[layers=1]
+48 188 768 snow[layers=1]
+fill 48 188 769 48 188 788 dirt
+48 188 789 grass_block[snowy=true]
+48 188 790 grass_block[snowy=true]
+fill 48 188 791 48 188 793 snow[layers=1]
+49 188 769 snow[layers=1]
+fill 49 188 770 49 188 790 dirt
+49 188 791 grass_block[snowy=true]
+49 188 792 grass_block[snowy=true]
+fill 49 188 793 49 188 795 snow[layers=1]
+fill 50 188 771 50 188 792 dirt
+50 188 793 grass_block[snowy=true]
+fill 50 188 794 50 188 796 snow[layers=1]
+51 188 771 grass_block[snowy=true]
+fill 51 188 772 51 188 791 dirt
+51 188 792 grass_block[snowy=true]
+51 188 793 grass_block[snowy=true]
+51 188 794 snow[layers=1]
+51 188 795 snow[layers=1]
+fill 52 188 772 52 188 789 dirt
+52 188 790 grass_block[snowy=true]
+52 188 791 grass_block[snowy=true]
+fill 52 188 792 52 188 795 snow[layers=1]
+53 188 772 grass_block[snowy=true]
+fill 53 188 773 53 188 787 dirt
+53 188 788 grass_block[snowy=true]
+fill 53 188 789 53 188 793 snow[layers=1]
+54 188 772 snow[layers=1]
+fill 54 188 773 54 188 786 dirt
+54 188 787 grass_block[snowy=true]
+54 188 788 snow[layers=1]
+54 188 797 snow[layers=1]
+55 188 773 snow[layers=1]
+55 188 774 snow[layers=1]
+55 188 775 grass_block[snowy=true]
+55 188 776 grass_block[snowy=true]
+fill 55 188 777 55 188 784 dirt
+55 188 785 grass_block[snowy=true]
+55 188 786 grass_block[snowy=true]
+55 188 787 snow[layers=1]
+56 188 777 snow[layers=1]
+56 188 778 snow[layers=1]
+56 188 779 grass_block[snowy=true]
+56 188 780 grass_block[snowy=true]
+56 188 781 dirt
+56 188 782 grass_block[snowy=true]
+56 188 783 grass_block[snowy=true]
+56 188 784 snow[layers=1]
+fill 22 189 768 22 189 770 snow[layers=1]
+23 189 768 grass_block[snowy=true]
+23 189 769 grass_block[snowy=true]
+23 189 770 snow[layers=1]
+23 189 771 snow[layers=1]
+fill 24 189 768 24 189 770 grass_block[snowy=true]
+24 189 771 snow[layers=1]
+25 189 768 dirt
+25 189 769 dirt
+25 189 770 grass_block[snowy=true]
+25 189 771 grass_block[snowy=true]
+fill 26 189 768 26 189 770 dirt
+26 189 771 grass_block[snowy=true]
+fill 27 189 768 27 189 771 dirt
+27 189 772 grass_block[snowy=true]
+27 189 773 snow[layers=1]
+27 189 774 snow[layers=1]
+fill 28 189 768 28 189 774 dirt
+fill 28 189 775 28 189 777 grass_block[snowy=true]
+28 189 778 snow[layers=1]
+28 189 779 snow[layers=1]
+fill 29 189 768 29 189 778 dirt
+fill 29 189 779 29 189 781 grass_block[snowy=true]
+29 189 782 snow[layers=1]
+fill 30 189 768 30 189 781 dirt
+30 189 782 grass_block[snowy=true]
+30 189 783 grass_block[snowy=true]
+30 189 784 snow[layers=1]
+fill 31 189 768 31 189 782 dirt
+31 189 783 grass_block[snowy=true]
+31 189 784 grass_block[snowy=true]
+31 189 785 snow[layers=1]
+fill 32 189 768 32 189 783 dirt
+32 189 784 grass_block[snowy=true]
+32 189 785 grass_block[snowy=true]
+32 189 786 snow[layers=1]
+fill 33 189 768 33 189 776 dirt
+33 189 777 stone
+fill 33 189 778 33 189 785 dirt
+33 189 786 grass_block[snowy=true]
+fill 34 189 768 34 189 786 dirt
+34 189 787 snow[layers=1]
+fill 35 189 768 35 189 776 dirt
+35 189 777 stone
+35 189 778 stone
+fill 35 189 779 35 189 786 dirt
+35 189 787 snow[layers=1]
+fill 36 189 768 36 189 786 dirt
+36 189 787 snow[layers=1]
+fill 37 189 768 37 189 786 dirt
+37 189 787 snow[layers=1]
+fill 38 189 768 38 189 786 dirt
+38 189 787 grass_block[snowy=true]
+fill 39 189 768 39 189 786 dirt
+40 189 768 stone
+fill 40 189 769 40 189 786 dirt
+fill 41 189 768 41 189 786 dirt
+fill 42 189 768 42 189 785 dirt
+42 189 786 grass_block[snowy=true]
+fill 43 189 768 43 189 786 dirt
+fill 44 189 768 44 189 786 dirt
+44 189 787 snow[layers=1]
+fill 45 189 768 45 189 786 dirt
+45 189 787 snow[layers=1]
+fill 46 189 768 46 189 786 dirt
+46 189 787 grass_block[snowy=true]
+46 189 788 snow[layers=1]
+47 189 768 grass_block[snowy=true]
+fill 47 189 769 47 189 786 dirt
+47 189 787 grass_block[snowy=true]
+47 189 788 snow[layers=1]
+fill 48 189 769 48 189 787 dirt
+48 189 788 grass_block[snowy=true]
+48 189 789 snow[layers=1]
+48 189 790 snow[layers=1]
+fill 49 189 770 49 189 789 dirt
+49 189 790 grass_block[snowy=true]
+49 189 791 snow[layers=1]
+49 189 792 snow[layers=1]
+fill 50 189 771 50 189 790 dirt
+50 189 791 grass_block[snowy=true]
+50 189 792 grass_block[snowy=true]
+50 189 793 snow[layers=1]
+51 189 771 snow[layers=1]
+fill 51 189 772 51 189 789 dirt
+51 189 790 grass_block[snowy=true]
+51 189 791 grass_block[snowy=true]
+51 189 792 snow[layers=1]
+51 189 793 snow[layers=1]
+52 189 772 grass_block[snowy=true]
+fill 52 189 773 52 189 787 dirt
+52 189 788 grass_block[snowy=true]
+52 189 789 grass_block[snowy=true]
+52 189 790 snow[layers=1]
+52 189 791 snow[layers=1]
+53 189 772 snow[layers=1]
+fill 53 189 773 53 189 785 dirt
+53 189 786 grass_block[snowy=true]
+53 189 787 grass_block[snowy=true]
+53 189 788 snow[layers=1]
+54 189 773 grass_block[snowy=true]
+fill 54 189 774 54 189 784 dirt
+54 189 785 grass_block[snowy=true]
+54 189 786 grass_block[snowy=true]
+54 189 787 snow[layers=1]
+55 189 775 snow[layers=1]
+55 189 776 snow[layers=1]
+fill 55 189 777 55 189 779 grass_block[snowy=true]
+fill 55 189 780 55 189 782 dirt
+55 189 783 grass_block[snowy=true]
+55 189 784 grass_block[snowy=true]
+55 189 785 snow[layers=1]
+55 189 786 snow[layers=1]
+56 189 779 snow[layers=1]
+56 189 780 snow[layers=1]
+56 189 781 grass_block[snowy=true]
+56 189 782 snow[layers=1]
+56 189 783 snow[layers=1]
+23 190 768 snow[layers=1]
+23 190 769 snow[layers=1]
+fill 24 190 768 24 190 770 snow[layers=1]
+25 190 768 grass_block[snowy=true]
+25 190 769 grass_block[snowy=true]
+25 190 770 snow[layers=1]
+25 190 771 snow[layers=1]
+26 190 768 dirt
+26 190 769 dirt
+26 190 770 grass_block[snowy=false]
+26 190 771 snow[layers=1]
+27 190 768 dirt
+27 190 769 dirt
+27 190 770 grass_block[snowy=true]
+27 190 771 grass_block[snowy=true]
+27 190 772 snow[layers=1]
+fill 28 190 768 28 190 771 dirt

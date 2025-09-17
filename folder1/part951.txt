@@ -1,0 +1,560 @@
+0 134 522 dripstone_block
+0 134 523 stone
+0 134 524 dripstone_block
+0 134 525 dripstone_block
+fill 0 134 578 0 134 596 stone
+fill 0 134 599 0 134 616 stone
+0 134 617 iron_ore
+fill 0 134 618 0 134 633 stone
+fill 0 134 634 0 134 636 gravel
+fill 0 134 637 0 134 639 stone
+fill 1 134 516 1 134 521 stone
+1 134 522 dripstone_block
+1 134 523 pointed_dripstone[thickness=base,vertical_direction=down,waterlogged=false]
+fill 1 134 579 1 134 597 stone
+fill 1 134 600 1 134 616 stone
+1 134 617 copper_ore
+1 134 618 copper_ore
+fill 1 134 619 1 134 633 stone
+fill 1 134 634 1 134 636 gravel
+fill 1 134 637 1 134 639 stone
+fill 2 134 516 2 134 519 stone
+2 134 578 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+fill 2 134 579 2 134 597 stone
+fill 2 134 600 2 134 616 stone
+2 134 617 copper_ore
+2 134 618 copper_ore
+fill 2 134 619 2 134 639 stone
+3 134 516 stone
+3 134 517 stone
+3 134 518 magma_block
+3 134 519 stone
+3 134 520 stone
+3 134 579 stone
+3 134 580 dripstone_block
+fill 3 134 581 3 134 597 stone
+fill 3 134 601 3 134 639 stone
+fill 4 134 516 4 134 520 stone
+4 134 523 pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]
+fill 4 134 579 4 134 598 stone
+4 134 601 dirt
+fill 4 134 602 4 134 639 stone
+5 134 516 stone
+5 134 517 stone
+5 134 518 magma_block
+5 134 519 magma_block
+5 134 520 stone
+5 134 529 water[level=8]
+5 134 579 dripstone_block
+5 134 580 dripstone_block
+fill 5 134 581 5 134 598 stone
+fill 5 134 602 5 134 639 stone
+fill 6 134 516 6 134 520 stone
+6 134 530 water[level=8]
+6 134 579 dripstone_block
+fill 6 134 580 6 134 598 stone
+fill 6 134 603 6 134 639 stone
+fill 7 134 516 7 134 520 stone
+7 134 530 water[level=8]
+7 134 538 water[level=8]
+7 134 577 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+7 134 578 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+7 134 579 dripstone_block
+7 134 580 dripstone_block
+fill 7 134 581 7 134 598 stone
+7 134 601 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+fill 7 134 603 7 134 639 stone
+fill 8 134 516 8 134 520 stone
+8 134 531 water[level=8]
+8 134 539 water[level=8]
+8 134 577 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+8 134 578 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+8 134 579 dripstone_block
+8 134 580 dripstone_block
+fill 8 134 581 8 134 598 stone
+8 134 599 dirt
+fill 8 134 604 8 134 639 stone
+fill 9 134 516 9 134 519 stone
+9 134 532 water[level=8]
+9 134 540 water[level=8]
+9 134 578 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+9 134 579 dripstone_block
+fill 9 134 580 9 134 598 stone
+9 134 599 dirt
+9 134 601 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+fill 9 134 604 9 134 639 stone
+fill 10 134 516 10 134 519 stone
+10 134 533 water[level=8]
+10 134 579 stone
+10 134 580 water[level=0]
+fill 10 134 581 10 134 598 stone
+10 134 599 dirt
+10 134 602 pointed_dripstone[thickness=tip_merge,vertical_direction=up,waterlogged=false]
+fill 10 134 604 10 134 639 stone
+fill 11 134 516 11 134 519 stone
+fill 11 134 579 11 134 599 stone
+11 134 601 pointed_dripstone[thickness=tip_merge,vertical_direction=up,waterlogged=false]
+11 134 602 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+fill 11 134 604 11 134 639 stone
+fill 12 134 516 12 134 519 stone
+fill 12 134 579 12 134 599 stone
+12 134 600 dirt
+fill 12 134 604 12 134 619 stone
+fill 12 134 620 12 134 622 copper_ore
+fill 12 134 623 12 134 639 stone
+fill 13 134 516 13 134 519 stone
+fill 13 134 579 13 134 600 stone
+13 134 604 dripstone_block
+13 134 605 stone
+fill 13 134 606 13 134 617 stone
+fill 13 134 618 13 134 621 copper_ore
+fill 13 134 622 13 134 639 stone
+fill 14 134 514 14 134 519 stone
+fill 14 134 568 14 134 570 stone
+fill 14 134 579 14 134 600 stone
+14 134 604 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+fill 14 134 605 14 134 639 stone
+15 134 519 stone
+15 134 569 stone
+fill 15 134 579 15 134 600 stone
+15 134 601 copper_ore
+fill 15 134 605 15 134 609 stone
+fill 15 134 610 15 134 612 gravel
+fill 15 134 613 15 134 639 stone
+16 134 533 stone
+16 134 557 stone
+16 134 564 dripstone_block
+16 134 565 dripstone_block
+16 134 579 dripstone_block
+fill 16 134 580 16 134 600 stone
+16 134 601 copper_ore
+16 134 602 pointed_dripstone[thickness=frustum,vertical_direction=down,waterlogged=false]
+fill 16 134 605 16 134 607 stone
+fill 16 134 608 16 134 614 gravel
+fill 16 134 615 16 134 639 stone
+fill 17 134 531 17 134 535 stone
+fill 17 134 556 17 134 558 stone
+fill 17 134 564 17 134 566 dripstone_block
+17 134 579 stone
+17 134 580 stone
+17 134 581 dripstone_block
+fill 17 134 582 17 134 600 stone
+17 134 601 copper_ore
+17 134 604 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+fill 17 134 605 17 134 607 stone
+fill 17 134 608 17 134 616 gravel
+fill 17 134 617 17 134 639 stone
+fill 18 134 529 18 134 536 stone
+fill 18 134 555 18 134 559 stone
+fill 18 134 564 18 134 566 dripstone_block
+18 134 578 dripstone_block
+18 134 579 stone
+18 134 580 stone
+18 134 581 dripstone_block
+fill 18 134 582 18 134 601 stone
+fill 18 134 605 18 134 608 stone
+fill 18 134 609 18 134 617 gravel
+fill 18 134 618 18 134 639 stone
+fill 19 134 528 19 134 534 stone
+fill 19 134 535 19 134 537 granite
+fill 19 134 555 19 134 558 stone
+19 134 578 dripstone_block
+19 134 579 dripstone_block
+fill 19 134 580 19 134 602 stone
+fill 19 134 606 19 134 609 stone
+fill 19 134 610 19 134 617 gravel
+fill 19 134 618 19 134 639 stone
+fill 20 134 527 20 134 532 stone
+fill 20 134 533 20 134 539 granite
+20 134 557 stone
+20 134 575 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+fill 20 134 577 20 134 602 stone
+fill 20 134 606 20 134 612 stone
+fill 20 134 613 20 134 615 gravel
+fill 20 134 616 20 134 639 stone
+fill 21 134 526 21 134 532 stone
+fill 21 134 533 21 134 542 granite
+21 134 543 stone
+fill 21 134 576 21 134 591 stone
+21 134 592 dirt
+21 134 593 dirt
+21 134 594 coal_ore
+fill 21 134 595 21 134 602 stone
+fill 21 134 606 21 134 639 stone
+fill 22 134 524 22 134 531 stone
+fill 22 134 532 22 134 541 granite
+fill 22 134 542 22 134 547 stone
+fill 22 134 574 22 134 590 stone
+fill 22 134 591 22 134 593 dirt
+22 134 594 coal_ore
+fill 22 134 595 22 134 603 stone
+fill 22 134 606 22 134 639 stone
+fill 23 134 521 23 134 530 stone
+fill 23 134 531 23 134 540 granite
+fill 23 134 541 23 134 549 stone
+fill 23 134 575 23 134 591 stone
+23 134 592 dirt
+23 134 593 dirt
+23 134 594 coal_ore
+23 134 595 coal_ore
+fill 23 134 596 23 134 603 stone
+fill 23 134 605 23 134 639 stone
+24 134 512 stone
+fill 24 134 518 24 134 530 stone
+fill 24 134 531 24 134 540 granite
+fill 24 134 541 24 134 550 stone
+fill 24 134 575 24 134 577 dripstone_block
+24 134 578 stone
+24 134 579 stone
+24 134 580 dripstone_block
+24 134 581 dripstone_block
+fill 24 134 582 24 134 589 stone
+24 134 590 dirt
+24 134 591 dirt
+24 134 592 stone
+24 134 593 stone
+24 134 594 coal_ore
+fill 24 134 595 24 134 603 stone
+fill 24 134 605 24 134 615 stone
+24 134 616 copper_ore
+fill 24 134 617 24 134 639 stone
+fill 25 134 512 25 134 524 stone
+fill 25 134 525 25 134 527 copper_ore
+fill 25 134 528 25 134 530 stone
+fill 25 134 531 25 134 539 granite
+fill 25 134 540 25 134 551 stone
+25 134 575 stone
+25 134 576 dripstone_block
+fill 25 134 577 25 134 588 stone
+fill 25 134 589 25 134 593 dirt
+fill 25 134 594 25 134 615 stone
+25 134 616 copper_ore
+fill 25 134 617 25 134 639 stone
+fill 26 134 512 26 134 525 stone
+fill 26 134 526 26 134 528 copper_ore
+26 134 529 stone
+fill 26 134 530 26 134 539 granite
+fill 26 134 540 26 134 552 stone
+26 134 572 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+26 134 574 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+fill 26 134 575 26 134 590 stone
+fill 26 134 591 26 134 594 dirt
+fill 26 134 595 26 134 639 stone
+fill 27 134 512 27 134 529 stone
+fill 27 134 530 27 134 538 granite
+fill 27 134 539 27 134 553 stone
+27 134 575 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+fill 27 134 580 27 134 596 stone
+fill 27 134 597 27 134 639 stone
+fill 28 134 512 28 134 529 stone
+fill 28 134 530 28 134 536 granite
+fill 28 134 537 28 134 554 stone
+fill 28 134 584 28 134 639 stone
+fill 29 134 512 29 134 529 stone
+fill 29 134 530 29 134 534 granite
+fill 29 134 535 29 134 554 stone
+fill 29 134 586 29 134 639 stone
+fill 30 134 512 30 134 524 stone
+30 134 525 copper_ore
+30 134 526 copper_ore
+fill 30 134 527 30 134 531 stone
+30 134 532 granite
+fill 30 134 533 30 134 555 stone
+fill 30 134 587 30 134 639 stone
+fill 31 134 512 31 134 524 stone
+31 134 525 copper_ore
+31 134 526 copper_ore
+fill 31 134 527 31 134 555 stone
+31 134 586 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+fill 31 134 588 31 134 639 stone
+fill 32 134 512 32 134 555 stone
+32 134 581 stone
+32 134 582 stone
+32 134 588 stone
+32 134 589 stone
+32 134 590 coal_ore
+fill 32 134 591 32 134 639 stone
+fill 33 134 512 33 134 556 stone
+fill 33 134 580 33 134 582 stone
+33 134 583 glow_lichen[down=false,east=false,north=true,south=false,up=false,waterlogged=false,west=false]
+33 134 586 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+33 134 588 pointed_dripstone[thickness=base,vertical_direction=up,waterlogged=false]
+33 134 589 dripstone_block
+33 134 590 coal_ore
+33 134 591 coal_ore
+fill 33 134 592 33 134 639 stone
+fill 34 134 512 34 134 550 stone
+fill 34 134 551 34 134 554 diorite
+34 134 555 stone
+34 134 556 stone
+34 134 569 stone
+34 134 579 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+fill 34 134 580 34 134 583 stone
+34 134 588 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+34 134 589 stone
+fill 34 134 590 34 134 592 coal_ore
+fill 34 134 593 34 134 639 stone
+fill 35 134 512 35 134 539 stone
+35 134 540 gravel
+fill 35 134 541 35 134 549 stone
+fill 35 134 550 35 134 555 diorite
+35 134 556 stone
+35 134 580 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+35 134 581 dripstone_block
+35 134 582 dripstone_block
+35 134 589 dripstone_block
+fill 35 134 590 35 134 592 coal_ore
+fill 35 134 593 35 134 639 stone
+fill 36 134 512 36 134 538 stone
+fill 36 134 539 36 134 541 gravel
+fill 36 134 542 36 134 549 stone
+fill 36 134 550 36 134 555 diorite
+36 134 556 stone
+36 134 584 pointed_dripstone[thickness=middle,vertical_direction=up,waterlogged=false]
+fill 36 134 588 36 134 591 dripstone_block
+fill 36 134 592 36 134 611 stone
+fill 36 134 612 36 134 614 copper_ore
+fill 36 134 615 36 134 619 stone
+fill 36 134 620 36 134 622 gravel
+fill 36 134 623 36 134 639 stone
+fill 37 134 512 37 134 537 stone
+fill 37 134 538 37 134 541 gravel
+fill 37 134 542 37 134 549 stone
+fill 37 134 550 37 134 555 diorite
+37 134 584 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+37 134 586 pointed_dripstone[thickness=middle,vertical_direction=up,waterlogged=false]
+37 134 588 stone
+fill 37 134 589 37 134 591 dripstone_block
+fill 37 134 592 37 134 611 stone
+37 134 612 copper_ore
+37 134 613 copper_ore
+fill 37 134 614 37 134 618 stone
+fill 37 134 619 37 134 622 gravel
+fill 37 134 623 37 134 639 stone
+fill 38 134 512 38 134 536 stone
+fill 38 134 537 38 134 540 gravel
+fill 38 134 541 38 134 550 stone
+fill 38 134 551 38 134 555 diorite
+38 134 578 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+38 134 581 pointed_dripstone[thickness=middle,vertical_direction=up,waterlogged=false]
+38 134 584 pointed_dripstone[thickness=middle,vertical_direction=up,waterlogged=false]
+38 134 588 dripstone_block
+38 134 589 stone
+38 134 590 dripstone_block
+38 134 591 dripstone_block
+fill 38 134 592 38 134 618 stone
+fill 38 134 619 38 134 622 gravel
+fill 38 134 623 38 134 639 stone
+39 134 512 stone
+39 134 513 stone
+fill 39 134 514 39 134 528 stone
+39 134 529 coal_ore
+39 134 530 coal_ore
+fill 39 134 531 39 134 536 stone
+fill 39 134 537 39 134 540 gravel
+fill 39 134 541 39 134 551 stone
+fill 39 134 552 39 134 555 diorite
+39 134 581 dripstone_block
+39 134 582 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+fill 39 134 588 39 134 592 dripstone_block
+fill 39 134 593 39 134 618 stone
+fill 39 134 619 39 134 622 gravel
+fill 39 134 623 39 134 639 stone
+fill 40 134 512 40 134 528 stone
+40 134 529 coal_ore
+40 134 530 coal_ore
+fill 40 134 531 40 134 535 stone
+fill 40 134 536 40 134 539 gravel
+fill 40 134 540 40 134 552 stone
+40 134 553 diorite
+40 134 554 diorite
+40 134 578 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+fill 40 134 580 40 134 582 dripstone_block
+40 134 586 pointed_dripstone[thickness=middle,vertical_direction=up,waterlogged=false]
+40 134 588 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+fill 40 134 589 40 134 592 dripstone_block
+fill 40 134 593 40 134 618 stone
+fill 40 134 619 40 134 622 gravel
+fill 40 134 623 40 134 639 stone
+fill 41 134 512 41 134 528 stone
+41 134 529 coal_ore
+41 134 530 coal_ore
+fill 41 134 531 41 134 536 stone
+fill 41 134 537 41 134 539 gravel
+fill 41 134 540 41 134 552 stone
+41 134 553 diorite
+41 134 554 diorite
+41 134 560 stone
+41 134 561 stone
+fill 41 134 579 41 134 583 dripstone_block
+41 134 586 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+41 134 587 pointed_dripstone[thickness=base,vertical_direction=up,waterlogged=false]
+fill 41 134 589 41 134 592 dripstone_block
+fill 41 134 593 41 134 618 stone
+fill 41 134 619 41 134 622 gravel
+fill 41 134 623 41 134 639 stone
+fill 42 134 512 42 134 528 stone
+42 134 529 coal_ore
+42 134 530 coal_ore
+fill 42 134 531 42 134 553 stone
+fill 42 134 559 42 134 561 stone
+fill 42 134 569 42 134 571 dripstone_block
+42 134 579 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+fill 42 134 580 42 134 582 dripstone_block
+42 134 584 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+42 134 586 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+42 134 587 pointed_dripstone[thickness=base,vertical_direction=up,waterlogged=false]
+42 134 588 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+fill 42 134 589 42 134 594 dripstone_block
+fill 42 134 595 42 134 618 stone
+fill 42 134 619 42 134 621 gravel
+fill 42 134 622 42 134 639 stone
+fill 43 134 512 43 134 528 stone
+43 134 529 coal_ore
+43 134 530 coal_ore
+fill 43 134 531 43 134 553 stone
+fill 43 134 560 43 134 562 stone
+fill 43 134 568 43 134 572 dripstone_block
+43 134 575 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+43 134 581 dripstone_block
+43 134 582 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+43 134 587 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+43 134 588 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+43 134 589 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+43 134 590 dripstone_block
+43 134 591 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=true]
+fill 43 134 592 43 134 595 dripstone_block
+43 134 596 stone
+43 134 597 dripstone_block
+43 134 598 stone
+43 134 599 dripstone_block
+43 134 600 dripstone_block
+fill 43 134 601 43 134 618 stone
+fill 43 134 619 43 134 621 gravel
+fill 43 134 622 43 134 639 stone
+fill 44 134 512 44 134 553 stone
+fill 44 134 560 44 134 562 stone
+fill 44 134 568 44 134 572 dripstone_block
+44 134 574 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+44 134 575 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+44 134 585 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+44 134 587 pointed_dripstone[thickness=middle,vertical_direction=up,waterlogged=false]
+44 134 589 pointed_dripstone[thickness=base,vertical_direction=up,waterlogged=false]
+44 134 590 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+fill 44 134 591 44 134 593 dripstone_block
+fill 44 134 594 44 134 596 stone
+44 134 597 dripstone_block
+44 134 598 dripstone_block
+44 134 599 stone
+44 134 600 dripstone_block
+fill 44 134 601 44 134 618 stone
+44 134 619 gravel
+44 134 620 gravel
+fill 44 134 621 44 134 639 stone
+fill 45 134 512 45 134 547 stone
+45 134 548 coal_ore
+45 134 549 coal_ore
+45 134 550 stone
+45 134 551 stone
+45 134 552 coal_ore
+45 134 553 stone
+fill 45 134 560 45 134 564 stone
+fill 45 134 568 45 134 572 dripstone_block
+45 134 577 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+45 134 581 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+45 134 584 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+45 134 587 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+45 134 588 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+45 134 591 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+45 134 592 stone
+45 134 593 stone
+fill 45 134 594 45 134 597 dripstone_block
+fill 45 134 598 45 134 639 stone
+fill 46 134 512 46 134 548 stone
+46 134 549 coal_ore
+46 134 550 stone
+46 134 551 coal_ore
+46 134 552 coal_ore
+fill 46 134 560 46 134 565 stone
+fill 46 134 569 46 134 571 dripstone_block
+46 134 574 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+46 134 576 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+46 134 579 pointed_dripstone[thickness=middle,vertical_direction=up,waterlogged=false]
+46 134 584 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+46 134 590 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+fill 46 134 593 46 134 630 stone
+46 134 631 coal_ore
+46 134 632 stone
+46 134 633 stone
+46 134 634 copper_ore
+46 134 635 copper_ore
+fill 46 134 636 46 134 639 stone
+fill 47 134 512 47 134 548 stone
+47 134 549 coal_ore
+47 134 550 stone
+47 134 561 stone
+47 134 589 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+47 134 592 dripstone_block
+47 134 593 dripstone_block
+47 134 594 stone
+47 134 595 stone
+47 134 596 water[level=0]
+fill 47 134 597 47 134 630 stone
+47 134 631 coal_ore
+47 134 632 coal_ore
+47 134 633 stone
+47 134 634 copper_ore
+47 134 635 copper_ore
+fill 47 134 636 47 134 639 stone
+fill 48 134 512 48 134 549 stone
+48 134 589 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+48 134 590 pointed_dripstone[thickness=middle,vertical_direction=up,waterlogged=false]
+48 134 591 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+fill 48 134 592 48 134 629 stone
+fill 48 134 630 48 134 632 coal_ore
+48 134 633 stone
+48 134 634 copper_ore
+48 134 635 copper_ore
+fill 48 134 636 48 134 639 stone
+fill 49 134 512 49 134 547 stone
+49 134 579 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+49 134 587 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+49 134 588 pointed_dripstone[thickness=middle,vertical_direction=up,waterlogged=false]
+49 134 590 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+49 134 591 dripstone_block
+49 134 592 dripstone_block
+fill 49 134 593 49 134 629 stone
+fill 49 134 630 49 134 632 coal_ore
+49 134 633 stone
+fill 49 134 634 49 134 636 copper_ore
+fill 49 134 637 49 134 639 stone
+fill 50 134 512 50 134 523 stone
+50 134 524 coal_ore
+fill 50 134 525 50 134 543 stone
+50 134 586 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+50 134 587 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+50 134 590 pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]
+50 134 591 dripstone_block
+fill 50 134 592 50 134 629 stone
+fill 50 134 630 50 134 632 coal_ore
+50 134 633 stone
+50 134 634 copper_ore
+50 134 635 copper_ore
+fill 50 134 636 50 134 639 stone
+fill 51 134 512 51 134 523 stone
+51 134 524 coal_ore
+51 134 525 coal_ore
+fill 51 134 526 51 134 542 stone
+51 134 582 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+51 134 590 pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]
+51 134 592 dripstone_block
+fill 51 134 593 51 134 613 stone
+51 134 614 coal_ore
+fill 51 134 615 51 134 630 stone
+51 134 631 coal_ore
+51 134 632 coal_ore
+fill 51 134 633 51 134 639 stone
+fill 52 134 512 52 134 523 stone
+52 134 524 coal_ore
+52 134 525 coal_ore
+fill 52 134 526 52 134 528 stone
