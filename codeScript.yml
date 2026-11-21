@@ -1,0 +1,6019 @@
+world: '21705'
+creation-time: 1791165194537
+last-activity-time: 1791165194537
+code:
+  blocks:
+    exec_block_1_4_12:
+      category: EVENT_PLAYER
+      type: PLAYER_HUNGER_CHANGE
+      location:
+        x: 4
+        y: 1
+        z: 12
+      actions:
+        action_block2:
+          category: CONTROL_ACTION
+          type: CONTROL_CANCEL_EVENT
+          location:
+            x: 6
+          arguments: {}
+    exec_block_1_4_64:
+      category: EVENT_PLAYER
+      type: PLAYER_DROP_ITEM
+      location:
+        x: 4
+        y: 1
+        z: 64
+      actions:
+        action_block2:
+          category: CONTROL_ACTION
+          type: CONTROL_CANCEL_EVENT
+          location:
+            x: 6
+          arguments: {}
+    exec_block_1_4_68:
+      category: EVENT_PLAYER
+      type: PLAYER_CLICK_INVENTORY
+      location:
+        x: 4
+        y: 1
+        z: 68
+      actions:
+        action_block2:
+          category: CONTROL_ACTION
+          type: CONTROL_CANCEL_EVENT
+          location:
+            x: 6
+          arguments: {}
+    exec_block_1_4_72:
+      category: EVENT_PLAYER
+      type: PLAYER_DRAG_ITEM
+      location:
+        x: 4
+        y: 1
+        z: 72
+      actions:
+        action_block2:
+          category: CONTROL_ACTION
+          type: CONTROL_CANCEL_EVENT
+          location:
+            x: 6
+          arguments: {}
+    exec_block_1_4_48:
+      category: FUNCTION
+      type: FUNCTION
+      name: clear_board
+      location:
+        x: 4
+        y: 1
+        z: 48
+      actions:
+        action_block2:
+          category: WORLD_ACTION
+          type: WORLD_COPY_BLOCKS
+          target: RANDOM_PLAYER
+          location:
+            x: 6
+          arguments:
+            first:
+              type: LOCATION
+              value:
+                x: 21.0
+                y: 3.0
+                z: 13.0
+                pitch: 0.0
+                yaw: 0.0
+            second:
+              type: LOCATION
+              value:
+                x: -5.0
+                y: 3.0
+                z: -13.0
+                pitch: 0.0
+                yaw: 0.0
+            from:
+              type: LOCATION
+              value:
+                x: 21.0
+                y: 3.0
+                z: 13.0
+                pitch: 0.0
+                yaw: 0.0
+            where:
+              type: LOCATION
+              value:
+                x: 21.0
+                y: 5.0
+                z: 13.0
+                pitch: 0.0
+                yaw: 0.0
+    exec_block_1_4_60:
+      category: EVENT_PLAYER
+      type: PLAYER_RIGHT_CLICK
+      location:
+        x: 4
+        y: 1
+        z: 60
+      actions:
+        condition_block_2:
+          category: VARIABLE_CONDITION
+          type: IF_VAR_EQUALS
+          location:
+            x: 6
+          arguments:
+            values:
+              type: LIST
+              value:
+                '1':
+                  type: NUMBER
+                  value: 0.0
+            variable:
+              type: VARIABLE
+              value:
+                name: ingame
+                type: GLOBAL
+          actions:
+            condition_block_3:
+              category: PLAYER_CONDITION
+              type: IF_PLAYER_HAS_ITEM_IN_HAND
+              location:
+                x: 8
+              arguments:
+                items:
+                  type: LIST
+                  value:
+                    '1':
+                      type: ITEM
+                      value:
+                        DataVersion: 5023
+                        id: minecraft:yellow_dye
+                        count: 1
+                        components:
+                          minecraft:custom_name: '{extra:[{bold:0b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"Войти
+                            в очередь",underlined:0b}],text:""}'
+                        schema_version: 1
+                hand:
+                  type: TEXT
+                  value: main-hand
+                ignore-amount:
+                  type: BOOLEAN
+                  value: false
+                ignore-name:
+                  type: BOOLEAN
+                  value: false
+                ignore-lore:
+                  type: BOOLEAN
+                  value: false
+                ignore-enchantments:
+                  type: BOOLEAN
+                  value: false
+                ignore-flags:
+                  type: BOOLEAN
+                  value: false
+                ignore-material:
+                  type: BOOLEAN
+                  value: false
+                ignore-damage:
+                  type: BOOLEAN
+                  value: false
+              actions:
+                condition_block_4:
+                  category: VARIABLE_CONDITION
+                  type: IF_VAR_NUMBER_GREATER
+                  location:
+                    x: 10
+                  arguments:
+                    first:
+                      type: VARIABLE
+                      value:
+                        name: players
+                        type: GLOBAL
+                    equals:
+                      type: BOOLEAN
+                      value: true
+                    second:
+                      type: NUMBER
+                      value: 4.0
+                  actions:
+                    action_block5:
+                      category: PLAYER_ACTION
+                      type: PLAYER_SEND_MESSAGE
+                      location:
+                        x: 12
+                      arguments:
+                        messages:
+                          type: LIST
+                          value:
+                            '1':
+                              type: TEXT
+                              value: §6Нет мест. Игра рассчитана на 2-4 игроков :(
+                        type:
+                          type: TEXT
+                          value: new-line
+                    action_block6:
+                      category: PLAYER_ACTION
+                      type: PLAYER_PLAY_SOUND
+                      location:
+                        x: 14
+                      arguments:
+                        sound:
+                          type: TEXT
+                          value: entity.villager.no
+                        category:
+                          type: TEXT
+                          value: master
+                    action_block7:
+                      category: CONTROL_ACTION
+                      type: CONTROL_STOP_CODE_LINE
+                      location:
+                        x: 16
+                      arguments: {}
+                condition_block_9:
+                  category: PLAYER_CONDITION
+                  type: IF_PLAYER_HAS_ITEM_COOLDOWN
+                  opposed: true
+                  location:
+                    x: 20
+                  arguments:
+                    items:
+                      type: LIST
+                      value:
+                        '1':
+                          type: ITEM
+                          value:
+                            DataVersion: 5023
+                            id: minecraft:yellow_dye
+                            count: 1
+                            components:
+                              minecraft:custom_name: '{extra:[{bold:0b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"Войти
+                                в очередь",underlined:0b}],text:""}'
+                            schema_version: 1
+                  actions:
+                    action_block10:
+                      category: PLAYER_ACTION
+                      type: PLAYER_SET_ITEM_IN_SLOT
+                      location:
+                        x: 22
+                      arguments:
+                        slots:
+                          type: LIST
+                          value:
+                            '1':
+                              type: NUMBER
+                              value: 5.0
+                        item:
+                          type: ITEM
+                          value:
+                            DataVersion: 5023
+                            id: minecraft:lime_dye
+                            count: 1
+                            components:
+                              minecraft:custom_name: '{extra:[{bold:0b,color:"green",italic:0b,obfuscated:0b,strikethrough:0b,text:"В
+                                очереди",underlined:0b}],text:""}'
+                            schema_version: 1
+                        replace-with-air:
+                          type: BOOLEAN
+                          value: false
+                    action_block11:
+                      category: PLAYER_ACTION
+                      type: PLAYER_SET_ITEM_COOLDOWN
+                      location:
+                        x: 24
+                      arguments:
+                        item:
+                          type: ITEM
+                          value:
+                            DataVersion: 5023
+                            id: minecraft:lime_dye
+                            count: 1
+                            components:
+                              minecraft:custom_name: '{extra:[{bold:0b,color:"green",italic:0b,obfuscated:0b,strikethrough:0b,text:"В
+                                очереди",underlined:0b}],text:""}'
+                            schema_version: 1
+                        cooldown:
+                          type: NUMBER
+                          value: 20.0
+                    action_block12:
+                      category: PLAYER_ACTION
+                      type: PLAYER_PLAY_SOUND
+                      location:
+                        x: 26
+                      arguments:
+                        sound:
+                          type: TEXT
+                          value: entity.experience_orb.pickup
+                        category:
+                          type: TEXT
+                          value: master
+                    action_block13:
+                      category: VARIABLE_ACTION
+                      type: VAR_SET_VALUE
+                      location:
+                        x: 28
+                      arguments:
+                        variable:
+                          type: VARIABLE
+                          value:
+                            name: '%player%_in_queue'
+                            type: GLOBAL
+                        value:
+                          type: NUMBER
+                          value: 1.0
+                    action_block14:
+                      category: VARIABLE_ACTION
+                      type: VAR_SUM_ASSIGN_NUMBER
+                      location:
+                        x: 30
+                      arguments:
+                        variable:
+                          type: VARIABLE
+                          value:
+                            name: players
+                            type: GLOBAL
+                        number:
+                          type: NUMBER
+                          value: 1.0
+                    action_block15:
+                      category: LAUNCH_FUNCTION_ACTION
+                      type: LAUNCH_FUNCTION
+                      name: q_try_start
+                      location:
+                        x: 32
+                      arguments: {}
+              else:
+                condition_block_19:
+                  category: PLAYER_CONDITION
+                  type: IF_PLAYER_HAS_ITEM_IN_HAND
+                  location:
+                    x: 40
+                  arguments:
+                    items:
+                      type: LIST
+                      value:
+                        '1':
+                          type: ITEM
+                          value:
+                            DataVersion: 5023
+                            id: minecraft:lime_dye
+                            count: 1
+                            components:
+                              minecraft:custom_name: '{extra:[{bold:0b,color:"green",italic:0b,obfuscated:0b,strikethrough:0b,text:"В
+                                очереди",underlined:0b}],text:""}'
+                            schema_version: 1
+                    hand:
+                      type: TEXT
+                      value: main-hand
+                    ignore-amount:
+                      type: BOOLEAN
+                      value: false
+                    ignore-name:
+                      type: BOOLEAN
+                      value: false
+                    ignore-lore:
+                      type: BOOLEAN
+                      value: false
+                    ignore-enchantments:
+                      type: BOOLEAN
+                      value: false
+                    ignore-flags:
+                      type: BOOLEAN
+                      value: false
+                    ignore-material:
+                      type: BOOLEAN
+                      value: false
+                    ignore-damage:
+                      type: BOOLEAN
+                      value: false
+                  actions:
+                    condition_block_20:
+                      category: PLAYER_CONDITION
+                      type: IF_PLAYER_HAS_ITEM_COOLDOWN
+                      opposed: true
+                      location:
+                        x: 42
+                      arguments:
+                        items:
+                          type: LIST
+                          value:
+                            '1':
+                              type: ITEM
+                              value:
+                                DataVersion: 5023
+                                id: minecraft:lime_dye
+                                count: 1
+                                components:
+                                  minecraft:custom_name: '{extra:[{bold:0b,color:"green",italic:0b,obfuscated:0b,strikethrough:0b,text:"В
+                                    очереди",underlined:0b}],text:""}'
+                                schema_version: 1
+                      actions:
+                        action_block21:
+                          category: PLAYER_ACTION
+                          type: PLAYER_SET_ITEM_IN_SLOT
+                          location:
+                            x: 44
+                          arguments:
+                            slots:
+                              type: LIST
+                              value:
+                                '1':
+                                  type: NUMBER
+                                  value: 5.0
+                            item:
+                              type: ITEM
+                              value:
+                                DataVersion: 5023
+                                id: minecraft:yellow_dye
+                                count: 1
+                                components:
+                                  minecraft:custom_name: '{extra:[{bold:0b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"Войти
+                                    в очередь",underlined:0b}],text:""}'
+                                schema_version: 1
+                            replace-with-air:
+                              type: BOOLEAN
+                              value: false
+                        action_block22:
+                          category: PLAYER_ACTION
+                          type: PLAYER_SET_ITEM_COOLDOWN
+                          location:
+                            x: 46
+                          arguments:
+                            item:
+                              type: ITEM
+                              value:
+                                DataVersion: 5023
+                                id: minecraft:yellow_dye
+                                count: 1
+                                components:
+                                  minecraft:custom_name: '{extra:[{bold:0b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"Войти
+                                    в очередь",underlined:0b}],text:""}'
+                                schema_version: 1
+                            cooldown:
+                              type: NUMBER
+                              value: 20.0
+                        action_block23:
+                          category: PLAYER_ACTION
+                          type: PLAYER_PLAY_SOUND
+                          location:
+                            x: 48
+                          arguments:
+                            sound:
+                              type: TEXT
+                              value: entity.experience_orb.pickup
+                            pitch:
+                              type: NUMBER
+                              value: 0.9
+                            category:
+                              type: TEXT
+                              value: master
+                        action_block24:
+                          category: VARIABLE_ACTION
+                          type: VAR_SET_VALUE
+                          location:
+                            x: 50
+                          arguments:
+                            variable:
+                              type: VARIABLE
+                              value:
+                                name: '%player%_in_queue'
+                                type: GLOBAL
+                            value:
+                              type: NUMBER
+                              value: 0.0
+                        action_block25:
+                          category: VARIABLE_ACTION
+                          type: VAR_SUBTRACT_ASSIGN_NUMBER
+                          location:
+                            x: 52
+                          arguments:
+                            variable:
+                              type: VARIABLE
+                              value:
+                                name: players
+                                type: GLOBAL
+                            number:
+                              type: NUMBER
+                              value: 1.0
+    exec_block_1_4_32:
+      category: FUNCTION
+      type: FUNCTION
+      name: get_full_cells
+      location:
+        x: 4
+        y: 1
+        z: 32
+      actions:
+        action_block2:
+          category: VARIABLE_ACTION
+          type: VAR_CREATE_LIST
+          location:
+            x: 6
+          arguments:
+            elements:
+              type: LIST
+            variable:
+              type: VARIABLE
+              value:
+                name: full_cells
+                type: GLOBAL
+        multi_action_3:
+          category: REPEAT_ACTION
+          type: REPEAT_FOR_LIST
+          target: RANDOM_PLAYER
+          location:
+            x: 8
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: cell_loc2
+                type: LOCAL
+            list:
+              type: VARIABLE
+              value:
+                name: cell_locs
+                type: GLOBAL
+          actions:
+            action_block4:
+              category: VARIABLE_ACTION
+              type: VAR_MOVE_LOCATION_BY_VECTOR
+              location:
+                x: 10
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: check0
+                    type: LOCAL
+                target:
+                  type: VARIABLE
+                  value:
+                    name: cell_loc2
+                    type: LOCAL
+                vector:
+                  type: VECTOR
+                  value:
+                    x: 1.0
+                    y: 0.0
+                    z: 0.0
+            action_block5:
+              category: VARIABLE_ACTION
+              type: VAR_MOVE_LOCATION_BY_VECTOR
+              location:
+                x: 12
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: check1
+                    type: LOCAL
+                target:
+                  type: VARIABLE
+                  value:
+                    name: cell_loc2
+                    type: LOCAL
+                vector:
+                  type: VECTOR
+                  value:
+                    x: -1.0
+                    y: 0.0
+                    z: 0.0
+            action_block6:
+              category: VARIABLE_ACTION
+              type: VAR_MOVE_LOCATION_BY_VECTOR
+              location:
+                x: 14
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: check2
+                    type: LOCAL
+                target:
+                  type: VARIABLE
+                  value:
+                    name: cell_loc2
+                    type: LOCAL
+                vector:
+                  type: VECTOR
+                  value:
+                    x: 0.0
+                    y: 0.0
+                    z: 1.0
+            action_block7:
+              category: VARIABLE_ACTION
+              type: VAR_MOVE_LOCATION_BY_VECTOR
+              location:
+                x: 16
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: check3
+                    type: LOCAL
+                target:
+                  type: VARIABLE
+                  value:
+                    name: cell_loc2
+                    type: LOCAL
+                vector:
+                  type: VECTOR
+                  value:
+                    x: 0.0
+                    y: 0.0
+                    z: -1.0
+            condition_block_8:
+              category: WORLD_CONDITION
+              type: IF_WORLD_BLOCK_TYPE_EQUALS
+              opposed: true
+              location:
+                x: 18
+              arguments:
+                blocks:
+                  type: LIST
+                  value:
+                    '1':
+                      type: VARIABLE
+                      value:
+                        name: check0
+                        type: LOCAL
+                    '2':
+                      type: VARIABLE
+                      value:
+                        name: check1
+                        type: LOCAL
+                    '3':
+                      type: VARIABLE
+                      value:
+                        name: check2
+                        type: LOCAL
+                    '4':
+                      type: VARIABLE
+                      value:
+                        name: check3
+                        type: LOCAL
+                type:
+                  type: ITEM
+                  value:
+                    DataVersion: 5023
+                    id: minecraft:cyan_terracotta
+                    count: 1
+                    schema_version: 1
+                all:
+                  type: BOOLEAN
+                  value: false
+              actions:
+                action_block9:
+                  category: VARIABLE_ACTION
+                  type: VAR_ADD_TO_LIST
+                  location:
+                    x: 20
+                  arguments:
+                    elements:
+                      type: LIST
+                      value:
+                        '1':
+                          type: VARIABLE
+                          value:
+                            name: cell_loc2
+                            type: LOCAL
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: full_cells
+                        type: GLOBAL
+    exec_block_1_4_16:
+      category: EVENT_WORLD
+      type: WORLD_PLAY_MODE
+      location:
+        x: 4
+        y: 1
+        z: 16
+      actions:
+        action_block2:
+          category: LAUNCH_FUNCTION_ACTION
+          type: LAUNCH_FUNCTION
+          name: on_world_start
+          target: RANDOM_PLAYER
+          location:
+            x: 6
+          arguments: {}
+    exec_block_1_4_40:
+      category: FUNCTION
+      type: FUNCTION
+      name: spread_cell
+      location:
+        x: 4
+        y: 1
+        z: 40
+      actions:
+        action_block2:
+          category: PLAYER_ACTION
+          type: PLAYER_SEND_MESSAGE
+          target: ALL_PLAYERS
+          location:
+            x: 6
+          arguments:
+            messages:
+              type: LIST
+              value:
+                '1':
+                  type: TEXT
+                  value: spread_cell
+            type:
+              type: TEXT
+              value: new-line
+        action_block3:
+          category: VARIABLE_ACTION
+          type: VAR_CREATE_LIST
+          location:
+            x: 8
+          arguments:
+            elements:
+              type: LIST
+              value:
+                '1':
+                  type: VECTOR
+                  value:
+                    x: 1.0
+                    y: 0.0
+                    z: 0.0
+                '2':
+                  type: VECTOR
+                  value:
+                    x: -1.0
+                    y: 0.0
+                    z: 0.0
+                '3':
+                  type: VECTOR
+                  value:
+                    x: 0.0
+                    y: 0.0
+                    z: 1.0
+                '4':
+                  type: VECTOR
+                  value:
+                    x: 0.0
+                    y: 0.0
+                    z: -1.0
+            variable:
+              type: VARIABLE
+              value:
+                name: dirs4
+                type: LOCAL
+        action_block4:
+          category: VARIABLE_ACTION
+          type: VAR_SET_VALUE
+          location:
+            x: 10
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: dir4
+                type: LOCAL
+            value:
+              type: NUMBER
+              value: 0.0
+        multi_action_5:
+          category: REPEAT_ACTION
+          type: REPEAT_FOR_LIST
+          target: RANDOM_PLAYER
+          location:
+            x: 12
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: dir4
+                type: LOCAL
+            list:
+              type: VARIABLE
+              value:
+                name: dirs4
+                type: LOCAL
+          actions:
+            action_block6:
+              category: VARIABLE_ACTION
+              type: VAR_MOVE_LOCATION_BY_VECTOR
+              location:
+                x: 14
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: cell_loc4
+                    type: LOCAL
+                target:
+                  type: VARIABLE
+                  value:
+                    name: cell_loc
+                    type: GLOBAL
+                vector:
+                  type: VARIABLE
+                  value:
+                    name: dir4
+                    type: LOCAL
+            action_block7:
+              category: VARIABLE_ACTION
+              type: VAR_GET_BLOCK_TYPE
+              location:
+                x: 16
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: db
+                    type: LOCAL
+                location:
+                  type: VARIABLE
+                  value:
+                    name: cell_loc4
+                    type: LOCAL
+            action_block8:
+              category: CONTROL_ACTION
+              type: CONTROL_WAIT
+              location:
+                x: 18
+              arguments:
+                time:
+                  type: NUMBER
+                  value: 1.0
+            condition_block_9:
+              category: WORLD_CONDITION
+              type: IF_WORLD_BLOCK_TYPE_EQUALS
+              opposed: true
+              location:
+                x: 20
+              arguments:
+                blocks:
+                  type: LIST
+                  value:
+                    '1':
+                      type: VARIABLE
+                      value:
+                        name: cell_loc4
+                        type: LOCAL
+                type:
+                  type: ITEM
+                  value:
+                    DataVersion: 5023
+                    id: minecraft:gray_stained_glass
+                    count: 1
+                    schema_version: 1
+                all:
+                  type: BOOLEAN
+                  value: false
+              actions:
+                action_block10:
+                  category: WORLD_ACTION
+                  type: WORLD_SET_BLOCK_TYPE
+                  location:
+                    x: 22
+                  arguments:
+                    locations:
+                      type: LIST
+                      value:
+                        '1':
+                          type: VARIABLE
+                          value:
+                            name: cell_loc4
+                            type: LOCAL
+                    type:
+                      type: ITEM
+                      value:
+                        DataVersion: 5023
+                        id: minecraft:cyan_terracotta
+                        count: 1
+                        schema_version: 1
+                action_block11:
+                  category: VARIABLE_ACTION
+                  type: VAR_GET_VECTOR_ALL
+                  location:
+                    x: 24
+                  arguments:
+                    target:
+                      type: VARIABLE
+                      value:
+                        name: dir4
+                        type: LOCAL
+                    x:
+                      type: VARIABLE
+                      value:
+                        name: x
+                        type: LOCAL
+                    z:
+                      type: VARIABLE
+                      value:
+                        name: z
+                        type: LOCAL
+                action_block12:
+                  category: VARIABLE_ACTION
+                  type: VAR_MULTIPLY_ASSIGN_NUMBER
+                  location:
+                    x: 26
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: x
+                        type: LOCAL
+                    number:
+                      type: NUMBER
+                      value: 4.0
+                action_block13:
+                  category: VARIABLE_ACTION
+                  type: VAR_MULTIPLY_ASSIGN_NUMBER
+                  location:
+                    x: 28
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: z
+                        type: LOCAL
+                    number:
+                      type: NUMBER
+                      value: 4.0
+                action_block14:
+                  category: VARIABLE_ACTION
+                  type: VAR_MODIFY_LOCATION
+                  location:
+                    x: 30
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: cell_loc_add1
+                        type: LOCAL
+                    location:
+                      type: VARIABLE
+                      value:
+                        name: cell_loc
+                        type: GLOBAL
+                    x:
+                      type: VARIABLE
+                      value:
+                        name: x
+                        type: LOCAL
+                    z:
+                      type: VARIABLE
+                      value:
+                        name: z
+                        type: LOCAL
+                    add:
+                      type: BOOLEAN
+                      value: true
+                action_block15:
+                  category: LAUNCH_FUNCTION_ACTION
+                  type: LAUNCH_FUNCTION
+                  name: add_1_to_cell
+                  target: RANDOM_PLAYER
+                  location:
+                    x: 32
+                  arguments: {}
+        action_block18:
+          category: VARIABLE_ACTION
+          type: VAR_MOVE_LOCATION_BY_VECTOR
+          location:
+            x: 38
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: glass_loc4_1
+                type: LOCAL
+            target:
+              type: VARIABLE
+              value:
+                name: cell_loc
+                type: GLOBAL
+            vector:
+              type: VECTOR
+              value:
+                x: 1.0
+                y: 0.0
+                z: 1.0
+        action_block19:
+          category: VARIABLE_ACTION
+          type: VAR_MOVE_LOCATION_BY_VECTOR
+          location:
+            x: 40
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: glass_loc4_2
+                type: LOCAL
+            target:
+              type: VARIABLE
+              value:
+                name: cell_loc
+                type: GLOBAL
+            vector:
+              type: VECTOR
+              value:
+                x: 1.0
+                y: 0.0
+                z: -1.0
+        action_block20:
+          category: VARIABLE_ACTION
+          type: VAR_MOVE_LOCATION_BY_VECTOR
+          location:
+            x: 42
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: glass_loc4_3
+                type: LOCAL
+            target:
+              type: VARIABLE
+              value:
+                name: cell_loc
+                type: GLOBAL
+            vector:
+              type: VECTOR
+              value:
+                x: -1.0
+                y: 0.0
+                z: 1.0
+        action_block21:
+          category: VARIABLE_ACTION
+          type: VAR_MOVE_LOCATION_BY_VECTOR
+          location:
+            x: 44
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: glass_loc4_4
+                type: LOCAL
+            target:
+              type: VARIABLE
+              value:
+                name: cell_loc
+                type: GLOBAL
+            vector:
+              type: VECTOR
+              value:
+                x: -1.0
+                y: 0.0
+                z: -1.0
+        action_block22:
+          category: WORLD_ACTION
+          type: WORLD_SET_BLOCK_TYPE
+          location:
+            x: 46
+          arguments:
+            locations:
+              type: LIST
+              value:
+                '1':
+                  type: VARIABLE
+                  value:
+                    name: cell_loc
+                    type: GLOBAL
+                '2':
+                  type: VARIABLE
+                  value:
+                    name: glass_loc4_1
+                    type: LOCAL
+                '3':
+                  type: VARIABLE
+                  value:
+                    name: glass_loc4_2
+                    type: LOCAL
+                '4':
+                  type: VARIABLE
+                  value:
+                    name: glass_loc4_3
+                    type: LOCAL
+                '5':
+                  type: VARIABLE
+                  value:
+                    name: glass_loc4_4
+                    type: LOCAL
+            type:
+              type: ITEM
+              value:
+                DataVersion: 5023
+                id: minecraft:gray_stained_glass
+                count: 1
+                schema_version: 1
+    exec_block_1_4_36:
+      category: FUNCTION
+      type: FUNCTION
+      name: add_1_to_cell
+      location:
+        x: 4
+        y: 1
+        z: 36
+      actions:
+        action_block2:
+          category: VARIABLE_ACTION
+          type: VAR_CREATE_LIST
+          target: RANDOM_PLAYER
+          location:
+            x: 6
+          arguments:
+            elements:
+              type: LIST
+              value:
+                '1':
+                  type: VECTOR
+                  value:
+                    x: 1.0
+                    y: 0.0
+                    z: 0.0
+                '2':
+                  type: VECTOR
+                  value:
+                    x: -1.0
+                    y: 0.0
+                    z: 0.0
+                '3':
+                  type: VECTOR
+                  value:
+                    x: 0.0
+                    y: 0.0
+                    z: 1.0
+                '4':
+                  type: VECTOR
+                  value:
+                    x: 0.0
+                    y: 0.0
+                    z: -1.0
+            variable:
+              type: VARIABLE
+              value:
+                name: dirs3
+                type: LOCAL
+        action_block3:
+          category: VARIABLE_ACTION
+          type: VAR_SET_VALUE
+          target: RANDOM_PLAYER
+          location:
+            x: 8
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: flag3
+                type: LOCAL
+            value:
+              type: NUMBER
+              value: 0.0
+        action_block4:
+          category: VARIABLE_ACTION
+          type: VAR_SET_VALUE
+          target: RANDOM_PLAYER
+          location:
+            x: 10
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: capture_flag3
+                type: LOCAL
+            value:
+              type: NUMBER
+              value: 0.0
+        multi_action_5:
+          category: REPEAT_ACTION
+          type: REPEAT_FOR_LIST
+          target: RANDOM_PLAYER
+          location:
+            x: 12
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: dir3
+                type: LOCAL
+            list:
+              type: VARIABLE
+              value:
+                name: dirs3
+                type: LOCAL
+          actions:
+            action_block6:
+              category: VARIABLE_ACTION
+              type: VAR_MOVE_LOCATION_BY_VECTOR
+              target: RANDOM_PLAYER
+              location:
+                x: 14
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: cell_loc3
+                    type: LOCAL
+                target:
+                  type: VARIABLE
+                  value:
+                    name: cell_loc_add1
+                    type: LOCAL
+                vector:
+                  type: VARIABLE
+                  value:
+                    name: dir3
+                    type: LOCAL
+            condition_block_7:
+              category: WORLD_CONDITION
+              type: IF_WORLD_BLOCK_TYPE_EQUALS
+              location:
+                x: 16
+              arguments:
+                blocks:
+                  type: LIST
+                  value:
+                    '1':
+                      type: VARIABLE
+                      value:
+                        name: cell_loc3
+                        type: LOCAL
+                type:
+                  type: ITEM
+                  value:
+                    DataVersion: 5023
+                    id: minecraft:cyan_terracotta
+                    count: 1
+                    schema_version: 1
+                all:
+                  type: BOOLEAN
+                  value: false
+              actions:
+                condition_block_8:
+                  category: VARIABLE_CONDITION
+                  type: IF_VAR_EQUALS
+                  location:
+                    x: 18
+                  arguments:
+                    values:
+                      type: LIST
+                      value:
+                        '1':
+                          type: NUMBER
+                          value: 0.0
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: flag3
+                        type: LOCAL
+                  actions:
+                    action_block9:
+                      category: WORLD_ACTION
+                      type: WORLD_SET_BLOCK_TYPE
+                      location:
+                        x: 20
+                      arguments:
+                        locations:
+                          type: LIST
+                          value:
+                            '1':
+                              type: VARIABLE
+                              value:
+                                name: cell_loc3
+                                type: LOCAL
+                        type:
+                          type: VARIABLE
+                          value:
+                            name: orb
+                            type: GLOBAL
+                    action_block10:
+                      category: VARIABLE_ACTION
+                      type: VAR_SET_VALUE
+                      target: RANDOM_PLAYER
+                      location:
+                        x: 22
+                      arguments:
+                        variable:
+                          type: VARIABLE
+                          value:
+                            name: flag3
+                            type: LOCAL
+                        value:
+                          type: NUMBER
+                          value: 1.0
+              else:
+                condition_block_14:
+                  category: WORLD_CONDITION
+                  type: IF_WORLD_BLOCK_TYPE_EQUALS
+                  opposed: true
+                  location:
+                    x: 30
+                  arguments:
+                    blocks:
+                      type: LIST
+                      value:
+                        '1':
+                          type: VARIABLE
+                          value:
+                            name: cell_loc3
+                            type: LOCAL
+                    type:
+                      type: VARIABLE
+                      value:
+                        name: orb
+                        type: GLOBAL
+                    all:
+                      type: BOOLEAN
+                      value: false
+                  actions:
+                    condition_block_15:
+                      category: WORLD_CONDITION
+                      type: IF_WORLD_BLOCK_TYPE_EQUALS
+                      opposed: true
+                      location:
+                        x: 32
+                      arguments:
+                        blocks:
+                          type: LIST
+                          value:
+                            '1':
+                              type: VARIABLE
+                              value:
+                                name: cell_loc3
+                                type: LOCAL
+                        type:
+                          type: ITEM
+                          value:
+                            DataVersion: 5023
+                            id: minecraft:gray_stained_glass
+                            count: 1
+                            schema_version: 1
+                        all:
+                          type: BOOLEAN
+                          value: false
+                      actions:
+                        action_block16:
+                          category: WORLD_ACTION
+                          type: WORLD_SET_BLOCK_TYPE
+                          location:
+                            x: 34
+                          arguments:
+                            locations:
+                              type: LIST
+                              value:
+                                '1':
+                                  type: VARIABLE
+                                  value:
+                                    name: cell_loc3
+                                    type: LOCAL
+                            type:
+                              type: VARIABLE
+                              value:
+                                name: orb
+                                type: GLOBAL
+                        action_block17:
+                          category: VARIABLE_ACTION
+                          type: VAR_SET_VALUE
+                          target: RANDOM_PLAYER
+                          location:
+                            x: 36
+                          arguments:
+                            variable:
+                              type: VARIABLE
+                              value:
+                                name: capture_flag3
+                                type: LOCAL
+                            value:
+                              type: NUMBER
+                              value: 1.0
+        condition_block_22:
+          category: VARIABLE_CONDITION
+          type: IF_VAR_EQUALS
+          location:
+            x: 46
+          arguments:
+            values:
+              type: LIST
+              value:
+                '1':
+                  type: NUMBER
+                  value: 0.0
+            variable:
+              type: VARIABLE
+              value:
+                name: flag3
+                type: LOCAL
+          actions:
+            action_block23:
+              category: VARIABLE_ACTION
+              type: VAR_GET_FROM_MAP_BY_KEY
+              target: RANDOM_PLAYER
+              location:
+                x: 48
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: index3
+                    type: LOCAL
+                map:
+                  type: VARIABLE
+                  value:
+                    name: loc_to_index
+                    type: GLOBAL
+                key:
+                  type: VARIABLE
+                  value:
+                    name: cell_loc_add1
+                    type: LOCAL
+            action_block24:
+              category: PLAYER_ACTION
+              type: PLAYER_SEND_MESSAGE
+              target: ALL_PLAYERS
+              location:
+                x: 50
+              arguments:
+                messages:
+                  type: LIST
+                  value:
+                    '1':
+                      type: TEXT
+                      value: BUFFER INDEX =
+                    '2':
+                      type: VARIABLE
+                      value:
+                        name: index3
+                        type: LOCAL
+                type:
+                  type: TEXT
+                  value: join-spaces
+            action_block25:
+              category: VARIABLE_ACTION
+              type: VAR_GET_BY_ID_FROM_LIST
+              target: RANDOM_PLAYER
+              location:
+                x: 52
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: buff_orbs3
+                    type: LOCAL
+                list:
+                  type: VARIABLE
+                  value:
+                    name: buffer
+                    type: GLOBAL
+                index:
+                  type: VARIABLE
+                  value:
+                    name: index3
+                    type: LOCAL
+            action_block26:
+              category: VARIABLE_ACTION
+              type: VAR_SUM_ASSIGN_NUMBER
+              target: RANDOM_PLAYER
+              location:
+                x: 54
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: buff_orbs3
+                    type: LOCAL
+                number:
+                  type: NUMBER
+                  value: 1.0
+            action_block27:
+              category: VARIABLE_ACTION
+              type: VAR_SET_IN_LIST
+              target: RANDOM_PLAYER
+              location:
+                x: 56
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: buffer
+                    type: GLOBAL
+                index:
+                  type: VARIABLE
+                  value:
+                    name: index3
+                    type: LOCAL
+                value:
+                  type: VARIABLE
+                  value:
+                    name: buff_orbs3
+                    type: LOCAL
+        condition_block_29:
+          category: VARIABLE_CONDITION
+          type: IF_VAR_EQUALS
+          location:
+            x: 60
+          arguments:
+            values:
+              type: LIST
+              value:
+                '1':
+                  type: NUMBER
+                  value: 1.0
+            variable:
+              type: NUMBER
+              value: 1.0
+          actions:
+            action_block30:
+              category: VARIABLE_ACTION
+              type: VAR_MOVE_LOCATION_BY_VECTOR
+              target: RANDOM_PLAYER
+              location:
+                x: 62
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: glass_loc3_1
+                    type: LOCAL
+                target:
+                  type: VARIABLE
+                  value:
+                    name: cell_loc_add1
+                    type: LOCAL
+                vector:
+                  type: VECTOR
+                  value:
+                    x: 1.0
+                    y: 0.0
+                    z: 1.0
+            action_block31:
+              category: VARIABLE_ACTION
+              type: VAR_MOVE_LOCATION_BY_VECTOR
+              target: RANDOM_PLAYER
+              location:
+                x: 64
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: glass_loc3_2
+                    type: LOCAL
+                target:
+                  type: VARIABLE
+                  value:
+                    name: cell_loc_add1
+                    type: LOCAL
+                vector:
+                  type: VECTOR
+                  value:
+                    x: 1.0
+                    y: 0.0
+                    z: -1.0
+            action_block32:
+              category: VARIABLE_ACTION
+              type: VAR_MOVE_LOCATION_BY_VECTOR
+              target: RANDOM_PLAYER
+              location:
+                x: 66
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: glass_loc3_3
+                    type: LOCAL
+                target:
+                  type: VARIABLE
+                  value:
+                    name: cell_loc_add1
+                    type: LOCAL
+                vector:
+                  type: VECTOR
+                  value:
+                    x: -1.0
+                    y: 0.0
+                    z: 1.0
+            action_block33:
+              category: VARIABLE_ACTION
+              type: VAR_MOVE_LOCATION_BY_VECTOR
+              target: RANDOM_PLAYER
+              location:
+                x: 68
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: glass_loc3_4
+                    type: LOCAL
+                target:
+                  type: VARIABLE
+                  value:
+                    name: cell_loc_add1
+                    type: LOCAL
+                vector:
+                  type: VECTOR
+                  value:
+                    x: -1.0
+                    y: 0.0
+                    z: -1.0
+            action_block34:
+              category: WORLD_ACTION
+              type: WORLD_SET_BLOCK_TYPE
+              location:
+                x: 70
+              arguments:
+                locations:
+                  type: LIST
+                  value:
+                    '1':
+                      type: VARIABLE
+                      value:
+                        name: cell_loc_add1
+                        type: LOCAL
+                    '2':
+                      type: VARIABLE
+                      value:
+                        name: glass_loc3_1
+                        type: LOCAL
+                    '3':
+                      type: VARIABLE
+                      value:
+                        name: glass_loc3_2
+                        type: LOCAL
+                    '4':
+                      type: VARIABLE
+                      value:
+                        name: glass_loc3_3
+                        type: LOCAL
+                    '5':
+                      type: VARIABLE
+                      value:
+                        name: glass_loc3_4
+                        type: LOCAL
+                type:
+                  type: VARIABLE
+                  value:
+                    name: glass
+                    type: GLOBAL
+    exec_block_1_4_44:
+      category: FUNCTION
+      type: FUNCTION
+      name: empty_buffer
+      location:
+        x: 4
+        y: 1
+        z: 44
+      actions:
+        action_block2:
+          category: VARIABLE_ACTION
+          type: VAR_CREATE_LIST
+          target: RANDOM_PLAYER
+          location:
+            x: 6
+          arguments:
+            elements:
+              type: LIST
+              value:
+                '1':
+                  type: VECTOR
+                  value:
+                    x: 1.0
+                    y: 0.0
+                    z: 0.0
+                '2':
+                  type: VECTOR
+                  value:
+                    x: -1.0
+                    y: 0.0
+                    z: 0.0
+                '3':
+                  type: VECTOR
+                  value:
+                    x: 0.0
+                    y: 0.0
+                    z: 1.0
+                '4':
+                  type: VECTOR
+                  value:
+                    x: 0.0
+                    y: 0.0
+                    z: -1.0
+            variable:
+              type: VARIABLE
+              value:
+                name: dirs5
+                type: LOCAL
+        multi_action_3:
+          category: REPEAT_ACTION
+          type: REPEAT_FOR_LIST
+          target: RANDOM_PLAYER
+          location:
+            x: 8
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: cell_loc5
+                type: LOCAL
+            list:
+              type: VARIABLE
+              value:
+                name: cell_locs
+                type: GLOBAL
+          actions:
+            action_block4:
+              category: VARIABLE_ACTION
+              type: VAR_GET_FROM_MAP_BY_KEY
+              target: RANDOM_PLAYER
+              location:
+                x: 10
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: index5
+                    type: LOCAL
+                map:
+                  type: VARIABLE
+                  value:
+                    name: loc_to_index
+                    type: GLOBAL
+                key:
+                  type: VARIABLE
+                  value:
+                    name: cell_loc5
+                    type: LOCAL
+            action_block5:
+              category: VARIABLE_ACTION
+              type: VAR_GET_BY_ID_FROM_LIST
+              target: RANDOM_PLAYER
+              location:
+                x: 12
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: value5
+                    type: LOCAL
+                list:
+                  type: VARIABLE
+                  value:
+                    name: buffer
+                    type: GLOBAL
+                index:
+                  type: VARIABLE
+                  value:
+                    name: index5
+                    type: LOCAL
+            action_block6:
+              category: CONTROL_ACTION
+              type: CONTROL_WAIT
+              location:
+                x: 14
+              arguments:
+                time:
+                  type: NUMBER
+                  value: 1.0
+            condition_block_7:
+              category: VARIABLE_CONDITION
+              type: IF_VAR_NUMBER_GREATER
+              location:
+                x: 16
+              arguments:
+                first:
+                  type: VARIABLE
+                  value:
+                    name: value5
+                    type: LOCAL
+                equals:
+                  type: BOOLEAN
+                  value: false
+                second:
+                  type: NUMBER
+                  value: 0.0
+              actions:
+                action_block8:
+                  category: VARIABLE_ACTION
+                  type: VAR_MOVE_LOCATION_BY_VECTOR
+                  location:
+                    x: 18
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: glass_loc5_1
+                        type: LOCAL
+                    target:
+                      type: VARIABLE
+                      value:
+                        name: cell_loc5
+                        type: LOCAL
+                    vector:
+                      type: VECTOR
+                      value:
+                        x: 1.0
+                        y: 0.0
+                        z: 1.0
+                action_block9:
+                  category: VARIABLE_ACTION
+                  type: VAR_MOVE_LOCATION_BY_VECTOR
+                  location:
+                    x: 20
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: glass_loc5_2
+                        type: LOCAL
+                    target:
+                      type: VARIABLE
+                      value:
+                        name: cell_loc5
+                        type: LOCAL
+                    vector:
+                      type: VECTOR
+                      value:
+                        x: 1.0
+                        y: 0.0
+                        z: -1.0
+                action_block10:
+                  category: VARIABLE_ACTION
+                  type: VAR_MOVE_LOCATION_BY_VECTOR
+                  location:
+                    x: 22
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: glass_loc5_3
+                        type: LOCAL
+                    target:
+                      type: VARIABLE
+                      value:
+                        name: cell_loc5
+                        type: LOCAL
+                    vector:
+                      type: VECTOR
+                      value:
+                        x: -1.0
+                        y: 0.0
+                        z: 1.0
+                action_block11:
+                  category: VARIABLE_ACTION
+                  type: VAR_MOVE_LOCATION_BY_VECTOR
+                  location:
+                    x: 24
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: glass_loc5_4
+                        type: LOCAL
+                    target:
+                      type: VARIABLE
+                      value:
+                        name: cell_loc5
+                        type: LOCAL
+                    vector:
+                      type: VECTOR
+                      value:
+                        x: -1.0
+                        y: 0.0
+                        z: -1.0
+                action_block12:
+                  category: WORLD_ACTION
+                  type: WORLD_SET_BLOCK_TYPE
+                  location:
+                    x: 26
+                  arguments:
+                    locations:
+                      type: LIST
+                      value:
+                        '1':
+                          type: VARIABLE
+                          value:
+                            name: cell_loc5
+                            type: LOCAL
+                        '2':
+                          type: VARIABLE
+                          value:
+                            name: glass_loc5_1
+                            type: LOCAL
+                        '3':
+                          type: VARIABLE
+                          value:
+                            name: glass_loc5_2
+                            type: LOCAL
+                        '4':
+                          type: VARIABLE
+                          value:
+                            name: glass_loc5_3
+                            type: LOCAL
+                        '5':
+                          type: VARIABLE
+                          value:
+                            name: glass_loc5_4
+                            type: LOCAL
+                    type:
+                      type: VARIABLE
+                      value:
+                        name: glass
+                        type: GLOBAL
+                multi_action_13:
+                  category: REPEAT_ACTION
+                  type: REPEAT_FOR_LIST
+                  target: RANDOM_PLAYER
+                  location:
+                    x: 28
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: dir5
+                        type: LOCAL
+                    list:
+                      type: VARIABLE
+                      value:
+                        name: dirs5
+                        type: LOCAL
+                  actions:
+                    action_block14:
+                      category: CONTROL_ACTION
+                      type: CONTROL_WAIT
+                      location:
+                        x: 30
+                      arguments:
+                        time:
+                          type: NUMBER
+                          value: 1.0
+                    condition_block_15:
+                      category: VARIABLE_CONDITION
+                      type: IF_VAR_NUMBER_GREATER
+                      location:
+                        x: 32
+                      arguments:
+                        first:
+                          type: VARIABLE
+                          value:
+                            name: value5
+                            type: LOCAL
+                        equals:
+                          type: BOOLEAN
+                          value: false
+                        second:
+                          type: NUMBER
+                          value: 0.0
+                      actions:
+                        action_block16:
+                          category: VARIABLE_ACTION
+                          type: VAR_MOVE_LOCATION_BY_VECTOR
+                          location:
+                            x: 34
+                          arguments:
+                            variable:
+                              type: VARIABLE
+                              value:
+                                name: cell_loc5_
+                                type: LOCAL
+                            target:
+                              type: VARIABLE
+                              value:
+                                name: cell_loc5
+                                type: LOCAL
+                            vector:
+                              type: VARIABLE
+                              value:
+                                name: dir5
+                                type: LOCAL
+                        condition_block_17:
+                          category: WORLD_CONDITION
+                          type: IF_WORLD_BLOCK_TYPE_EQUALS
+                          location:
+                            x: 36
+                          arguments:
+                            blocks:
+                              type: LIST
+                              value:
+                                '1':
+                                  type: VARIABLE
+                                  value:
+                                    name: cell_loc5_
+                                    type: LOCAL
+                            type:
+                              type: ITEM
+                              value:
+                                DataVersion: 5023
+                                id: minecraft:cyan_terracotta
+                                count: 1
+                                schema_version: 1
+                            all:
+                              type: BOOLEAN
+                              value: false
+                          actions:
+                            action_block18:
+                              category: WORLD_ACTION
+                              type: WORLD_SET_BLOCK_TYPE
+                              location:
+                                x: 38
+                              arguments:
+                                locations:
+                                  type: LIST
+                                  value:
+                                    '1':
+                                      type: VARIABLE
+                                      value:
+                                        name: cell_loc5_
+                                        type: LOCAL
+                                type:
+                                  type: VARIABLE
+                                  value:
+                                    name: orb
+                                    type: GLOBAL
+                            action_block19:
+                              category: VARIABLE_ACTION
+                              type: VAR_SUBTRACT_ASSIGN_NUMBER
+                              location:
+                                x: 40
+                              arguments:
+                                variable:
+                                  type: VARIABLE
+                                  value:
+                                    name: value5
+                                    type: LOCAL
+                                number:
+                                  type: NUMBER
+                                  value: 1.0
+            action_block24:
+              category: VARIABLE_ACTION
+              type: VAR_SET_IN_LIST
+              location:
+                x: 50
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: buffer
+                    type: GLOBAL
+                index:
+                  type: VARIABLE
+                  value:
+                    name: index5
+                    type: LOCAL
+                value:
+                  type: VARIABLE
+                  value:
+                    name: value5
+                    type: LOCAL
+    exec_block_1_4_88:
+      category: EVENT_PLAYER
+      type: PLAYER_QUIT
+      location:
+        x: 4
+        y: 1
+        z: 88
+      actions:
+        condition_block_2:
+          category: VARIABLE_CONDITION
+          type: IF_VAR_EQUALS
+          location:
+            x: 6
+          arguments:
+            values:
+              type: LIST
+              value:
+                '1':
+                  type: NUMBER
+                  value: 1.0
+            variable:
+              type: VARIABLE
+              value:
+                name: '%player%_in_queue'
+                type: GLOBAL
+          actions:
+            action_block3:
+              category: VARIABLE_ACTION
+              type: VAR_SET_VALUE
+              location:
+                x: 8
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: '%player%_in_queue'
+                    type: GLOBAL
+                value:
+                  type: NUMBER
+                  value: 0.0
+            condition_block_4:
+              category: VARIABLE_CONDITION
+              type: IF_VAR_EQUALS
+              location:
+                x: 10
+              arguments:
+                values:
+                  type: LIST
+                  value:
+                    '1':
+                      type: NUMBER
+                      value: 0.0
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: ingame
+                    type: GLOBAL
+              actions:
+                action_block5:
+                  category: VARIABLE_ACTION
+                  type: VAR_SUBTRACT_ASSIGN_NUMBER
+                  location:
+                    x: 12
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: players
+                        type: GLOBAL
+                    number:
+                      type: NUMBER
+                      value: 1.0
+    exec_block_1_4_84:
+      category: FUNCTION
+      type: FUNCTION
+      name: game_start
+      location:
+        x: 4
+        y: 1
+        z: 84
+      actions:
+        action_block2:
+          category: VARIABLE_ACTION
+          type: VAR_SET_VALUE
+          location:
+            x: 6
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: ingame
+                type: GLOBAL
+            value:
+              type: NUMBER
+              value: 1.0
+        action_block3:
+          category: VARIABLE_ACTION
+          type: VAR_SET_VALUE
+          location:
+            x: 8
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: last_player_index
+                type: GLOBAL
+            value:
+              type: NUMBER
+              value: 1.0
+        action_block4:
+          category: VARIABLE_ACTION
+          type: VAR_SET_VALUE
+          location:
+            x: 10
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: move_made
+                type: GLOBAL
+            value:
+              type: NUMBER
+              value: 0.0
+        action_block5:
+          category: LAUNCH_FUNCTION_ACTION
+          type: LAUNCH_FUNCTION
+          name: clear_board
+          target: RANDOM_PLAYER
+          location:
+            x: 12
+          arguments: {}
+        action_block6:
+          category: SELECTION_ACTION
+          type: SELECTION_SET
+          condition:
+            category: VARIABLE_CONDITION
+            type: IF_VAR_EQUALS
+          location:
+            x: 14
+          arguments:
+            values:
+              type: LIST
+              value:
+                '1':
+                  type: NUMBER
+                  value: 1.0
+            variable:
+              type: VARIABLE
+              value:
+                name: '%target%_in_queue'
+                type: GLOBAL
+        action_block7:
+          category: VARIABLE_ACTION
+          type: VAR_SET_VALUE
+          location:
+            x: 16
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: player_list
+                type: GLOBAL
+            value:
+              type: EVENT_VALUE
+              value:
+                name: TARGETS_NAMES
+        action_block8:
+          category: LAUNCH_METHOD_ACTION
+          type: LAUNCH_METHOD
+          name: game_loop
+          target: RANDOM_PLAYER
+          location:
+            x: 18
+          arguments: {}
+    exec_block_1_4_8:
+      category: EVENT_PLAYER
+      type: PLAYER_JOIN
+      location:
+        x: 4
+        y: 1
+        z: 8
+      actions:
+        action_block2:
+          category: PLAYER_ACTION
+          type: PLAYER_SET_GAMEMODE
+          location:
+            x: 6
+          arguments:
+            game-mode:
+              type: TEXT
+              value: adventure
+        action_block3:
+          category: PLAYER_ACTION
+          type: PLAYER_SET_FLYING
+          location:
+            x: 8
+          arguments:
+            flying:
+              type: BOOLEAN
+              value: true
+            allow-flight:
+              type: BOOLEAN
+              value: true
+    exec_block_1_4_110:
+      category: FUNCTION
+      type: FUNCTION
+      name: next_player
+      location:
+        x: 4
+        y: 1
+        z: 110
+      actions:
+        condition_block_2:
+          category: VARIABLE_CONDITION
+          type: IF_VAR_EQUALS
+          location:
+            x: 6
+          arguments:
+            values:
+              type: LIST
+              value:
+                '1':
+                  type: NUMBER
+                  value: 0.0
+            variable:
+              type: VARIABLE
+              value:
+                name: players
+                type: GLOBAL
+          actions:
+            action_block3:
+              category: PLAYER_ACTION
+              type: PLAYER_SEND_MESSAGE
+              target: ALL_PLAYERS
+              location:
+                x: 8
+              arguments:
+                messages:
+                  type: LIST
+                  value:
+                    '1':
+                      type: TEXT
+                      value: Игроков нету
+                type:
+                  type: TEXT
+                  value: new-line
+            action_block4:
+              category: CONTROL_ACTION
+              type: CONTROL_STOP_CODE_LINE
+              location:
+                x: 10
+              arguments: {}
+        action_block6:
+          category: VARIABLE_ACTION
+          type: VAR_SUM_ASSIGN_NUMBER
+          target: RANDOM_PLAYER
+          location:
+            x: 14
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: last_player_index
+                type: GLOBAL
+            number:
+              type: NUMBER
+              value: 1.0
+        condition_block_7:
+          category: VARIABLE_CONDITION
+          type: IF_VAR_NUMBER_GREATER
+          target: RANDOM_PLAYER
+          location:
+            x: 16
+          arguments:
+            first:
+              type: VARIABLE
+              value:
+                name: last_player_index
+                type: GLOBAL
+            equals:
+              type: BOOLEAN
+              value: false
+            second:
+              type: VARIABLE
+              value:
+                name: players
+                type: GLOBAL
+          actions:
+            action_block8:
+              category: VARIABLE_ACTION
+              type: VAR_SET_VALUE
+              target: RANDOM_PLAYER
+              location:
+                x: 18
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: last_player_index
+                    type: GLOBAL
+                value:
+                  type: NUMBER
+                  value: 1.0
+        action_block10:
+          category: VARIABLE_ACTION
+          type: VAR_GET_BY_ID_FROM_LIST
+          target: RANDOM_PLAYER
+          location:
+            x: 22
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: this_player
+                type: GLOBAL
+            list:
+              type: VARIABLE
+              value:
+                name: player_list
+                type: GLOBAL
+            index:
+              type: VARIABLE
+              value:
+                name: last_player_index
+                type: GLOBAL
+        action_block11:
+          category: VARIABLE_ACTION
+          type: VAR_GET_BY_ID_FROM_LIST
+          target: RANDOM_PLAYER
+          location:
+            x: 24
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: orb
+                type: GLOBAL
+            list:
+              type: VARIABLE
+              value:
+                name: player_orbs
+                type: GLOBAL
+            index:
+              type: VARIABLE
+              value:
+                name: last_player_index
+                type: GLOBAL
+        action_block12:
+          category: VARIABLE_ACTION
+          type: VAR_GET_BY_ID_FROM_LIST
+          target: RANDOM_PLAYER
+          location:
+            x: 26
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: glass
+                type: GLOBAL
+            list:
+              type: VARIABLE
+              value:
+                name: player_glass
+                type: GLOBAL
+            index:
+              type: VARIABLE
+              value:
+                name: last_player_index
+                type: GLOBAL
+        condition_block_13:
+          category: VARIABLE_CONDITION
+          type: IF_VAR_EQUALS
+          target: RANDOM_PLAYER
+          location:
+            x: 28
+          arguments:
+            values:
+              type: LIST
+              value:
+                '1':
+                  type: NUMBER
+                  value: 0.0
+            variable:
+              type: VARIABLE
+              value:
+                name: this_player
+                type: GLOBAL
+          actions:
+            action_block14:
+              category: LAUNCH_FUNCTION_ACTION
+              type: LAUNCH_FUNCTION
+              name: next_player
+              target: RANDOM_PLAYER
+              location:
+                x: 30
+              arguments: {}
+    exec_block_1_4_126:
+      category: EVENT_PLAYER
+      type: PLAYER_DAMAGE_PLAYER
+      location:
+        x: 4
+        y: 1
+        z: 126
+      actions:
+        action_block2:
+          category: CONTROL_ACTION
+          type: CONTROL_CANCEL_EVENT
+          location:
+            x: 6
+          arguments: {}
+    exec_block_1_4_56:
+      category: EVENT_PLAYER
+      type: PLAYER_JOIN
+      location:
+        x: 4
+        y: 1
+        z: 56
+      actions:
+        action_block2:
+          category: CONTROL_ACTION
+          type: CONTROL_WAIT
+          location:
+            x: 6
+          arguments:
+            time:
+              type: NUMBER
+              value: 1.0
+        condition_block_3:
+          category: VARIABLE_CONDITION
+          type: IF_VAR_EQUALS
+          location:
+            x: 8
+          arguments:
+            values:
+              type: LIST
+              value:
+                '1':
+                  type: NUMBER
+                  value: 0.0
+            variable:
+              type: VARIABLE
+              value:
+                name: ingame
+                type: GLOBAL
+          actions:
+            action_block4:
+              category: PLAYER_ACTION
+              type: PLAYER_SET_ITEM_IN_SLOT
+              location:
+                x: 10
+              arguments:
+                slots:
+                  type: LIST
+                  value:
+                    '1':
+                      type: NUMBER
+                      value: 5.0
+                item:
+                  type: ITEM
+                  value:
+                    DataVersion: 5023
+                    id: minecraft:yellow_dye
+                    count: 1
+                    components:
+                      minecraft:custom_name: '{extra:[{bold:0b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"Войти
+                        в очередь",underlined:0b}],text:""}'
+                    schema_version: 1
+                replace-with-air:
+                  type: BOOLEAN
+                  value: false
+          else:
+            action_block7:
+              category: PLAYER_ACTION
+              type: PLAYER_SET_ITEM_IN_SLOT
+              location:
+                x: 16
+              arguments:
+                slots:
+                  type: LIST
+                  value:
+                    '1':
+                      type: NUMBER
+                      value: 5.0
+                item:
+                  type: ITEM
+                  value:
+                    DataVersion: 5023
+                    id: minecraft:red_dye
+                    count: 1
+                    components:
+                      minecraft:custom_name: '{extra:[{bold:0b,color:"red",italic:0b,obfuscated:0b,strikethrough:0b,text:"Игра
+                        уже идёт",underlined:0b}],text:""}'
+                    schema_version: 1
+                replace-with-air:
+                  type: BOOLEAN
+                  value: false
+        action_block9:
+          category: PLAYER_ACTION
+          type: PLAYER_SET_ITEM_IN_SLOT
+          location:
+            x: 20
+          arguments:
+            slots:
+              type: LIST
+              value:
+                '1':
+                  type: NUMBER
+                  value: 9.0
+            item:
+              type: ITEM
+              value:
+                DataVersion: 5023
+                id: minecraft:written_book
+                count: 1
+                components:
+                  minecraft:written_book_content: '{author:"Fayfi5",pages:[{raw:{extra:[{bold:0b,color:"black",italic:0b,obfuscated:0b,strikethrough:0b,text:"Жми
+                    ",underlined:0b},{color:"dark_aqua",italic:0b,text:"ЛКМ"},{color:"black",italic:0b,text:"
+                    по "},{color:"dark_gray",italic:0b,text:"терракоте"},{color:"black",italic:0b,text:"
+                    чтобы добавить блок в ячейку.\nКогда ячейка заполнится - она "},{color:"red",italic:0b,text:"взорвётся"},{color:"black",italic:0b,text:"
+                    и выбросит блоки в соседние ячейки.\n"},{color:"black",italic:0b,text:"Цель
+                    игры",underlined:1b},{color:"black",italic:0b,text:":  ",underlined:0b},{color:"light_purple",italic:0b,text:"захватить"},{color:"black",italic:0b,text:"
+                    все ячейки противника."}],text:""}}],title:{raw:"Гайд"}}'
+                  minecraft:custom_name: '{extra:[{bold:0b,color:"aqua",italic:0b,obfuscated:0b,strikethrough:0b,text:"Гайд",underlined:0b}],text:""}'
+                schema_version: 1
+            replace-with-air:
+              type: BOOLEAN
+              value: false
+    exec_block_1_4_28:
+      category: FUNCTION
+      type: FUNCTION
+      name: on_world_start
+      location:
+        x: 4
+        y: 1
+        z: 28
+      actions:
+        action_block2:
+          category: LAUNCH_FUNCTION_ACTION
+          type: LAUNCH_FUNCTION
+          name: clear_board
+          target: RANDOM_PLAYER
+          location:
+            x: 6
+          arguments: {}
+        action_block3:
+          category: VARIABLE_ACTION
+          type: VAR_CREATE_LIST
+          target: RANDOM_PLAYER
+          location:
+            x: 8
+          arguments:
+            elements:
+              type: LIST
+              value:
+                '1':
+                  type: ITEM
+                  value:
+                    DataVersion: 5023
+                    id: minecraft:red_terracotta
+                    count: 1
+                    schema_version: 1
+                '2':
+                  type: ITEM
+                  value:
+                    DataVersion: 5023
+                    id: minecraft:light_blue_terracotta
+                    count: 1
+                    schema_version: 1
+                '3':
+                  type: ITEM
+                  value:
+                    DataVersion: 5023
+                    id: minecraft:lime_terracotta
+                    count: 1
+                    schema_version: 1
+                '4':
+                  type: ITEM
+                  value:
+                    DataVersion: 5023
+                    id: minecraft:yellow_terracotta
+                    count: 1
+                    schema_version: 1
+            variable:
+              type: VARIABLE
+              value:
+                name: player_orbs
+                type: GLOBAL
+        action_block4:
+          category: VARIABLE_ACTION
+          type: VAR_CREATE_LIST
+          target: RANDOM_PLAYER
+          location:
+            x: 10
+          arguments:
+            elements:
+              type: LIST
+              value:
+                '1':
+                  type: ITEM
+                  value:
+                    DataVersion: 5023
+                    id: minecraft:red_stained_glass
+                    count: 1
+                    schema_version: 1
+                '2':
+                  type: ITEM
+                  value:
+                    DataVersion: 5023
+                    id: minecraft:light_blue_stained_glass
+                    count: 1
+                    schema_version: 1
+                '3':
+                  type: ITEM
+                  value:
+                    DataVersion: 5023
+                    id: minecraft:lime_stained_glass
+                    count: 1
+                    schema_version: 1
+                '4':
+                  type: ITEM
+                  value:
+                    DataVersion: 5023
+                    id: minecraft:yellow_stained_glass
+                    count: 1
+                    schema_version: 1
+            variable:
+              type: VARIABLE
+              value:
+                name: player_glass
+                type: GLOBAL
+        action_block5:
+          category: VARIABLE_ACTION
+          type: VAR_SET_VALUE
+          target: RANDOM_PLAYER
+          location:
+            x: 12
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: last_player_index
+                type: GLOBAL
+            value:
+              type: NUMBER
+              value: 1.0
+        action_block6:
+          category: VARIABLE_ACTION
+          type: VAR_SET_VALUE
+          target: RANDOM_PLAYER
+          location:
+            x: 14
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: players
+                type: GLOBAL
+            value:
+              type: NUMBER
+              value: 0.0
+        action_block7:
+          category: VARIABLE_ACTION
+          type: VAR_SET_VALUE
+          target: RANDOM_PLAYER
+          location:
+            x: 16
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: ingame
+                type: GLOBAL
+            value:
+              type: NUMBER
+              value: 0.0
+        action_block8:
+          category: VARIABLE_ACTION
+          type: VAR_SET_VALUE
+          target: RANDOM_PLAYER
+          location:
+            x: 18
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: orb
+                type: GLOBAL
+            value:
+              type: ITEM
+              value:
+                DataVersion: 5023
+                id: minecraft:lime_terracotta
+                count: 1
+                schema_version: 1
+        action_block9:
+          category: VARIABLE_ACTION
+          type: VAR_SET_VALUE
+          target: RANDOM_PLAYER
+          location:
+            x: 20
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: glass
+                type: GLOBAL
+            value:
+              type: ITEM
+              value:
+                DataVersion: 5023
+                id: minecraft:lime_stained_glass
+                count: 1
+                schema_version: 1
+        action_block10:
+          category: VARIABLE_ACTION
+          type: VAR_CREATE_LIST
+          target: RANDOM_PLAYER
+          location:
+            x: 22
+          arguments:
+            elements:
+              type: LIST
+            variable:
+              type: VARIABLE
+              value:
+                name: cell_locs
+                type: GLOBAL
+        action_block11:
+          category: VARIABLE_ACTION
+          type: VAR_CREATE_LIST
+          target: RANDOM_PLAYER
+          location:
+            x: 24
+          arguments:
+            elements:
+              type: LIST
+              value:
+                '1':
+                  type: NUMBER
+                  value: 0.0
+                '2':
+                  type: NUMBER
+                  value: 0.0
+                '3':
+                  type: NUMBER
+                  value: 0.0
+                '4':
+                  type: NUMBER
+                  value: 0.0
+                '5':
+                  type: NUMBER
+                  value: 0.0
+                '6':
+                  type: NUMBER
+                  value: 0.0
+                '7':
+                  type: NUMBER
+                  value: 0.0
+                '8':
+                  type: NUMBER
+                  value: 0.0
+                '9':
+                  type: NUMBER
+                  value: 0.0
+                '10':
+                  type: NUMBER
+                  value: 0.0
+                '11':
+                  type: NUMBER
+                  value: 0.0
+                '12':
+                  type: NUMBER
+                  value: 0.0
+                '13':
+                  type: NUMBER
+                  value: 0.0
+                '14':
+                  type: NUMBER
+                  value: 0.0
+                '15':
+                  type: NUMBER
+                  value: 0.0
+                '16':
+                  type: NUMBER
+                  value: 0.0
+                '17':
+                  type: NUMBER
+                  value: 0.0
+                '18':
+                  type: NUMBER
+                  value: 0.0
+            variable:
+              type: VARIABLE
+              value:
+                name: buffer
+                type: GLOBAL
+        action_block12:
+          category: VARIABLE_ACTION
+          type: VAR_ADD_TO_LIST
+          target: RANDOM_PLAYER
+          location:
+            x: 26
+          arguments:
+            elements:
+              type: LIST
+              value:
+                '1':
+                  type: NUMBER
+                  value: 0.0
+                '2':
+                  type: NUMBER
+                  value: 0.0
+                '3':
+                  type: NUMBER
+                  value: 0.0
+                '4':
+                  type: NUMBER
+                  value: 0.0
+                '5':
+                  type: NUMBER
+                  value: 0.0
+                '6':
+                  type: NUMBER
+                  value: 0.0
+                '7':
+                  type: NUMBER
+                  value: 0.0
+                '8':
+                  type: NUMBER
+                  value: 0.0
+                '9':
+                  type: NUMBER
+                  value: 0.0
+                '10':
+                  type: NUMBER
+                  value: 0.0
+                '11':
+                  type: NUMBER
+                  value: 0.0
+                '12':
+                  type: NUMBER
+                  value: 0.0
+                '13':
+                  type: NUMBER
+                  value: 0.0
+                '14':
+                  type: NUMBER
+                  value: 0.0
+                '15':
+                  type: NUMBER
+                  value: 0.0
+                '16':
+                  type: NUMBER
+                  value: 0.0
+                '17':
+                  type: NUMBER
+                  value: 0.0
+                '18':
+                  type: NUMBER
+                  value: 0.0
+            variable:
+              type: VARIABLE
+              value:
+                name: buffer
+                type: GLOBAL
+        action_block13:
+          category: VARIABLE_ACTION
+          type: VAR_ADD_TO_LIST
+          target: RANDOM_PLAYER
+          location:
+            x: 28
+          arguments:
+            elements:
+              type: LIST
+              value:
+                '1':
+                  type: NUMBER
+                  value: 0.0
+                '2':
+                  type: NUMBER
+                  value: 0.0
+                '3':
+                  type: NUMBER
+                  value: 0.0
+                '4':
+                  type: NUMBER
+                  value: 0.0
+                '5':
+                  type: NUMBER
+                  value: 0.0
+                '6':
+                  type: NUMBER
+                  value: 0.0
+                '7':
+                  type: NUMBER
+                  value: 0.0
+                '8':
+                  type: NUMBER
+                  value: 0.0
+                '9':
+                  type: NUMBER
+                  value: 0.0
+                '10':
+                  type: NUMBER
+                  value: 0.0
+                '11':
+                  type: NUMBER
+                  value: 0.0
+                '12':
+                  type: NUMBER
+                  value: 0.0
+                '13':
+                  type: NUMBER
+                  value: 0.0
+            variable:
+              type: VARIABLE
+              value:
+                name: buffer
+                type: GLOBAL
+        action_block14:
+          category: VARIABLE_ACTION
+          type: VAR_CREATE_MAP
+          target: RANDOM_PLAYER
+          location:
+            x: 30
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: loc_to_index
+                type: GLOBAL
+        action_block15:
+          category: VARIABLE_ACTION
+          type: VAR_SET_VALUE
+          target: RANDOM_PLAYER
+          location:
+            x: 32
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: p
+                type: LOCAL
+            value:
+              type: NUMBER
+              value: 1.0
+        action_block16:
+          category: VARIABLE_ACTION
+          type: VAR_SET_VALUE
+          target: RANDOM_PLAYER
+          location:
+            x: 34
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: x
+                type: LOCAL
+            value:
+              type: NUMBER
+              value: -8.0
+        action_block17:
+          category: CONTROL_ACTION
+          type: CONTROL_WAIT
+          target: RANDOM_PLAYER
+          location:
+            x: 36
+          arguments:
+            time:
+              type: NUMBER
+              value: 2.0
+        multi_action_18:
+          category: REPEAT_ACTION
+          type: REPEAT_FOR_NUMBERS
+          target: RANDOM_PLAYER
+          location:
+            x: 38
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: x
+                type: LOCAL
+            type:
+              type: TEXT
+              value: less
+            range:
+              type: NUMBER
+              value: 20.0
+            add:
+              type: NUMBER
+              value: 4.0
+          actions:
+            action_block19:
+              category: VARIABLE_ACTION
+              type: VAR_SET_VALUE
+              target: RANDOM_PLAYER
+              location:
+                x: 40
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: z
+                    type: LOCAL
+                value:
+                  type: NUMBER
+                  value: -16.0
+            multi_action_20:
+              category: REPEAT_ACTION
+              type: REPEAT_FOR_NUMBERS
+              target: RANDOM_PLAYER
+              location:
+                x: 42
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: z
+                    type: LOCAL
+                type:
+                  type: TEXT
+                  value: less
+                range:
+                  type: NUMBER
+                  value: 12.0
+                add:
+                  type: NUMBER
+                  value: 4.0
+              actions:
+                action_block21:
+                  category: VARIABLE_ACTION
+                  type: VAR_MODIFY_LOCATION
+                  target: RANDOM_PLAYER
+                  location:
+                    x: 44
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: c_loc
+                        type: LOCAL
+                    location:
+                      type: LOCATION
+                      value:
+                        x: -4.0
+                        y: 5.0
+                        z: -12.0
+                        pitch: 0.0
+                        yaw: 0.0
+                    x:
+                      type: VARIABLE
+                      value:
+                        name: x
+                        type: LOCAL
+                    z:
+                      type: VARIABLE
+                      value:
+                        name: z
+                        type: LOCAL
+                    add:
+                      type: BOOLEAN
+                      value: false
+                action_block22:
+                  category: VARIABLE_ACTION
+                  type: VAR_ADD_TO_LIST
+                  target: RANDOM_PLAYER
+                  location:
+                    x: 46
+                  arguments:
+                    elements:
+                      type: LIST
+                      value:
+                        '1':
+                          type: VARIABLE
+                          value:
+                            name: c_loc
+                            type: LOCAL
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: cell_locs
+                        type: GLOBAL
+                action_block23:
+                  category: VARIABLE_ACTION
+                  type: VAR_PUT_INTO_MAP
+                  target: RANDOM_PLAYER
+                  location:
+                    x: 48
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: loc_to_index
+                        type: GLOBAL
+                    key:
+                      type: VARIABLE
+                      value:
+                        name: c_loc
+                        type: LOCAL
+                    value:
+                      type: VARIABLE
+                      value:
+                        name: p
+                        type: LOCAL
+                action_block24:
+                  category: VARIABLE_ACTION
+                  type: VAR_SUM_ASSIGN_NUMBER
+                  target: RANDOM_PLAYER
+                  location:
+                    x: 50
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: p
+                        type: LOCAL
+                    number:
+                      type: NUMBER
+                      value: 1.0
+                action_block25:
+                  category: VARIABLE_ACTION
+                  type: VAR_GET_LIST_SIZE
+                  target: RANDOM_PLAYER
+                  location:
+                    x: 52
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: cells_size
+                        type: LOCAL
+                    list:
+                      type: VARIABLE
+                      value:
+                        name: cell_locs
+                        type: GLOBAL
+                action_block26:
+                  category: PLAYER_ACTION
+                  type: PLAYER_SHOW_ACTIONBAR
+                  target: ALL_PLAYERS
+                  location:
+                    x: 54
+                  arguments:
+                    actionbar:
+                      type: LIST
+                      value:
+                        '1':
+                          type: TEXT
+                          value: length
+                        '2':
+                          type: VARIABLE
+                          value:
+                            name: cells_size
+                            type: LOCAL
+                    type:
+                      type: TEXT
+                      value: join
+        action_block29:
+          category: CONTROL_ACTION
+          type: CONTROL_WAIT
+          target: RANDOM_PLAYER
+          location:
+            x: 60
+          arguments:
+            time:
+              type: NUMBER
+              value: 1.0
+        action_block30:
+          category: PLAYER_ACTION
+          type: PLAYER_SEND_MESSAGE
+          target: ALL_PLAYERS
+          location:
+            x: 62
+          arguments:
+            messages:
+              type: LIST
+              value:
+                '1':
+                  type: TEXT
+                  value: INIT DONE!
+            type:
+              type: TEXT
+              value: new-line
+        action_block31:
+          category: LAUNCH_FUNCTION_ACTION
+          type: LAUNCH_FUNCTION
+          name: update_q_item
+          target: RANDOM_PLAYER
+          location:
+            x: 64
+          arguments: {}
+    exec_block_1_4_96:
+      category: EVENT_PLAYER
+      type: PLAYER_LEFT_CLICK
+      location:
+        x: 4
+        y: 1
+        z: 96
+      actions:
+        condition_block_2:
+          category: PLAYER_CONDITION
+          type: IF_PLAYER_LOOKS_AT_BLOCK
+          location:
+            x: 6
+          arguments:
+            blocks:
+              type: LIST
+              value:
+                '1':
+                  type: ITEM
+                  value:
+                    DataVersion: 5023
+                    id: minecraft:cyan_terracotta
+                    count: 1
+                    schema_version: 1
+            locations:
+              type: LIST
+          actions:
+            condition_block_3:
+              category: VARIABLE_CONDITION
+              type: IF_VAR_EQUALS
+              location:
+                x: 8
+              arguments:
+                values:
+                  type: LIST
+                  value:
+                    '1':
+                      type: EVENT_VALUE
+                      value:
+                        name: NICKNAME
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: this_player
+                    type: GLOBAL
+              actions:
+                action_block4:
+                  category: VARIABLE_ACTION
+                  type: VAR_MOVE_LOCATION_BY_VECTOR
+                  location:
+                    x: 10
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: loc7_1
+                        type: LOCAL
+                    target:
+                      type: EVENT_VALUE
+                      value:
+                        name: TARGET_BLOCK
+                    vector:
+                      type: VECTOR
+                      value:
+                        x: 1.0
+                        y: 0.0
+                        z: 0.0
+                action_block5:
+                  category: VARIABLE_ACTION
+                  type: VAR_MOVE_LOCATION_BY_VECTOR
+                  location:
+                    x: 12
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: loc7_2
+                        type: LOCAL
+                    target:
+                      type: EVENT_VALUE
+                      value:
+                        name: TARGET_BLOCK
+                    vector:
+                      type: VECTOR
+                      value:
+                        x: -1.0
+                        y: 0.0
+                        z: 0.0
+                action_block6:
+                  category: VARIABLE_ACTION
+                  type: VAR_MOVE_LOCATION_BY_VECTOR
+                  location:
+                    x: 14
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: loc7_3
+                        type: LOCAL
+                    target:
+                      type: EVENT_VALUE
+                      value:
+                        name: TARGET_BLOCK
+                    vector:
+                      type: VECTOR
+                      value:
+                        x: 0.0
+                        y: 0.0
+                        z: 1.0
+                action_block7:
+                  category: VARIABLE_ACTION
+                  type: VAR_MOVE_LOCATION_BY_VECTOR
+                  location:
+                    x: 16
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: loc7_4
+                        type: LOCAL
+                    target:
+                      type: EVENT_VALUE
+                      value:
+                        name: TARGET_BLOCK
+                    vector:
+                      type: VECTOR
+                      value:
+                        x: 0.0
+                        y: 0.0
+                        z: -1.0
+                condition_block_8:
+                  category: VARIABLE_CONDITION
+                  type: IF_VAR_LIST_CONTAINS
+                  location:
+                    x: 18
+                  arguments:
+                    elements:
+                      type: LIST
+                      value:
+                        '1':
+                          type: VARIABLE
+                          value:
+                            name: loc7_1
+                            type: LOCAL
+                    list:
+                      type: VARIABLE
+                      value:
+                        name: cell_locs
+                        type: GLOBAL
+                    all:
+                      type: BOOLEAN
+                      value: false
+                  actions:
+                    action_block9:
+                      category: VARIABLE_ACTION
+                      type: VAR_SET_VALUE
+                      location:
+                        x: 20
+                      arguments:
+                        variable:
+                          type: VARIABLE
+                          value:
+                            name: center_loc7
+                            type: LOCAL
+                        value:
+                          type: VARIABLE
+                          value:
+                            name: loc7_1
+                            type: LOCAL
+                condition_block_11:
+                  category: VARIABLE_CONDITION
+                  type: IF_VAR_LIST_CONTAINS
+                  location:
+                    x: 24
+                  arguments:
+                    elements:
+                      type: LIST
+                      value:
+                        '1':
+                          type: VARIABLE
+                          value:
+                            name: loc7_2
+                            type: LOCAL
+                    list:
+                      type: VARIABLE
+                      value:
+                        name: cell_locs
+                        type: GLOBAL
+                    all:
+                      type: BOOLEAN
+                      value: false
+                  actions:
+                    action_block12:
+                      category: VARIABLE_ACTION
+                      type: VAR_SET_VALUE
+                      location:
+                        x: 26
+                      arguments:
+                        variable:
+                          type: VARIABLE
+                          value:
+                            name: center_loc7
+                            type: LOCAL
+                        value:
+                          type: VARIABLE
+                          value:
+                            name: loc7_2
+                            type: LOCAL
+                condition_block_14:
+                  category: VARIABLE_CONDITION
+                  type: IF_VAR_LIST_CONTAINS
+                  location:
+                    x: 30
+                  arguments:
+                    elements:
+                      type: LIST
+                      value:
+                        '1':
+                          type: VARIABLE
+                          value:
+                            name: loc7_3
+                            type: LOCAL
+                    list:
+                      type: VARIABLE
+                      value:
+                        name: cell_locs
+                        type: GLOBAL
+                    all:
+                      type: BOOLEAN
+                      value: false
+                  actions:
+                    action_block15:
+                      category: VARIABLE_ACTION
+                      type: VAR_SET_VALUE
+                      location:
+                        x: 32
+                      arguments:
+                        variable:
+                          type: VARIABLE
+                          value:
+                            name: center_loc7
+                            type: LOCAL
+                        value:
+                          type: VARIABLE
+                          value:
+                            name: loc7_3
+                            type: LOCAL
+                condition_block_17:
+                  category: VARIABLE_CONDITION
+                  type: IF_VAR_LIST_CONTAINS
+                  location:
+                    x: 36
+                  arguments:
+                    elements:
+                      type: LIST
+                      value:
+                        '1':
+                          type: VARIABLE
+                          value:
+                            name: loc7_4
+                            type: LOCAL
+                    list:
+                      type: VARIABLE
+                      value:
+                        name: cell_locs
+                        type: GLOBAL
+                    all:
+                      type: BOOLEAN
+                      value: false
+                  actions:
+                    action_block18:
+                      category: VARIABLE_ACTION
+                      type: VAR_SET_VALUE
+                      location:
+                        x: 38
+                      arguments:
+                        variable:
+                          type: VARIABLE
+                          value:
+                            name: center_loc7
+                            type: LOCAL
+                        value:
+                          type: VARIABLE
+                          value:
+                            name: loc7_4
+                            type: LOCAL
+                condition_block_20:
+                  category: VARIABLE_CONDITION
+                  type: IF_VAR_EQUALS
+                  location:
+                    x: 42
+                  arguments:
+                    values:
+                      type: LIST
+                      value:
+                        '1':
+                          type: NUMBER
+                          value: 0.0
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: move_made
+                        type: GLOBAL
+                  actions:
+                    condition_block_21:
+                      category: WORLD_CONDITION
+                      type: IF_WORLD_BLOCK_TYPE_EQUALS
+                      location:
+                        x: 44
+                      arguments:
+                        blocks:
+                          type: LIST
+                          value:
+                            '1':
+                              type: VARIABLE
+                              value:
+                                name: center_loc7
+                                type: LOCAL
+                        type:
+                          type: VARIABLE
+                          value:
+                            name: glass
+                            type: GLOBAL
+                        all:
+                          type: BOOLEAN
+                          value: false
+                      actions:
+                        action_block22:
+                          category: WORLD_ACTION
+                          type: WORLD_SET_BLOCK_TYPE
+                          location:
+                            x: 46
+                          arguments:
+                            locations:
+                              type: LIST
+                              value:
+                                '1':
+                                  type: EVENT_VALUE
+                                  value:
+                                    name: TARGET_BLOCK
+                            type:
+                              type: VARIABLE
+                              value:
+                                name: orb
+                                type: GLOBAL
+                        action_block23:
+                          category: PLAYER_ACTION
+                          type: PLAYER_PLAY_SOUND
+                          target: ALL_PLAYERS
+                          location:
+                            x: 48
+                          arguments:
+                            sound:
+                              type: TEXT
+                              value: block.end_portal_frame.fill
+                            category:
+                              type: TEXT
+                              value: master
+                        action_block24:
+                          category: VARIABLE_ACTION
+                          type: VAR_SET_VALUE
+                          location:
+                            x: 50
+                          arguments:
+                            variable:
+                              type: VARIABLE
+                              value:
+                                name: current_player
+                                type: GLOBAL
+                            value:
+                              type: NUMBER
+                              value: 0.0
+                        action_block25:
+                          category: VARIABLE_ACTION
+                          type: VAR_SET_VALUE
+                          location:
+                            x: 52
+                          arguments:
+                            variable:
+                              type: VARIABLE
+                              value:
+                                name: move_made
+                                type: GLOBAL
+                            value:
+                              type: NUMBER
+                              value: 1.0
+                      else:
+                        condition_block_28:
+                          category: WORLD_CONDITION
+                          type: IF_WORLD_BLOCK_TYPE_EQUALS
+                          location:
+                            x: 58
+                          arguments:
+                            blocks:
+                              type: LIST
+                              value:
+                                '1':
+                                  type: VARIABLE
+                                  value:
+                                    name: center_loc7
+                                    type: LOCAL
+                            type:
+                              type: ITEM
+                              value:
+                                DataVersion: 5023
+                                id: minecraft:gray_stained_glass
+                                count: 1
+                                schema_version: 1
+                            all:
+                              type: BOOLEAN
+                              value: false
+                          actions:
+                            action_block29:
+                              category: VARIABLE_ACTION
+                              type: VAR_MOVE_LOCATION_BY_VECTOR
+                              location:
+                                x: 60
+                              arguments:
+                                variable:
+                                  type: VARIABLE
+                                  value:
+                                    name: loc7_5
+                                    type: LOCAL
+                                target:
+                                  type: VARIABLE
+                                  value:
+                                    name: center_loc7
+                                    type: LOCAL
+                                vector:
+                                  type: VECTOR
+                                  value:
+                                    x: 1.0
+                                    y: 0.0
+                                    z: 1.0
+                            action_block30:
+                              category: VARIABLE_ACTION
+                              type: VAR_MOVE_LOCATION_BY_VECTOR
+                              location:
+                                x: 62
+                              arguments:
+                                variable:
+                                  type: VARIABLE
+                                  value:
+                                    name: loc7_6
+                                    type: LOCAL
+                                target:
+                                  type: VARIABLE
+                                  value:
+                                    name: center_loc7
+                                    type: LOCAL
+                                vector:
+                                  type: VECTOR
+                                  value:
+                                    x: 1.0
+                                    y: 0.0
+                                    z: -1.0
+                            action_block31:
+                              category: VARIABLE_ACTION
+                              type: VAR_MOVE_LOCATION_BY_VECTOR
+                              location:
+                                x: 64
+                              arguments:
+                                variable:
+                                  type: VARIABLE
+                                  value:
+                                    name: loc7_7
+                                    type: LOCAL
+                                target:
+                                  type: VARIABLE
+                                  value:
+                                    name: center_loc7
+                                    type: LOCAL
+                                vector:
+                                  type: VECTOR
+                                  value:
+                                    x: -1.0
+                                    y: 0.0
+                                    z: 1.0
+                            action_block32:
+                              category: VARIABLE_ACTION
+                              type: VAR_MOVE_LOCATION_BY_VECTOR
+                              location:
+                                x: 66
+                              arguments:
+                                variable:
+                                  type: VARIABLE
+                                  value:
+                                    name: loc7_8
+                                    type: LOCAL
+                                target:
+                                  type: VARIABLE
+                                  value:
+                                    name: center_loc7
+                                    type: LOCAL
+                                vector:
+                                  type: VECTOR
+                                  value:
+                                    x: -1.0
+                                    y: 0.0
+                                    z: -1.0
+                            action_block33:
+                              category: WORLD_ACTION
+                              type: WORLD_SET_BLOCK_TYPE
+                              location:
+                                x: 68
+                              arguments:
+                                locations:
+                                  type: LIST
+                                  value:
+                                    '1':
+                                      type: VARIABLE
+                                      value:
+                                        name: center_loc7
+                                        type: LOCAL
+                                    '2':
+                                      type: VARIABLE
+                                      value:
+                                        name: loc7_5
+                                        type: LOCAL
+                                    '3':
+                                      type: VARIABLE
+                                      value:
+                                        name: loc7_6
+                                        type: LOCAL
+                                    '4':
+                                      type: VARIABLE
+                                      value:
+                                        name: loc7_7
+                                        type: LOCAL
+                                    '5':
+                                      type: VARIABLE
+                                      value:
+                                        name: loc7_8
+                                        type: LOCAL
+                                type:
+                                  type: VARIABLE
+                                  value:
+                                    name: glass
+                                    type: GLOBAL
+                            action_block34:
+                              category: WORLD_ACTION
+                              type: WORLD_SET_BLOCK_TYPE
+                              location:
+                                x: 70
+                              arguments:
+                                locations:
+                                  type: LIST
+                                  value:
+                                    '1':
+                                      type: EVENT_VALUE
+                                      value:
+                                        name: TARGET_BLOCK
+                                type:
+                                  type: VARIABLE
+                                  value:
+                                    name: orb
+                                    type: GLOBAL
+                            action_block35:
+                              category: PLAYER_ACTION
+                              type: PLAYER_PLAY_SOUND
+                              target: ALL_PLAYERS
+                              location:
+                                x: 72
+                              arguments:
+                                sound:
+                                  type: TEXT
+                                  value: block.end_portal_frame.fill
+                                category:
+                                  type: TEXT
+                                  value: master
+                            action_block36:
+                              category: VARIABLE_ACTION
+                              type: VAR_SET_VALUE
+                              location:
+                                x: 74
+                              arguments:
+                                variable:
+                                  type: VARIABLE
+                                  value:
+                                    name: current_player
+                                    type: GLOBAL
+                                value:
+                                  type: NUMBER
+                                  value: 0.0
+                            action_block37:
+                              category: VARIABLE_ACTION
+                              type: VAR_SET_VALUE
+                              location:
+                                x: 76
+                              arguments:
+                                variable:
+                                  type: VARIABLE
+                                  value:
+                                    name: move_made
+                                    type: GLOBAL
+                                value:
+                                  type: NUMBER
+                                  value: 1.0
+    exec_block_1_4_130:
+      category: FUNCTION
+      type: FUNCTION
+      name: update_q_item
+      location:
+        x: 4
+        y: 1
+        z: 130
+      actions:
+        condition_block_2:
+          category: VARIABLE_CONDITION
+          type: IF_VAR_EQUALS
+          target: RANDOM_PLAYER
+          location:
+            x: 6
+          arguments:
+            values:
+              type: LIST
+              value:
+                '1':
+                  type: NUMBER
+                  value: 0.0
+            variable:
+              type: VARIABLE
+              value:
+                name: ingame
+                type: GLOBAL
+          actions:
+            action_block3:
+              category: PLAYER_ACTION
+              type: PLAYER_SET_ITEM_IN_SLOT
+              target: ALL_PLAYERS
+              location:
+                x: 8
+              arguments:
+                slots:
+                  type: LIST
+                  value:
+                    '1':
+                      type: NUMBER
+                      value: 5.0
+                item:
+                  type: ITEM
+                  value:
+                    DataVersion: 5023
+                    id: minecraft:yellow_dye
+                    count: 1
+                    components:
+                      minecraft:custom_name: '{extra:[{bold:0b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"Войти
+                        в очередь",underlined:0b}],text:""}'
+                    schema_version: 1
+                replace-with-air:
+                  type: BOOLEAN
+                  value: false
+          else:
+            action_block6:
+              category: PLAYER_ACTION
+              type: PLAYER_SET_ITEM_IN_SLOT
+              location:
+                x: 14
+              arguments:
+                slots:
+                  type: LIST
+                  value:
+                    '1':
+                      type: NUMBER
+                      value: 5.0
+                item:
+                  type: ITEM
+                  value:
+                    DataVersion: 5023
+                    id: minecraft:red_dye
+                    count: 1
+                    components:
+                      minecraft:custom_name: '{extra:[{bold:0b,color:"red",italic:0b,obfuscated:0b,strikethrough:0b,text:"Игра
+                        уже идёт",underlined:0b}],text:""}'
+                    schema_version: 1
+                replace-with-air:
+                  type: BOOLEAN
+                  value: false
+    exec_block_1_4_4:
+      category: EVENT_PLAYER
+      type: PLAYER_WALK
+      location:
+        x: 4
+        y: 1
+        z: 4
+      actions:
+        condition_block_2:
+          category: PLAYER_CONDITION
+          type: IF_PLAYER_IN_AREA
+          opposed: true
+          location:
+            x: 6
+          arguments:
+            first:
+              type: LOCATION
+              value:
+                x: -6.21
+                y: 3.29
+                z: 15.3
+                pitch: 82.22
+                yaw: -177.36
+            second:
+              type: LOCATION
+              value:
+                x: 23.12
+                y: 27.99
+                z: -14.31
+                pitch: 90.0
+                yaw: 80.02
+          actions:
+            action_block3:
+              category: PLAYER_ACTION
+              type: PLAYER_TELEPORT
+              location:
+                x: 8
+              arguments:
+                location:
+                  type: LOCATION
+                  value:
+                    x: 8.51
+                    y: 6.0
+                    z: 0.45
+                    pitch: -1.13
+                    yaw: -179.5
+                consider:
+                  type: TEXT
+                  value: only-coordinates
+            action_block4:
+              category: PLAYER_ACTION
+              type: PLAYER_PLAY_SOUND
+              location:
+                x: 10
+              arguments:
+                sound:
+                  type: TEXT
+                  value: entity.player.big_fall
+                category:
+                  type: TEXT
+                  value: master
+    exec_block_1_4_114:
+      category: FUNCTION
+      type: FUNCTION
+      name: get_alive
+      location:
+        x: 4
+        y: 1
+        z: 114
+      actions:
+        action_block2:
+          category: CONTROL_ACTION
+          type: CONTROL_WAIT
+          location:
+            x: 6
+          arguments:
+            time:
+              type: NUMBER
+              value: 1.0
+        action_block3:
+          category: VARIABLE_ACTION
+          type: VAR_CREATE_MAP_BY_KEYS
+          location:
+            x: 8
+          arguments:
+            keys:
+              type: LIST
+              value:
+                '1':
+                  type: TEXT
+                  value: red_stained_glass
+                '2':
+                  type: TEXT
+                  value: light_blue_stained_glass
+                '3':
+                  type: TEXT
+                  value: lime_stained_glass
+                '4':
+                  type: TEXT
+                  value: yellow_stained_glass
+            values:
+              type: LIST
+              value:
+                '1':
+                  type: NUMBER
+                  value: 0.0
+                '2':
+                  type: NUMBER
+                  value: 0.0
+                '3':
+                  type: NUMBER
+                  value: 0.0
+                '4':
+                  type: NUMBER
+                  value: 0.0
+            variable:
+              type: VARIABLE
+              value:
+                name: alive_colors
+                type: GLOBAL
+        action_block4:
+          category: VARIABLE_ACTION
+          type: VAR_GET_KEYS_SET
+          location:
+            x: 10
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: colors
+                type: LOCAL
+            map:
+              type: VARIABLE
+              value:
+                name: alive_colors
+                type: GLOBAL
+        multi_action_5:
+          category: REPEAT_ACTION
+          type: REPEAT_FOR_LIST
+          target: RANDOM_PLAYER
+          location:
+            x: 12
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: loc10
+                type: LOCAL
+            list:
+              type: VARIABLE
+              value:
+                name: cell_locs
+                type: GLOBAL
+          actions:
+            action_block6:
+              category: VARIABLE_ACTION
+              type: VAR_GET_BLOCK_TYPE
+              location:
+                x: 14
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: type
+                    type: LOCAL
+                location:
+                  type: VARIABLE
+                  value:
+                    name: loc10
+                    type: LOCAL
+            condition_block_7:
+              category: VARIABLE_CONDITION
+              type: IF_VAR_LIST_CONTAINS
+              location:
+                x: 16
+              arguments:
+                elements:
+                  type: LIST
+                  value:
+                    '1':
+                      type: VARIABLE
+                      value:
+                        name: type
+                        type: LOCAL
+                list:
+                  type: VARIABLE
+                  value:
+                    name: colors
+                    type: LOCAL
+                all:
+                  type: BOOLEAN
+                  value: false
+              actions:
+                action_block8:
+                  category: VARIABLE_ACTION
+                  type: VAR_PUT_INTO_MAP
+                  location:
+                    x: 18
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: alive_colors
+                        type: GLOBAL
+                    key:
+                      type: VARIABLE
+                      value:
+                        name: type
+                        type: LOCAL
+                    value:
+                      type: NUMBER
+                      value: 1.0
+    exec_block_1_4_92:
+      category: METHOD
+      type: METHOD
+      name: game_loop
+      location:
+        x: 4
+        y: 1
+        z: 92
+      actions:
+        action_block2:
+          category: VARIABLE_ACTION
+          type: VAR_SET_VALUE
+          location:
+            x: 6
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: cur_move
+                type: LOCAL
+            value:
+              type: NUMBER
+              value: 0.0
+        multi_action_3:
+          category: REPEAT_ACTION
+          type: REPEAT_ALWAYS
+          target: RANDOM_PLAYER
+          location:
+            x: 8
+          arguments: {}
+          actions:
+            action_block4:
+              category: CONTROL_ACTION
+              type: CONTROL_WAIT
+              location:
+                x: 10
+              arguments:
+                time:
+                  type: NUMBER
+                  value: 2.0
+            action_block5:
+              category: LAUNCH_FUNCTION_ACTION
+              type: LAUNCH_FUNCTION
+              name: next_player
+              target: RANDOM_PLAYER
+              location:
+                x: 12
+              arguments: {}
+            action_block6:
+              category: LAUNCH_FUNCTION_ACTION
+              type: LAUNCH_FUNCTION
+              name: wait_for_move
+              target: RANDOM_PLAYER
+              location:
+                x: 14
+              arguments: {}
+            action_block7:
+              category: VARIABLE_ACTION
+              type: VAR_SUM_ASSIGN_NUMBER
+              location:
+                x: 16
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: cur_move
+                    type: LOCAL
+                number:
+                  type: NUMBER
+                  value: 1.0
+            action_block8:
+              category: CONTROL_ACTION
+              type: CONTROL_WAIT
+              location:
+                x: 18
+              arguments:
+                time:
+                  type: NUMBER
+                  value: 1.0
+            action_block9:
+              category: LAUNCH_FUNCTION_ACTION
+              type: LAUNCH_FUNCTION
+              name: get_full_cells
+              target: RANDOM_PLAYER
+              location:
+                x: 20
+              arguments: {}
+            multi_action_10:
+              category: REPEAT_ACTION
+              type: REPEAT_WHILE_NOT
+              condition:
+                category: VARIABLE_CONDITION
+                type: IF_VAR_LIST_IS_EMPTY
+              target: RANDOM_PLAYER
+              location:
+                x: 22
+              arguments:
+                list:
+                  type: VARIABLE
+                  value:
+                    name: full_cells
+                    type: GLOBAL
+              actions:
+                multi_action_11:
+                  category: REPEAT_ACTION
+                  type: REPEAT_FOR_LIST
+                  target: RANDOM_PLAYER
+                  location:
+                    x: 24
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: cell_loc
+                        type: GLOBAL
+                    list:
+                      type: VARIABLE
+                      value:
+                        name: full_cells
+                        type: GLOBAL
+                  actions:
+                    action_block12:
+                      category: LAUNCH_METHOD_ACTION
+                      type: LAUNCH_METHOD
+                      name: animate_cell
+                      target: RANDOM_PLAYER
+                      location:
+                        x: 26
+                      arguments: {}
+                    action_block13:
+                      category: CONTROL_ACTION
+                      type: CONTROL_WAIT
+                      location:
+                        x: 28
+                      arguments:
+                        time:
+                          type: NUMBER
+                          value: 8.0
+                    action_block14:
+                      category: LAUNCH_FUNCTION_ACTION
+                      type: LAUNCH_FUNCTION
+                      name: spread_cell
+                      target: RANDOM_PLAYER
+                      location:
+                        x: 30
+                      arguments: {}
+                    action_block15:
+                      category: CONTROL_ACTION
+                      type: CONTROL_WAIT
+                      location:
+                        x: 32
+                      arguments:
+                        time:
+                          type: NUMBER
+                          value: 8.0
+                action_block17:
+                  category: CONTROL_ACTION
+                  type: CONTROL_WAIT
+                  location:
+                    x: 36
+                  arguments:
+                    time:
+                      type: NUMBER
+                      value: 1.0
+                action_block18:
+                  category: LAUNCH_FUNCTION_ACTION
+                  type: LAUNCH_FUNCTION
+                  name: empty_buffer
+                  target: RANDOM_PLAYER
+                  location:
+                    x: 38
+                  arguments: {}
+                action_block19:
+                  category: CONTROL_ACTION
+                  type: CONTROL_WAIT
+                  location:
+                    x: 40
+                  arguments:
+                    time:
+                      type: NUMBER
+                      value: 1.0
+                action_block20:
+                  category: LAUNCH_FUNCTION_ACTION
+                  type: LAUNCH_FUNCTION
+                  name: get_full_cells
+                  target: RANDOM_PLAYER
+                  location:
+                    x: 42
+                  arguments: {}
+            condition_block_22:
+              category: VARIABLE_CONDITION
+              type: IF_VAR_NUMBER_GREATER
+              location:
+                x: 46
+              arguments:
+                first:
+                  type: VARIABLE
+                  value:
+                    name: cur_move
+                    type: LOCAL
+                equals:
+                  type: BOOLEAN
+                  value: true
+                second:
+                  type: VARIABLE
+                  value:
+                    name: players
+                    type: GLOBAL
+              actions:
+                action_block23:
+                  category: CONTROL_ACTION
+                  type: CONTROL_WAIT
+                  location:
+                    x: 48
+                  arguments:
+                    time:
+                      type: NUMBER
+                      value: 1.0
+                action_block24:
+                  category: LAUNCH_FUNCTION_ACTION
+                  type: LAUNCH_FUNCTION
+                  name: get_alive
+                  target: RANDOM_PLAYER
+                  location:
+                    x: 50
+                  arguments: {}
+                action_block25:
+                  category: CONTROL_ACTION
+                  type: CONTROL_WAIT
+                  location:
+                    x: 52
+                  arguments:
+                    time:
+                      type: NUMBER
+                      value: 1.0
+                action_block26:
+                  category: LAUNCH_FUNCTION_ACTION
+                  type: LAUNCH_FUNCTION
+                  name: eliminate
+                  target: RANDOM_PLAYER
+                  location:
+                    x: 54
+                  arguments: {}
+                action_block27:
+                  category: CONTROL_ACTION
+                  type: CONTROL_WAIT
+                  location:
+                    x: 56
+                  arguments:
+                    time:
+                      type: NUMBER
+                      value: 1.0
+                action_block28:
+                  category: LAUNCH_FUNCTION_ACTION
+                  type: LAUNCH_FUNCTION
+                  name: check_wictory
+                  target: RANDOM_PLAYER
+                  location:
+                    x: 58
+                  arguments: {}
+    exec_block_1_4_76:
+      category: FUNCTION
+      type: FUNCTION
+      name: q_try_start
+      location:
+        x: 4
+        y: 1
+        z: 76
+      actions:
+        condition_block_2:
+          category: VARIABLE_CONDITION
+          type: IF_VAR_NUMBER_GREATER
+          location:
+            x: 6
+          arguments:
+            first:
+              type: VARIABLE
+              value:
+                name: players
+                type: GLOBAL
+            equals:
+              type: BOOLEAN
+              value: true
+            second:
+              type: NUMBER
+              value: 2.0
+          actions:
+            action_block3:
+              category: PLAYER_ACTION
+              type: PLAYER_SEND_MESSAGE
+              target: ALL_PLAYERS
+              location:
+                x: 8
+              arguments:
+                messages:
+                  type: LIST
+                  value:
+                    '1':
+                      type: TEXT
+                      value: Старт!
+                type:
+                  type: TEXT
+                  value: new-line
+            condition_block_4:
+              category: WORLD_CONDITION
+              type: IF_WORLD_CYCLE_IS_RUNNING
+              opposed: true
+              location:
+                x: 10
+              arguments:
+                names:
+                  type: LIST
+                  value:
+                    '1':
+                      type: TEXT
+                      value: q_countdown
+                all:
+                  type: BOOLEAN
+                  value: false
+              actions:
+                action_block5:
+                  category: VARIABLE_ACTION
+                  type: VAR_SET_VALUE
+                  location:
+                    x: 12
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: countdown_counter
+                        type: GLOBAL
+                    value:
+                      type: NUMBER
+                      value: 5.0
+                action_block6:
+                  category: CONTROL_ACTION
+                  type: CONTROL_LAUNCH_CYCLES
+                  target: RANDOM_PLAYER
+                  location:
+                    x: 14
+                  arguments:
+                    names:
+                      type: LIST
+                      value:
+                        '1':
+                          type: TEXT
+                          value: q_countdown
+    exec_block_1_4_118:
+      category: FUNCTION
+      type: FUNCTION
+      name: eliminate
+      location:
+        x: 4
+        y: 1
+        z: 118
+      actions:
+        action_block2:
+          category: VARIABLE_ACTION
+          type: VAR_GET_LIST_SIZE
+          location:
+            x: 6
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: pl_list_len10
+                type: LOCAL
+            list:
+              type: VARIABLE
+              value:
+                name: player_list
+                type: GLOBAL
+        action_block3:
+          category: VARIABLE_ACTION
+          type: VAR_SET_VALUE
+          location:
+            x: 8
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: i10
+                type: LOCAL
+            value:
+              type: NUMBER
+              value: 0.0
+        multi_action_4:
+          category: REPEAT_ACTION
+          type: REPEAT_FOR_NUMBERS
+          target: RANDOM_PLAYER
+          location:
+            x: 10
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: i10
+                type: LOCAL
+            type:
+              type: TEXT
+              value: less
+            range:
+              type: VARIABLE
+              value:
+                name: pl_list_len10
+                type: LOCAL
+            add:
+              type: NUMBER
+              value: 1.0
+          actions:
+            action_block5:
+              category: VARIABLE_ACTION
+              type: VAR_GET_BY_ID_FROM_LIST
+              target: RANDOM_PLAYER
+              location:
+                x: 12
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: pl_name10
+                    type: LOCAL
+                list:
+                  type: VARIABLE
+                  value:
+                    name: player_list
+                    type: GLOBAL
+                index:
+                  type: VARIABLE
+                  value:
+                    name: i10
+                    type: LOCAL
+            condition_block_6:
+              category: VARIABLE_CONDITION
+              type: IF_VAR_EQUALS
+              location:
+                x: 14
+              arguments:
+                values:
+                  type: LIST
+                  value:
+                    '1':
+                      type: NUMBER
+                      value: 0.0
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: pl_name10
+                    type: LOCAL
+              actions:
+                action_block7:
+                  category: CONTROL_ACTION
+                  type: CONTROL_SKIP_REPEAT
+                  location:
+                    x: 16
+                  arguments: {}
+            action_block9:
+              category: VARIABLE_ACTION
+              type: VAR_GET_BY_ID_FROM_LIST
+              target: RANDOM_PLAYER
+              location:
+                x: 20
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: color
+                    type: LOCAL
+                list:
+                  type: VARIABLE
+                  value:
+                    name: player_glass
+                    type: GLOBAL
+                index:
+                  type: VARIABLE
+                  value:
+                    name: i10
+                    type: LOCAL
+            action_block10:
+              category: VARIABLE_ACTION
+              type: VAR_LOWER_CASE_TEXT
+              location:
+                x: 22
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: color
+                    type: LOCAL
+                text:
+                  type: VARIABLE
+                  value:
+                    name: color
+                    type: LOCAL
+            action_block11:
+              category: VARIABLE_ACTION
+              type: VAR_GET_FROM_MAP_BY_KEY
+              location:
+                x: 24
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: status
+                    type: LOCAL
+                map:
+                  type: VARIABLE
+                  value:
+                    name: alive_colors
+                    type: GLOBAL
+                key:
+                  type: VARIABLE
+                  value:
+                    name: color
+                    type: LOCAL
+            condition_block_12:
+              category: VARIABLE_CONDITION
+              type: IF_VAR_EQUALS
+              location:
+                x: 26
+              arguments:
+                values:
+                  type: LIST
+                  value:
+                    '1':
+                      type: NUMBER
+                      value: 0.0
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: status
+                    type: LOCAL
+              actions:
+                action_block13:
+                  category: VARIABLE_ACTION
+                  type: VAR_SET_IN_LIST
+                  location:
+                    x: 28
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: player_list
+                        type: GLOBAL
+                    index:
+                      type: VARIABLE
+                      value:
+                        name: i10
+                        type: LOCAL
+                    value:
+                      type: NUMBER
+                      value: 0.0
+                action_block14:
+                  category: PLAYER_ACTION
+                  type: PLAYER_SEND_MESSAGE
+                  target: ALL_PLAYERS
+                  location:
+                    x: 30
+                  arguments:
+                    messages:
+                      type: LIST
+                      value:
+                        '1':
+                          type: TEXT
+                          value: §c☠§8 »§b
+                        '2':
+                          type: VARIABLE
+                          value:
+                            name: pl_name10
+                            type: LOCAL
+                        '3':
+                          type: TEXT
+                          value: §cвыбыл!
+                    type:
+                      type: TEXT
+                      value: join-spaces
+    exec_block_1_4_106:
+      category: FUNCTION
+      type: FUNCTION
+      name: wait_for_move
+      location:
+        x: 4
+        y: 1
+        z: 106
+      actions:
+        action_block2:
+          category: CONTROL_ACTION
+          type: CONTROL_WAIT
+          location:
+            x: 6
+          arguments:
+            time:
+              type: NUMBER
+              value: 1.0
+        action_block3:
+          category: VARIABLE_ACTION
+          type: VAR_SET_VALUE
+          target: RANDOM_PLAYER
+          location:
+            x: 8
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: move_made
+                type: GLOBAL
+            value:
+              type: NUMBER
+              value: 0.0
+        action_block4:
+          category: VARIABLE_ACTION
+          type: VAR_SET_VALUE
+          location:
+            x: 10
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: i
+                type: LOCAL
+            value:
+              type: NUMBER
+              value: 31.0
+        action_block5:
+          category: VARIABLE_ACTION
+          type: VAR_SET_VALUE
+          location:
+            x: 12
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: stop
+                type: LOCAL
+            value:
+              type: NUMBER
+              value: 0.0
+        multi_action_6:
+          category: REPEAT_ACTION
+          type: REPEAT_FOR_NUMBERS
+          location:
+            x: 14
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: i
+                type: LOCAL
+            type:
+              type: TEXT
+              value: greater
+            range:
+              type: NUMBER
+              value: 0.0
+            add:
+              type: NUMBER
+              value: -1.0
+          actions:
+            action_block7:
+              category: PLAYER_ACTION
+              type: PLAYER_SHOW_ACTIONBAR
+              target: ALL_PLAYERS
+              location:
+                x: 16
+              arguments:
+                actionbar:
+                  type: LIST
+                  value:
+                    '1':
+                      type: TEXT
+                      value: §8» §fХод §b%var(this_player) §7- §f%var_local(i) §8«
+                type:
+                  type: TEXT
+                  value: join
+            action_block8:
+              category: VARIABLE_ACTION
+              type: VAR_SET_VALUE
+              location:
+                x: 18
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: t
+                    type: LOCAL
+                value:
+                  type: NUMBER
+                  value: 0.0
+            multi_action_9:
+              category: REPEAT_ACTION
+              type: REPEAT_FOR_NUMBERS
+              location:
+                x: 20
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: t
+                    type: LOCAL
+                type:
+                  type: TEXT
+                  value: less
+                range:
+                  type: NUMBER
+                  value: 5.0
+                add:
+                  type: NUMBER
+                  value: 1.0
+              actions:
+                condition_block_10:
+                  category: VARIABLE_CONDITION
+                  type: IF_VAR_EQUALS
+                  location:
+                    x: 22
+                  arguments:
+                    values:
+                      type: LIST
+                      value:
+                        '1':
+                          type: NUMBER
+                          value: 1.0
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: move_made
+                        type: GLOBAL
+                  actions:
+                    action_block11:
+                      category: VARIABLE_ACTION
+                      type: VAR_SET_VALUE
+                      location:
+                        x: 24
+                      arguments:
+                        variable:
+                          type: VARIABLE
+                          value:
+                            name: stop
+                            type: LOCAL
+                        value:
+                          type: NUMBER
+                          value: 1.0
+                    action_block12:
+                      category: CONTROL_ACTION
+                      type: CONTROL_BREAK_REPEAT
+                      location:
+                        x: 26
+                      arguments: {}
+                action_block14:
+                  category: CONTROL_ACTION
+                  type: CONTROL_WAIT
+                  location:
+                    x: 30
+                  arguments:
+                    time:
+                      type: NUMBER
+                      value: 4.0
+            condition_block_16:
+              category: VARIABLE_CONDITION
+              type: IF_VAR_EQUALS
+              location:
+                x: 34
+              arguments:
+                values:
+                  type: LIST
+                  value:
+                    '1':
+                      type: NUMBER
+                      value: 1.0
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: stop
+                    type: LOCAL
+              actions:
+                action_block17:
+                  category: PLAYER_ACTION
+                  type: PLAYER_SHOW_ACTIONBAR
+                  target: ALL_PLAYERS
+                  location:
+                    x: 36
+                  arguments:
+                    actionbar:
+                      type: LIST
+                      value:
+                        '1':
+                          type: TEXT
+                          value: §6⌛ §bОбработка хода §6⌛
+                    type:
+                      type: TEXT
+                      value: join
+                action_block18:
+                  category: CONTROL_ACTION
+                  type: CONTROL_BREAK_REPEAT
+                  location:
+                    x: 38
+                  arguments: {}
+    exec_block_1_4_80:
+      category: CYCLE
+      type: CYCLE
+      time: 20
+      name: q_countdown
+      location:
+        x: 4
+        y: 1
+        z: 80
+      actions:
+        condition_block_2:
+          category: VARIABLE_CONDITION
+          type: IF_VAR_NUMBER_GREATER
+          location:
+            x: 6
+          arguments:
+            first:
+              type: VARIABLE
+              value:
+                name: players
+                type: GLOBAL
+            equals:
+              type: BOOLEAN
+              value: true
+            second:
+              type: NUMBER
+              value: 2.0
+          actions:
+            action_block3:
+              category: PLAYER_ACTION
+              type: PLAYER_SHOW_TITLE
+              target: ALL_PLAYERS
+              location:
+                x: 8
+              arguments:
+                title:
+                  type: TEXT
+                  value: '§bСтарт через:'
+                subtitle:
+                  type: VARIABLE
+                  value:
+                    name: countdown_counter
+                    type: GLOBAL
+            condition_block_4:
+              category: VARIABLE_CONDITION
+              type: IF_VAR_NUMBER_GREATER
+              location:
+                x: 10
+              arguments:
+                first:
+                  type: VARIABLE
+                  value:
+                    name: countdown_counter
+                    type: GLOBAL
+                equals:
+                  type: BOOLEAN
+                  value: true
+                second:
+                  type: NUMBER
+                  value: 0.0
+              actions:
+                condition_block_5:
+                  category: VARIABLE_CONDITION
+                  type: IF_VAR_NUMBER_GREATER
+                  location:
+                    x: 12
+                  arguments:
+                    first:
+                      type: VARIABLE
+                      value:
+                        name: countdown_counter
+                        type: GLOBAL
+                    equals:
+                      type: BOOLEAN
+                      value: true
+                    second:
+                      type: NUMBER
+                      value: 3.0
+                  actions:
+                    action_block6:
+                      category: PLAYER_ACTION
+                      type: PLAYER_PLAY_SOUND
+                      target: ALL_PLAYERS
+                      location:
+                        x: 14
+                      arguments:
+                        sound:
+                          type: TEXT
+                          value: block.note_block.hat
+                        category:
+                          type: TEXT
+                          value: master
+                  else:
+                    condition_block_9:
+                      category: VARIABLE_CONDITION
+                      type: IF_VAR_NUMBER_GREATER
+                      location:
+                        x: 20
+                      arguments:
+                        first:
+                          type: VARIABLE
+                          value:
+                            name: countdown_counter
+                            type: GLOBAL
+                        equals:
+                          type: BOOLEAN
+                          value: true
+                        second:
+                          type: NUMBER
+                          value: 1.0
+                      actions:
+                        action_block10:
+                          category: PLAYER_ACTION
+                          type: PLAYER_PLAY_SOUND
+                          target: ALL_PLAYERS
+                          location:
+                            x: 22
+                          arguments:
+                            sound:
+                              type: TEXT
+                              value: block.note_block.hat
+                            pitch:
+                              type: NUMBER
+                              value: 1.1
+                            category:
+                              type: TEXT
+                              value: master
+                    condition_block_12:
+                      category: VARIABLE_CONDITION
+                      type: IF_VAR_EQUALS
+                      location:
+                        x: 26
+                      arguments:
+                        values:
+                          type: LIST
+                          value:
+                            '1':
+                              type: NUMBER
+                              value: 0.0
+                        variable:
+                          type: VARIABLE
+                          value:
+                            name: countdown_counter
+                            type: GLOBAL
+                      actions:
+                        action_block13:
+                          category: PLAYER_ACTION
+                          type: PLAYER_PLAY_SOUND
+                          target: ALL_PLAYERS
+                          location:
+                            x: 28
+                          arguments:
+                            sound:
+                              type: TEXT
+                              value: entity.ender_dragon.growl
+                            category:
+                              type: TEXT
+                              value: master
+                        action_block14:
+                          category: LAUNCH_FUNCTION_ACTION
+                          type: LAUNCH_FUNCTION
+                          name: game_start
+                          target: RANDOM_PLAYER
+                          location:
+                            x: 30
+                          arguments: {}
+                        action_block15:
+                          category: CONTROL_ACTION
+                          type: CONTROL_STOP_CYCLES
+                          location:
+                            x: 32
+                          arguments:
+                            names:
+                              type: LIST
+                              value:
+                                '1':
+                                  type: TEXT
+                                  value: q_countdown
+                action_block18:
+                  category: VARIABLE_ACTION
+                  type: VAR_SUBTRACT_ASSIGN_NUMBER
+                  location:
+                    x: 38
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: countdown_counter
+                        type: GLOBAL
+                    number:
+                      type: NUMBER
+                      value: 1.0
+    exec_block_1_4_122:
+      category: FUNCTION
+      type: FUNCTION
+      name: check_wictory
+      location:
+        x: 4
+        y: 1
+        z: 122
+      actions:
+        action_block2:
+          category: VARIABLE_ACTION
+          type: VAR_GET_LIST_SIZE
+          target: RANDOM_PLAYER
+          location:
+            x: 6
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: pl_list_len11
+                type: LOCAL
+            list:
+              type: VARIABLE
+              value:
+                name: player_list
+                type: GLOBAL
+        action_block3:
+          category: VARIABLE_ACTION
+          type: VAR_SET_VALUE
+          target: RANDOM_PLAYER
+          location:
+            x: 8
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: alive_max
+                type: LOCAL
+            value:
+              type: NUMBER
+              value: 0.0
+        action_block4:
+          category: VARIABLE_ACTION
+          type: VAR_SET_VALUE
+          location:
+            x: 10
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: alive_command
+                type: LOCAL
+        multi_action_5:
+          category: REPEAT_ACTION
+          type: REPEAT_FOR_ENTRY
+          target: RANDOM_PLAYER
+          location:
+            x: 12
+          arguments:
+            key:
+              type: VARIABLE
+              value:
+                name: command
+                type: LOCAL
+            value:
+              type: VARIABLE
+              value:
+                name: i
+                type: LOCAL
+            map:
+              type: VARIABLE
+              value:
+                name: alive_colors
+                type: GLOBAL
+          actions:
+            action_block6:
+              category: VARIABLE_ACTION
+              type: VAR_SUM_ASSIGN_NUMBER
+              location:
+                x: 14
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: alive_max
+                    type: LOCAL
+                number:
+                  type: VARIABLE
+                  value:
+                    name: i
+                    type: LOCAL
+            condition_block_7:
+              category: VARIABLE_CONDITION
+              type: IF_VAR_EQUALS
+              location:
+                x: 16
+              arguments:
+                values:
+                  type: LIST
+                  value:
+                    '1':
+                      type: NUMBER
+                      value: 1.0
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: i
+                    type: LOCAL
+              actions:
+                action_block8:
+                  category: VARIABLE_ACTION
+                  type: VAR_SET_VALUE
+                  location:
+                    x: 18
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: alive_command
+                        type: LOCAL
+                    value:
+                      type: VARIABLE
+                      value:
+                        name: command
+                        type: LOCAL
+        condition_block_11:
+          category: VARIABLE_CONDITION
+          type: IF_VAR_EQUALS
+          target: RANDOM_PLAYER
+          location:
+            x: 24
+          arguments:
+            values:
+              type: LIST
+              value:
+                '1':
+                  type: NUMBER
+                  value: 1.0
+            variable:
+              type: VARIABLE
+              value:
+                name: alive_max
+                type: LOCAL
+          actions:
+            action_block12:
+              category: VARIABLE_ACTION
+              type: VAR_GET_LIST_SIZE
+              location:
+                x: 26
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: playerListSize
+                    type: LOCAL
+                list:
+                  type: VARIABLE
+                  value:
+                    name: player_list
+                    type: GLOBAL
+            action_block13:
+              category: VARIABLE_ACTION
+              type: VAR_SET_VALUE
+              location:
+                x: 28
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: winner
+                    type: LOCAL
+                value:
+                  type: NUMBER
+                  value: 0.0
+            multi_action_14:
+              category: REPEAT_ACTION
+              type: REPEAT_TIMES
+              location:
+                x: 30
+              arguments:
+                times:
+                  type: VARIABLE
+                  value:
+                    name: playerListSize
+                    type: LOCAL
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: interation
+                    type: LOCAL
+              actions:
+                action_block15:
+                  category: VARIABLE_ACTION
+                  type: VAR_GET_BY_ID_FROM_LIST
+                  location:
+                    x: 32
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: name
+                        type: LOCAL
+                    list:
+                      type: VARIABLE
+                      value:
+                        name: player_list
+                        type: GLOBAL
+                    index:
+                      type: VARIABLE
+                      value:
+                        name: interation
+                        type: LOCAL
+                condition_block_16:
+                  category: VARIABLE_CONDITION
+                  type: IF_VAR_EQUALS
+                  location:
+                    x: 34
+                  arguments:
+                    values:
+                      type: LIST
+                      value:
+                        '1':
+                          type: NUMBER
+                          value: 0.0
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: name
+                        type: LOCAL
+                  actions:
+                    action_block17:
+                      category: CONTROL_ACTION
+                      type: CONTROL_SKIP_REPEAT
+                      location:
+                        x: 36
+                      arguments: {}
+                action_block19:
+                  category: VARIABLE_ACTION
+                  type: VAR_GET_BY_ID_FROM_LIST
+                  location:
+                    x: 40
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: color
+                        type: LOCAL
+                    list:
+                      type: VARIABLE
+                      value:
+                        name: player_glass
+                        type: GLOBAL
+                    index:
+                      type: VARIABLE
+                      value:
+                        name: interation
+                        type: LOCAL
+                action_block20:
+                  category: VARIABLE_ACTION
+                  type: VAR_LOWER_CASE_TEXT
+                  location:
+                    x: 42
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: color
+                        type: LOCAL
+                    text:
+                      type: VARIABLE
+                      value:
+                        name: color
+                        type: LOCAL
+                condition_block_21:
+                  category: VARIABLE_CONDITION
+                  type: IF_VAR_EQUALS
+                  location:
+                    x: 44
+                  arguments:
+                    values:
+                      type: LIST
+                      value:
+                        '1':
+                          type: VARIABLE
+                          value:
+                            name: alive_command
+                            type: LOCAL
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: color
+                        type: LOCAL
+                  actions:
+                    action_block22:
+                      category: VARIABLE_ACTION
+                      type: VAR_SET_VALUE
+                      location:
+                        x: 46
+                      arguments:
+                        variable:
+                          type: VARIABLE
+                          value:
+                            name: winner
+                            type: LOCAL
+                        value:
+                          type: VARIABLE
+                          value:
+                            name: name
+                            type: LOCAL
+            condition_block_25:
+              category: VARIABLE_CONDITION
+              type: IF_VAR_EQUALS
+              location:
+                x: 52
+              arguments:
+                values:
+                  type: LIST
+                  value:
+                    '1':
+                      type: NUMBER
+                      value: 0.0
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: winner
+                    type: LOCAL
+              actions:
+                action_block26:
+                  category: PLAYER_ACTION
+                  type: PLAYER_SEND_MESSAGE
+                  target: ALL_PLAYERS
+                  location:
+                    x: 54
+                  arguments:
+                    messages:
+                      type: LIST
+                      value:
+                        '1':
+                          type: TEXT
+                          value: Нету победителей
+                    type:
+                      type: TEXT
+                      value: new-line
+                action_block27:
+                  category: CONTROL_ACTION
+                  type: CONTROL_WAIT
+                  location:
+                    x: 56
+                  arguments:
+                    time:
+                      type: NUMBER
+                      value: 2.0
+                action_block28:
+                  category: LAUNCH_FUNCTION_ACTION
+                  type: LAUNCH_FUNCTION
+                  name: on_world_start
+                  location:
+                    x: 58
+                  arguments: {}
+                action_block29:
+                  category: CONTROL_ACTION
+                  type: CONTROL_STOP_CODE_LINE
+                  location:
+                    x: 60
+                  arguments: {}
+            action_block31:
+              category: PLAYER_ACTION
+              type: PLAYER_SEND_MESSAGE
+              target: ALL_PLAYERS
+              location:
+                x: 64
+              arguments:
+                messages:
+                  type: LIST
+                  value:
+                    '1':
+                      type: TEXT
+                      value: §a⯪§8 »§b
+                    '2':
+                      type: VARIABLE
+                      value:
+                        name: winner
+                        type: LOCAL
+                    '3':
+                      type: TEXT
+                      value: §aвыиграл!
+                type:
+                  type: TEXT
+                  value: join-spaces
+            action_block32:
+              category: CONTROL_ACTION
+              type: CONTROL_WAIT
+              location:
+                x: 66
+              arguments:
+                time:
+                  type: NUMBER
+                  value: 2.0
+            action_block33:
+              category: LAUNCH_FUNCTION_ACTION
+              type: LAUNCH_FUNCTION
+              name: on_world_start
+              location:
+                x: 68
+              arguments: {}
+            action_block34:
+              category: CONTROL_ACTION
+              type: CONTROL_STOP_CODE_LINE
+              location:
+                x: 70
+              arguments: {}
+        condition_block_36:
+          category: VARIABLE_CONDITION
+          type: IF_VAR_EQUALS
+          location:
+            x: 74
+          arguments:
+            values:
+              type: LIST
+              value:
+                '1':
+                  type: NUMBER
+                  value: 0.0
+            variable:
+              type: VARIABLE
+              value:
+                name: alive_max
+                type: LOCAL
+          actions:
+            action_block37:
+              category: PLAYER_ACTION
+              type: PLAYER_SEND_MESSAGE
+              target: ALL_PLAYERS
+              location:
+                x: 76
+              arguments:
+                messages:
+                  type: LIST
+                  value:
+                    '1':
+                      type: TEXT
+                      value: Нету победителей
+                type:
+                  type: TEXT
+                  value: new-line
+            action_block38:
+              category: CONTROL_ACTION
+              type: CONTROL_WAIT
+              location:
+                x: 78
+              arguments:
+                time:
+                  type: NUMBER
+                  value: 2.0
+            action_block39:
+              category: LAUNCH_FUNCTION_ACTION
+              type: LAUNCH_FUNCTION
+              name: on_world_start
+              location:
+                x: 80
+              arguments: {}
+            action_block40:
+              category: CONTROL_ACTION
+              type: CONTROL_STOP_CODE_LINE
+              location:
+                x: 82
+              arguments: {}
+    exec_block_1_4_24:
+      category: METHOD
+      type: METHOD
+      name: animate_cell
+      location:
+        x: 4
+        y: 1
+        z: 24
+      actions:
+        action_block2:
+          category: VARIABLE_ACTION
+          type: VAR_CREATE_LIST
+          location:
+            x: 6
+          arguments:
+            elements:
+              type: LIST
+              value:
+                '1':
+                  type: VECTOR
+                  value:
+                    x: 1.0
+                    y: 0.0
+                    z: 0.0
+                '2':
+                  type: VECTOR
+                  value:
+                    x: -1.0
+                    y: 0.0
+                    z: 0.0
+                '3':
+                  type: VECTOR
+                  value:
+                    x: 0.0
+                    y: 0.0
+                    z: 1.0
+                '4':
+                  type: VECTOR
+                  value:
+                    x: 0.0
+                    y: 0.0
+                    z: -1.0
+            variable:
+              type: VARIABLE
+              value:
+                name: loc_direction_list
+                type: LOCAL
+        action_block3:
+          category: VARIABLE_ACTION
+          type: VAR_CREATE_LIST
+          location:
+            x: 8
+          arguments:
+            elements:
+              type: LIST
+              value:
+                '1':
+                  type: VECTOR
+                  value:
+                    x: 0.25
+                    y: 0.32
+                    z: 0.0
+                '2':
+                  type: VECTOR
+                  value:
+                    x: -0.25
+                    y: 0.32
+                    z: 0.0
+                '3':
+                  type: VECTOR
+                  value:
+                    x: 0.0
+                    y: 0.32
+                    z: 0.25
+                '4':
+                  type: VECTOR
+                  value:
+                    x: 0.0
+                    y: 0.32
+                    z: -0.25
+            variable:
+              type: VARIABLE
+              value:
+                name: loc_animation_vector_list
+                type: LOCAL
+        action_block4:
+          category: VARIABLE_ACTION
+          type: VAR_SET_VALUE
+          location:
+            x: 10
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: indx
+                type: LOCAL
+            value:
+              type: NUMBER
+              value: 0.0
+        action_block5:
+          category: CONTROL_ACTION
+          type: CONTROL_WAIT
+          location:
+            x: 12
+          arguments:
+            time:
+              type: NUMBER
+              value: 1.0
+        multi_action_6:
+          category: REPEAT_ACTION
+          type: REPEAT_FOR_NUMBERS
+          target: RANDOM_PLAYER
+          location:
+            x: 14
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: indx
+                type: LOCAL
+            type:
+              type: TEXT
+              value: less-equals
+            range:
+              type: NUMBER
+              value: 3.0
+            add:
+              type: NUMBER
+              value: 1.0
+          actions:
+            action_block7:
+              category: VARIABLE_ACTION
+              type: VAR_GET_BY_ID_FROM_LIST
+              location:
+                x: 16
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: loc_direction
+                    type: LOCAL
+                list:
+                  type: VARIABLE
+                  value:
+                    name: loc_direction_list
+                    type: LOCAL
+                index:
+                  type: VARIABLE
+                  value:
+                    name: indx
+                    type: LOCAL
+            action_block8:
+              category: VARIABLE_ACTION
+              type: VAR_GET_BY_ID_FROM_LIST
+              location:
+                x: 18
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: loc_animation_vector
+                    type: LOCAL
+                list:
+                  type: VARIABLE
+                  value:
+                    name: loc_animation_vector_list
+                    type: LOCAL
+                index:
+                  type: VARIABLE
+                  value:
+                    name: indx
+                    type: LOCAL
+            action_block9:
+              category: VARIABLE_ACTION
+              type: VAR_MOVE_LOCATION_BY_VECTOR
+              location:
+                x: 20
+              arguments:
+                variable:
+                  type: VARIABLE
+                  value:
+                    name: test_loc
+                    type: LOCAL
+                target:
+                  type: VARIABLE
+                  value:
+                    name: cell_loc
+                    type: GLOBAL
+                vector:
+                  type: VARIABLE
+                  value:
+                    name: loc_direction
+                    type: LOCAL
+            condition_block_10:
+              category: WORLD_CONDITION
+              type: IF_WORLD_BLOCK_TYPE_EQUALS
+              opposed: true
+              location:
+                x: 22
+              arguments:
+                blocks:
+                  type: LIST
+                  value:
+                    '1':
+                      type: VARIABLE
+                      value:
+                        name: test_loc
+                        type: LOCAL
+                type:
+                  type: ITEM
+                  value:
+                    DataVersion: 5023
+                    id: minecraft:gray_stained_glass
+                    count: 1
+                    schema_version: 1
+                all:
+                  type: BOOLEAN
+                  value: false
+              actions:
+                action_block11:
+                  category: VARIABLE_ACTION
+                  type: VAR_MODIFY_LOCATION
+                  location:
+                    x: 24
+                  arguments:
+                    variable:
+                      type: VARIABLE
+                      value:
+                        name: block_spawn_loc
+                        type: LOCAL
+                    location:
+                      type: VARIABLE
+                      value:
+                        name: test_loc
+                        type: LOCAL
+                    x:
+                      type: NUMBER
+                      value: 0.5
+                    y:
+                      type: NUMBER
+                      value: 1.0
+                    z:
+                      type: NUMBER
+                      value: 0.5
+                    add:
+                      type: BOOLEAN
+                      value: true
+                action_block12:
+                  category: WORLD_ACTION
+                  type: WORLD_SPAWN_FALLING_BLOCK
+                  location:
+                    x: 26
+                  arguments:
+                    locations:
+                      type: LIST
+                      value:
+                        '1':
+                          type: VARIABLE
+                          value:
+                            name: block_spawn_loc
+                            type: LOCAL
+                    block:
+                      type: VARIABLE
+                      value:
+                        name: orb
+                        type: GLOBAL
+                    drop:
+                      type: BOOLEAN
+                      value: false
+                action_block13:
+                  category: ENTITY_ACTION
+                  type: ENTITY_SET_VELOCITY
+                  target: LAST_SPAWNED
+                  location:
+                    x: 28
+                  arguments:
+                    vector:
+                      type: VARIABLE
+                      value:
+                        name: loc_animation_vector
+                        type: LOCAL
+        action_block16:
+          category: PLAYER_ACTION
+          type: PLAYER_PLAY_SOUND
+          target: ALL_PLAYERS
+          location:
+            x: 34
+          arguments:
+            sound:
+              type: TEXT
+              value: entity.dragon_fireball.explode
+            volume:
+              type: NUMBER
+              value: 1.5
+            pitch:
+              type: NUMBER
+              value: 2.0
+            location:
+              type: VARIABLE
+              value:
+                name: cell_loc
+                type: LOCAL
+            category:
+              type: TEXT
+              value: master
+        action_block17:
+          category: CONTROL_ACTION
+          type: CONTROL_WAIT
+          location:
+            x: 36
+          arguments:
+            time:
+              type: NUMBER
+              value: 13.0
+        action_block18:
+          category: PLAYER_ACTION
+          type: PLAYER_PLAY_SOUND
+          target: ALL_PLAYERS
+          location:
+            x: 38
+          arguments:
+            sound:
+              type: TEXT
+              value: entity.enderman.teleport
+            volume:
+              type: NUMBER
+              value: 1.0
+            location:
+              type: VARIABLE
+              value:
+                name: cell_loc
+                type: LOCAL
+            category:
+              type: TEXT
+              value: master
+    exec_block_1_4_20:
+      category: EVENT_PLAYER
+      type: PLAYER_FISHING
+      location:
+        x: 4
+        y: 1
+        z: 20
+      actions:
+        action_block2:
+          category: LAUNCH_FUNCTION_ACTION
+          type: LAUNCH_FUNCTION
+          name: get_full_cells
+          location:
+            x: 6
+          arguments: {}
+        action_block3:
+          category: CONTROL_ACTION
+          type: CONTROL_WAIT
+          location:
+            x: 8
+          arguments:
+            time:
+              type: NUMBER
+              value: 12.0
+        multi_action_4:
+          category: REPEAT_ACTION
+          type: REPEAT_FOR_LIST
+          location:
+            x: 10
+          arguments:
+            variable:
+              type: VARIABLE
+              value:
+                name: cell_loc
+                type: GLOBAL
+            list:
+              type: VARIABLE
+              value:
+                name: full_cells
+                type: GLOBAL
+          actions:
+            action_block5:
+              category: LAUNCH_METHOD_ACTION
+              type: LAUNCH_METHOD
+              name: animate_cell
+              location:
+                x: 12
+              arguments: {}
+            action_block6:
+              category: CONTROL_ACTION
+              type: CONTROL_WAIT
+              location:
+                x: 14
+              arguments:
+                time:
+                  type: NUMBER
+                  value: 20.0
+            action_block7:
+              category: LAUNCH_FUNCTION_ACTION
+              type: LAUNCH_FUNCTION
+              name: spread_cell
+              location:
+                x: 16
+              arguments: {}
+            action_block8:
+              category: CONTROL_ACTION
+              type: CONTROL_WAIT
+              location:
+                x: 18
+              arguments:
+                time:
+                  type: NUMBER
+                  value: 4.0
+        action_block10:
+          category: CONTROL_ACTION
+          type: CONTROL_WAIT
+          location:
+            x: 22
+          arguments:
+            time:
+              type: NUMBER
+              value: 60.0
+        action_block11:
+          category: LAUNCH_FUNCTION_ACTION
+          type: LAUNCH_FUNCTION
+          name: empty_buffer
+          location:
+            x: 24
+          arguments: {}
